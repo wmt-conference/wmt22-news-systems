@@ -535,6 +535,22 @@
     </doc>
   </collection>
   <collection id="biomedical">
+    <doc origlang="en" id="doc41">
+      <src lang="en">
+        <p>
+          <seg id="1">Thyroid nodules with indeterminate cytology represent 20% of all thyroid nodules.</seg>
+          <seg id="2">Inflammation plays an important role in cancer.</seg>
+          <seg id="3">Lymphocyte-to-monocyte ratio (LMR), neutrophil-to-lymphocyte ratio (NLR) and platelet-to-lymphocyte ratio (PLR) are independent prognostic scores in numerous cancers, although no study has documented their role in cytology indeterminate nodules.</seg>
+          <seg id="4">The aim of this study is to evaluate the role of LMR, NLR and PLR values as predictors of malignancy in patients with cytology indeterminate nodules.</seg>
+          <seg id="5">This retrospective study analysed data from 298 patients with indeterminate thyroid nodule.</seg>
+          <seg id="6">Anatomopathological and haematological data were analysed, dividing the population into two groups.</seg>
+          <seg id="7">LMR, NLR and PLR values were determined using ROC curve and data were analysed using independent samples t-test, test of proportions, Fisher's exact test and univariate and multivariate logistic regression.</seg>
+          <seg id="8">We found that a baseline LMR value ≥ 4.09 was indicative of benignity of indeterminate nodule.</seg>
+          <seg id="9">The probability of malignancy in patients with LMR &lt; 4.09 was 26 times higher than patients with a LMR value ≥ 4.09.</seg>
+          <seg id="10">This study showed that only LMR has shown a concrete probability to find a thyroid cancer in patients with indeterminate nodules. Further studies are necessary to implement tailored treatment.</seg>
+        </p>
+      </src>
+    </doc>
     <doc origlang="en" id="doc29">
       <src lang="en">
         <p>
@@ -554,40 +570,31 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc17">
+    <doc origlang="en" id="doc37">
       <src lang="en">
         <p>
-          <seg id="1">Ethyl nitroacetate (1) reacts with electron-poor olefins in the presence of a base to give either the Michael adducts 3 or the isoxazoline cycloadducts 4, resulting from water elimination.</seg>
-          <seg id="2">The proportions of the two products depend on the reaction conditions and change in the course of the process.</seg>
-          <seg id="3">Kinetic profiles for the two reactions show that the cycloaddition-condensations require long induction times that dramatically decrease upon addition of a copper salt to the catalytic system: the drops in the induction time cause increases in the proportion of cycloadducts 4, which are often the sole reaction products.</seg>
-          <seg id="4">This is the first report on the selective formation of products 3 and 4 from primary nitro compounds through modulation of the catalytic system.</seg>
+          <seg id="1">Many factors that influence patient outcome in colorectal surgery are not editable, and these are related either the tumor, the patient and the treatment. The surgeon- and hospital-related factors are independent predictors of outcome for colorectal cancer surgery and these are supervision, teaching/training, specialization in colorectal surgery, high caseload, high hospital caseload. We evaluated the impact of the experience of 4 surgeons on the 5 years survival rate of patients with colon and rectal cancer and we valued if the surgeons' experience plays an equal role in both.</seg>
+          <seg id="2">Four experienced surgeons operated 384 patients with colorectal cancer.</seg>
+          <seg id="3">Surgeon with the major experience and colorectal-dedicated presented a slightly better total 5 years survival rate, comparing to other surgeons, although he had a considerably better 5 years survival rate in rectal operations.</seg>
+          <seg id="4">We concluded that surgeon- and hospital-related factors directly influence the surgeon learning curve and are therefore rightly considered predictors of outcome in colorectal cancer surgery.</seg>
+          <seg id="5">A low surgeon or hospital caseload may be compensated by intensified supervision or by improved training and teaching. Colon cancer, Colectomy, Surgeon volume.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc13">
+    <doc origlang="en" id="doc33">
       <src lang="en">
         <p>
-          <seg id="1">Stenosed sphenoid sinus ostia are among the most common findings in revision endoscopic sinus surgery.</seg>
-          <seg id="2">This study sought to identify the optimal intraoperative sphenoidotomy size for prevention of postoperative stenosis.</seg>
-          <seg id="3">32 patients affected by chronic rhinosinusitis not associated with nasal polyps (CRSsNP) underwent 52 sphenoidotomies.</seg>
-          <seg id="4">Sphenoidotomy size was assessed using a ruler intraoperatively and at the first, third and sixth months postoperatively.</seg>
-          <seg id="5">Ostia sizes, SNOT-22 questionnaire findings, episodes of recurrent sinusitis and need for revision surgery were recorded.</seg>
-          <seg id="6">All sphenoidotomies exhibited a significant size reduction (mean 43.4 ± 6.8%) at the first month postoperatively, with a tendency to enlarge at 3 months and stabilise at 6 months.</seg>
-          <seg id="7">Ostia larger than 61.3 mm&lt;sup&gt;2&lt;/sup&gt; did not exhibit stenoses postoperatively.</seg>
-          <seg id="8">Stenosis was observed in 11 sphenoidotomies (21.2%); however, only five presented with recurrent symptoms (9.6%), while three required revision sphenoid surgery (5.8%).</seg>
-          <seg id="9">Sphenoidotomy size significantly reduced during the first postoperative month and then stabilised.</seg>
-          <seg id="10">A baseline sphenoidotomy size of 61.3 mm&lt;sup&gt;2&lt;/sup&gt; at the time of the operation seemed sufficient to prevent ostium stenosis.</seg>
-          <seg id="11">Half of stenosed ostia presented with recurrent symptoms.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc44">
-      <src lang="en">
-        <p>
-          <seg id="1">A series of oligomers of the type Boc-(L-Phe-D-Oxd)(n)-OBn (Boc = tert-butoxycarbonyl; Oxd = 4-methyl-5-carboxy oxazolidin-2-one; Bn = benzyl) were prepared for n = 2-5.</seg>
-          <seg id="2">The shortest oligomer, Boc-(L-Phe-D-Oxd)(2)-OBn, aggregates and forms a fiber-like material with an anti-parallel beta-sheet structure in which the oligopeptide units are connected to each other by only one intermolecular hydrogen bond. The longer oligomers exhibit structural heterogeneity.</seg>
-          <seg id="3">They start to organize into secondary structures by the formation of intramolecular hydrogen bonds at the pentamer level.</seg>
-          <seg id="4">Microscopy and diffraction of the oligomers indicated a crystalline character for only the shorter ones.</seg>
+          <seg id="1">The aim of this study is to analyse clinical characteristics of FB ingestion and predictive factors for complications, in order to reduce mortality and morbidity.</seg>
+          <seg id="2">A retrospective study of emergency surgical consultation records has been carried out from June 2005 through June 2015 yielded 201 episodes with the diagnosis of ingestion of foreign objects at the Surgical Unit of the University of Bari.</seg>
+          <seg id="3">Natural Removal in 44,8% of cases; Endoscopic retrieval in 42,4%, Surgical Procedures 4,4%.</seg>
+          <seg id="4">Statistical analysis was based on multivariate analysis and the model R2 of the Naegelkerke value.</seg>
+          <seg id="5">First of all, the approach to ingestion should be endoscopic.</seg>
+          <seg id="6">The second approach is surgical in selected cases.</seg>
+          <seg id="7">The most frequent site of impaction were oesophagus, stomach and right colon.</seg>
+          <seg id="8">An EGD proved to be the most used procedure with a no morbidity and no mortality.</seg>
+          <seg id="9">The ingestion of foreign bodies is a frequent, complex and expensive condition to treat.</seg>
+          <seg id="10">Observation and endoscopy are the most appropriate procedures to be considered to manage the ingestion of FB in Emergency Surgery Unit.</seg>
+          <seg id="11">Emergency surgery, Foreign bodies, Ingestion.</seg>
         </p>
       </src>
     </doc>
@@ -602,105 +609,70 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc27">
+    <doc origlang="en" id="doc25">
       <src lang="en">
         <p>
-          <seg id="1">We aimed to determine whether intraabdominal pressure change caused by pneumoperitoneum created during laparoscopic cholecystectomy (LC) has effects on abdominal and shoulder pain, nausea, vomiting, bowel movements, time of first flatus and defecation, and biochemical parameters.</seg>
-          <seg id="2">Seventy patients that were diagnosed with cholelithiasis and would undergo LC, between the ages of 18-75, with the Society of Anesthesia Physical Status (ASA) I-III classifications were included in the study.</seg>
-          <seg id="3">Patients were divided into two groups as whose intervention was defined as low pressure (8-10 mm/hg) and whose intervention was defined as high pressure (14-16 mm/hg).</seg>
-          <seg id="4">Differences in the prognoses of patients in both groups were observed for statistical significance. Shoulder pain- visual analogue scale (VAS) values in 6th and 24th hours were lower in Group 1(p&lt;0.005). There was no significant difference in abdominal pain-VAS values(p≥0.05). Mean intraoperative end-tidal carbon dioxide (ETCO2) values were higher in Group 2 (p&lt;0.005). Differences in nausea and vomiting were not significant(p≥0.05). There was no significant difference in the first flatus times(p≥0.05). Bowel movements resumed earlier in Group 1(p&lt;0.005). Changes were not significant for biochemical blood parameters in the preoperative and postoperative periods( p≥0.05). The use of low-pressure and high pressure carbon-dioxide (CO2)-pneumoperitoneum created during LC does not cause a significant difference in terms of clinical and laboratory results. Therefore, the surgical team should prefer an easy-to-apply pressure level which they are used to and in which they have low complication rates. Cholecystectomy, Pneumoperitoneum, Low-pressure CO2.</seg>
+          <seg id="1">Background and Aim. Starting from March 9, 2020, the Italian government has proclaimed a state of health emergency due to the epidemic, which later became a SARSCoV- 2 infection pandemic.</seg>
+          <seg id="2">The present study aimed to perform differences and any potential risk factors in anxious and depressive symptoms in Italian nurses during the Covid-19 pandemic according to selected sociodemographic variables.</seg>
+          <seg id="3">Methods.</seg>
+          <seg id="4">In November 2020 an 'ad hoc' questionnaire was administered online to all Italian nurses.</seg>
+          <seg id="5">In the first part, a whole series of socio-demographic variables relating to the reference sample were collected, as: gender, the department to which participants belonged, if the respondent suffered from pulmonary or cardiovascular diseases, if the nurse lived alone or with other cohabitants and whether during the pandemic the participant contracted the SARS-CoV-2 infection or not.</seg>
+          <seg id="6">In the second part of the questionnaire, the Hospital Anxiety and Depression Scale was administered to quickly and easily assess the anxiety and depression levels among the Italian nurses during the Covid-19 pandemic.</seg>
+          <seg id="7">Results. 732 nurses agreed to participate to this survey.</seg>
+          <seg id="8">Among participants, 479 (65.3%) recorded an anxious symptomatology and 267 (6.4%) a depressive one.</seg>
+          <seg id="9">According to anxious symptoms, a significant difference was recorded between females and males (p min 0.001), as females recorded higher mild (24.04%), moderate (23.09%) and severe (13.39%) anxious symptom levels than males (Mild:1.50%; Moderate: 2.46%; Severe: 0.96%).</seg>
+          <seg id="10">By considering depressive symptoms according to socio demographic variables, only nurses without cardiovascular diseases recorded higher frequencies in mild (21.58%), moderate (8.47%) and severe (2.46%) depressive symptoms than nurses who suffered from a cardiovascular disease (Mild:2.05%; Moderate: 1.64%; Severe: 0.27%).</seg>
+          <seg id="11">Potential risk factors identified for anxious symptoms were: gender, both for mild (p min 0.001), moderate (p=.008) and severe (p=.003) anxious symptoms, and pulmonary diseases for severe anxious disorders (p=.014).</seg>
+          <seg id="12">Potential risk factors identified for the onset of depressive symptoms were: gender (p=.026), pulmonary diseases (p=.021), domestic partnership (p=.035), for mild symptoms; the presence of cardiac diseases (p=.006) for moderate symptoms.</seg>
+          <seg id="13">Conclusions.</seg>
+          <seg id="14">It urged to begin to further implement all forms of psychological support for nurses and further implementation of university nursing training programs that aim at both the technical and psychological management of the future professional to cope with maxi emergencies.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc16">
+    <doc origlang="en" id="doc42">
       <src lang="en">
         <p>
-          <seg id="1">This retrospective study aimed to verify the outcomes of stabilising occlusal splint therapy prescribed to 22 patients with unilateral definite Ménière's disease and comorbid temporomandibular joint disorder.</seg>
-          <seg id="2">The results of a battery of audiometric and vestibular tests were recorded before and after 6 months of treatment, as well as the scores of disease-specific questionnaires.</seg>
-          <seg id="3">The average hearing threshold in the affected ear and the acoustic immittance were unchanged. No spontaneous and positional nystagmus were recorded.</seg>
-          <seg id="4">Caloric hypo-responsiveness and vestibular myogenic evoked responses did not vary.</seg>
-          <seg id="5">No changes of stabilometric body sway parameters in eyes opened condition and with optokinetic stimulation delivered to the unaffected labyrinth were observed.</seg>
-          <seg id="6">A significant reduction was recorded in eyes closed condition and with the optokinetic stimulation toward the affected ear.</seg>
-          <seg id="7">The Tinnitus Handicap Inventory, the Situational Vertigo Questionnaire and the Numeric Pain Rating Scale scores improved. The number of vertigo attacks was reduced.</seg>
-          <seg id="8">Occlusal splint therapy is a favourable option to reduce aural symptoms of Ménière's disease and comorbid temporomandibular joint disorder, even if its pathophysiological mechanism remains elusive.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc24">
-      <src lang="en">
-        <p>
-          <seg id="1">Intracystic papillary carcinoma in a male as a rare presentation of breast cancer: a case report and literature review</seg>
-          <seg id="2">Introduction: The term "intracystic papillary ductal carcinoma in situ" has recently changed and is now more appropriately referred to "intracystic papillary carcinoma".</seg>
-          <seg id="3">Intracystic papillary carcinoma in men is an extremely rare disease with only a few case presentations published in the literature so far.</seg>
-          <seg id="4">Case presentation: We discuss a case of a 44-year-old Caucasian man with an intracystic papillary carcinoma treated with simple mastectomy, sentinel lymph-node biopsy and contralateral risk-reducing mastectomy.</seg>
-          <seg id="5">These were followed by adjuvant radiotherapy of the breast.</seg>
-          <seg id="6">Conclusion: Triple assessment (i.e. clinical examination and radiological and histological assessment) with a high level of clinical suspicion is necessary to diagnose intracystic papillary carcinoma in men due to its rarity.</seg>
-          <seg id="7">Furthermore, genetic testing and risk-reducing mastectomy should also be considered in cases of a strong family history for male breast cancer.</seg>
-          <seg id="8">A 44-year-old Caucasian man presented to the breast clinic with a 3-week history of a swelling in his left breast.</seg>
-          <seg id="9">He also had a significant family history for breast cancer including a maternal grandmother, two of his maternal aunts and a maternal first cousin diagnosed with breast cancer.</seg>
-          <seg id="10">On examination, a well-circumscribed, 2.5 cm swelling was palpable within an area of gynecomastia on the left chest wall.</seg>
-          <seg id="11">Sonographically, a cystic mass with internal echoes was present without posterior acoustic shadowing.</seg>
-          <seg id="12">Aspiration of the lesion revealed uniformly blood-stained fluid and a residual swelling persisted.</seg>
-          <seg id="13">Cytology analysis of the aspirate confirmed the presence of atypical cells.</seg>
-          <seg id="14">Mammography showed a circumscribed mass in the sub-areolar region of the left breast with partially obscured margins.</seg>
-          <seg id="15">An irregular outline was noted on cranio-caudal view, but no spiculation or suspicious internal micro-calcifications were found.</seg>
-          <seg id="16">A core biopsy of the lesion revealed atypical ductal hyperplasia, but no evidence of malignancy was seen.</seg>
-          <seg id="17">In view of the atypical cells and residual swelling the lesion was excised.</seg>
-          <seg id="18">Histological analysis revealed a lesion 2.5 cm × 1.8 cm × 1.2 cm in size.</seg>
-          <seg id="19">The lesion comprised a papillary and solid proliferation of atypical cells within a large cystic space with a thick fibrous capsule (Figures 1, 2, 3) Haemorrhage was also noted within the cyst with changes consistent with the prior biopsy.</seg>
-          <seg id="20">The margins were clear; there was no evidence of stromal or fibrovascular invasion.</seg>
-          <seg id="21">The lesion displayed features of papillary DCIS and a diagnosis of intracystic papillary DCIS was made.</seg>
-          <seg id="22">Immunohistochemistry showed oestrogen receptor (ER) and progesterone receptor (PR) positivity.</seg>
-          <seg id="23">Completion left mastectomy with sentinel lymph-node mapping was carried out.</seg>
-          <seg id="24">Contralateral risk-reducing mastectomy was also performed in view of the strong family history for breast cancer.</seg>
-          <seg id="25">No evidence of further disease was detected in the mammary tissue and the sentinel node was clear.</seg>
-          <seg id="26">Adjuvant radiotherapy (40 Gy in 25 fractions) was advised due to tumour extension close to deep margin.</seg>
-          <seg id="27">Due to his significant family history for breast cancer, genetic testing was offered.</seg>
-          <seg id="28">Breast-cancer gene 2 (BRCA2) mutation had been identified in a maternal aunt recently on the exon 24 insertion called c9481_9482insA.</seg>
-          <seg id="29">It was very likely that this patient was a carrier of this BRCA2 mutation, which poses a small risk for him to develop prostate cancer.</seg>
-          <seg id="30">He was therefore advised to undergo prostate-specific antigen (PSA) blood testing on a yearly basis.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc26">
-      <src lang="en">
-        <p>
-          <seg id="1">Bariatric surgery is recognized as the most effective treatment for morbid obesity, maintaining a stable weight reduction in the long term and reducing comorbidities, with a favorable impact on mortality.</seg>
-          <seg id="2">The aim of this study is to evaluate the complication rate and treatment techniques adopted in all patients undergoing bariatric surgery procedures in our center.</seg>
-          <seg id="3">From May 2017 to March 2020, 91 patients with morbid obesity are admitted to the Department of Medical and Surgical Science of the University Hospital of Foggia undergoing bariatric surgery.</seg>
-          <seg id="4">Seventyone patients underwent sleeve gastrectomy, nineteen gastric bypass and one mini-gastric bypass, five of these were redo operation procedures.</seg>
-          <seg id="5">Regarding postoperative complications (8,8%), there were 1 gastric leak (1,09%), 4 bleedings (4,39%) - 1 intraluminal bleeding and 3 intra-abdominal bleedings, 2 port-sites infections (2,19%) and 1 haemoperitoneum (1,09%).</seg>
-          <seg id="6">In our center we have also treated 3 cases of complications after bariatric surgery procedures performed in others centers.</seg>
-          <seg id="7">There were no deaths.</seg>
-          <seg id="8">Despite improvement in the performance of bariatric surgical procedures, complications are not uncommon.</seg>
-          <seg id="9">Flexible endoscopy has become an essential tool in managing bariatric surgery patients and offers the benefit of providing both diagnostic and therapeutic applications. KEY WORDS: Bariatric surgery, Bleeding post-bariatric surgery, Complications bariatric surgery, Gastric bypass, Leak post-sleeve gastrectomy, Mini invasive approach, Sleeve gastrectomy.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc6">
-      <src lang="en">
-        <p>
-          <seg id="1">The aim of this study is to evaluate the factors that has an effect on Cecal Intubation time (CIT), and to define the relationship between quality of bowel preparation and body mass index (BMI).</seg>
-          <seg id="2">The Boston Bowel Preparation Scale (BBPS) was used for the evaluation of bowel cleansing.</seg>
-          <seg id="3">A total of 346 patients were included.</seg>
-          <seg id="4">The time from anus to caecum was recorded as the time of the cecal intubation time.</seg>
-          <seg id="5">Patients were defined under 3 subgroup BMI-1; ≤ 24.9, BMI-2; 25-29.9, BMI-3; ≥30.</seg>
-          <seg id="6">The mean BMI of women was 29.30 4.25 and men were 26.19 6.14 (p&lt;0,001).</seg>
-          <seg id="7">Mean Cecal Intubation time was 9.11 6.00 and 10.21 3.45 minutes for women and men (p=0.012).</seg>
-          <seg id="8">Women with High BMI (≥30) have shorter Cecal Intubation time compared to women with BMI less than 30 (p=0001).</seg>
-          <seg id="9">When BBPS evaluated, there was a significant difference in BMI-3 due to high scores compared to both BMI-1 and BMI-2 (p&lt;0.001).</seg>
-          <seg id="10">In BMI-3 group, also women had significantly higher scores in terms of BBPS(p=0.006).</seg>
-          <seg id="11">Also a negative correlation between BBPS and BMI with CIT has been found (r = - 0.371, p&lt;0.001 / r = -0.191 p&lt;0.001).</seg>
-          <seg id="12">In our study, women gender and increased BMI has a positive impact on the quality of intestinal cleansing that is associated with shortened Cecal Intubation time. Body Mass Index, Colonoscopy, Cecal intubation.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc8">
-      <src lang="en">
-        <p>
-          <seg id="1">Enterobius Vermicularis (EV) is the most commonly identified heminth incidentally found within the appendix of a clinically diagnosed appendicitis.</seg>
-          <seg id="2">This simple presence of EV may cause appendicular colic, primarily affecting children, it is an important cause of negative appendicectomy.</seg>
-          <seg id="3">We report a case of a young male who presented with clinical features of acute appendicitis. Laparoscopic appendicectomy was uneventful and pathologic examination revealed the presence of an EV infestation originating from the lumen of his vermiform appendix. KEY WORDS: Acute appendicitis, Diagnosis, Enterobius Vermicularis.</seg>
+          <seg id="1">Treatment of severe neutropenia with high-dose pyridoxine in a patient with chronic graft versus host disease and squamous cell carcinoma: a case report</seg>
+          <seg id="2">Introduction: The differential diagnosis of neutropenia includes medications, infections, autoimmune diseases, and deficiencies of Vitamin B12 and folate.</seg>
+          <seg id="3">The association of Vitamin B6 deficiency with severe neutropenia is a rare finding.</seg>
+          <seg id="4">Case presentation: A 51-year-old Caucasian woman presented with fever and profound neutropenia (48 neutrophils/uL).</seg>
+          <seg id="5">Her clinical history included non-Hodgkin lymphoma, in remission following treatment with allogeneic bone marrow transplantation, quiescent chronic graft-versus-host disease, and squamous cell carcinoma of the skin metastatic to cervical lymph nodes.</seg>
+          <seg id="6">Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.</seg>
+          <seg id="7">The bone marrow was hypocellular without metastatic cancer or myelodysplasia.</seg>
+          <seg id="8">Neutropenia did not respond to stopping medications that have been associated with neutropenia (valganciclovir, voriconazole and Soriatane) or treatment with antibiotics or granulocyte colony stimulating factor.</seg>
+          <seg id="9">Blood tests revealed absence of antineutrophil antibodies, normal folate and B12 levels, moderate zinc deficiency and severe Vitamin B6 deficiency.</seg>
+          <seg id="10">Replacement therapy with oral Vitamin B6 restored blood vitamin levels to the normal range and corrected the neutropenia.</seg>
+          <seg id="11">Her cervical adenopathy regressed clinically and became negative on scintography following Vitamin B6 therapy and normalization of the blood neutrophil count.</seg>
+          <seg id="12">Conclusion: Severe pyridoxine deficiency can lead to neutropenia.</seg>
+          <seg id="13">Screening for Vitamin B6 deficiency, along with folate and Vitamin B12 levels, is recommended in patients with refractory neutropenia, especially those with possible malabsorption syndromes, or a history of chronic-graft-versus host disease.</seg>
+          <seg id="14">Severe neutropenia may facilitate progression of squamous cell carcinoma.</seg>
+          <seg id="15">The patient was a 51-year-old Caucasian woman with relapsed non-Hodgkin lymphoma treated four years earlier with an allogeneic stem cell transplant.</seg>
+          <seg id="16">Her lymphoma was in remission.</seg>
+          <seg id="17">Complications of her allogeneic transplant included a history of chronic extensive graft-versus-host disease (GvHD) involving the skin and dermal squamous cell carcinoma.</seg>
+          <seg id="18">Immunosuppression with cyclosporine had been discontinued two months earlier due to the development of squamous cell carcinoma and the absence of active GvHD.</seg>
+          <seg id="19">She had no history of smoking, alcohol, or drug abuse.</seg>
+          <seg id="20">She presented with fever and profound neutropenia; serial blood counts showed that the neutropenia had been present for more than a month (Figure 1).</seg>
+          <seg id="21">Her examination showed moderate cachexia, long-standing sclerodermatous changes and hyper-pigmentation of the skin consistent with quiescent GvHD, palpable 2.5 cm left cervical and submandibular adenopathy that was flurodeoxy glucose (FDG) avid on positron emission tomography/computerized tomography (PET/CT) scan.</seg>
+          <seg id="22">She had a non-focal neurological examination.</seg>
+          <seg id="23">A complete blood count showed a normal total leukocyte count (4,600/uL) with 2% granulocytes (48 neutrophils/uL) together with 84% lymphocytes and 14% monocytes.</seg>
+          <seg id="24">Red blood cells were 4.24 × 10E12/L, hemoglobin was 12.4 g/dL, hematocrit was 0.37, and the platelet count was 113 × 10E9/L.</seg>
+          <seg id="25">Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.</seg>
+          <seg id="26">Blood cultures showed a micrococcus species.</seg>
+          <seg id="27">Her iron level was 330 mcg/L with 20% saturation.</seg>
+          <seg id="28">Folate, vitamin B1, vitamin B12, copper, vitamin D levels, thyroid function tests, creatinine, bilirubin, liver enzymes and lactate dehydrogenase (LDH) were normal.</seg>
+          <seg id="29">Her blood zinc level was borderline low at 49 mcg/dL.</seg>
+          <seg id="30">Antineutrophil antibodies were absent (&lt;1:10 titer).</seg>
+          <seg id="31">PCR tests for cytomegalovirus (CMV) and Epstein Barr virus (EBV) in the blood were negative, and had remained negative on prophylactic doses of valganciclovir following CMV reactivation five months earlier.</seg>
+          <seg id="32">Her vitamin B6 level was very low at 0.5 ng/mL (reference range 5 to 30 ng/mL).</seg>
+          <seg id="33">Serum IgG was polyclonally elevated at 3720 mg/dL as were blood T-cells (4580 cells/uL) and CD8+ T-cells (2836 cells/uL) with normal numbers of CD4+ T-cells, B-cells and natural killer (NK) cells.</seg>
+          <seg id="34">Her fever resolved with a course of vancomycin, without identifying a site of infection.</seg>
+          <seg id="35">Histological examination of the marrow demonstrated marked hypocellularity without specific megaloblastic or myelodysplastic findings, metastatic cancer, or features to suggest immune-mediated thrombocytopenia.</seg>
+          <seg id="36">Cytogenetic analysis showed 100% donor (male) cells without any clonotypic abnormalities.</seg>
+          <seg id="37">Biopsy of a cervical lymph node showed poorly differentiated carcinoma, consistent with metastatic squamous cell carcinoma.</seg>
+          <seg id="38">Valganciclovir, voriconazole, and Soriatane (acitretin) were discontinued (as potential causes of neutropenia) and prophylactic fluconazole and acyclovir were started.</seg>
+          <seg id="39">Granulocyte colony stimulating factor (G-CSF; 300 ug subcutaneously every other day) was administered for four doses in mid February 2010 without any improvement in her neutropenia.</seg>
+          <seg id="40">Following daily supplementation with 150 mg Vitamin B6, blood B6 levels normalized concomitant with resolution of the neutropenia (Figure 1).</seg>
+          <seg id="41">Following correction of the B6 deficiency and neutropenia, the cervical adenopathy completely regressed by clinical examination and became scintographically negative by PET/CT.</seg>
         </p>
       </src>
     </doc>
@@ -715,218 +687,20 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc4">
+    <doc origlang="en" id="doc36">
       <src lang="en">
         <p>
-          <seg id="1">Feline Calicivirus (FCV) is one of the most common viral pathogens in domestic cats worldwide.</seg>
-          <seg id="2">The first report of FCV dates back to 1957, when FCV was isolated from the gastrointestinal tract of cats in New Zealand.</seg>
-          <seg id="3">Subsequent reports recognised FCV as a cause of respiratory disease in cats, and at present, feline practitioners worldwide are daily confronted with cats suffering from suspected FCV.</seg>
-          <seg id="4">The highly mutagenic nature of FCV and its high genetic plasticity enable the virus to successfully survive in the feline population, and pose a special challenge as regards the diagnosis, treatment, and prevention of FCV-induced disease.</seg>
-          <seg id="5">Upper respiratory tract disease has been considered a common clinical sign of FCV infection.</seg>
-          <seg id="6">A study from Switzerland demonstrated that oral ulcerations, salivation and gingivitis-stomatitis were more commonly associated with FCV infection than upper respiratory tract disease, and less than half of the cats suspected to have FCV infection were found to be FCV-positive.</seg>
-          <seg id="7">Furthermore, a study investigating FCV isolates from Switzerland found some evidence that the genetic background of cats might influence their susceptibility to FCV infection.</seg>
-          <seg id="8">This review article provides a comprehensive summary of the FCV literature, and integrates the results of recent research on FCV's genetic characteristics, the cellular and humoral immunity evoked by FCV vaccination and infection, the diagnosis of FCV, FCV prevention/vaccination, the risk factors associated with FCV, and the hygienic measures necessary in FCV-contaminated areas.</seg>
-          <seg id="9">After each section, the key points are summarised, and relevant information is outlined to help feline practitioners in FCV diagnosis, treatment and prevention.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc35">
-      <src lang="en">
-        <p>
-          <seg id="1">The aim of this study was to evaluate the safety and efficacy of endoscopic submucosal dissection (ESD) of colonic polyps larger than 20 mm.</seg>
-          <seg id="2">Between March 2017 and July 2019, a gastro-entero endoscopist team resected 24 large colorectal polyps measuring 20-35 mm in diameter using the ESD technique.</seg>
-          <seg id="3">After the injection of a mixture of hydroxypropyl methylcellulose with dilute epinephrine and methylene blue into the submucosal layer, a circumferential incision was performed using an electrosurgical knife.</seg>
-          <seg id="4">A total of 24 colorectal polyps (≥20 mm) from 20 patients were evaluated.</seg>
-          <seg id="5">The mean age of the patients was 60 years; 16 patients were men and 4 patients were women.</seg>
-          <seg id="6">The mean polyp size removed by colorectal ESD was 35.3 mm (range 20.0-70.1 mm), and all 24 polyps were larger than 2 cm (100%).</seg>
-          <seg id="7">There were no cases of delayed bleeding after the colorectal ESD nor were there any post-surgery complications.</seg>
-          <seg id="8">This study demonstrates the efficacy and safety of carrying out ESD of large polyps.</seg>
-          <seg id="9">This is important because there is not a large body of literature on this subject in this specific population. Colonic polyps, Endoscopic submucosal dissection, Gastrointestinal endoscopy.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc3">
-      <src lang="en">
-        <p>
-          <seg id="1">Meningiomas as anatomo-pathological entities were first described in the sixteenth century, but it was Harvey Cusching who in 1922 proposed to identify them with the term 'meningioma'.</seg>
-          <seg id="2">They are the most common intracranial tumors, occur between middle and late age and prefer female sex.</seg>
-          <seg id="3">The symptoms depend on their position with respect to the brain regions.</seg>
-          <seg id="4">These are mostly benign neoplasms, but there are atypical and even malignant forms.</seg>
-          <seg id="5">Plaque meningioma refers to a specific macroscopic aspect of the meningioma, due to diffuse dural involvement and usually with extracranial extension.</seg>
-          <seg id="6">We report here a case of plaque convex meningioma with typical grade I. Key Words: En plaque, Meningioma, WHO Meningioma.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc1">
-      <src lang="en">
-        <p>
-          <seg id="1">The COVID-19 pandemic emergency forced the health system in Italy to implement an immediate reorganisation to support the care of tens of thousands of patients and to maintain the quality of care for patients with other pathologies, such as oncologic diseases.</seg>
-          <seg id="2">The main goal of this study was to evaluate the impact of COVID-19 restrictions on the hospitalisation and post-operative rehabilitation of head and neck oncologic patients and to determine whether the introduction of new technologies such as video-communication may be useful to mitigate social distancing by close family members.</seg>
-          <seg id="3">Fifty-one consecutive patients underwent surgery for head and neck cancer during the period of lockdown caused by the COVID-19 pandemic.</seg>
-          <seg id="4">The data collected (post-operative pain, post-operative complications, duration of hospitalisation) were compared with those of 51 consecutive patients treated for head and neck cancer in the period immediately preceding lockdown.</seg>
-          <seg id="5">The average duration of hospitalisation was longer in patients operated on in the COVID-19 period, and, in particular, among patients who underwent a more demanding rehabilitation protocol.</seg>
-          <seg id="6">Despite this, our study did not show a significant difference in psychological aspects during hospitalisation.</seg>
-          <seg id="7">The greatest difficulties that occurred in the COVID-19 period were met by a greater commitment from medical staff, allowing the quality of life of head and neck cancer patients during post-operative rehabilitation to be maintained at a similar level to that before the pandemic.</seg>
-          <seg id="8">In the future, there will be a need for technological solutions to bring the patient closer to family members.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc19">
-      <src lang="en">
-        <p>
-          <seg id="1">The aim of this retrospective cohort study was to evaluate the efficacy of Superficial Musculoaponeurotic System (SMAS) flap technique to prevent Frey's Syndrome (FS) and improve aesthetic outcomes following superficial parotidectomy. A total of 140 patients were treated between January 2003 and December 2018 at the Maxillofacial Unit of Magna Graecia University of Catanzaro with Superficial Parotidectomy (SP) for benign tumor and divided in two groups: Group 1 (78 patients) underwent SMAS flap reconstruction of the parotid lodge through a modified facelift incision and Group 2 (62 patients) underwent to SP without the use of SMAS interposition through a Redon type incision. Significant statistical difference concerning FS, transient facial nerve injury, facial paralysis, salivary fistula, haematoma and skin deepness were found between Group 1 and Group 2, (0,00% vs 6,45% [p &lt; 0,036], 2,56% vs 16,12% [p = 0,005], 0,00% vs 9,67% [p= 0,006], 1,28% vs 9,67% [p= 0,044], 1,28% vs 19,35% [p = 0,0002]) respectively. No significant statistical differences between the two groups were observed about wound infections (3,84% vs 8,06% [p= 0,466]).</seg>
-          <seg id="2">SP represents the gold standard for the surgical treatment of benign tumors of the parotid gland greater than 3,5 cm in size involving superficial portion of the gland, for the low rate of recurrences over time and lower incidence of transient or permanent facial paralysis to which this technique leads.</seg>
-          <seg id="3">However, SP is not free from other complications such as FS, haematoma, salivary fistula and aesthetic results like facial contour deformity due to surgical site depression and visible scar.</seg>
-          <seg id="4">A reconstructive technique to reduce the impact of complications after SP is the SMAS flap because its preparation is easy, contextual to the parotidectomy and increases a little the surgical time.</seg>
-          <seg id="5">This study highlights the advantages of SMAS flap technique in reducing complications following parotid surgery, particularly FS, and in improving the quality of life.</seg>
-          <seg id="6">Frey's Syndrome, Minor test, Parotid benign tumor, SMAS flap, Superficial parotidectomy.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc9">
-      <src lang="en">
-        <p>
-          <seg id="1">To investigate the relationship between risk of Benign Paroxysmal Positional Vertigo (BPPV) recurrence and hypothyroidism treated with hormone replacement therapy (HRT).</seg>
-          <seg id="2">797 patients with idiopathic BPPV were divided into two groups: 250 patients with recurrence of BPPV (R-BPPV) and 547 patients without recurrence (NR-BPPV).</seg>
-          <seg id="3">Regarding patients with thyroid disease on HRT, we collected serum test results of thyroidstimulating hormone (TSH), free triiodothyronine f-T3, free thyroxine f-T4, thyroglobulin antibodies (TG-Ab) and thyroid peroxidase antibodies (TPO-Ab).</seg>
-          <seg id="4">Hypothyroidism in long-term HRT was found in 61/250 (24.4%) patients of the RBPPV group vs 79/547 (14.4%) of the NR-BPPV-group (p = 0.0006).</seg>
-          <seg id="5">Hashimoto thyroiditis (HT) was associated with recurrence (p &lt; 0.0001). A significant correlation was found between recurrence and level of serum TPO-Ab (p = 0.0117) and TG-Ab (p = 0.0025), but not with mean serum TSH, f-T3 and f-T4.</seg>
-          <seg id="6">We assume that patients with hypothyroidism in HRT have an increased risk of BPPV recurrence, which is particularly strong for patients with HT and positive thyroid antibodies, suggesting an association between autoimmunity and recurrent vertigo.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc7">
-      <src lang="en">
-        <p>
-          <seg id="1">The application of laparoscopic partial tubal resection with end-to-end anastomosis can reduce the incidence of persistent ectopic pregnancy.</seg>
-          <seg id="2">We aim to compare the therapeutic effects of laparoscopic fenestration and laparoscopic partial tubal resection with end-to-end anastomosis in the treatment of tubal ectopic pregnancy.</seg>
-          <seg id="3">The patients were randomly divided into the observation group (the group treated with laparoscopic partial tubal resection with end-to-end anastomosis, n=238) and the control group (the group treated with laparoscopic fenestration, n=213).</seg>
-          <seg id="4">The average operation time, intraoperative blood loss, postoperative exhaust time and hospital stay were observed to evaluate the clinical effect.</seg>
-          <seg id="5">In addition, the time required for the β-HCG to drop to normal level, the patency of the fallopian tubes and the ovarian function were observed in the two groups after the operation.</seg>
-          <seg id="6">There was no significant difference between observation group operation time, intraoperative hemorrhagic amount, blood β-HCG recovery time and hospital time and control group (P &gt; 0.05).</seg>
-          <seg id="7">The postoperative fallopian tube patency rate in the observation group was 67.58%, significantly higher than the control group (P &lt; 0.05).</seg>
-          <seg id="8">In addition, there was no significant difference in ovarian function between the two groups.</seg>
-          <seg id="9">The method of laparoscopic partial tubal resection with end-to-end anastomosis is more effective in the treatment of tubal ectopic pregnancy, and has less impact on ovarian function, which can effectively improve the probability of normal pregnancy after the operation. Fallopian tube, Ectopic pregnancy, Laparoscopic fenestration, Laparoscopic partial tubal resection with end-to-end anastomosis.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc28">
-      <src lang="en">
-        <p>
-          <seg id="1">Complete heart block ensuing from a metastatic small cell carcinoma: a case report</seg>
-          <seg id="2">Introduction: Notwithstanding the diagnostic and therapeutic advancements, the incidence of cardiac metastases has increased in recent decades.</seg>
-          <seg id="3">Lung cancers are the most common primary malignant neoplasms with cardiac metastasis potential.</seg>
-          <seg id="4">The clinical presentation of cardiac metastases is either silent or vague, and largely depends on the infiltrated location and tumor burden.</seg>
-          <seg id="5">Although arrhythmias are not uncommon in metastatic cardiac tumors, complete heart block is relatively a rare manifestation.</seg>
-          <seg id="6">We present a case of complete heart block due to a metastatic small cell carcinoma in a 67-year-old male of African origin.</seg>
-          <seg id="7">Case presentation: A 67-year-old male of African origin from rural Tanzania was referred to us for expert management.</seg>
-          <seg id="8">He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.</seg>
-          <seg id="9">His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake and chronic cigarette smoking.</seg>
-          <seg id="10">He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks coupled with a significant weight loss.</seg>
-          <seg id="11">He had normal echocardiographic findings, however, the electrocardiogram showed features of complete heart block.</seg>
-          <seg id="12">Chest X-ray showed a homogeneous opacification on the right side and computed tomography scan revealed a solid right lung mass with metastases to the liver, heart, bowels, and bone.</seg>
-          <seg id="13">He underwent bronchoscopy, which revealed an endobronchial mass obstructing the bronchus intermedius.</seg>
-          <seg id="14">Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of a small cell carcinoma.</seg>
-          <seg id="15">The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.</seg>
-          <seg id="16">He made an informed refusal of chemotherapy and inevitably died 18 months post pacing.</seg>
-          <seg id="17">Conclusions: Despite the advancements in medical diagnostics and management, lung cancers are often diagnosed in advanced stages, with an inevitable grave prognosis.</seg>
-          <seg id="18">Small cell carcinoma has the potential to metastasize to the heart, resulting in complete heart block.</seg>
-          <seg id="19">A 67-year-old male of African origin from the Kilimanjaro region north of Tanzania was referred to us for expert management.</seg>
-          <seg id="20">He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.</seg>
-          <seg id="21">His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake (5 units/day) and chronic cigarette smoking (20 pack years).</seg>
-          <seg id="22">He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks.</seg>
-          <seg id="23">Such complaints were associated with awareness of heart beat, easy fatigability, light headedness, dry cough, and weight loss (∼15 kg in 6 months).</seg>
-          <seg id="24">There was a negative history of fever, night sweats, chest pain, visual disturbances, recurrent headaches, bone pain, vomiting, or diarrhea.</seg>
-          <seg id="25">General examination revealed a wasted (BMI 17.6 kg/m2) man.</seg>
-          <seg id="26">He had a sinus bradycardia of 32 beats/minute and blood pressure of 117/66 mmHg on cardiovascular examination.</seg>
-          <seg id="27">Respiratory examination revealed features suggestive of right lung consolidation.</seg>
-          <seg id="28">Other systems were essentially normal.</seg>
-          <seg id="29">He underwent a number of hematological, biochemical, and serological tests, which revealed a normocytic normochromic anemia [hemoglobin (Hb) 11.1 g/dL] but otherwise normal.</seg>
-          <seg id="30">His echocardiography (ECHO) was essentially normal, however the electrocardiogram (ECG) showed features in keeping with the diagnosis of CHB, Fig. 1.</seg>
-          <seg id="31">Chest X-ray (CXR) showed a homogeneous opacification on the right side, and CT scan revealed a solid right lung mass with metastases to the heart, liver, bowels, and bone; Figs. 2, 3, 4, 5 and 6.</seg>
-          <seg id="32">Furthermore, he underwent bronchoscopy, which revealed an endobronchial mass occluding the bronchus intermedius.</seg>
-          <seg id="33">Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of small cell carcinoma, Fig. 7.</seg>
-          <seg id="34">Correspondingly, a histological section of heart muscle tissue revealed similar findings to lung biopsy.</seg>
-          <seg id="35">The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.</seg>
-          <seg id="36">He made an informed refusal of chemotherapy and inevitably died in his home village 18 months post pacing.</seg>
-          <seg id="37">We received the death information from his son via a phone call, and an autopsy was not practical.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc41">
-      <src lang="en">
-        <p>
-          <seg id="1">Thyroid nodules with indeterminate cytology represent 20% of all thyroid nodules.</seg>
-          <seg id="2">Inflammation plays an important role in cancer.</seg>
-          <seg id="3">Lymphocyte-to-monocyte ratio (LMR), neutrophil-to-lymphocyte ratio (NLR) and platelet-to-lymphocyte ratio (PLR) are independent prognostic scores in numerous cancers, although no study has documented their role in cytology indeterminate nodules.</seg>
-          <seg id="4">The aim of this study is to evaluate the role of LMR, NLR and PLR values as predictors of malignancy in patients with cytology indeterminate nodules.</seg>
-          <seg id="5">This retrospective study analysed data from 298 patients with indeterminate thyroid nodule.</seg>
-          <seg id="6">Anatomopathological and haematological data were analysed, dividing the population into two groups.</seg>
-          <seg id="7">LMR, NLR and PLR values were determined using ROC curve and data were analysed using independent samples t-test, test of proportions, Fisher's exact test and univariate and multivariate logistic regression.</seg>
-          <seg id="8">We found that a baseline LMR value ≥ 4.09 was indicative of benignity of indeterminate nodule.</seg>
-          <seg id="9">The probability of malignancy in patients with LMR &lt; 4.09 was 26 times higher than patients with a LMR value ≥ 4.09.</seg>
-          <seg id="10">This study showed that only LMR has shown a concrete probability to find a thyroid cancer in patients with indeterminate nodules. Further studies are necessary to implement tailored treatment.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc39">
-      <src lang="en">
-        <p>
-          <seg id="1">Anthelmintic resistance (AR) of ruminant gastrointestinal nematodes (GINs) constitutes a major problem worldwide.</seg>
-          <seg id="2">Among GINs, the abomasal blood-feeding parasite Haemonchus contortus is particularly pathogenic and may show resistance against all major anthelmintic substance classes.</seg>
-          <seg id="3">In the present study, the death of a 1,5 year-old European bison (Bison bonasus) from a German wildlife park due to haemonchosis despite frequent anthelmintic treatment of the herd with fenbendazole as well as doramectin prompted an investigation regarding AR.</seg>
-          <seg id="4">Pooled faecal samples were collected from four different bison groups as well as from mouflons (Ovis orientalis), elk (Alces alces), reindeer (Rangifer tarandus), sika deer (Cervus nippon), Persian fallow deer (Dama mesopotamica) and red deer (Cervus elaphus) housed by the wildlife park.</seg>
-          <seg id="5">After coproscopical examination, faecal larval cultures were established.</seg>
-          <seg id="6">Haemonchus contortus-positive larval cultures were further examined for genetic polymorphisms associated with benzimidazole resistance at codons 167 and 200 of the β-tubulin isotype 1 gene by real-time pyrosequencing.</seg>
-          <seg id="7">Infections with H. contortus were detected in all four bison groups, as well as in mouflons.</seg>
-          <seg id="8">In five samples, representing two bison groups and the mouflons, the frequency of the resistance-associated single-nucleotide polymorphism (SNP) at codon 200 was 100%.</seg>
-          <seg id="9">In contrast, resistance-associated SNPs were not detected at codon 167.</seg>
-          <seg id="10">In addition, faecal egg counts from two bison before and 14 days after parenteral doramectin treatment indicated possible macrocyclic lactone resistance.</seg>
-          <seg id="11">Detection of anthelmintic resistant nematodes in these animals was especially concerning in the light of planned reintroduction into the wild.</seg>
-          <seg id="12">As helminth control in zoological gardens and wildlife parks relies mostly on anthelmintic treatment due to restricted possibilities regarding management practices such as rotational grazing, care should be taken to avoid underdosing or unnecessary frequent treatments facilitating the development of AR.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc14">
-      <src lang="en">
-        <p>
-          <seg id="1">X-ray Reconstruction of Moving Morphology (XROMM) permits researchers to see beneath the skin, usually to see musculoskeletal movements.</seg>
-          <seg id="2">These movements can be tracked and later used to provide information regarding the mechanics of movement.</seg>
-          <seg id="3">Here, we discuss '&lt;i&gt;IK marker-guided rotoscoping&lt;/i&gt;'-a method that combines inverse kinematic solvers with that of traditional scientific rotoscoping methods to quickly and efficiently overlay 3D bone geometries with the X-ray shadows from XROMM data.</seg>
-          <seg id="4">We use a case study of three Nile crocodiles' (&lt;i&gt;Crocodylus niloticus&lt;/i&gt;) forelimbs and hindlimbs to evaluate this method.</seg>
-          <seg id="5">Within these limbs, different marker configurations were used: some configurations had six markers, others had five markers, and all forelimb data only had three markers.</seg>
-          <seg id="6">To evaluate IK marker-guided rotoscoping, we systematically remove markers in the six-marker configuration and then test the magnitudes of deviation in translations and rotations of the rigged setup with fewer markers versus those of the six-marker configuration.</seg>
-          <seg id="7">We establish that IK marker-guided rotoscoping is a suitable method for 'salvaging' data that may have too few markers.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc30">
-      <src lang="en">
-        <p>
-          <seg id="1">An oesophageal tube feeder was used to administer milk to six clinically healthy calves every 12 hours for a total of three feedings.</seg>
-          <seg id="2">The calves were seven to nine days of age, and each feeding consisted of a volume of milk that was 6 % of the body weight of the calves.</seg>
-          <seg id="3">The reticulum and abomasum were scanned ultrasonographically before, during and after drenching.</seg>
-          <seg id="4">Blood samples for D-lactate determination and venous blood gas analysis were collected at -12, 0 (first drenching), 6, 12 (second drenching), 18, 24 (third drenching), 30 and 36 hours.</seg>
-          <seg id="5">Ruminal fluid was collected for measurement of pH and D-lactate concentration at -12 and 36 hours.</seg>
-          <seg id="6">Based on simultaneous ultrasonographic examinations of the reticulum and abomasum, some of the force-fed milk flowed into the reticulum and some directly into the abomasum; both organs contained milk immediately after drenching.</seg>
-          <seg id="7">Drenching led to ruminal acidosis evidenced by a significant decrease in median pH from 7,0 (6,0 - 7,0) to 4,5 (3,0 - 5,0) and a 93-fold increase in median D-lactate concentration from 0,39 (0,14 - 1,33) to 36,3 (17,9 - 53,3) mmol/l but it did not cause metabolic acidosis.</seg>
-          <seg id="8">Based on these findings, we concluded that milk administered to calves via an oesophageal tube feeder flows into the reticulum and abomasum simultaneously and three force feedings 12 hours apart cause acute ruminal acidosis, which was not accompanied by metabolic acidosis in the short term.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc23">
-      <src lang="en">
-        <p>
-          <seg id="1">Cochlear fistula (CF) is a rare finding, usually associated with extensive middle ear cholesteatoma.</seg>
-          <seg id="2">There is agreement on the fact that removing the cholesteatoma matrix on a CF exposes the ear to a high risk of sensorineural hearing loss or dead ear.</seg>
-          <seg id="3">The aim of the study is to describe the presentation, possible treatment strategies and related outcomes for patients with CF in chronic otitis media (COM).</seg>
-          <seg id="4">The study considers a retrospective case series of patients with CF diagnosis supported by CT-scan and intraoperative/otoscopic evidence.</seg>
-          <seg id="5">Five cases of CF were identified, 4 associated with cholesteatoma and 1 associated with non-cholesteatomatous COM.</seg>
-          <seg id="6">Two patients presenting with anacusis underwent a subtotal petrosectomy. Two patients with useful hearing underwent a radical mastoidectomy in order to preserve the cholesteatoma matrix on the promontorium.</seg>
-          <seg id="7">One patient with good hearing and COM was treated conservatively.</seg>
-          <seg id="8">Conservative management should be considered for rare cases of CF in COM with residual hearing.</seg>
-          <seg id="9">Matrix preservation through radical/modified radical mastoidectomy is strongly advised in the presence of useful preoperative bone conduction.</seg>
-          <seg id="10">Subtotal petrosectomy should be considered the preferred option in presence of cholesteatoma with preoperative profound hearing loss.</seg>
+          <seg id="1">Appendicular schwannoma is a rare benign neoplastic proliferation of the appendicular Schwann cells.</seg>
+          <seg id="2">It is often asymptomatic until it occludes the appendicular lumen thus causing appendicitis-like symptoms.</seg>
+          <seg id="3">The neoplastic proliferation of the Schwann cells, although benign, may rarely degenerate into a malignant neoplasm, thus denoting the importance of diagnosis.</seg>
+          <seg id="4">Some Authors in the Literature used the term 'neuroma' or 'neurinoma' to indicate either a hyperplastic proliferation of the Schwann cells or its neoplastic but benign proliferation, thus raising the important question of a probable mistaking of these two different histologic entities.</seg>
+          <seg id="5">The hyperplastic proliferation is usually subsequent to a chronic appendicular inflammation, and it is a more common finding in specimen of appendectomy.</seg>
+          <seg id="6">Aim of the study is to review the published scientific papers about the rare histologic entity of appendicular schwannoma and to define the not clear aspects of Schwann cell neoplasia versus hyperplasia.</seg>
+          <seg id="7">A review of the Literature from Medline/Pubmed has been accomplished.</seg>
+          <seg id="8">Forty-four studies from the Literature resulted suitable for our study.</seg>
+          <seg id="9">Appendicular schwannoma has to be considered in patients with recurrent right lower quadrant pain, and may affect the patient's prognosis if it remains undiagnosed, since it may degenerate in malignancy.</seg>
+          <seg id="10">There is a lack of clarity in the Literature about the distinction between the hyperplastic and the neoplastic benign Schwann cells proliferation, which must be clarified.</seg>
+          <seg id="11">The meaning of the terms 'neuroma' and 'neurinoma' should be standardized, the first referring to the hyperplastic proliferation, and the second to the neoplastic but benign proliferation of the Schwann cells. Appendiciis, Appendectomy, Appendicular neuroma, Appendicular neurinoma, Appendicular schwannoma.</seg>
         </p>
       </src>
     </doc>
@@ -985,93 +759,59 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc10">
+    <doc origlang="en" id="doc17">
       <src lang="en">
         <p>
-          <seg id="1">Development and validation of a confocal laser endomicroscopy (CLE) classification score for the larynx and pharynx.</seg>
-          <seg id="2">Thirteen patients (154 video sequences, 9240 images) with laryngeal or pharyngeal SCC were included in this prospective study between October 2020 and February 2021.</seg>
-          <seg id="3">Each CLE sequence was correlated with the gold standard of histopathological examination.</seg>
-          <seg id="4">Based on a dataset of 94 video sequences (5640 images), a scoring system was developed.</seg>
-          <seg id="5">In the remaining 60 sequences (3600 images), the score was validated by four CLE experts and four head and neck surgeons who were not familiar with CLE.</seg>
-          <seg id="6">Tissue homogeneity, cell size, borders and clusters, capillary loops and the nucleus/cytoplasm ratio were defined as the scoring criteria.</seg>
-          <seg id="7">Using this score, the CLE experts obtained an accuracy, sensitivity, and specificity of 90.8%, 95.1%, and 86.4%, respectively, and the CLE non-experts of 86.2%, 86.4%, and 86.1%.</seg>
-          <seg id="8">Interobserver agreement Fleiss' kappa was 0.8 and 0.6, respectively.</seg>
-          <seg id="9">CLE can be reliably evaluated based on defined and reproducible imaging features, which demonstrate a high diagnostic value.</seg>
-          <seg id="10">CLE can be easily integrated into the intraoperative setting and generate real-time, in-vivo microscopic images to demarcate malignant changes.</seg>
+          <seg id="1">Ethyl nitroacetate (1) reacts with electron-poor olefins in the presence of a base to give either the Michael adducts 3 or the isoxazoline cycloadducts 4, resulting from water elimination.</seg>
+          <seg id="2">The proportions of the two products depend on the reaction conditions and change in the course of the process.</seg>
+          <seg id="3">Kinetic profiles for the two reactions show that the cycloaddition-condensations require long induction times that dramatically decrease upon addition of a copper salt to the catalytic system: the drops in the induction time cause increases in the proportion of cycloadducts 4, which are often the sole reaction products.</seg>
+          <seg id="4">This is the first report on the selective formation of products 3 and 4 from primary nitro compounds through modulation of the catalytic system.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc33">
+    <doc origlang="en" id="doc26">
       <src lang="en">
         <p>
-          <seg id="1">The aim of this study is to analyse clinical characteristics of FB ingestion and predictive factors for complications, in order to reduce mortality and morbidity.</seg>
-          <seg id="2">A retrospective study of emergency surgical consultation records has been carried out from June 2005 through June 2015 yielded 201 episodes with the diagnosis of ingestion of foreign objects at the Surgical Unit of the University of Bari.</seg>
-          <seg id="3">Natural Removal in 44,8% of cases; Endoscopic retrieval in 42,4%, Surgical Procedures 4,4%.</seg>
-          <seg id="4">Statistical analysis was based on multivariate analysis and the model R2 of the Naegelkerke value.</seg>
-          <seg id="5">First of all, the approach to ingestion should be endoscopic.</seg>
-          <seg id="6">The second approach is surgical in selected cases.</seg>
-          <seg id="7">The most frequent site of impaction were oesophagus, stomach and right colon.</seg>
-          <seg id="8">An EGD proved to be the most used procedure with a no morbidity and no mortality.</seg>
-          <seg id="9">The ingestion of foreign bodies is a frequent, complex and expensive condition to treat.</seg>
-          <seg id="10">Observation and endoscopy are the most appropriate procedures to be considered to manage the ingestion of FB in Emergency Surgery Unit.</seg>
-          <seg id="11">Emergency surgery, Foreign bodies, Ingestion.</seg>
+          <seg id="1">Bariatric surgery is recognized as the most effective treatment for morbid obesity, maintaining a stable weight reduction in the long term and reducing comorbidities, with a favorable impact on mortality.</seg>
+          <seg id="2">The aim of this study is to evaluate the complication rate and treatment techniques adopted in all patients undergoing bariatric surgery procedures in our center.</seg>
+          <seg id="3">From May 2017 to March 2020, 91 patients with morbid obesity are admitted to the Department of Medical and Surgical Science of the University Hospital of Foggia undergoing bariatric surgery.</seg>
+          <seg id="4">Seventyone patients underwent sleeve gastrectomy, nineteen gastric bypass and one mini-gastric bypass, five of these were redo operation procedures.</seg>
+          <seg id="5">Regarding postoperative complications (8,8%), there were 1 gastric leak (1,09%), 4 bleedings (4,39%) - 1 intraluminal bleeding and 3 intra-abdominal bleedings, 2 port-sites infections (2,19%) and 1 haemoperitoneum (1,09%).</seg>
+          <seg id="6">In our center we have also treated 3 cases of complications after bariatric surgery procedures performed in others centers.</seg>
+          <seg id="7">There were no deaths.</seg>
+          <seg id="8">Despite improvement in the performance of bariatric surgical procedures, complications are not uncommon.</seg>
+          <seg id="9">Flexible endoscopy has become an essential tool in managing bariatric surgery patients and offers the benefit of providing both diagnostic and therapeutic applications. KEY WORDS: Bariatric surgery, Bleeding post-bariatric surgery, Complications bariatric surgery, Gastric bypass, Leak post-sleeve gastrectomy, Mini invasive approach, Sleeve gastrectomy.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc12">
+    <doc origlang="en" id="doc19">
       <src lang="en">
         <p>
-          <seg id="1">Setaria tundra is known as a common parasite of sylvatic ungulates in Northern latitudes.</seg>
-          <seg id="2">Although mostly considered of low pathogenicity, severe disease outbreaks and remarkable economic losses have been observed in reindeer (Rangifer tarandus tarandus).</seg>
-          <seg id="3">Host density and climatic factors are major drivers of the expansion of Setaria spp.</seg>
-          <seg id="4">facilitating their development and spread.</seg>
-          <seg id="5">Five adult specimens of S. tundra were retrieved from a male roe deer in Bavaria, Germany.</seg>
-          <seg id="6">Deoxyribonucleic acid (DNA) barcoding confirmed morphological identification.</seg>
-          <seg id="7">Cyclooxygenase 1 gene sequences showed 98,73-99,68 % similarity to sequences of other S. tundra specimens found in deer (Cervidae) and mosquitoes (Culicidae).</seg>
-          <seg id="8">The results raise awareness for the presence of S. tundra in a hitherto unkown endemic region and represent a starting point for broader investigations to understand the biology and distribution of this parasite in roe deer as well as other potential definitive hosts.</seg>
+          <seg id="1">The aim of this retrospective cohort study was to evaluate the efficacy of Superficial Musculoaponeurotic System (SMAS) flap technique to prevent Frey's Syndrome (FS) and improve aesthetic outcomes following superficial parotidectomy. A total of 140 patients were treated between January 2003 and December 2018 at the Maxillofacial Unit of Magna Graecia University of Catanzaro with Superficial Parotidectomy (SP) for benign tumor and divided in two groups: Group 1 (78 patients) underwent SMAS flap reconstruction of the parotid lodge through a modified facelift incision and Group 2 (62 patients) underwent to SP without the use of SMAS interposition through a Redon type incision. Significant statistical difference concerning FS, transient facial nerve injury, facial paralysis, salivary fistula, haematoma and skin deepness were found between Group 1 and Group 2, (0,00% vs 6,45% [p &lt; 0,036], 2,56% vs 16,12% [p = 0,005], 0,00% vs 9,67% [p= 0,006], 1,28% vs 9,67% [p= 0,044], 1,28% vs 19,35% [p = 0,0002]) respectively. No significant statistical differences between the two groups were observed about wound infections (3,84% vs 8,06% [p= 0,466]).</seg>
+          <seg id="2">SP represents the gold standard for the surgical treatment of benign tumors of the parotid gland greater than 3,5 cm in size involving superficial portion of the gland, for the low rate of recurrences over time and lower incidence of transient or permanent facial paralysis to which this technique leads.</seg>
+          <seg id="3">However, SP is not free from other complications such as FS, haematoma, salivary fistula and aesthetic results like facial contour deformity due to surgical site depression and visible scar.</seg>
+          <seg id="4">A reconstructive technique to reduce the impact of complications after SP is the SMAS flap because its preparation is easy, contextual to the parotidectomy and increases a little the surgical time.</seg>
+          <seg id="5">This study highlights the advantages of SMAS flap technique in reducing complications following parotid surgery, particularly FS, and in improving the quality of life.</seg>
+          <seg id="6">Frey's Syndrome, Minor test, Parotid benign tumor, SMAS flap, Superficial parotidectomy.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc36">
+    <doc origlang="en" id="doc18">
       <src lang="en">
         <p>
-          <seg id="1">Appendicular schwannoma is a rare benign neoplastic proliferation of the appendicular Schwann cells.</seg>
-          <seg id="2">It is often asymptomatic until it occludes the appendicular lumen thus causing appendicitis-like symptoms.</seg>
-          <seg id="3">The neoplastic proliferation of the Schwann cells, although benign, may rarely degenerate into a malignant neoplasm, thus denoting the importance of diagnosis.</seg>
-          <seg id="4">Some Authors in the Literature used the term 'neuroma' or 'neurinoma' to indicate either a hyperplastic proliferation of the Schwann cells or its neoplastic but benign proliferation, thus raising the important question of a probable mistaking of these two different histologic entities.</seg>
-          <seg id="5">The hyperplastic proliferation is usually subsequent to a chronic appendicular inflammation, and it is a more common finding in specimen of appendectomy.</seg>
-          <seg id="6">Aim of the study is to review the published scientific papers about the rare histologic entity of appendicular schwannoma and to define the not clear aspects of Schwann cell neoplasia versus hyperplasia.</seg>
-          <seg id="7">A review of the Literature from Medline/Pubmed has been accomplished.</seg>
-          <seg id="8">Forty-four studies from the Literature resulted suitable for our study.</seg>
-          <seg id="9">Appendicular schwannoma has to be considered in patients with recurrent right lower quadrant pain, and may affect the patient's prognosis if it remains undiagnosed, since it may degenerate in malignancy.</seg>
-          <seg id="10">There is a lack of clarity in the Literature about the distinction between the hyperplastic and the neoplastic benign Schwann cells proliferation, which must be clarified.</seg>
-          <seg id="11">The meaning of the terms 'neuroma' and 'neurinoma' should be standardized, the first referring to the hyperplastic proliferation, and the second to the neoplastic but benign proliferation of the Schwann cells. Appendiciis, Appendectomy, Appendicular neuroma, Appendicular neurinoma, Appendicular schwannoma.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc32">
-      <src lang="en">
-        <p>
-          <seg id="1">We present the clinical observation of a female patient with cystic peritoneal malignant mesothelioma developed in the thickness of the abdominal wall.</seg>
-          <seg id="2">The diagnosis included several steps: tumor classification as mesothelioma, tumor differentiation from reactive mesothelial hyperplasia, establishment of the malignant nature and differentiation from other malignant peritoneal tumors.</seg>
-          <seg id="3">Relapse in about one year after surgery and about six months after the end of chemotherapy also claim malignancy of the tumor.</seg>
-          <seg id="4">The particular tumor location in the thickness of the abdominal muscles, seemingly without involvement of the parietal peritoneum, in a patient with a history of caesarean operation, questions its development out of ectopic tissue embedded in scar from previous surgery. KEY WORDS: Abdominal wall, Caesarian operation Cystic malignant peritoneal mesothelioma, CK5/6, p53.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc43">
-      <src lang="en">
-        <p>
-          <seg id="1">The prevalence of methicillin-resistant Macrococcus spp.</seg>
-          <seg id="2">in calves and pigs at slaughterhouses and in retail beef and pork meat was determined using samples taken in 2019 within the framework of the national monitoring of methicillin-resistant Staphylococcus aureus in food producing animals in Switzerland.</seg>
-          <seg id="3">The isolates were submitted to antimicrobial susceptibility testing of 19 antibiotics and to molecular techniques (e.g. PCR, microarray, WGS) for the identification of resistance genes, elements containing the methicillin resistance genes mec and sequence type (ST).</seg>
-          <seg id="4">Methicillin-resistant Macrococcus spp. (M. caseolyticus (n=38), M. bohemicus (n=4) and Macrococcus spp. (n=2)) were isolated in 40 of 299 nasal swabs from calves representing a prevalence of 13,38 % (95 % CI, 9,98 % - 17,70 %), and in four of 303 nasal swabs from pigs [1,32 % (95 % CI, 0,36 % - 3,35 %)].</seg>
-          <seg id="5">One of 311 samples of Swiss pork meat contained a Macrococcus sp. [0,32 % (95 % CI, 0,01 % - 1,78 %)], and four of 309 beef meat samples (260 domestic and 49 imported) contained M. caseolyticus [1,29 % (95 % CI, 0,35 % - 3,28 %)].</seg>
-          <seg id="6">The M. caseolyticus strains belonged to diverse STs, with ST21 being the most common in both pigs and calves.</seg>
-          <seg id="7">The mecD gene was located on Macrococcus resistance island mecD (McRImecD) in 42 strains and on staphylococcal cassette chromosome mec (SCCmecD) in three strains, while mecB was found on plasmids in four strains.</seg>
-          <seg id="8">In addition to resistance to β-lactams, the strains also exhibited resistance to tetracycline (n=17; tet(L), tet(K), tet(M)), streptomycin (n=13; str, ant(6)-Ia, rpsL mutation [K56R in ribosomal protein S12]), kanamycin (n=10; aac(6')-Ie - aph(2'')-Ia, aph(2')-Ib, aph(2')-Ic, ant(4')-Ia), clindamycin (n=9; erm(B), erm(45)), erythromycin (n=9; erm(B), msr(G), erm(45)), fusidic acid (n=9; fusC) and gentamicin (n=1; aac(6')-Ie - aph(2'')-Ia).</seg>
-          <seg id="9">This study represents the first national prevalence study of methicillin-resistant Macrococcus spp.</seg>
-          <seg id="10">in pigs, calves, pork and beef meat in Switzerland and revealed a reservoir of genetically diverse strains carrying several resistance traits.</seg>
+          <seg id="1">This paper retrospectively reviews our experience with endovascular and hybrid treatments for subclavian artery aneurysms (SAA).</seg>
+          <seg id="2">Seventeen patients with SAAs were treated at our center between July 2011 and October 2018.</seg>
+          <seg id="3">Clinical and follow-up data were extracted from the hospital records and retrospectively reviewed.</seg>
+          <seg id="4">We routinely use endovascular treatments and stenting or axillary-axillary bypass to treat SAA if vertebral artery blood flow requires restoration.</seg>
+          <seg id="5">Patients were followed up at 3, 6, and 12 months after their operations and yearly thereafter.</seg>
+          <seg id="6">Median follow-up was 30.5 months.</seg>
+          <seg id="7">In 6 patients, the SAAs involved the ipsilateral vertebral artery. Simple coil embolization was performed for 1 patient; endovascular covered stenting and coil embolization for 4 patients; and hybrid treatment for 1 patient.</seg>
+          <seg id="8">In 11 patients, the SAAs did not involve the ipsilateral vertebral artery.</seg>
+          <seg id="9">Hybrid treatment was performed for 1 patient; thoracic aortic stent implantation with coil embolization for 1 patient; and covered stent placement in the subclavian artery for 9 patients.</seg>
+          <seg id="10">Among the 9 patients who were symptomatic at presentation, 8 had relief of symptoms.</seg>
+          <seg id="11">Leakage was observed in 1 patient, but it stopped spontaneously.</seg>
+          <seg id="12">Stent occlusion occurred in 33% (3/9), but all were asymptomatic, and no interventions were necessary.</seg>
+          <seg id="13">Endovascular and hybrid treatments appear to be effective for SAAs with few complications and good clinical outcomes. Covered stent, Coil embolization, Endovascular treatment, Hybrid, Subclavian artery aneurysm.</seg>
         </p>
       </src>
     </doc>
@@ -1091,94 +831,36 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc37">
+    <doc origlang="en" id="doc32">
       <src lang="en">
         <p>
-          <seg id="1">Many factors that influence patient outcome in colorectal surgery are not editable, and these are related either the tumor, the patient and the treatment. The surgeon- and hospital-related factors are independent predictors of outcome for colorectal cancer surgery and these are supervision, teaching/training, specialization in colorectal surgery, high caseload, high hospital caseload. We evaluated the impact of the experience of 4 surgeons on the 5 years survival rate of patients with colon and rectal cancer and we valued if the surgeons' experience plays an equal role in both.</seg>
-          <seg id="2">Four experienced surgeons operated 384 patients with colorectal cancer.</seg>
-          <seg id="3">Surgeon with the major experience and colorectal-dedicated presented a slightly better total 5 years survival rate, comparing to other surgeons, although he had a considerably better 5 years survival rate in rectal operations.</seg>
-          <seg id="4">We concluded that surgeon- and hospital-related factors directly influence the surgeon learning curve and are therefore rightly considered predictors of outcome in colorectal cancer surgery.</seg>
-          <seg id="5">A low surgeon or hospital caseload may be compensated by intensified supervision or by improved training and teaching. Colon cancer, Colectomy, Surgeon volume.</seg>
+          <seg id="1">We present the clinical observation of a female patient with cystic peritoneal malignant mesothelioma developed in the thickness of the abdominal wall.</seg>
+          <seg id="2">The diagnosis included several steps: tumor classification as mesothelioma, tumor differentiation from reactive mesothelial hyperplasia, establishment of the malignant nature and differentiation from other malignant peritoneal tumors.</seg>
+          <seg id="3">Relapse in about one year after surgery and about six months after the end of chemotherapy also claim malignancy of the tumor.</seg>
+          <seg id="4">The particular tumor location in the thickness of the abdominal muscles, seemingly without involvement of the parietal peritoneum, in a patient with a history of caesarean operation, questions its development out of ectopic tissue embedded in scar from previous surgery. KEY WORDS: Abdominal wall, Caesarian operation Cystic malignant peritoneal mesothelioma, CK5/6, p53.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc25">
+    <doc origlang="en" id="doc30">
       <src lang="en">
         <p>
-          <seg id="1">Background and Aim. Starting from March 9, 2020, the Italian government has proclaimed a state of health emergency due to the epidemic, which later became a SARSCoV- 2 infection pandemic.</seg>
-          <seg id="2">The present study aimed to perform differences and any potential risk factors in anxious and depressive symptoms in Italian nurses during the Covid-19 pandemic according to selected sociodemographic variables.</seg>
-          <seg id="3">Methods.</seg>
-          <seg id="4">In November 2020 an 'ad hoc' questionnaire was administered online to all Italian nurses.</seg>
-          <seg id="5">In the first part, a whole series of socio-demographic variables relating to the reference sample were collected, as: gender, the department to which participants belonged, if the respondent suffered from pulmonary or cardiovascular diseases, if the nurse lived alone or with other cohabitants and whether during the pandemic the participant contracted the SARS-CoV-2 infection or not.</seg>
-          <seg id="6">In the second part of the questionnaire, the Hospital Anxiety and Depression Scale was administered to quickly and easily assess the anxiety and depression levels among the Italian nurses during the Covid-19 pandemic.</seg>
-          <seg id="7">Results. 732 nurses agreed to participate to this survey.</seg>
-          <seg id="8">Among participants, 479 (65.3%) recorded an anxious symptomatology and 267 (6.4%) a depressive one.</seg>
-          <seg id="9">According to anxious symptoms, a significant difference was recorded between females and males (p min 0.001), as females recorded higher mild (24.04%), moderate (23.09%) and severe (13.39%) anxious symptom levels than males (Mild:1.50%; Moderate: 2.46%; Severe: 0.96%).</seg>
-          <seg id="10">By considering depressive symptoms according to socio demographic variables, only nurses without cardiovascular diseases recorded higher frequencies in mild (21.58%), moderate (8.47%) and severe (2.46%) depressive symptoms than nurses who suffered from a cardiovascular disease (Mild:2.05%; Moderate: 1.64%; Severe: 0.27%).</seg>
-          <seg id="11">Potential risk factors identified for anxious symptoms were: gender, both for mild (p min 0.001), moderate (p=.008) and severe (p=.003) anxious symptoms, and pulmonary diseases for severe anxious disorders (p=.014).</seg>
-          <seg id="12">Potential risk factors identified for the onset of depressive symptoms were: gender (p=.026), pulmonary diseases (p=.021), domestic partnership (p=.035), for mild symptoms; the presence of cardiac diseases (p=.006) for moderate symptoms.</seg>
-          <seg id="13">Conclusions.</seg>
-          <seg id="14">It urged to begin to further implement all forms of psychological support for nurses and further implementation of university nursing training programs that aim at both the technical and psychological management of the future professional to cope with maxi emergencies.</seg>
+          <seg id="1">An oesophageal tube feeder was used to administer milk to six clinically healthy calves every 12 hours for a total of three feedings.</seg>
+          <seg id="2">The calves were seven to nine days of age, and each feeding consisted of a volume of milk that was 6 % of the body weight of the calves.</seg>
+          <seg id="3">The reticulum and abomasum were scanned ultrasonographically before, during and after drenching.</seg>
+          <seg id="4">Blood samples for D-lactate determination and venous blood gas analysis were collected at -12, 0 (first drenching), 6, 12 (second drenching), 18, 24 (third drenching), 30 and 36 hours.</seg>
+          <seg id="5">Ruminal fluid was collected for measurement of pH and D-lactate concentration at -12 and 36 hours.</seg>
+          <seg id="6">Based on simultaneous ultrasonographic examinations of the reticulum and abomasum, some of the force-fed milk flowed into the reticulum and some directly into the abomasum; both organs contained milk immediately after drenching.</seg>
+          <seg id="7">Drenching led to ruminal acidosis evidenced by a significant decrease in median pH from 7,0 (6,0 - 7,0) to 4,5 (3,0 - 5,0) and a 93-fold increase in median D-lactate concentration from 0,39 (0,14 - 1,33) to 36,3 (17,9 - 53,3) mmol/l but it did not cause metabolic acidosis.</seg>
+          <seg id="8">Based on these findings, we concluded that milk administered to calves via an oesophageal tube feeder flows into the reticulum and abomasum simultaneously and three force feedings 12 hours apart cause acute ruminal acidosis, which was not accompanied by metabolic acidosis in the short term.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc11">
+    <doc origlang="en" id="doc8">
       <src lang="en">
         <p>
-          <seg id="1">Oral lichen planus (OLP) is a chronic inflammatory disease.</seg>
-          <seg id="2">There are no markers that can be used to identify the risk of a malignant transformation of OLP to oral squamous cell carcinoma (OSCC).</seg>
-          <seg id="3">Immunohistochemical staining was performed among 56 patients with OLP and 66 patients with OSCC for p53, HSP90 and E-cadherin expression and presence of HPV16/18.</seg>
-          <seg id="4">Significant differences in p53 and HSP90 expression between OLP and OSCC were found (&lt;i&gt;p&lt;/i&gt; = 0.01 and &lt;i&gt;p&lt;/i&gt; = 0.006, respectively).</seg>
-          <seg id="5">A positive correlation between HSP90 and p53 expression was seen in OLP (&lt;i&gt;p&lt;/i&gt; = 0.017).</seg>
-          <seg id="6">Univariate analysis identified HSP90 expression and HPV16/18 presence as prognostic factors for overall survival time (OS) (&lt;i&gt;p&lt;/i&gt; &lt; 0.05).</seg>
-          <seg id="7">In multivariate analysis, only HSP90 expression was an independent prediction factor for shorter OS of OSCC patients (&lt;i&gt;p&lt;/i&gt; = 0.016).</seg>
-          <seg id="8">The present study suggests that cooperation between p53 and HSP90 as well as between HPV16/18 and HSP90 exists in OLP and may affect the biological behaviour of OLP.</seg>
-          <seg id="9">The observed expression of HSP90 and p53 in OLP and their increase in OSCC suggests that these proteins participate in the malignant transformation of OLP.</seg>
-          <seg id="10">HSP90 may be a potential independent prognostic biomarker that can predict poor prognosis in OSCC.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc22">
-      <src lang="en">
-        <p>
-          <seg id="1">The development of acute pancreatitis is multifactorial requiring predisposition and relevant injury.</seg>
-          <seg id="2">Viral acute pancreatitis has been described in other viral infections.</seg>
-          <seg id="3">However, pancreatic involvement in SARS-CoV-2 infection is still poorly defined.</seg>
-          <seg id="4">The present comparative study reports the patients with acute pancreatitis during the COVID-19 pandemic and last year covering the same period to appraise the link between COVID-19 and acute biliary pancreatitis.</seg>
-          <seg id="5">The retrospective observational study was conducted in acute biliary pancreatitis patients from 13.03.19to13.09.19 and from 13.03.20to13.09.20 respectively. The study included 181patients(105patients in 2019;76 patients in 2020(during COVID-19 pandemic)).The patients were named as Group A(Normal period)and GroupB(Pandemic period),respectively.</seg>
-          <seg id="6">The groups were found to be comparable as there was no significant difference between the mean age, sex, comorbidities, cholecystectomized, and recurrency.</seg>
-          <seg id="7">There is no significant difference in the laboratory and radiological findings of GroupA and GroupB. However, there is a significant difference between the COVID-19 positive and negative patients in GroupB in terms of Glucose levels(p=0,025)and the presence of edema or necrosis in radiological images(p=0,046).There is a significant difference between the patients' number with abdominal pain of acute biliary pancreatitis in 2019and2020.(p=0)The length of stay was statistically significant in COVID-19 positive patients.(p= 0,013) CONCLUSIONS: Clinicians involved in the management of acute pancreatitis should be aware of its existence in the context of COVID-19.Understanding of the disease process and clinical manifestations of COVID-19 is still developing.</seg>
-          <seg id="8">Awareness of these issues and addressing them adequately will be crucial for the management.</seg>
-          <seg id="9">Acute Biliary Pancreatitis, Coronavirus disease 2019 (COVID-19), Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc40">
-      <src lang="en">
-        <p>
-          <seg id="1">Early diagnosis of cochlear implant failures (CIF) is a critical part of post-implantation follow-up.</seg>
-          <seg id="2">Diagnosis is challenging and time consuming.</seg>
-          <seg id="3">Our study aimed to describe diagnoses of CIF with emphasis on soft failures (SF), focusing on symptoms, time from symptoms to replacement, and differences between SF and hard failures (HF).</seg>
-          <seg id="4">A retrospective review of medical records in a tertiary care referral paediatric medical centre including all patients who experienced CIF during 2000-2020.</seg>
-          <seg id="5">Of 1004 CI surgeries, 72 (7.2%) cases of CIF were included, of which 60 CIF were in children (mean age 3.1 years).</seg>
-          <seg id="6">Twenty-five cases were due to HF, 26 SF, and 21 due to medical reasons.</seg>
-          <seg id="7">Patients with SF were more likely to present with headache, dizziness, or tinnitus compared with those with HF.</seg>
-          <seg id="8">Facial stimulation and disconnections were more common in implants from Advanced Bionics, dizziness and tinnitus in Cochlear, and poor progression in Med-El.</seg>
-          <seg id="9">Mean time from symptoms to implant replacement surgery was longer in cases with SF compared to HF.</seg>
-          <seg id="10">SF poses a diagnostic challenge.</seg>
-          <seg id="11">Symptoms such as headache, dizziness, and tinnitus are common.</seg>
-          <seg id="12">Diagnosis of failure should often be based on assessments of the implant and rehabilitation teams.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="en" id="doc2">
-      <src lang="en">
-        <p>
-          <seg id="1">The relationship between chronic rhinosinusitis, asthma and allergic rhinitis is well known, but only recently has the scientific community started to evaluate these as different manifestations of a common pathogenic phenomenon, considering them as a unified airway disease.</seg>
-          <seg id="2">Twenty-two patients with chronic rhinosinusitis treated with endoscopic sinus surgery (ESS) were included in the study. Sino-nasal assessment questionnaire (SNAQ) investigating subjective evaluation of sino-nasal state was administered to patients, while objective evaluations included nasal endoscopy, sinonasal CT, skin prick tests, nasal cytology, spirometry, bronchodilator responsiveness testing and sputum eosinophil count. All tests were performed before surgery.</seg>
-          <seg id="3">Two months after surgery, SNAQ questionnaire, nasal endoscopy, spirometry and bronchodilator responsiveness testing were repeated.</seg>
-          <seg id="4">All patients had significant improvement of subjective status: mean SNAQ score decreased in all from 99.31 to 16.04. Mean Forced Expiratory Volume in the 1&lt;sup&gt;st&lt;/sup&gt; second (FEV&lt;sub&gt;1&lt;/sub&gt;) significantly improved after surgery from 3.23 to 3.45 L/s.</seg>
-          <seg id="5">ESS achieved a beneficial effect on upper and lower airway status in patients with chronic rhinosinusitis with or without lower airway diseases.</seg>
+          <seg id="1">Enterobius Vermicularis (EV) is the most commonly identified heminth incidentally found within the appendix of a clinically diagnosed appendicitis.</seg>
+          <seg id="2">This simple presence of EV may cause appendicular colic, primarily affecting children, it is an important cause of negative appendicectomy.</seg>
+          <seg id="3">We report a case of a young male who presented with clinical features of acute appendicitis. Laparoscopic appendicectomy was uneventful and pathologic examination revealed the presence of an EV infestation originating from the lumen of his vermiform appendix. KEY WORDS: Acute appendicitis, Diagnosis, Enterobius Vermicularis.</seg>
         </p>
       </src>
     </doc>
@@ -1198,50 +880,68 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc42">
+    <doc origlang="en" id="doc24">
       <src lang="en">
         <p>
-          <seg id="1">Treatment of severe neutropenia with high-dose pyridoxine in a patient with chronic graft versus host disease and squamous cell carcinoma: a case report</seg>
-          <seg id="2">Introduction: The differential diagnosis of neutropenia includes medications, infections, autoimmune diseases, and deficiencies of Vitamin B12 and folate.</seg>
-          <seg id="3">The association of Vitamin B6 deficiency with severe neutropenia is a rare finding.</seg>
-          <seg id="4">Case presentation: A 51-year-old Caucasian woman presented with fever and profound neutropenia (48 neutrophils/uL).</seg>
-          <seg id="5">Her clinical history included non-Hodgkin lymphoma, in remission following treatment with allogeneic bone marrow transplantation, quiescent chronic graft-versus-host disease, and squamous cell carcinoma of the skin metastatic to cervical lymph nodes.</seg>
-          <seg id="6">Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.</seg>
-          <seg id="7">The bone marrow was hypocellular without metastatic cancer or myelodysplasia.</seg>
-          <seg id="8">Neutropenia did not respond to stopping medications that have been associated with neutropenia (valganciclovir, voriconazole and Soriatane) or treatment with antibiotics or granulocyte colony stimulating factor.</seg>
-          <seg id="9">Blood tests revealed absence of antineutrophil antibodies, normal folate and B12 levels, moderate zinc deficiency and severe Vitamin B6 deficiency.</seg>
-          <seg id="10">Replacement therapy with oral Vitamin B6 restored blood vitamin levels to the normal range and corrected the neutropenia.</seg>
-          <seg id="11">Her cervical adenopathy regressed clinically and became negative on scintography following Vitamin B6 therapy and normalization of the blood neutrophil count.</seg>
-          <seg id="12">Conclusion: Severe pyridoxine deficiency can lead to neutropenia.</seg>
-          <seg id="13">Screening for Vitamin B6 deficiency, along with folate and Vitamin B12 levels, is recommended in patients with refractory neutropenia, especially those with possible malabsorption syndromes, or a history of chronic-graft-versus host disease.</seg>
-          <seg id="14">Severe neutropenia may facilitate progression of squamous cell carcinoma.</seg>
-          <seg id="15">The patient was a 51-year-old Caucasian woman with relapsed non-Hodgkin lymphoma treated four years earlier with an allogeneic stem cell transplant.</seg>
-          <seg id="16">Her lymphoma was in remission.</seg>
-          <seg id="17">Complications of her allogeneic transplant included a history of chronic extensive graft-versus-host disease (GvHD) involving the skin and dermal squamous cell carcinoma.</seg>
-          <seg id="18">Immunosuppression with cyclosporine had been discontinued two months earlier due to the development of squamous cell carcinoma and the absence of active GvHD.</seg>
-          <seg id="19">She had no history of smoking, alcohol, or drug abuse.</seg>
-          <seg id="20">She presented with fever and profound neutropenia; serial blood counts showed that the neutropenia had been present for more than a month (Figure 1).</seg>
-          <seg id="21">Her examination showed moderate cachexia, long-standing sclerodermatous changes and hyper-pigmentation of the skin consistent with quiescent GvHD, palpable 2.5 cm left cervical and submandibular adenopathy that was flurodeoxy glucose (FDG) avid on positron emission tomography/computerized tomography (PET/CT) scan.</seg>
-          <seg id="22">She had a non-focal neurological examination.</seg>
-          <seg id="23">A complete blood count showed a normal total leukocyte count (4,600/uL) with 2% granulocytes (48 neutrophils/uL) together with 84% lymphocytes and 14% monocytes.</seg>
-          <seg id="24">Red blood cells were 4.24 × 10E12/L, hemoglobin was 12.4 g/dL, hematocrit was 0.37, and the platelet count was 113 × 10E9/L.</seg>
-          <seg id="25">Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.</seg>
-          <seg id="26">Blood cultures showed a micrococcus species.</seg>
-          <seg id="27">Her iron level was 330 mcg/L with 20% saturation.</seg>
-          <seg id="28">Folate, vitamin B1, vitamin B12, copper, vitamin D levels, thyroid function tests, creatinine, bilirubin, liver enzymes and lactate dehydrogenase (LDH) were normal.</seg>
-          <seg id="29">Her blood zinc level was borderline low at 49 mcg/dL.</seg>
-          <seg id="30">Antineutrophil antibodies were absent (&lt;1:10 titer).</seg>
-          <seg id="31">PCR tests for cytomegalovirus (CMV) and Epstein Barr virus (EBV) in the blood were negative, and had remained negative on prophylactic doses of valganciclovir following CMV reactivation five months earlier.</seg>
-          <seg id="32">Her vitamin B6 level was very low at 0.5 ng/mL (reference range 5 to 30 ng/mL).</seg>
-          <seg id="33">Serum IgG was polyclonally elevated at 3720 mg/dL as were blood T-cells (4580 cells/uL) and CD8+ T-cells (2836 cells/uL) with normal numbers of CD4+ T-cells, B-cells and natural killer (NK) cells.</seg>
-          <seg id="34">Her fever resolved with a course of vancomycin, without identifying a site of infection.</seg>
-          <seg id="35">Histological examination of the marrow demonstrated marked hypocellularity without specific megaloblastic or myelodysplastic findings, metastatic cancer, or features to suggest immune-mediated thrombocytopenia.</seg>
-          <seg id="36">Cytogenetic analysis showed 100% donor (male) cells without any clonotypic abnormalities.</seg>
-          <seg id="37">Biopsy of a cervical lymph node showed poorly differentiated carcinoma, consistent with metastatic squamous cell carcinoma.</seg>
-          <seg id="38">Valganciclovir, voriconazole, and Soriatane (acitretin) were discontinued (as potential causes of neutropenia) and prophylactic fluconazole and acyclovir were started.</seg>
-          <seg id="39">Granulocyte colony stimulating factor (G-CSF; 300 ug subcutaneously every other day) was administered for four doses in mid February 2010 without any improvement in her neutropenia.</seg>
-          <seg id="40">Following daily supplementation with 150 mg Vitamin B6, blood B6 levels normalized concomitant with resolution of the neutropenia (Figure 1).</seg>
-          <seg id="41">Following correction of the B6 deficiency and neutropenia, the cervical adenopathy completely regressed by clinical examination and became scintographically negative by PET/CT.</seg>
+          <seg id="1">Intracystic papillary carcinoma in a male as a rare presentation of breast cancer: a case report and literature review</seg>
+          <seg id="2">Introduction: The term "intracystic papillary ductal carcinoma in situ" has recently changed and is now more appropriately referred to "intracystic papillary carcinoma".</seg>
+          <seg id="3">Intracystic papillary carcinoma in men is an extremely rare disease with only a few case presentations published in the literature so far.</seg>
+          <seg id="4">Case presentation: We discuss a case of a 44-year-old Caucasian man with an intracystic papillary carcinoma treated with simple mastectomy, sentinel lymph-node biopsy and contralateral risk-reducing mastectomy.</seg>
+          <seg id="5">These were followed by adjuvant radiotherapy of the breast.</seg>
+          <seg id="6">Conclusion: Triple assessment (i.e. clinical examination and radiological and histological assessment) with a high level of clinical suspicion is necessary to diagnose intracystic papillary carcinoma in men due to its rarity.</seg>
+          <seg id="7">Furthermore, genetic testing and risk-reducing mastectomy should also be considered in cases of a strong family history for male breast cancer.</seg>
+          <seg id="8">A 44-year-old Caucasian man presented to the breast clinic with a 3-week history of a swelling in his left breast.</seg>
+          <seg id="9">He also had a significant family history for breast cancer including a maternal grandmother, two of his maternal aunts and a maternal first cousin diagnosed with breast cancer.</seg>
+          <seg id="10">On examination, a well-circumscribed, 2.5 cm swelling was palpable within an area of gynecomastia on the left chest wall.</seg>
+          <seg id="11">Sonographically, a cystic mass with internal echoes was present without posterior acoustic shadowing.</seg>
+          <seg id="12">Aspiration of the lesion revealed uniformly blood-stained fluid and a residual swelling persisted.</seg>
+          <seg id="13">Cytology analysis of the aspirate confirmed the presence of atypical cells.</seg>
+          <seg id="14">Mammography showed a circumscribed mass in the sub-areolar region of the left breast with partially obscured margins.</seg>
+          <seg id="15">An irregular outline was noted on cranio-caudal view, but no spiculation or suspicious internal micro-calcifications were found.</seg>
+          <seg id="16">A core biopsy of the lesion revealed atypical ductal hyperplasia, but no evidence of malignancy was seen.</seg>
+          <seg id="17">In view of the atypical cells and residual swelling the lesion was excised.</seg>
+          <seg id="18">Histological analysis revealed a lesion 2.5 cm × 1.8 cm × 1.2 cm in size.</seg>
+          <seg id="19">The lesion comprised a papillary and solid proliferation of atypical cells within a large cystic space with a thick fibrous capsule (Figures 1, 2, 3) Haemorrhage was also noted within the cyst with changes consistent with the prior biopsy.</seg>
+          <seg id="20">The margins were clear; there was no evidence of stromal or fibrovascular invasion.</seg>
+          <seg id="21">The lesion displayed features of papillary DCIS and a diagnosis of intracystic papillary DCIS was made.</seg>
+          <seg id="22">Immunohistochemistry showed oestrogen receptor (ER) and progesterone receptor (PR) positivity.</seg>
+          <seg id="23">Completion left mastectomy with sentinel lymph-node mapping was carried out.</seg>
+          <seg id="24">Contralateral risk-reducing mastectomy was also performed in view of the strong family history for breast cancer.</seg>
+          <seg id="25">No evidence of further disease was detected in the mammary tissue and the sentinel node was clear.</seg>
+          <seg id="26">Adjuvant radiotherapy (40 Gy in 25 fractions) was advised due to tumour extension close to deep margin.</seg>
+          <seg id="27">Due to his significant family history for breast cancer, genetic testing was offered.</seg>
+          <seg id="28">Breast-cancer gene 2 (BRCA2) mutation had been identified in a maternal aunt recently on the exon 24 insertion called c9481_9482insA.</seg>
+          <seg id="29">It was very likely that this patient was a carrier of this BRCA2 mutation, which poses a small risk for him to develop prostate cancer.</seg>
+          <seg id="30">He was therefore advised to undergo prostate-specific antigen (PSA) blood testing on a yearly basis.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc7">
+      <src lang="en">
+        <p>
+          <seg id="1">The application of laparoscopic partial tubal resection with end-to-end anastomosis can reduce the incidence of persistent ectopic pregnancy.</seg>
+          <seg id="2">We aim to compare the therapeutic effects of laparoscopic fenestration and laparoscopic partial tubal resection with end-to-end anastomosis in the treatment of tubal ectopic pregnancy.</seg>
+          <seg id="3">The patients were randomly divided into the observation group (the group treated with laparoscopic partial tubal resection with end-to-end anastomosis, n=238) and the control group (the group treated with laparoscopic fenestration, n=213).</seg>
+          <seg id="4">The average operation time, intraoperative blood loss, postoperative exhaust time and hospital stay were observed to evaluate the clinical effect.</seg>
+          <seg id="5">In addition, the time required for the β-HCG to drop to normal level, the patency of the fallopian tubes and the ovarian function were observed in the two groups after the operation.</seg>
+          <seg id="6">There was no significant difference between observation group operation time, intraoperative hemorrhagic amount, blood β-HCG recovery time and hospital time and control group (P &gt; 0.05).</seg>
+          <seg id="7">The postoperative fallopian tube patency rate in the observation group was 67.58%, significantly higher than the control group (P &lt; 0.05).</seg>
+          <seg id="8">In addition, there was no significant difference in ovarian function between the two groups.</seg>
+          <seg id="9">The method of laparoscopic partial tubal resection with end-to-end anastomosis is more effective in the treatment of tubal ectopic pregnancy, and has less impact on ovarian function, which can effectively improve the probability of normal pregnancy after the operation. Fallopian tube, Ectopic pregnancy, Laparoscopic fenestration, Laparoscopic partial tubal resection with end-to-end anastomosis.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc12">
+      <src lang="en">
+        <p>
+          <seg id="1">Setaria tundra is known as a common parasite of sylvatic ungulates in Northern latitudes.</seg>
+          <seg id="2">Although mostly considered of low pathogenicity, severe disease outbreaks and remarkable economic losses have been observed in reindeer (Rangifer tarandus tarandus).</seg>
+          <seg id="3">Host density and climatic factors are major drivers of the expansion of Setaria spp.</seg>
+          <seg id="4">facilitating their development and spread.</seg>
+          <seg id="5">Five adult specimens of S. tundra were retrieved from a male roe deer in Bavaria, Germany.</seg>
+          <seg id="6">Deoxyribonucleic acid (DNA) barcoding confirmed morphological identification.</seg>
+          <seg id="7">Cyclooxygenase 1 gene sequences showed 98,73-99,68 % similarity to sequences of other S. tundra specimens found in deer (Cervidae) and mosquitoes (Culicidae).</seg>
+          <seg id="8">The results raise awareness for the presence of S. tundra in a hitherto unkown endemic region and represent a starting point for broader investigations to understand the biology and distribution of this parasite in roe deer as well as other potential definitive hosts.</seg>
         </p>
       </src>
     </doc>
@@ -1304,6 +1004,219 @@
         </p>
       </src>
     </doc>
+    <doc origlang="en" id="doc44">
+      <src lang="en">
+        <p>
+          <seg id="1">A series of oligomers of the type Boc-(L-Phe-D-Oxd)(n)-OBn (Boc = tert-butoxycarbonyl; Oxd = 4-methyl-5-carboxy oxazolidin-2-one; Bn = benzyl) were prepared for n = 2-5.</seg>
+          <seg id="2">The shortest oligomer, Boc-(L-Phe-D-Oxd)(2)-OBn, aggregates and forms a fiber-like material with an anti-parallel beta-sheet structure in which the oligopeptide units are connected to each other by only one intermolecular hydrogen bond. The longer oligomers exhibit structural heterogeneity.</seg>
+          <seg id="3">They start to organize into secondary structures by the formation of intramolecular hydrogen bonds at the pentamer level.</seg>
+          <seg id="4">Microscopy and diffraction of the oligomers indicated a crystalline character for only the shorter ones.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc13">
+      <src lang="en">
+        <p>
+          <seg id="1">Stenosed sphenoid sinus ostia are among the most common findings in revision endoscopic sinus surgery.</seg>
+          <seg id="2">This study sought to identify the optimal intraoperative sphenoidotomy size for prevention of postoperative stenosis.</seg>
+          <seg id="3">32 patients affected by chronic rhinosinusitis not associated with nasal polyps (CRSsNP) underwent 52 sphenoidotomies.</seg>
+          <seg id="4">Sphenoidotomy size was assessed using a ruler intraoperatively and at the first, third and sixth months postoperatively.</seg>
+          <seg id="5">Ostia sizes, SNOT-22 questionnaire findings, episodes of recurrent sinusitis and need for revision surgery were recorded.</seg>
+          <seg id="6">All sphenoidotomies exhibited a significant size reduction (mean 43.4 ± 6.8%) at the first month postoperatively, with a tendency to enlarge at 3 months and stabilise at 6 months.</seg>
+          <seg id="7">Ostia larger than 61.3 mm&lt;sup&gt;2&lt;/sup&gt; did not exhibit stenoses postoperatively.</seg>
+          <seg id="8">Stenosis was observed in 11 sphenoidotomies (21.2%); however, only five presented with recurrent symptoms (9.6%), while three required revision sphenoid surgery (5.8%).</seg>
+          <seg id="9">Sphenoidotomy size significantly reduced during the first postoperative month and then stabilised.</seg>
+          <seg id="10">A baseline sphenoidotomy size of 61.3 mm&lt;sup&gt;2&lt;/sup&gt; at the time of the operation seemed sufficient to prevent ostium stenosis.</seg>
+          <seg id="11">Half of stenosed ostia presented with recurrent symptoms.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc22">
+      <src lang="en">
+        <p>
+          <seg id="1">The development of acute pancreatitis is multifactorial requiring predisposition and relevant injury.</seg>
+          <seg id="2">Viral acute pancreatitis has been described in other viral infections.</seg>
+          <seg id="3">However, pancreatic involvement in SARS-CoV-2 infection is still poorly defined.</seg>
+          <seg id="4">The present comparative study reports the patients with acute pancreatitis during the COVID-19 pandemic and last year covering the same period to appraise the link between COVID-19 and acute biliary pancreatitis.</seg>
+          <seg id="5">The retrospective observational study was conducted in acute biliary pancreatitis patients from 13.03.19to13.09.19 and from 13.03.20to13.09.20 respectively. The study included 181patients(105patients in 2019;76 patients in 2020(during COVID-19 pandemic)).The patients were named as Group A(Normal period)and GroupB(Pandemic period),respectively.</seg>
+          <seg id="6">The groups were found to be comparable as there was no significant difference between the mean age, sex, comorbidities, cholecystectomized, and recurrency.</seg>
+          <seg id="7">There is no significant difference in the laboratory and radiological findings of GroupA and GroupB. However, there is a significant difference between the COVID-19 positive and negative patients in GroupB in terms of Glucose levels(p=0,025)and the presence of edema or necrosis in radiological images(p=0,046).There is a significant difference between the patients' number with abdominal pain of acute biliary pancreatitis in 2019and2020.(p=0)The length of stay was statistically significant in COVID-19 positive patients.(p= 0,013) CONCLUSIONS: Clinicians involved in the management of acute pancreatitis should be aware of its existence in the context of COVID-19.Understanding of the disease process and clinical manifestations of COVID-19 is still developing.</seg>
+          <seg id="8">Awareness of these issues and addressing them adequately will be crucial for the management.</seg>
+          <seg id="9">Acute Biliary Pancreatitis, Coronavirus disease 2019 (COVID-19), Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc9">
+      <src lang="en">
+        <p>
+          <seg id="1">To investigate the relationship between risk of Benign Paroxysmal Positional Vertigo (BPPV) recurrence and hypothyroidism treated with hormone replacement therapy (HRT).</seg>
+          <seg id="2">797 patients with idiopathic BPPV were divided into two groups: 250 patients with recurrence of BPPV (R-BPPV) and 547 patients without recurrence (NR-BPPV).</seg>
+          <seg id="3">Regarding patients with thyroid disease on HRT, we collected serum test results of thyroidstimulating hormone (TSH), free triiodothyronine f-T3, free thyroxine f-T4, thyroglobulin antibodies (TG-Ab) and thyroid peroxidase antibodies (TPO-Ab).</seg>
+          <seg id="4">Hypothyroidism in long-term HRT was found in 61/250 (24.4%) patients of the RBPPV group vs 79/547 (14.4%) of the NR-BPPV-group (p = 0.0006).</seg>
+          <seg id="5">Hashimoto thyroiditis (HT) was associated with recurrence (p &lt; 0.0001). A significant correlation was found between recurrence and level of serum TPO-Ab (p = 0.0117) and TG-Ab (p = 0.0025), but not with mean serum TSH, f-T3 and f-T4.</seg>
+          <seg id="6">We assume that patients with hypothyroidism in HRT have an increased risk of BPPV recurrence, which is particularly strong for patients with HT and positive thyroid antibodies, suggesting an association between autoimmunity and recurrent vertigo.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc40">
+      <src lang="en">
+        <p>
+          <seg id="1">Early diagnosis of cochlear implant failures (CIF) is a critical part of post-implantation follow-up.</seg>
+          <seg id="2">Diagnosis is challenging and time consuming.</seg>
+          <seg id="3">Our study aimed to describe diagnoses of CIF with emphasis on soft failures (SF), focusing on symptoms, time from symptoms to replacement, and differences between SF and hard failures (HF).</seg>
+          <seg id="4">A retrospective review of medical records in a tertiary care referral paediatric medical centre including all patients who experienced CIF during 2000-2020.</seg>
+          <seg id="5">Of 1004 CI surgeries, 72 (7.2%) cases of CIF were included, of which 60 CIF were in children (mean age 3.1 years).</seg>
+          <seg id="6">Twenty-five cases were due to HF, 26 SF, and 21 due to medical reasons.</seg>
+          <seg id="7">Patients with SF were more likely to present with headache, dizziness, or tinnitus compared with those with HF.</seg>
+          <seg id="8">Facial stimulation and disconnections were more common in implants from Advanced Bionics, dizziness and tinnitus in Cochlear, and poor progression in Med-El.</seg>
+          <seg id="9">Mean time from symptoms to implant replacement surgery was longer in cases with SF compared to HF.</seg>
+          <seg id="10">SF poses a diagnostic challenge.</seg>
+          <seg id="11">Symptoms such as headache, dizziness, and tinnitus are common.</seg>
+          <seg id="12">Diagnosis of failure should often be based on assessments of the implant and rehabilitation teams.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc27">
+      <src lang="en">
+        <p>
+          <seg id="1">We aimed to determine whether intraabdominal pressure change caused by pneumoperitoneum created during laparoscopic cholecystectomy (LC) has effects on abdominal and shoulder pain, nausea, vomiting, bowel movements, time of first flatus and defecation, and biochemical parameters.</seg>
+          <seg id="2">Seventy patients that were diagnosed with cholelithiasis and would undergo LC, between the ages of 18-75, with the Society of Anesthesia Physical Status (ASA) I-III classifications were included in the study.</seg>
+          <seg id="3">Patients were divided into two groups as whose intervention was defined as low pressure (8-10 mm/hg) and whose intervention was defined as high pressure (14-16 mm/hg).</seg>
+          <seg id="4">Differences in the prognoses of patients in both groups were observed for statistical significance. Shoulder pain- visual analogue scale (VAS) values in 6th and 24th hours were lower in Group 1(p&lt;0.005). There was no significant difference in abdominal pain-VAS values(p≥0.05). Mean intraoperative end-tidal carbon dioxide (ETCO2) values were higher in Group 2 (p&lt;0.005). Differences in nausea and vomiting were not significant(p≥0.05). There was no significant difference in the first flatus times(p≥0.05). Bowel movements resumed earlier in Group 1(p&lt;0.005). Changes were not significant for biochemical blood parameters in the preoperative and postoperative periods( p≥0.05). The use of low-pressure and high pressure carbon-dioxide (CO2)-pneumoperitoneum created during LC does not cause a significant difference in terms of clinical and laboratory results. Therefore, the surgical team should prefer an easy-to-apply pressure level which they are used to and in which they have low complication rates. Cholecystectomy, Pneumoperitoneum, Low-pressure CO2.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc28">
+      <src lang="en">
+        <p>
+          <seg id="1">Complete heart block ensuing from a metastatic small cell carcinoma: a case report</seg>
+          <seg id="2">Introduction: Notwithstanding the diagnostic and therapeutic advancements, the incidence of cardiac metastases has increased in recent decades.</seg>
+          <seg id="3">Lung cancers are the most common primary malignant neoplasms with cardiac metastasis potential.</seg>
+          <seg id="4">The clinical presentation of cardiac metastases is either silent or vague, and largely depends on the infiltrated location and tumor burden.</seg>
+          <seg id="5">Although arrhythmias are not uncommon in metastatic cardiac tumors, complete heart block is relatively a rare manifestation.</seg>
+          <seg id="6">We present a case of complete heart block due to a metastatic small cell carcinoma in a 67-year-old male of African origin.</seg>
+          <seg id="7">Case presentation: A 67-year-old male of African origin from rural Tanzania was referred to us for expert management.</seg>
+          <seg id="8">He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.</seg>
+          <seg id="9">His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake and chronic cigarette smoking.</seg>
+          <seg id="10">He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks coupled with a significant weight loss.</seg>
+          <seg id="11">He had normal echocardiographic findings, however, the electrocardiogram showed features of complete heart block.</seg>
+          <seg id="12">Chest X-ray showed a homogeneous opacification on the right side and computed tomography scan revealed a solid right lung mass with metastases to the liver, heart, bowels, and bone.</seg>
+          <seg id="13">He underwent bronchoscopy, which revealed an endobronchial mass obstructing the bronchus intermedius.</seg>
+          <seg id="14">Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of a small cell carcinoma.</seg>
+          <seg id="15">The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.</seg>
+          <seg id="16">He made an informed refusal of chemotherapy and inevitably died 18 months post pacing.</seg>
+          <seg id="17">Conclusions: Despite the advancements in medical diagnostics and management, lung cancers are often diagnosed in advanced stages, with an inevitable grave prognosis.</seg>
+          <seg id="18">Small cell carcinoma has the potential to metastasize to the heart, resulting in complete heart block.</seg>
+          <seg id="19">A 67-year-old male of African origin from the Kilimanjaro region north of Tanzania was referred to us for expert management.</seg>
+          <seg id="20">He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.</seg>
+          <seg id="21">His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake (5 units/day) and chronic cigarette smoking (20 pack years).</seg>
+          <seg id="22">He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks.</seg>
+          <seg id="23">Such complaints were associated with awareness of heart beat, easy fatigability, light headedness, dry cough, and weight loss (∼15 kg in 6 months).</seg>
+          <seg id="24">There was a negative history of fever, night sweats, chest pain, visual disturbances, recurrent headaches, bone pain, vomiting, or diarrhea.</seg>
+          <seg id="25">General examination revealed a wasted (BMI 17.6 kg/m2) man.</seg>
+          <seg id="26">He had a sinus bradycardia of 32 beats/minute and blood pressure of 117/66 mmHg on cardiovascular examination.</seg>
+          <seg id="27">Respiratory examination revealed features suggestive of right lung consolidation.</seg>
+          <seg id="28">Other systems were essentially normal.</seg>
+          <seg id="29">He underwent a number of hematological, biochemical, and serological tests, which revealed a normocytic normochromic anemia [hemoglobin (Hb) 11.1 g/dL] but otherwise normal.</seg>
+          <seg id="30">His echocardiography (ECHO) was essentially normal, however the electrocardiogram (ECG) showed features in keeping with the diagnosis of CHB, Fig. 1.</seg>
+          <seg id="31">Chest X-ray (CXR) showed a homogeneous opacification on the right side, and CT scan revealed a solid right lung mass with metastases to the heart, liver, bowels, and bone; Figs. 2, 3, 4, 5 and 6.</seg>
+          <seg id="32">Furthermore, he underwent bronchoscopy, which revealed an endobronchial mass occluding the bronchus intermedius.</seg>
+          <seg id="33">Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of small cell carcinoma, Fig. 7.</seg>
+          <seg id="34">Correspondingly, a histological section of heart muscle tissue revealed similar findings to lung biopsy.</seg>
+          <seg id="35">The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.</seg>
+          <seg id="36">He made an informed refusal of chemotherapy and inevitably died in his home village 18 months post pacing.</seg>
+          <seg id="37">We received the death information from his son via a phone call, and an autopsy was not practical.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc2">
+      <src lang="en">
+        <p>
+          <seg id="1">The relationship between chronic rhinosinusitis, asthma and allergic rhinitis is well known, but only recently has the scientific community started to evaluate these as different manifestations of a common pathogenic phenomenon, considering them as a unified airway disease.</seg>
+          <seg id="2">Twenty-two patients with chronic rhinosinusitis treated with endoscopic sinus surgery (ESS) were included in the study. Sino-nasal assessment questionnaire (SNAQ) investigating subjective evaluation of sino-nasal state was administered to patients, while objective evaluations included nasal endoscopy, sinonasal CT, skin prick tests, nasal cytology, spirometry, bronchodilator responsiveness testing and sputum eosinophil count. All tests were performed before surgery.</seg>
+          <seg id="3">Two months after surgery, SNAQ questionnaire, nasal endoscopy, spirometry and bronchodilator responsiveness testing were repeated.</seg>
+          <seg id="4">All patients had significant improvement of subjective status: mean SNAQ score decreased in all from 99.31 to 16.04. Mean Forced Expiratory Volume in the 1&lt;sup&gt;st&lt;/sup&gt; second (FEV&lt;sub&gt;1&lt;/sub&gt;) significantly improved after surgery from 3.23 to 3.45 L/s.</seg>
+          <seg id="5">ESS achieved a beneficial effect on upper and lower airway status in patients with chronic rhinosinusitis with or without lower airway diseases.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc39">
+      <src lang="en">
+        <p>
+          <seg id="1">Anthelmintic resistance (AR) of ruminant gastrointestinal nematodes (GINs) constitutes a major problem worldwide.</seg>
+          <seg id="2">Among GINs, the abomasal blood-feeding parasite Haemonchus contortus is particularly pathogenic and may show resistance against all major anthelmintic substance classes.</seg>
+          <seg id="3">In the present study, the death of a 1,5 year-old European bison (Bison bonasus) from a German wildlife park due to haemonchosis despite frequent anthelmintic treatment of the herd with fenbendazole as well as doramectin prompted an investigation regarding AR.</seg>
+          <seg id="4">Pooled faecal samples were collected from four different bison groups as well as from mouflons (Ovis orientalis), elk (Alces alces), reindeer (Rangifer tarandus), sika deer (Cervus nippon), Persian fallow deer (Dama mesopotamica) and red deer (Cervus elaphus) housed by the wildlife park.</seg>
+          <seg id="5">After coproscopical examination, faecal larval cultures were established.</seg>
+          <seg id="6">Haemonchus contortus-positive larval cultures were further examined for genetic polymorphisms associated with benzimidazole resistance at codons 167 and 200 of the β-tubulin isotype 1 gene by real-time pyrosequencing.</seg>
+          <seg id="7">Infections with H. contortus were detected in all four bison groups, as well as in mouflons.</seg>
+          <seg id="8">In five samples, representing two bison groups and the mouflons, the frequency of the resistance-associated single-nucleotide polymorphism (SNP) at codon 200 was 100%.</seg>
+          <seg id="9">In contrast, resistance-associated SNPs were not detected at codon 167.</seg>
+          <seg id="10">In addition, faecal egg counts from two bison before and 14 days after parenteral doramectin treatment indicated possible macrocyclic lactone resistance.</seg>
+          <seg id="11">Detection of anthelmintic resistant nematodes in these animals was especially concerning in the light of planned reintroduction into the wild.</seg>
+          <seg id="12">As helminth control in zoological gardens and wildlife parks relies mostly on anthelmintic treatment due to restricted possibilities regarding management practices such as rotational grazing, care should be taken to avoid underdosing or unnecessary frequent treatments facilitating the development of AR.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc4">
+      <src lang="en">
+        <p>
+          <seg id="1">Feline Calicivirus (FCV) is one of the most common viral pathogens in domestic cats worldwide.</seg>
+          <seg id="2">The first report of FCV dates back to 1957, when FCV was isolated from the gastrointestinal tract of cats in New Zealand.</seg>
+          <seg id="3">Subsequent reports recognised FCV as a cause of respiratory disease in cats, and at present, feline practitioners worldwide are daily confronted with cats suffering from suspected FCV.</seg>
+          <seg id="4">The highly mutagenic nature of FCV and its high genetic plasticity enable the virus to successfully survive in the feline population, and pose a special challenge as regards the diagnosis, treatment, and prevention of FCV-induced disease.</seg>
+          <seg id="5">Upper respiratory tract disease has been considered a common clinical sign of FCV infection.</seg>
+          <seg id="6">A study from Switzerland demonstrated that oral ulcerations, salivation and gingivitis-stomatitis were more commonly associated with FCV infection than upper respiratory tract disease, and less than half of the cats suspected to have FCV infection were found to be FCV-positive.</seg>
+          <seg id="7">Furthermore, a study investigating FCV isolates from Switzerland found some evidence that the genetic background of cats might influence their susceptibility to FCV infection.</seg>
+          <seg id="8">This review article provides a comprehensive summary of the FCV literature, and integrates the results of recent research on FCV's genetic characteristics, the cellular and humoral immunity evoked by FCV vaccination and infection, the diagnosis of FCV, FCV prevention/vaccination, the risk factors associated with FCV, and the hygienic measures necessary in FCV-contaminated areas.</seg>
+          <seg id="9">After each section, the key points are summarised, and relevant information is outlined to help feline practitioners in FCV diagnosis, treatment and prevention.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc10">
+      <src lang="en">
+        <p>
+          <seg id="1">Development and validation of a confocal laser endomicroscopy (CLE) classification score for the larynx and pharynx.</seg>
+          <seg id="2">Thirteen patients (154 video sequences, 9240 images) with laryngeal or pharyngeal SCC were included in this prospective study between October 2020 and February 2021.</seg>
+          <seg id="3">Each CLE sequence was correlated with the gold standard of histopathological examination.</seg>
+          <seg id="4">Based on a dataset of 94 video sequences (5640 images), a scoring system was developed.</seg>
+          <seg id="5">In the remaining 60 sequences (3600 images), the score was validated by four CLE experts and four head and neck surgeons who were not familiar with CLE.</seg>
+          <seg id="6">Tissue homogeneity, cell size, borders and clusters, capillary loops and the nucleus/cytoplasm ratio were defined as the scoring criteria.</seg>
+          <seg id="7">Using this score, the CLE experts obtained an accuracy, sensitivity, and specificity of 90.8%, 95.1%, and 86.4%, respectively, and the CLE non-experts of 86.2%, 86.4%, and 86.1%.</seg>
+          <seg id="8">Interobserver agreement Fleiss' kappa was 0.8 and 0.6, respectively.</seg>
+          <seg id="9">CLE can be reliably evaluated based on defined and reproducible imaging features, which demonstrate a high diagnostic value.</seg>
+          <seg id="10">CLE can be easily integrated into the intraoperative setting and generate real-time, in-vivo microscopic images to demarcate malignant changes.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc23">
+      <src lang="en">
+        <p>
+          <seg id="1">Cochlear fistula (CF) is a rare finding, usually associated with extensive middle ear cholesteatoma.</seg>
+          <seg id="2">There is agreement on the fact that removing the cholesteatoma matrix on a CF exposes the ear to a high risk of sensorineural hearing loss or dead ear.</seg>
+          <seg id="3">The aim of the study is to describe the presentation, possible treatment strategies and related outcomes for patients with CF in chronic otitis media (COM).</seg>
+          <seg id="4">The study considers a retrospective case series of patients with CF diagnosis supported by CT-scan and intraoperative/otoscopic evidence.</seg>
+          <seg id="5">Five cases of CF were identified, 4 associated with cholesteatoma and 1 associated with non-cholesteatomatous COM.</seg>
+          <seg id="6">Two patients presenting with anacusis underwent a subtotal petrosectomy. Two patients with useful hearing underwent a radical mastoidectomy in order to preserve the cholesteatoma matrix on the promontorium.</seg>
+          <seg id="7">One patient with good hearing and COM was treated conservatively.</seg>
+          <seg id="8">Conservative management should be considered for rare cases of CF in COM with residual hearing.</seg>
+          <seg id="9">Matrix preservation through radical/modified radical mastoidectomy is strongly advised in the presence of useful preoperative bone conduction.</seg>
+          <seg id="10">Subtotal petrosectomy should be considered the preferred option in presence of cholesteatoma with preoperative profound hearing loss.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc3">
+      <src lang="en">
+        <p>
+          <seg id="1">Meningiomas as anatomo-pathological entities were first described in the sixteenth century, but it was Harvey Cusching who in 1922 proposed to identify them with the term 'meningioma'.</seg>
+          <seg id="2">They are the most common intracranial tumors, occur between middle and late age and prefer female sex.</seg>
+          <seg id="3">The symptoms depend on their position with respect to the brain regions.</seg>
+          <seg id="4">These are mostly benign neoplasms, but there are atypical and even malignant forms.</seg>
+          <seg id="5">Plaque meningioma refers to a specific macroscopic aspect of the meningioma, due to diffuse dural involvement and usually with extracranial extension.</seg>
+          <seg id="6">We report here a case of plaque convex meningioma with typical grade I. Key Words: En plaque, Meningioma, WHO Meningioma.</seg>
+        </p>
+      </src>
+    </doc>
     <doc origlang="en" id="doc15">
       <src lang="en">
         <p>
@@ -1317,22 +1230,109 @@
         </p>
       </src>
     </doc>
-    <doc origlang="en" id="doc18">
+    <doc origlang="en" id="doc6">
       <src lang="en">
         <p>
-          <seg id="1">This paper retrospectively reviews our experience with endovascular and hybrid treatments for subclavian artery aneurysms (SAA).</seg>
-          <seg id="2">Seventeen patients with SAAs were treated at our center between July 2011 and October 2018.</seg>
-          <seg id="3">Clinical and follow-up data were extracted from the hospital records and retrospectively reviewed.</seg>
-          <seg id="4">We routinely use endovascular treatments and stenting or axillary-axillary bypass to treat SAA if vertebral artery blood flow requires restoration.</seg>
-          <seg id="5">Patients were followed up at 3, 6, and 12 months after their operations and yearly thereafter.</seg>
-          <seg id="6">Median follow-up was 30.5 months.</seg>
-          <seg id="7">In 6 patients, the SAAs involved the ipsilateral vertebral artery. Simple coil embolization was performed for 1 patient; endovascular covered stenting and coil embolization for 4 patients; and hybrid treatment for 1 patient.</seg>
-          <seg id="8">In 11 patients, the SAAs did not involve the ipsilateral vertebral artery.</seg>
-          <seg id="9">Hybrid treatment was performed for 1 patient; thoracic aortic stent implantation with coil embolization for 1 patient; and covered stent placement in the subclavian artery for 9 patients.</seg>
-          <seg id="10">Among the 9 patients who were symptomatic at presentation, 8 had relief of symptoms.</seg>
-          <seg id="11">Leakage was observed in 1 patient, but it stopped spontaneously.</seg>
-          <seg id="12">Stent occlusion occurred in 33% (3/9), but all were asymptomatic, and no interventions were necessary.</seg>
-          <seg id="13">Endovascular and hybrid treatments appear to be effective for SAAs with few complications and good clinical outcomes. Covered stent, Coil embolization, Endovascular treatment, Hybrid, Subclavian artery aneurysm.</seg>
+          <seg id="1">The aim of this study is to evaluate the factors that has an effect on Cecal Intubation time (CIT), and to define the relationship between quality of bowel preparation and body mass index (BMI).</seg>
+          <seg id="2">The Boston Bowel Preparation Scale (BBPS) was used for the evaluation of bowel cleansing.</seg>
+          <seg id="3">A total of 346 patients were included.</seg>
+          <seg id="4">The time from anus to caecum was recorded as the time of the cecal intubation time.</seg>
+          <seg id="5">Patients were defined under 3 subgroup BMI-1; ≤ 24.9, BMI-2; 25-29.9, BMI-3; ≥30.</seg>
+          <seg id="6">The mean BMI of women was 29.30 4.25 and men were 26.19 6.14 (p&lt;0,001).</seg>
+          <seg id="7">Mean Cecal Intubation time was 9.11 6.00 and 10.21 3.45 minutes for women and men (p=0.012).</seg>
+          <seg id="8">Women with High BMI (≥30) have shorter Cecal Intubation time compared to women with BMI less than 30 (p=0001).</seg>
+          <seg id="9">When BBPS evaluated, there was a significant difference in BMI-3 due to high scores compared to both BMI-1 and BMI-2 (p&lt;0.001).</seg>
+          <seg id="10">In BMI-3 group, also women had significantly higher scores in terms of BBPS(p=0.006).</seg>
+          <seg id="11">Also a negative correlation between BBPS and BMI with CIT has been found (r = - 0.371, p&lt;0.001 / r = -0.191 p&lt;0.001).</seg>
+          <seg id="12">In our study, women gender and increased BMI has a positive impact on the quality of intestinal cleansing that is associated with shortened Cecal Intubation time. Body Mass Index, Colonoscopy, Cecal intubation.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc11">
+      <src lang="en">
+        <p>
+          <seg id="1">Oral lichen planus (OLP) is a chronic inflammatory disease.</seg>
+          <seg id="2">There are no markers that can be used to identify the risk of a malignant transformation of OLP to oral squamous cell carcinoma (OSCC).</seg>
+          <seg id="3">Immunohistochemical staining was performed among 56 patients with OLP and 66 patients with OSCC for p53, HSP90 and E-cadherin expression and presence of HPV16/18.</seg>
+          <seg id="4">Significant differences in p53 and HSP90 expression between OLP and OSCC were found (&lt;i&gt;p&lt;/i&gt; = 0.01 and &lt;i&gt;p&lt;/i&gt; = 0.006, respectively).</seg>
+          <seg id="5">A positive correlation between HSP90 and p53 expression was seen in OLP (&lt;i&gt;p&lt;/i&gt; = 0.017).</seg>
+          <seg id="6">Univariate analysis identified HSP90 expression and HPV16/18 presence as prognostic factors for overall survival time (OS) (&lt;i&gt;p&lt;/i&gt; &lt; 0.05).</seg>
+          <seg id="7">In multivariate analysis, only HSP90 expression was an independent prediction factor for shorter OS of OSCC patients (&lt;i&gt;p&lt;/i&gt; = 0.016).</seg>
+          <seg id="8">The present study suggests that cooperation between p53 and HSP90 as well as between HPV16/18 and HSP90 exists in OLP and may affect the biological behaviour of OLP.</seg>
+          <seg id="9">The observed expression of HSP90 and p53 in OLP and their increase in OSCC suggests that these proteins participate in the malignant transformation of OLP.</seg>
+          <seg id="10">HSP90 may be a potential independent prognostic biomarker that can predict poor prognosis in OSCC.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc43">
+      <src lang="en">
+        <p>
+          <seg id="1">The prevalence of methicillin-resistant Macrococcus spp.</seg>
+          <seg id="2">in calves and pigs at slaughterhouses and in retail beef and pork meat was determined using samples taken in 2019 within the framework of the national monitoring of methicillin-resistant Staphylococcus aureus in food producing animals in Switzerland.</seg>
+          <seg id="3">The isolates were submitted to antimicrobial susceptibility testing of 19 antibiotics and to molecular techniques (e.g. PCR, microarray, WGS) for the identification of resistance genes, elements containing the methicillin resistance genes mec and sequence type (ST).</seg>
+          <seg id="4">Methicillin-resistant Macrococcus spp. (M. caseolyticus (n=38), M. bohemicus (n=4) and Macrococcus spp. (n=2)) were isolated in 40 of 299 nasal swabs from calves representing a prevalence of 13,38 % (95 % CI, 9,98 % - 17,70 %), and in four of 303 nasal swabs from pigs [1,32 % (95 % CI, 0,36 % - 3,35 %)].</seg>
+          <seg id="5">One of 311 samples of Swiss pork meat contained a Macrococcus sp. [0,32 % (95 % CI, 0,01 % - 1,78 %)], and four of 309 beef meat samples (260 domestic and 49 imported) contained M. caseolyticus [1,29 % (95 % CI, 0,35 % - 3,28 %)].</seg>
+          <seg id="6">The M. caseolyticus strains belonged to diverse STs, with ST21 being the most common in both pigs and calves.</seg>
+          <seg id="7">The mecD gene was located on Macrococcus resistance island mecD (McRImecD) in 42 strains and on staphylococcal cassette chromosome mec (SCCmecD) in three strains, while mecB was found on plasmids in four strains.</seg>
+          <seg id="8">In addition to resistance to β-lactams, the strains also exhibited resistance to tetracycline (n=17; tet(L), tet(K), tet(M)), streptomycin (n=13; str, ant(6)-Ia, rpsL mutation [K56R in ribosomal protein S12]), kanamycin (n=10; aac(6')-Ie - aph(2'')-Ia, aph(2')-Ib, aph(2')-Ic, ant(4')-Ia), clindamycin (n=9; erm(B), erm(45)), erythromycin (n=9; erm(B), msr(G), erm(45)), fusidic acid (n=9; fusC) and gentamicin (n=1; aac(6')-Ie - aph(2'')-Ia).</seg>
+          <seg id="9">This study represents the first national prevalence study of methicillin-resistant Macrococcus spp.</seg>
+          <seg id="10">in pigs, calves, pork and beef meat in Switzerland and revealed a reservoir of genetically diverse strains carrying several resistance traits.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc14">
+      <src lang="en">
+        <p>
+          <seg id="1">X-ray Reconstruction of Moving Morphology (XROMM) permits researchers to see beneath the skin, usually to see musculoskeletal movements.</seg>
+          <seg id="2">These movements can be tracked and later used to provide information regarding the mechanics of movement.</seg>
+          <seg id="3">Here, we discuss '&lt;i&gt;IK marker-guided rotoscoping&lt;/i&gt;'-a method that combines inverse kinematic solvers with that of traditional scientific rotoscoping methods to quickly and efficiently overlay 3D bone geometries with the X-ray shadows from XROMM data.</seg>
+          <seg id="4">We use a case study of three Nile crocodiles' (&lt;i&gt;Crocodylus niloticus&lt;/i&gt;) forelimbs and hindlimbs to evaluate this method.</seg>
+          <seg id="5">Within these limbs, different marker configurations were used: some configurations had six markers, others had five markers, and all forelimb data only had three markers.</seg>
+          <seg id="6">To evaluate IK marker-guided rotoscoping, we systematically remove markers in the six-marker configuration and then test the magnitudes of deviation in translations and rotations of the rigged setup with fewer markers versus those of the six-marker configuration.</seg>
+          <seg id="7">We establish that IK marker-guided rotoscoping is a suitable method for 'salvaging' data that may have too few markers.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc1">
+      <src lang="en">
+        <p>
+          <seg id="1">The COVID-19 pandemic emergency forced the health system in Italy to implement an immediate reorganisation to support the care of tens of thousands of patients and to maintain the quality of care for patients with other pathologies, such as oncologic diseases.</seg>
+          <seg id="2">The main goal of this study was to evaluate the impact of COVID-19 restrictions on the hospitalisation and post-operative rehabilitation of head and neck oncologic patients and to determine whether the introduction of new technologies such as video-communication may be useful to mitigate social distancing by close family members.</seg>
+          <seg id="3">Fifty-one consecutive patients underwent surgery for head and neck cancer during the period of lockdown caused by the COVID-19 pandemic.</seg>
+          <seg id="4">The data collected (post-operative pain, post-operative complications, duration of hospitalisation) were compared with those of 51 consecutive patients treated for head and neck cancer in the period immediately preceding lockdown.</seg>
+          <seg id="5">The average duration of hospitalisation was longer in patients operated on in the COVID-19 period, and, in particular, among patients who underwent a more demanding rehabilitation protocol.</seg>
+          <seg id="6">Despite this, our study did not show a significant difference in psychological aspects during hospitalisation.</seg>
+          <seg id="7">The greatest difficulties that occurred in the COVID-19 period were met by a greater commitment from medical staff, allowing the quality of life of head and neck cancer patients during post-operative rehabilitation to be maintained at a similar level to that before the pandemic.</seg>
+          <seg id="8">In the future, there will be a need for technological solutions to bring the patient closer to family members.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc16">
+      <src lang="en">
+        <p>
+          <seg id="1">This retrospective study aimed to verify the outcomes of stabilising occlusal splint therapy prescribed to 22 patients with unilateral definite Ménière's disease and comorbid temporomandibular joint disorder.</seg>
+          <seg id="2">The results of a battery of audiometric and vestibular tests were recorded before and after 6 months of treatment, as well as the scores of disease-specific questionnaires.</seg>
+          <seg id="3">The average hearing threshold in the affected ear and the acoustic immittance were unchanged. No spontaneous and positional nystagmus were recorded.</seg>
+          <seg id="4">Caloric hypo-responsiveness and vestibular myogenic evoked responses did not vary.</seg>
+          <seg id="5">No changes of stabilometric body sway parameters in eyes opened condition and with optokinetic stimulation delivered to the unaffected labyrinth were observed.</seg>
+          <seg id="6">A significant reduction was recorded in eyes closed condition and with the optokinetic stimulation toward the affected ear.</seg>
+          <seg id="7">The Tinnitus Handicap Inventory, the Situational Vertigo Questionnaire and the Numeric Pain Rating Scale scores improved. The number of vertigo attacks was reduced.</seg>
+          <seg id="8">Occlusal splint therapy is a favourable option to reduce aural symptoms of Ménière's disease and comorbid temporomandibular joint disorder, even if its pathophysiological mechanism remains elusive.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="en" id="doc35">
+      <src lang="en">
+        <p>
+          <seg id="1">The aim of this study was to evaluate the safety and efficacy of endoscopic submucosal dissection (ESD) of colonic polyps larger than 20 mm.</seg>
+          <seg id="2">Between March 2017 and July 2019, a gastro-entero endoscopist team resected 24 large colorectal polyps measuring 20-35 mm in diameter using the ESD technique.</seg>
+          <seg id="3">After the injection of a mixture of hydroxypropyl methylcellulose with dilute epinephrine and methylene blue into the submucosal layer, a circumferential incision was performed using an electrosurgical knife.</seg>
+          <seg id="4">A total of 24 colorectal polyps (≥20 mm) from 20 patients were evaluated.</seg>
+          <seg id="5">The mean age of the patients was 60 years; 16 patients were men and 4 patients were women.</seg>
+          <seg id="6">The mean polyp size removed by colorectal ESD was 35.3 mm (range 20.0-70.1 mm), and all 24 polyps were larger than 2 cm (100%).</seg>
+          <seg id="7">There were no cases of delayed bleeding after the colorectal ESD nor were there any post-surgery complications.</seg>
+          <seg id="8">This study demonstrates the efficacy and safety of carrying out ESD of large polyps.</seg>
+          <seg id="9">This is important because there is not a large body of literature on this subject in this specific population. Colonic polyps, Endoscopic submucosal dissection, Gastrointestinal endoscopy.</seg>
         </p>
       </src>
     </doc>

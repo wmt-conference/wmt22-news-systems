@@ -693,37 +693,39 @@
     </doc>
   </collection>
   <collection id="biomedical">
-    <doc origlang="it" id="doc18">
+    <doc origlang="it" id="doc34">
       <src lang="it">
         <p>
-          <seg id="1">Uno studio retrospettivo di 5 anni, sulle infezioni da ascaridi (Toxocara canis et Toxascaris leonina) nei cani in Italia meridionale, è stato effettuato per aggiornare lo stato epidemiologico di questi parassiti e per identificare i fattori di rischio che possono favorire l'insorgere di queste infezioni negli animali di questa area.</seg>
-          <seg id="2">I campioni di feci di 8149 cani sono stati analizzati copromicroscopicamente presso i nostri laboratori utilizzando le tecniche FLOTAC.</seg>
-          <seg id="3">Inoltre, un sottocampione di 500 campioni fecali è stato analizzato con la tecnica Mini-FLOTAC.</seg>
-          <seg id="4">Il 9,2 % (95 % CI = 8,6–9,8) dei campioni totali analizzati è risultato positivo a T. canis mentre lo 0,5 % (95 % CI = 0,4–0,7) è risultato positivo a T. leonina.</seg>
-          <seg id="5">Co-infezioni con T. canis e T. leonina sono state trovate nello 0,1 % dei cani (95 % CI = 0,0–0,1).</seg>
-          <seg id="6">I risultati ottenuti con gli esami FLOTAC e Mini-FLOTAC hanno evidenziato una concordanza quasi perfetta (k = 0,99, P &lt; 0,001) tra queste due tecniche.</seg>
-          <seg id="7">Il test del Chi-quadro ha mostrato una significativa associazione tra la positività all'infezione da T. canis e T. leonina (P &lt; 0,001) ed i cani che vivono all'esterno (giardino o canile).</seg>
-          <seg id="8">Inoltre, la positività per T. canis è risultata significativamente associata (P &lt; 0,001) anche all’età (cioè ai cuccioli), come mostrato dalla regressione logistica.</seg>
-          <seg id="9">La riduzione della prevalenza per T. canis e T. leonina durante il periodo di monitoraggio ha dimostrato che una diagnosi regolare potrebbe contribuire ad un controllo efficace di questi parassiti come suggerito dall'European Scientific Counsel Companion Animal Parasites (ESCCAP).</seg>
+          <seg id="1">Introduzione.</seg>
+          <seg id="2">I lavoratori esposti a rischi lavorativi per l’apparato oculo-visivo sono obbligatoriamente sottoposti a sorveglianza sanitaria che include tra gli accertamenti la visita oculistica.</seg>
+          <seg id="3">Obiettivo.</seg>
+          <seg id="4">Valutare la prevalenza delle patologie oculari tra i dipendenti dell’Ateneo e analizzare l’associazione tra fattori socio-demografici e le patologie tramite l’analisi dei dati informatizzati.</seg>
+          <seg id="5">Metodi.</seg>
+          <seg id="6">È stato condotto uno studio cross-sectional sui dati raccolti in una cartella clinica elettronica.</seg>
+          <seg id="7">È stata effettuata un’analisi univariata e successivamente una regressione logistica per verificare l’associazione tra le patologie oculari e le variabili socio-demografiche come genere ed età.</seg>
+          <seg id="8">Questo studio è stato effettuato utilizzando un database di cartelle oculistiche informatizzate di un Ateneo romano, riferite al periodo 2017-2018.</seg>
+          <seg id="9">Risultati.</seg>
+          <seg id="10">Il campione dello studio è di 4503 dipendenti, 44,86% uomini 55.13 % donne.</seg>
+          <seg id="11">L’età media è risultata pari a 44,53 anni.</seg>
+          <seg id="12">Le alterazioni oculo-visive più frequenti nei lavoratori dell’Ateneo risultano essere quelle rifrattive: miopia (53,87%), astigmatismo (37,95%), presbiopia (34,06%), ipermetropia (14,25%).</seg>
+          <seg id="13">L’analisi multivariata mostra che l’incremento dell’età è associato ad un aumento del rischio con tutte le variabili di esito, eccezione fatta per la miopia (OR = 0.98; IC 95%: 0.97 - 0.98).</seg>
+          <seg id="14">Il sesso femminile è associato ad un minore rischio di astigmatismo (OR= 0.83; C 95%: 0.73 - 0.94), cheratocono (OR = 0.22; IC 95%: 0.09 - 0.54) e discromatopsia (OR = 0.08; IC 95%: 0.02 - 0.34).</seg>
+          <seg id="15">Conclusioni.</seg>
+          <seg id="16">Considerando il numero elevato dei lavoratori coinvolti nello studio, la frequenza di esposizione ai rischi lavorativi e il fatto che alcune categorie di lavoratori siano esposte a più fattori di rischio contemporaneamente, si può concludere che la sorveglianza sanitaria possa essere un utile strumento di monitoraggio e controllo delle patologie oculari nei lavoratori a rischio.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc24">
+    <doc origlang="it" id="doc31">
       <src lang="it">
         <p>
-          <seg id="1">Il linfoma pancreatico primitivo (PPL) rappresenta meno dello 0.5% di tutte le neoplasie pancreatiche.</seg>
-          <seg id="2">Le manifestazioni cliniche di esordio non sono specifiche e la diagnosi è tardiva nella maggioranza dei pazienti.</seg>
-          <seg id="3">OSSERVAZIONE PERSONALE: Donna di 85 anni, ricoverata presso l’Ospedale Universitario “A. Fiorini” di Terracina- Polo Pontino, con diagnosi di addome acuto da sospetta rottura in due tempi della milza.</seg>
-          <seg id="4">Al ricovero la pz lamentava dolore a carico dei quadranti addominali superiori e riferiva caduta accidentale in casa avvenuta 20 giorni prima.</seg>
-          <seg id="5">Presentava esami ematochimici negativi per anemia e leucocitosi (Hb12.7g/dl; GB9.8x10/UL), significativo incremento del CA19.9 (196 U/ml), del CA125 (138 U/ml), delle LDH (1044 U/L) e della beta2-microglobulina.</seg>
-          <seg id="6">La CT torace-addome-pelvi con mdc mostrava versamento a densità ematica in sede pleurica sinistra, perisplenica, periepatica e nel Douglas e una neoformazione del corpo-coda pancreas con falda ematica peripancreatica. La milza appariva di dimensioni notevolmente aumentate, con presenza di area ipodensa di 12.5x10.6 cm di diametro come da ematoma intraparenchimale, con capsula splenica apparentemente indenne.</seg>
-          <seg id="7">La pz veniva sottoposta a laparotomia esplorativa urgente per sospetto emoperitoneo. All’apertura della cavità peritoneale si dimostrava la presenza di modesto versamento libero sieroematico da stillicidio della neoformazione pancreatica.</seg>
-          <seg id="8">La diffusione locale della malattia impediva ogni tentativo di resezione chirurgica.</seg>
-          <seg id="9">Si procedeva a controllo del sanguinamento con apposizione di emostatici topici (Tabotamp®) e a prelievo bioptico dalla neoformazione pancreatica.</seg>
-          <seg id="10">Si poneva diagnosi istologica finale di Linfoma Non-Hodgkin a grandi cellule di origine centro- follicolare, doppio espressore per la proteina CMYC e BCL2 all’immunoistochimica.</seg>
-          <seg id="11">L’età della pz, le scadenti condizioni generali, le patologie associate in trattamento poli-farmacologico, la diffusione localmente avanzata della malattia e l’aggressività istologica controindicavano il trattamento chemioradioterapico.</seg>
-          <seg id="12">CONCLUSIONE: La diagnosi di PPL è molto difficile e tardiva nella maggioranza dei pz, poichè le manifestazioni cliniche di esordio sono di solito aspecifiche; così come nel caso da noi riportato in cui il sanguinamento intraretro- peritoneale era difficilmente riconducibile ad una malattia pancreatica.</seg>
-          <seg id="13">I riferito trauma addominale, la sintomatologia clinica aspecifica, la CT in cui non erano state evidenziate le alterazioni caratteristiche dei linfomi extranodali, la sottovalutazione dell’aumento dei livelli plasmatici dei marcatori CA19-9 e CA125, delle LDH e della beta2- microglobulina, sono state nel nostro caso la causa di errata diagnosi e indicazione al trattamento chirurgico in urgenza.</seg>
+          <seg id="1">Descrizione delle strategie di prevenzione delle complicanze chirurgiche nel trattamento dei carcinomi laringei associati a tumore gigante della tiroide.</seg>
+          <seg id="2">Per questo studio sono stati utilizzati i dati clinici di un paziente anziano con carcinoma laringeo associato ad un grosso tumore della tiroide, diabete e ipertensione.</seg>
+          <seg id="3">Il tumore del paziente è stato rimosso con un intervento chirurgico simultaneo operato dal dipartimento di chirurgia tiroidea e dal dipartimento di chirurgia laringea; il paziente è stato seguito per più di 3 anni e le cicatrici di granulazione tracheale e di aderenze laringee sono state rimosse con ripetuti interventi con laser.</seg>
+          <seg id="4">La revisione della letteratura è stata effettuata sul database Wanfang, sul database China How Net e sul database MEDLINE tramite Computer.</seg>
+          <seg id="5">Le parole chiave di ricerca finali utilizzate per lo studio sono state “carcinoma a cellule squamose” e “glottide” o “laringe” / “laringeo”, “chirurgia”, “tumore alla tiroide” e “chirurgia simultanea”.</seg>
+          <seg id="6">Risultati: dopo completamento dell’intervento sono stati rimossi con successo il sondino naso-gastrico e la cannula tracheale, è stata ricostituita con successo la glottide e sono ripresi normalmente la respirazione orale, la fonazione e l’alimentazione per via orale.</seg>
+          <seg id="7">Conclusione: l’approccio multidisciplinare per l’asportazione simultanea di un carcinoma laringeo associato ad un voluminoso tumore tiroideo in soggetto anziano con danni multi-sistema e multi-organo è stata realizzata con successo.</seg>
+          <seg id="8">Ci sono solo pochi casi di questo tipo presentati in letteratura, ad illustrare le strategie di prevenzione del rischio per complicanze postoperatorie, tra cui infezione postoperatoria, le difficoltà di estubazione e la perdita della fonazione, che meritano di essere conosciute.</seg>
         </p>
       </src>
     </doc>
@@ -741,38 +743,51 @@
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc16">
+    <doc origlang="it" id="doc41">
       <src lang="it">
         <p>
-          <seg id="1">Obiettivo dello studio   descrivere l’incidenza, le caratteristiche radiologiche e anatomo-patologiche degli incidentalomi pancreatici.</seg>
-          <seg id="2">Nell’articolo, Inoltre, sono discusse le indicazioni chirurgiche di queste lesioni in base alla loro natura e localizzazione.</seg>
-          <seg id="3">Le lesioni pancreatiche incidentali sono sempre pi  frequentemente diagnosticate grazie alla larga diffusione di tecniche radiologiche di elevate qualit .</seg>
-          <seg id="4">Gli incidentalomi pancreatici possono essere cistici o solidi, benigni o maligni, coprendo un ampio spettro di variet  istologiche.</seg>
-          <seg id="5">Le lesioni cistiche sono pi  frequentemente di natura benigna o pre-maligna.</seg>
-          <seg id="6">L’asportazione chirurgica deve essere riservata solo in caso di variazioni sospette in senso degenerativo al follow-up oppure per le masse cistiche di larghe dimensioni (&gt;3 cm).</seg>
-          <seg id="7">Tra gli incidentalomi pancreatici solidi l’adenocarcinoma duttale   la neoplasia pi  frequentemente diagnosticata, seguita per frequenza dei tumori neuroendocrini.</seg>
-          <seg id="8">Il trattamento chirurgico dipende dalla localizzazione dell’incidentaloma: la duodenocefalopancreasectomia dovrebbe essere eseguita per le lesioni a carico della testa, mentre la pancreasectomia distale   indicata per quelle del corpo e della coda.</seg>
-          <seg id="9">La chirurgia del pancreas   delicata e tuttora gravata da serie complicazioni.</seg>
-          <seg id="10">Entrambi gli interventi chirurgici possono eseguiti con tecnica mini-invasiva, che   caratterizzata da un minor tasso di complicazioni, ma al momento attuale, non   stata dimostrata una miglior sopravvivenza nei pazienti oncologici CONCLUSIONI: Gli incidentalomi pancreatici sono di riscontro sempre pi  frequente nella pratica clinica, ma quando e come intervenire chirurgicamente   ancora materia di dibattito.</seg>
-          <seg id="11">Attualmente mancano precisi criteri circa la strategia di trattamento e sono quindi necessarie linee-guida per definire il miglior approccio di queste lesioni del pancreas.</seg>
+          <seg id="1">Lo scopo di questo studio era di testare un metodo per determinare la larghezza della gabbia per l’avanzamento della tuberosità tibiale (TTA) durante un esame radiologico preoperatorio senza dover estendere l’articolazione del ginocchio.</seg>
+          <seg id="2">Le dimensioni della gabbia TTA sono state determinate con quattro metodi diversi utilizzando radiografie in direzione medio-laterale su articolazioni del ginocchio completamente estese in cani (n = 43) con e senza malattia del legamento crociato craniale. I metodi utilizzati sono: metodo Parallel Shift (PS), metodo Common Tangent (CT), metodo «2,1» (dimensione della gabbia = 2,1 × lunghezza del piatto tibiale – larghezza della tuberosità tibiale) e metodo Margo cranialis (MC) (dimensione della gabbia = lunghezza del MC/6*1,75).</seg>
+          <seg id="3">I due nuovi metodi, «2,1» e MC, sono stati confrontati con i metodi già esistenti CT e PS.</seg>
+          <seg id="4">Tutti e 4 i metodi hanno ottenuto delle dimensioni affidabili delle gabbie TTA.</seg>
+          <seg id="5">Il coefficiente di correlazione interclasse ha mostrato un’eccellente concordanza del metodo CT e PS rispetto al metodo «2,1» e una buona concordanza rispetto al metodo MC.</seg>
+          <seg id="6">In conclusione, la dimensione della gabbia TTA dell’anatomia tibiale può essere determinata dalle sole radiografie senza la necessità di estendere completamente l’articolazione del ginocchio.</seg>
+          <seg id="7">Sulla base dei risultati, si raccomandano due diversi metodi di misurazione delle dimensioni della gabbia per aumentare l’accuratezza diagnostica e prevenire l’inserimento di gabbie non ottimali.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc10">
+    <doc origlang="it" id="doc9">
       <src lang="it">
         <p>
-          <seg id="1">L’ileo da calcoli biliari   una malattia rara nella pratica chirurgica di emergenza con diagnosi solitamente difficili e generalmente solo realizzata durante l’intervento chirurgico.</seg>
-          <seg id="2">Gli approcci attuali sono: enterolitotomia, colecistectomia e riparazione di fistole (intervento chirurgico in un’unica fase), enterolitotomia con colecistectomia eseguita successivamente (intervento chirurgico in due fasi) e solo enterolitotomia (procedura chirurgica pi  segnalata).</seg>
-          <seg id="3">I dati clinici, operativi e di follow-up su 14 pazienti consecutivi trattati nella nostra clinica per ileo da calcoli biliari sono stati rivisti retrospettivamente.</seg>
-          <seg id="4">L’ileo da calcoli biliari   stato registrato nello 0,06% di tutte le operazioni per litiasi biliare e nell’1% di tutte le occlusioni enteriche: 11 donne e un uomo, con un’et  media di 77,3 (range 67-100) anni.</seg>
-          <seg id="5">Si   registrato un ritardo medio di 3,16 giorni tra insorgenza dei sintomi e ricovero.</seg>
-          <seg id="6">La laparotomia urgente ha confermato l’ostruzione di calcoli biliari e una fistola colecisto-duodenale in 13 casi, o una fistola colecisto-colonica (1 caso).</seg>
-          <seg id="7">Abbiamo eseguito un intervento chirurgico in una fase in 4 casi, la sola enterolitotomia in 8 casi (un caso operato inizialmente in un altro servizio chirurgico), procedura di Hartman, colecistectomia e riparazione della fistola in un caso e un’evacuazione spontanea del calcoli biliari con colecistectomia e riparazione della fistola successivamente in un altro caso.</seg>
-          <seg id="8">Abbiamo registrato 2 decessi in pazienti con comorbilit  multiple in cui   stata eseguita solo enterolitotomia e con 1 e 2 reinterventi, rispettivamente.</seg>
-          <seg id="9">La degenza postoperatoria   stata di 9,4 giorni per i casi con enterolitotomia semplice e 18,6 giorni per i casi con trattamento radicale.</seg>
-          <seg id="10">Non abbiamo registrato alcuna ricorrenza.</seg>
-          <seg id="11">Sebbene raramente riscontrati nella pratica chirurgica, i calcoli ileali dovrebbero essere individuati nella diagnosi differenziale di ostruzione intestinale in pazienti con una storia pregressa di malattia biliare, sindrome occlusiva, pneumobilia e possibilmente calcoli biliari ectopici.</seg>
-          <seg id="12">La procedura in uno stadio dovrebbe essere offerta ai pazienti stabilizzati, ma nei casi con comorbilit  associate, solo l’enterolitotomia rappresenta l’opzione migliore.</seg>
+          <seg id="1">Lo Strongyloides stercoralis è un nematode presente a livello mondiale che infetta i canidi e i primati (compreso l’uomo) ed è responsabile di una malattia zoonotica altamente sottovalutata.</seg>
+          <seg id="2">In questo studio presentiamo 18 casi con 20 cani affetti da S. stercoralis diagnosticati in Svizzera tra il 2010 e il 2020.</seg>
+          <seg id="3">Il test di Baermann è risultato positivo alle larve di S. stercoralis in 10, sospetto in 4, negativo in uno e non è stato eseguito in 2 cani.</seg>
+          <seg id="4">In 3 cani l'infezione è stata identificata solo durante la necroscopia, tramite istologia o via gli strisci fecali o mucosali del tessuto intestinale.</seg>
+          <seg id="5">La conferma nei cani sospetti, sezionati e negativi al test di Baermann è avvenuta tramite analisi genetiche.</seg>
+          <seg id="6">Dodici cani erano stati importati dall’Europa orientale (n=4), dal bacino mediterraneo (n=5) o dalla Germania (n=3) ed erano di età compresa tra le 7 settimane e i 9,5 mesi.</seg>
+          <seg id="7">Pure i cani presumibilmente nati in Svizzera erano di età inferiore a un anno (eccetto due dell'età di 15 mesi e di 14 anni).</seg>
+          <seg id="8">Tredici cani erano maschi e 6 erano femmine (uno sconosciuto).</seg>
+          <seg id="9">Le razze più rappresentate erano Chihuahua (n=5), Bulldog francese (n=4) e volpino di Pomerania (n=3).</seg>
+          <seg id="10">Il segno clinico e il motivo della visita più frequente era la diarrea, presente in 11/20 animali.</seg>
+          <seg id="11">Seguivano quindi sintomi gastrointestinali come vomito, anorressia/iporessia, adipsia, disidratazione, addome teso e tenesmo.</seg>
+          <seg id="12">I sintomi respiratori erano al secondo posto in frequenza, con tosse in 7/20 animali, tachipnea/dispnea in 5, e starnuti (inversi) in 3 cani.</seg>
+          <seg id="13">Il trattamento somministrato di 50 mg/kg PC di fenbendazolo p.o.</seg>
+          <seg id="14">per 5 giorni ha avuto successo in 4 casi che hanno subito un esame di controllo dopo 3–6 settimane. Il prolungamento del trattamento fino a 21 giorni è risultato anch’esso efficace.</seg>
+          <seg id="15">I protocolli con ivermectina descritti nella letteratura, come per esempio 0,8 mg/kg PC s.c.</seg>
+          <seg id="16">oppure 0,5 mg/kg PC i.m.</seg>
+          <seg id="17">ripetuti dopo 2 settimane sono , stati efficaci in base ai controlli effettuati dopo 3–10 settimane.</seg>
+          <seg id="18">Le infezioni da Strongyloides stercoralis sono rilevanti a livello clinico, potenzialmente zoonotiche e devono essere incluse nelle diagnosi differenziali nel caso di disturbi gastrointestinali e respiratori specialmente nei cani giovani e importati.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc40">
+      <src lang="it">
+        <p>
+          <seg id="1">La fistola colecisto-gastrica è una rara complicanza della calcolosi biliare.</seg>
+          <seg id="2">Anche se ben descritta in Letteratura, questa condizione rappresente ancora una fonte di controversi sulla diagnosi ed il trattamento.</seg>
+          <seg id="3">Presentiamo il caso di una donna di 35 anni che inaspettatamente ha presentato in corso di colecistectomia laparoscopica una fistola colecisto-gastrica, trattata con successo con la transezione della fistola e colecistectomia con accesso laparotomico.</seg>
+          <seg id="4">L’accesso open rimane quello raccomandato per questa rara condizione tuttavia una riparazione laparoscopica viene proposta da diversi autori con sempre maggiore frequenza.</seg>
+          <seg id="5">La diagnosi preoperatoria resta comunque difficile a causa della sintomatologia aspecifica.</seg>
         </p>
       </src>
     </doc>
@@ -789,6 +804,85 @@
           <seg id="8">È stato proprio questo l’intento che ha portato recentemente alla nascita di un algoritmo, Melomics-Health, che compone musica con una logica “terapeutica”.</seg>
           <seg id="9">Melomics-Health permette di studiare l’effetto di specifici parametri e strutture musicali sugli individui (anche a livello neuroscientifico) con la possibilità di documentare la loro efficacia con la possibilità di modellarli sulla base dei risultati ottenuti.</seg>
           <seg id="10">L’uso di algoritmi applicati alla musica come terapia costituisce un nuovo punto di partenza, un tentativo di avvicinare arte e scienza, al fine di aumentare la consapevolezza e l’efficacia nell’uso della musica in contesti terapeutici; una nuova prospettiva che integra arte, scienza e tecnologia al servizio della medicina, nel lavoro clinico e nella ricerca.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc26">
+      <src lang="it">
+        <p>
+          <seg id="1">Come parte della strategia nazionale di resistenza agli antibiotici (StAR), è stata sviluppata una guida terapeutica per la prescrizione prudente di agenti antimicrobici negli animali.</seg>
+          <seg id="2">Per facilitarne l'attuazione nella pratica veterinaria, le raccomandazioni terapeutiche ivi contenute sono state trasferite nell'aiuto decisionale di facile utilizzo AntibioticScout.ch.</seg>
+          <seg id="3">In questo contesto, abbiamo condotto un sondaggio non rappresentativo per valutare il livello di conoscenza e l’utilizzo di questa guida e del supporto decisionale AntibioticScout.ch.</seg>
+          <seg id="4">Sulla base di studi di casi con malattie tipiche di cani, gatti e bovini, è stato dimostrato che i veterinari che hanno partecipato all'indagine si sforzano di gestire gli antibiotici in modo responsabile e di prescriverli con moderazione.</seg>
+          <seg id="5">Tuttavia, il sondaggio indica possibili miglioramenti nella terapia antibiotica.</seg>
+          <seg id="6">La guida alla terapia StAR o AntibioticScout.ch può essere particolarmente utile ai professionisti veterinari per tenere conto di tutti i criteri decisionali rilevanti nella scelta ottimale di un agente antimicrobico adatto.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc21">
+      <src lang="it">
+        <p>
+          <seg id="1">Nel presente studio sono stati valutati i dati raccolti in dieci aziende durante la castrazione dei suinetti effettuata sotto anestesia per via inalatoria con isoflurano in 202 suinetti maschi di età tra i tre e gli undici giorni e con un peso tra 1 e 4,7 kg.</seg>
+          <seg id="2">Lo scopo di questo studio era di confrontare i dispositivi per anestesia PorcAnest®, Pignap® e Pigsleeper® usati in Svizzera e di analizzare i livelli di isoflurano, anidride carbonica e ossigeno, nonché il loro significato per la qualità dell’anestesia.</seg>
+          <seg id="3">Inoltre, il livello di stress preoperatorio e i movimenti difensivi sono stati valutati durante l’incisione della pelle e la dissezione dei cordoni spermatici.</seg>
+          <seg id="4">I livelli di isoflurano, CO2 e O2 sono stati registrati nei gas inspirati ed espirati a 30, 60, 75 e 90 secondi dopo l’inizio dell’anestesia, con l’aiuto di un tubo di campionamento posto vicino alle narici.</seg>
+          <seg id="5">I movimenti verso le incisioni cutanee e la dissezione dei cordoni spermatici sono stati osservati rispettivamente nel 32% e nel 37% dei casi.</seg>
+          <seg id="6">Più bassi erano i livelli misurati di isoflurano inspiratorio ed espiratorio (FIIso e ETIso) più alti erano i valori dei movimenti.</seg>
+          <seg id="7">Nei dispositivi per anestesia che utilizzano l’aria ambiente come gas di trasporto per l’isoflurano, sono stati misurati livelli di ossigeno inspiratorio significativamente più bassi (FIO2 tra 12 e 21 vol%) rispetto a quelli che utilizzano ossigeno medico (FIO2 tra 21 e</seg>
+          <seg id="8">95 vol%) e sono stati osservati movimenti difensivi significativamente più forti nei suinetti.</seg>
+          <seg id="9">I risultati indicano che vi è un potenziale di miglioramento per quanto riguarda la profondità dell’anestesia durante la castrazione dei suinetti sotto anestesia per inalazione con isoflurano e che i valori misurati di isoflurano, anidride carbonica e ossigeno variano notevolmente con i diversi dispositivi per anestesia PorcAnest®, Pignap® e Pigsleeper®.</seg>
+          <seg id="10">Queste fluttuazioni potrebbero essere identificate e limitate grazie a una manutenzione professionale annuale e/o con l’installazione di un misuratore di isoflurano.</seg>
+          <seg id="11">Inoltre, il passaggio all’ossigeno medico sembra essere indicato per tutti i tipi di dispositivi.</seg>
+          <seg id="12">I dispositivi di anestesia devono venire ottimizzati al più presto in consultazione con i produttori, e i proprietari degli animali devono ricevere una formazione e devono venire sensibilizzati per garantire una castrazione senza dolore.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc18">
+      <src lang="it">
+        <p>
+          <seg id="1">Uno studio retrospettivo di 5 anni, sulle infezioni da ascaridi (Toxocara canis et Toxascaris leonina) nei cani in Italia meridionale, è stato effettuato per aggiornare lo stato epidemiologico di questi parassiti e per identificare i fattori di rischio che possono favorire l'insorgere di queste infezioni negli animali di questa area.</seg>
+          <seg id="2">I campioni di feci di 8149 cani sono stati analizzati copromicroscopicamente presso i nostri laboratori utilizzando le tecniche FLOTAC.</seg>
+          <seg id="3">Inoltre, un sottocampione di 500 campioni fecali è stato analizzato con la tecnica Mini-FLOTAC.</seg>
+          <seg id="4">Il 9,2 % (95 % CI = 8,6–9,8) dei campioni totali analizzati è risultato positivo a T. canis mentre lo 0,5 % (95 % CI = 0,4–0,7) è risultato positivo a T. leonina.</seg>
+          <seg id="5">Co-infezioni con T. canis e T. leonina sono state trovate nello 0,1 % dei cani (95 % CI = 0,0–0,1).</seg>
+          <seg id="6">I risultati ottenuti con gli esami FLOTAC e Mini-FLOTAC hanno evidenziato una concordanza quasi perfetta (k = 0,99, P &lt; 0,001) tra queste due tecniche.</seg>
+          <seg id="7">Il test del Chi-quadro ha mostrato una significativa associazione tra la positività all'infezione da T. canis e T. leonina (P &lt; 0,001) ed i cani che vivono all'esterno (giardino o canile).</seg>
+          <seg id="8">Inoltre, la positività per T. canis è risultata significativamente associata (P &lt; 0,001) anche all’età (cioè ai cuccioli), come mostrato dalla regressione logistica.</seg>
+          <seg id="9">La riduzione della prevalenza per T. canis e T. leonina durante il periodo di monitoraggio ha dimostrato che una diagnosi regolare potrebbe contribuire ad un controllo efficace di questi parassiti come suggerito dall'European Scientific Counsel Companion Animal Parasites (ESCCAP).</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc30">
+      <src lang="it">
+        <p>
+          <seg id="1">In questo studio, abbiamo indagato il ruolo dei parametri PET/CT 18F-FDG basati sul volume, i livelli di CA19- 9 e i parametri emocromocitometrici completi nella previsione di sopravvivenza in pazienti con adenocarcinoma duttale pancreatico non operabile e/o metastatico.</seg>
+          <seg id="2">La casistica si riferisce a 57 pazienti affetti da cancro del pancreas che sono stati seguiti presso l’Università di Scienze della Salute Gazi Yasargil Training and Research Hospital tra gennaio 2017 e giugno 2020. Si tratta di pazienti o inoperabili perché non resecabili o con metastasi oppure che hanno rifiutato il trattamento chirurgico e/o la radioterapia, e sono stati trattati con chemioterapia.</seg>
+          <seg id="3">Le immagini PET/TC 18F-FDG dei pazienti sono state valutate e sono stati confrontati i parametri del volume metabolico tumorale (MTV) e della glicolisi totale delle lesioni (TLG) calcolati con i livelli di CA19-9 e con i parametri emocromocitometrici completi.</seg>
+          <seg id="4">I pazienti sono stati valutati in due gruppi come sopravvissuti e non sopravvissuti.</seg>
+          <seg id="5">RISULTATI: MTV totale e TLG totale su PET/TC 18FFDG erano significativamente più alti tra i non sopravvissuti rispetto ai sopravvissuti (p: 0,023 e 0,034, rispettivamente).</seg>
+          <seg id="6">L’analisi di regressione multivariata di Cox ha rivelato che TLG superiore a 46 g / ml.cm3, MTV superiore a 11,02 cm3 (OR 0.987, IC 95% 0.976- 0.999, p: 0.029 e OR 0.246, IC 95% 0.089-0.685, p: 0.007, rispettivamente) e MPV elevato (OR: 0,785, IC 95% 0,574-0,976, p: 0,042) erano fattori prognostici indipendenti per la previsione della mortalità.</seg>
+          <seg id="7">CONCLUSIONE: TLG&gt; 46 g / ml.cm3 e MTV&gt; 11,02 cm3 nella PET/TC 18F-FDG e MPV elevato nell’emocromo completo sono fattori prognostici indipendenti per la previsione della mortalità nei pazienti con carcinoma pancreatico non resecabile o metastatico trattati con chemioterapia.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc25">
+      <src lang="it">
+        <p>
+          <seg id="1">Il Disability Management (DM) nasce per migliorare la salute dei lavoratori ed ottimizzare il ritorno al lavoro per le persone con disabilità.</seg>
+          <seg id="2">Obiettivi.</seg>
+          <seg id="3">Eseguire una revisione delle revisioni presenti in letteratura sull’uso del Disability Management in contesti internazionali e sulle strategie adottate circa il ritorno al lavoro.</seg>
+          <seg id="4">Metodi.</seg>
+          <seg id="5">La revisione è stata svolta consultando le banche dati Pubmed e Scopus dal 1994 fino a Gennaio 2021, secondo le linee guida PRISMA.</seg>
+          <seg id="6">Gli studi eleggibili sono stati selezionati attraverso un approccio multistep (valutazione del titolo, abstract e full-text).</seg>
+          <seg id="7">Le revisioni sistematiche sono state valutate con la scala AMSTAR, quelle narrative con la scala INSA.</seg>
+          <seg id="8">Risultati.</seg>
+          <seg id="9">In seguito alla rimozione dei duplicati e degli articoli senza full text disponibile oppure non pertinenti, sono state incluse 51 revisioni, 17 sistematiche e 34 narrative.</seg>
+          <seg id="10">Gli studi presi in esame riguardano attività di ricerca in materia di DM condotte prevalentemente negli Stati Uniti, in Canada e in Gran Bretagna.</seg>
+          <seg id="11">Dall’analisi di tali revisioni sono emersi dieci argomenti principali, tra i quali i più frequenti sono stati: le possibili soluzioni da adottare in caso di lavoratori con Patologie Muscolo-Scheletriche (nel 50% degli studi) e gli aspetti legati alle problematiche di Salute Mentale e Stress (nel 41.2%).</seg>
+          <seg id="12">La qualità delle revisioni incluse è prevalentemente di ottimo livello.</seg>
+          <seg id="13">Discussione.</seg>
+          <seg id="14">La revisione svolta ha mostrato che l’attività di ricerca in materia di DM in contesti internazionali è prevalente nel mondo anglosassone.</seg>
+          <seg id="15">Questa revisione può fornire molti spunti di riflessione per una piena applicazione del DM a livello nazionale.</seg>
         </p>
       </src>
     </doc>
@@ -822,46 +916,6 @@
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc31">
-      <src lang="it">
-        <p>
-          <seg id="1">Descrizione delle strategie di prevenzione delle complicanze chirurgiche nel trattamento dei carcinomi laringei associati a tumore gigante della tiroide.</seg>
-          <seg id="2">Per questo studio sono stati utilizzati i dati clinici di un paziente anziano con carcinoma laringeo associato ad un grosso tumore della tiroide, diabete e ipertensione.</seg>
-          <seg id="3">Il tumore del paziente è stato rimosso con un intervento chirurgico simultaneo operato dal dipartimento di chirurgia tiroidea e dal dipartimento di chirurgia laringea; il paziente è stato seguito per più di 3 anni e le cicatrici di granulazione tracheale e di aderenze laringee sono state rimosse con ripetuti interventi con laser.</seg>
-          <seg id="4">La revisione della letteratura è stata effettuata sul database Wanfang, sul database China How Net e sul database MEDLINE tramite Computer.</seg>
-          <seg id="5">Le parole chiave di ricerca finali utilizzate per lo studio sono state “carcinoma a cellule squamose” e “glottide” o “laringe” / “laringeo”, “chirurgia”, “tumore alla tiroide” e “chirurgia simultanea”.</seg>
-          <seg id="6">Risultati: dopo completamento dell’intervento sono stati rimossi con successo il sondino naso-gastrico e la cannula tracheale, è stata ricostituita con successo la glottide e sono ripresi normalmente la respirazione orale, la fonazione e l’alimentazione per via orale.</seg>
-          <seg id="7">Conclusione: l’approccio multidisciplinare per l’asportazione simultanea di un carcinoma laringeo associato ad un voluminoso tumore tiroideo in soggetto anziano con danni multi-sistema e multi-organo è stata realizzata con successo.</seg>
-          <seg id="8">Ci sono solo pochi casi di questo tipo presentati in letteratura, ad illustrare le strategie di prevenzione del rischio per complicanze postoperatorie, tra cui infezione postoperatoria, le difficoltà di estubazione e la perdita della fonazione, che meritano di essere conosciute.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc6">
-      <src lang="it">
-        <p>
-          <seg id="1">Il ruolo dell’aumento del tono dello sfintere anale interno nella patogenesi delle ragadi anali croniche (CAF) è a tutt’oggi dibattuto.</seg>
-          <seg id="2">La sfinterotomia laterale è la procedura chirurgica più frequentemente impiegata sebbene sia associata ad un incidenza di incontinenza anale postoperatoria del 14%.</seg>
-          <seg id="3">L’obbiettivo del nostro studio è quello di valutare, oltre alla guarigione delle CAF, se le alterazioni manometriche pre-operatorie nei pazienti affetti da CAF con ipertono sfinterico, si normalizzassero dopo asportazione della ragade e anoplastica con lembo mucocutaneo di scorrimento a V-Y nei pazienti con CAF.</seg>
-          <seg id="4">Sono stati studiati 108 pazienti affetti da CAF con ipertono.</seg>
-          <seg id="5">I risultati dello studio mostrano una guarigione di tutte le ferite entro 40 giorni dall’intervento chirurgico; sono stati osservati 7 casi di recidiva trattati efficacemente con terapia medica e 3 casi di incontinenza anale post-operatoria “de novo”, tutti temporanei e di lieve entità.</seg>
-          <seg id="6">La maximum resting pressure e la presenza di ultraslow wave activity pre-operatorie , a 24 mesi dall’intervento chirurgico, sono simili a quelle dei soggetti sani.</seg>
-          <seg id="7">L’alto tasso di guarigione in assenza di incontinenza anale post-operatoria permanente, e la normalizzazione dei valori manometrici, suggeriscono che quest’approccio “sphincter preserving” risulta valido per il trattamento delle ragadi anali croniche con ipertono sfinterico.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc35">
-      <src lang="it">
-        <p>
-          <seg id="1">Nonostante la possibilità di ricorrere alla palliazione, le richieste globali dei pazienti di essere inclusi in percorsi di suicidio assistito ed eutanasia sono notevolmente aumentate negli ultimi 15 anni.</seg>
-          <seg id="2">A livello legislativo, la discussione sulla normazione di queste procedure è ancora aperta in molti Paesi, fra cui l’Italia.</seg>
-          <seg id="3">Assume dunque certa importanza strategica conoscere l’opinione del mondo sanitario e vagliarne l’eventuale propensione lavorativa.</seg>
-          <seg id="4">È stato ideato e somministrato un questionario al personale infermieristico afferente a due presidi ospedalieri milanesi, con l’intento di indagarne l’opinione e la propensione lavorativa in contesti di morte assistita.</seg>
-          <seg id="5">Lo strumento creato è stato sottoposto a processo di validazione preliminare per testarne le proprietà psicometriche.</seg>
-          <seg id="6">Le opinioni del campione (n=430) si sono schierate in maggioranza a favore della possibilità di accesso a percorsi di suicidio assistito ed eutanasia; per quanto concernente invece la “propensione” lavorativa, una maggioranza solo relativa si è dichiarata favorevole o molto favorevole a lavorare in contesti dove si praticavano le procedure descritte precedentemente, riscontrando un incremento degli indecisi e dei contrari. DISCUSSIONE: secondo l’attuale assetto legislativo italiano, chiunque partecipasse a procedure di suicidio assistito o eutanasia sarebbe perseguibile per legge; questo implica che il personale sanitario non abbia una conoscenza diretta dei percorsi di morte assistita e potrebbe costituire una spiegazione per gli ampi numeri di indecisi subentrati nelle ultime domande del questionario.</seg>
-          <seg id="7">Nonostante i limiti dell’indagine svolta, consistenti principalmente nel campione limitato e nel disegno monocentrico, l’opinione del personale sembra schierarsi ampiamente a favore della libertà di scelta del paziente; è probabile che percentuali simili siano giustificate da una radicata esperienza diretta in una situazione generale dove l’assistenza erogabile, per il paziente, non sia sufficiente.</seg>
-        </p>
-      </src>
-    </doc>
     <doc origlang="it" id="doc19">
       <src lang="it">
         <p>
@@ -872,13 +926,20 @@
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc27">
+    <doc origlang="it" id="doc38">
       <src lang="it">
         <p>
-          <seg id="1">Il mobbing sul lavoro consiste in un insieme di comportamenti violenti perpetrati da parte di superiori e/o colleghi nei confronti di un lavoratore, prolungato nel tempo e lesivo della dignità personale e professionale nonché della salute psicofisica dello stesso.</seg>
-          <seg id="2">In Italia, i dati dimostrano che circa 1 milione e 404 mila (8,9%) donne hanno subito mobbing e/o ricatti sessuali sul posto di lavoro.</seg>
-          <seg id="3">Purtroppo ad oggi, nonostante le numerose sentenze in materia delle Cassazione, manca una legge dedicata, e i vari casi vengono gestiti ricorrendo per analogia alle leggi presenti in materia di stress lavoro-correlato e violenza personale.</seg>
-          <seg id="4">Scopo di questo lavoro è quello di inquadrare il fenomeno del mobbing, mettendo in evidenza le problematiche diagnostico-legislative italiane e offrendo una potenziale soluzione.</seg>
+          <seg id="1">La terapia selettiva con radionuclidi intraarteriosi (SIRT) con microsfere di resina di ittrio-90 (Y-90)   stata applicata recentemente per il carcinoma epatocellulare (HCC).</seg>
+          <seg id="2">Lo scopo di questo studio   presentare il nostro studio della terapia con radiomicrosfera nel trattamento dell’HCC non resecabile e determinare i casi appropriati che potrebbero trarre beneficio da questa terapia in base ai risultati di risposta forniti dallo stadio iniziale e dalle modalit  di controllo per immagini.</seg>
+          <seg id="3">METODI: abbiamo somministrato 43 terapie con microsfere Y-90 a 34 pazienti con HCC non resecabile (due volte in 9 pazienti).</seg>
+          <seg id="4">I pazienti con HCC confermato dal punto di vista istopatologico con un’aspettativa di vita di ≥3 mesi; classificazioni Child AB, Classificazione Okuda 1-2 e stadiazione BCLC ABC sono state incluse nello studio.</seg>
+          <seg id="5">I pazienti sono stati divisi in due gruppi: il gruppo A era composto da 29 pazienti che hanno risposto alla terapia con Y-90 (risposta completa, risposta parziale e malattia stabile), il gruppo B 5 non davano nessuna risposta (malattia progressiva).</seg>
+          <seg id="6">I parametri predefiniti sono stati valutati per la risposta alla SIRT e confrontati tra i due gruppi.</seg>
+          <seg id="7">RISULTATI: abbiamo riscontrato una significativa diminuzione del numero di piastrine e dei linfociti un mese dopo la terapia (p = 0,02, p = 0,01, rispettivamente).</seg>
+          <seg id="8">Nei test di controllo per immagini eseguiti 3 mesi dopo, abbiamo osservato una risposta completa nel 19% (n = 6), una risposta parziale nel 44% (n = 15), una malattia stabile nel 25% (n = 8) e una malattia progressiva nel 12% ( n = 5) dei pazienti.</seg>
+          <seg id="9">La sopravvivenza globale media (OS)   stata di 19 (valore mediano: 14) mesi.</seg>
+          <seg id="10">CONCLUSIONI: la terapia con microsfere Y-90   un’opzione di trattamento sicura ed efficace per i pazienti con HCC non resecabile senza alcun effetto collaterale grave.</seg>
+          <seg id="11">Tumore di piccole dimensioni e mancanza di assenza di localizzazione bilobare sembrano le migliori condizioni per il successo del trattamento.</seg>
         </p>
       </src>
     </doc>
@@ -902,217 +963,54 @@
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc4">
+    <doc origlang="it" id="doc37">
       <src lang="it">
         <p>
-          <seg id="1">Dispositivi digitali per la misurazione dei parametri climatici, di facile utilizzo anche nelle stalle, sono disponibili da qualche tempo.</seg>
-          <seg id="2">I dati raccolti in uno studio prospettico su 43 aziende di vitelli da ingrasso in Svizzera sono stati analizzati per valutare la validità dei valori climatici misurati, le possibili associazioni di queste misurazioni con alcune caratteristiche di stabulazione e le correlazioni delle misurazioni climatiche, con gli indicatori della salute dei vitelli.</seg>
-          <seg id="3">Da un lato, sono stati registrati vari parametri di stabulazione (come il sistema di ventilazione, l’accesso a un recinto esterno, la superficie della stalla). D’altra parte, le misurazioni a campione della temperatura, dell’umidità dell’aria, delle concentrazioni di ammoniaca e di anidride carbonica sono state prese in cinque punti di ogni stalla durante le visite all’azienda (in media sei per azienda su un periodo di un anno).</seg>
-          <seg id="4">Inoltre, le misurazioni continue di temperatura e umidità sono state condotte per 72 ore, una volta in estate e una volta in inverno, per ogni azienda.</seg>
-          <seg id="5">Utilizzando modelli statistici, è stato valutato se le caratteristiche di stabulazione e dei valori climatici misurati sono associati, come fattori di rischio significativi, con gli indicatori di salute degli animali (uso di antibiotici, mortalità e aumento di peso giornaliero).</seg>
-          <seg id="6">Durante le misurazioni puntuali, sono stati osservati valori al di fuori degli intervalli ottimali per tutti i parametri misurati e in ogni stagione.</seg>
-          <seg id="7">Le misurazioni continue sono state in grado di rilevare più sovente valori al di fuori dell’intervallo ottimale per la temperatura e l’umidità rispetto alle misurazioni puntuali.</seg>
-          <seg id="8">Nessuna correlazione significativa è stata osservata tra i valori dei parametri climatici misurati puntualmente o tra i valori dei parametri climatici e il numero di vitelli presenti nella stalla, la superficie totale della stalla, la superficie di paglia o il volume della stalla.</seg>
-          <seg id="9">I gruppi costituiti da gran numero di vitelli e la presenza di ventilazione meccanica erano positivamente associati a un maggior uso di antibiotici. I gruppi costituiti da molti vitelli e la presenza di un gran numero di gruppi erano associati a un tasso di mortalità superiore al 3%.</seg>
-          <seg id="10">Gli allevamenti in zone di pianura e il volume d’aria per vitello erano positivamente associati all’aumento di peso giornaliero.</seg>
-          <seg id="11">Nessuno dei parametri climatici misurati ha mostrato un’associazione con gli indicatori di salute dei vitelli: uso di antibiotici, mortalità e aumento di peso giornaliero.</seg>
-          <seg id="12">Questi sembrano pertanto essere inadeguati per valutare la salute dei vitelli negli allevamenti da ingrasso.</seg>
-          <seg id="13">I nostri risultati mostrano che le misurazioni dei parametri climatici sono difficili da interpretare e devono essere considerate in modo critico.</seg>
+          <seg id="1">La deiscenza anastomotica dopo resezione rettale   una complicanza importante che aumenta i tassi di morbilit  e mortalit .</seg>
+          <seg id="2">Un piccolo numero di pazienti con peritonite generalizzata necessita di trattamenti chirurgici radicali.</seg>
+          <seg id="3">I pazienti stabili con peritonite locale possono essere trattati in modo conservativo.</seg>
+          <seg id="4">Lo scopo di questo studio   valutare gli effetti del trattamento sottovuoto transrettale sulla guarigione delle deiscenze perdite anastomotiche colorettali basse.</seg>
+          <seg id="5">Sono state riviste retrospettivamente le cartelle cliniche di quattordici pazienti gestiti in modo conservativo con trattamento sottovuoto transrettale per deiscenze anastomotiche dopo resezione rettale tra settembre 2015 e settembre 2018.</seg>
+          <seg id="6">La deiscenza anastomotica   stata documentata e valutata con tomografia computerizzata e rettosigmoidoscopia.</seg>
+          <seg id="7">RISULTATI: In 10 dei 14 pazienti si   avuto il successo della chiusura della cavit  ascessuale perianastomotico dopo una media di 19 giorni di trattamento sotto vuoto.</seg>
+          <seg id="8">2 pazienti in questo gruppo presentavano una stenosi nel sito anastomotico come complicanza tardiva, e trattata con successo con dilatazioni ripetute.</seg>
+          <seg id="9">In 4 pazienti su 14 si   provveduto alla fine alla confezione di una colostomia sigmoidea permanente.</seg>
+          <seg id="10">CONCLUSIONE: I nostri risultati suggeriscono che il trattamento sottovuoto transrettale pu  essere tranquillamente utilizzato a tutti i pazienti stabili senza peritonite generalizzata nella gestione delle deiscenze anastomotiche colorettali basse.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc43">
+    <doc origlang="it" id="doc24">
       <src lang="it">
         <p>
-          <seg id="1">Introduzione.</seg>
-          <seg id="2">La lombalgia è un problema molto sentito tra la popolazione mondiale, ed è causa di disagio nei lavoratori sanitari, specialmentre tra gli infermieri.</seg>
-          <seg id="3">È importante perciò indagare sull’incidenza della lombalgia negli infermieri italiani.</seg>
-          <seg id="4">Metodi.</seg>
-          <seg id="5">È stata condotta una ricerca sui principali database internazionali considerando gli studi condotti in Italia.</seg>
-          <seg id="6">Risultati.</seg>
-          <seg id="7">I risultati sono vari: un’incidenza annuale dal 13.7% al 20% e 17% - 63.7% di prevalenza; turni di notte, formazione insufficiente, movimentazione frequente dei pazienti, mancanza di ausili, tipologia di reparto, obesità, sesso femminile, stress lavoro-correlato e la mancanza di attivitià fisica rappresentano un rischio maggiore di incorrere in lombalgia.</seg>
-          <seg id="8">Conclusioni.</seg>
-          <seg id="9">Bisogna migliorare gli ausili, la formazione sul lavoro e lo stile di vita in modo da ridurre situazioni di cronicità.</seg>
+          <seg id="1">Il linfoma pancreatico primitivo (PPL) rappresenta meno dello 0.5% di tutte le neoplasie pancreatiche.</seg>
+          <seg id="2">Le manifestazioni cliniche di esordio non sono specifiche e la diagnosi è tardiva nella maggioranza dei pazienti.</seg>
+          <seg id="3">OSSERVAZIONE PERSONALE: Donna di 85 anni, ricoverata presso l’Ospedale Universitario “A. Fiorini” di Terracina- Polo Pontino, con diagnosi di addome acuto da sospetta rottura in due tempi della milza.</seg>
+          <seg id="4">Al ricovero la pz lamentava dolore a carico dei quadranti addominali superiori e riferiva caduta accidentale in casa avvenuta 20 giorni prima.</seg>
+          <seg id="5">Presentava esami ematochimici negativi per anemia e leucocitosi (Hb12.7g/dl; GB9.8x10/UL), significativo incremento del CA19.9 (196 U/ml), del CA125 (138 U/ml), delle LDH (1044 U/L) e della beta2-microglobulina.</seg>
+          <seg id="6">La CT torace-addome-pelvi con mdc mostrava versamento a densità ematica in sede pleurica sinistra, perisplenica, periepatica e nel Douglas e una neoformazione del corpo-coda pancreas con falda ematica peripancreatica. La milza appariva di dimensioni notevolmente aumentate, con presenza di area ipodensa di 12.5x10.6 cm di diametro come da ematoma intraparenchimale, con capsula splenica apparentemente indenne.</seg>
+          <seg id="7">La pz veniva sottoposta a laparotomia esplorativa urgente per sospetto emoperitoneo. All’apertura della cavità peritoneale si dimostrava la presenza di modesto versamento libero sieroematico da stillicidio della neoformazione pancreatica.</seg>
+          <seg id="8">La diffusione locale della malattia impediva ogni tentativo di resezione chirurgica.</seg>
+          <seg id="9">Si procedeva a controllo del sanguinamento con apposizione di emostatici topici (Tabotamp®) e a prelievo bioptico dalla neoformazione pancreatica.</seg>
+          <seg id="10">Si poneva diagnosi istologica finale di Linfoma Non-Hodgkin a grandi cellule di origine centro- follicolare, doppio espressore per la proteina CMYC e BCL2 all’immunoistochimica.</seg>
+          <seg id="11">L’età della pz, le scadenti condizioni generali, le patologie associate in trattamento poli-farmacologico, la diffusione localmente avanzata della malattia e l’aggressività istologica controindicavano il trattamento chemioradioterapico.</seg>
+          <seg id="12">CONCLUSIONE: La diagnosi di PPL è molto difficile e tardiva nella maggioranza dei pz, poichè le manifestazioni cliniche di esordio sono di solito aspecifiche; così come nel caso da noi riportato in cui il sanguinamento intraretro- peritoneale era difficilmente riconducibile ad una malattia pancreatica.</seg>
+          <seg id="13">I riferito trauma addominale, la sintomatologia clinica aspecifica, la CT in cui non erano state evidenziate le alterazioni caratteristiche dei linfomi extranodali, la sottovalutazione dell’aumento dei livelli plasmatici dei marcatori CA19-9 e CA125, delle LDH e della beta2- microglobulina, sono state nel nostro caso la causa di errata diagnosi e indicazione al trattamento chirurgico in urgenza.</seg>
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc9">
+    <doc origlang="it" id="doc36">
       <src lang="it">
         <p>
-          <seg id="1">Lo Strongyloides stercoralis è un nematode presente a livello mondiale che infetta i canidi e i primati (compreso l’uomo) ed è responsabile di una malattia zoonotica altamente sottovalutata.</seg>
-          <seg id="2">In questo studio presentiamo 18 casi con 20 cani affetti da S. stercoralis diagnosticati in Svizzera tra il 2010 e il 2020.</seg>
-          <seg id="3">Il test di Baermann è risultato positivo alle larve di S. stercoralis in 10, sospetto in 4, negativo in uno e non è stato eseguito in 2 cani.</seg>
-          <seg id="4">In 3 cani l'infezione è stata identificata solo durante la necroscopia, tramite istologia o via gli strisci fecali o mucosali del tessuto intestinale.</seg>
-          <seg id="5">La conferma nei cani sospetti, sezionati e negativi al test di Baermann è avvenuta tramite analisi genetiche.</seg>
-          <seg id="6">Dodici cani erano stati importati dall’Europa orientale (n=4), dal bacino mediterraneo (n=5) o dalla Germania (n=3) ed erano di età compresa tra le 7 settimane e i 9,5 mesi.</seg>
-          <seg id="7">Pure i cani presumibilmente nati in Svizzera erano di età inferiore a un anno (eccetto due dell'età di 15 mesi e di 14 anni).</seg>
-          <seg id="8">Tredici cani erano maschi e 6 erano femmine (uno sconosciuto).</seg>
-          <seg id="9">Le razze più rappresentate erano Chihuahua (n=5), Bulldog francese (n=4) e volpino di Pomerania (n=3).</seg>
-          <seg id="10">Il segno clinico e il motivo della visita più frequente era la diarrea, presente in 11/20 animali.</seg>
-          <seg id="11">Seguivano quindi sintomi gastrointestinali come vomito, anorressia/iporessia, adipsia, disidratazione, addome teso e tenesmo.</seg>
-          <seg id="12">I sintomi respiratori erano al secondo posto in frequenza, con tosse in 7/20 animali, tachipnea/dispnea in 5, e starnuti (inversi) in 3 cani.</seg>
-          <seg id="13">Il trattamento somministrato di 50 mg/kg PC di fenbendazolo p.o.</seg>
-          <seg id="14">per 5 giorni ha avuto successo in 4 casi che hanno subito un esame di controllo dopo 3–6 settimane. Il prolungamento del trattamento fino a 21 giorni è risultato anch’esso efficace.</seg>
-          <seg id="15">I protocolli con ivermectina descritti nella letteratura, come per esempio 0,8 mg/kg PC s.c.</seg>
-          <seg id="16">oppure 0,5 mg/kg PC i.m.</seg>
-          <seg id="17">ripetuti dopo 2 settimane sono , stati efficaci in base ai controlli effettuati dopo 3–10 settimane.</seg>
-          <seg id="18">Le infezioni da Strongyloides stercoralis sono rilevanti a livello clinico, potenzialmente zoonotiche e devono essere incluse nelle diagnosi differenziali nel caso di disturbi gastrointestinali e respiratori specialmente nei cani giovani e importati.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc3">
-      <src lang="it">
-        <p>
-          <seg id="1">I sanitari del Servizio 118 sono spesso i primi a giungere in situazioni poi rivelatesi delle scene del crimine.</seg>
-          <seg id="2">Ne derivano dunque molteplici responsabilità, sussistendo l’onere di soccorrere eventuali soggetti coinvolti conservando il più possibile lo stato dei luoghi, salvaguardando al contempo se stessi.</seg>
-          <seg id="3">I predetti sono tuttavia, di sovente, scevri da una qualsivoglia formazione forense con conseguente rischio di alterazione dell’area e/o di perdita di informazioni fondamentali ai fini della prosecuzione delle indagini.</seg>
-          <seg id="4">Lo scopo del presente studio, nato dalla collaborazione interdisciplinare tra le scienze infermieristiche e forensi, è proprio quello di garantire il corretto approccio da parte dei professionisti dell'emergenza alla Scena del Crimine; alla luce dei dati disponibili sulle strategie d'intervento, si fornisce quindi una scheda di rilevazione dati il cui non immediato reporting ne comporterebbe inevitabilmente la perdita.</seg>
-          <seg id="5">Trattasi di uno strumento dunque non destinato ai medici legali, già ampiamente formati in tale ambito e già dotati di raffinate schede di rilevazione, bensì di uno strumento di facile utilizzo e di appannaggio dei “non addetti ai lavori” che possa consentire ai sanitari dell’emergenza di non disperdere elementi cruciali che saranno poi forniti agli organi investigativi e di conseguenza ai professionisti nominati consulenti o periti.</seg>
-          <seg id="6">Il metodo di lavoro ha previsto la ricerca in Letteratura di strumenti operativi già esistenti ed una revisione bibliografica di testi, articoli e protocolli inerenti l'argomento, oltre ad una ricerca a livello nazionale con interrogazione delle Centrali Operative 118 sull’utilizzo della Scheda Report Scena del Crimine.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc28">
-      <src lang="it">
-        <p>
-          <seg id="1">Una valutazione e gestione accurata del dolore nei pazienti in condizioni critiche con alterazioni cognitive non in grado di comunicare, costituiscono una grande sfida per il personale medico e infermieristico delle Terapie Intensive (TI).</seg>
-          <seg id="2">Questo studio vuole valutare l'impatto della scala CCPOT in TI, valutandone gli effetti sulla valutazione e gestione del dolore nei pazienti adulti con lesioni cerebrali.</seg>
-          <seg id="3">Questo studio before-after è stato condotto in una terapia intensiva italiana, in cui i dati sono stati raccolti prima (T0) e dopo (T1) l'implementazione dello strumento.</seg>
-          <seg id="4">La popolazione di studio era composta da 81 pazienti (35 prima e 46 dopo l'intervento).</seg>
-          <seg id="5">L'uso di propofol è diminuito in modo significativo e allo stesso tempo, l'uso della morfina è aumentata in modo significativo (morfina: t(80) = 1,51, p = .02) dopo il nostro intervento.</seg>
-          <seg id="6">L'analisi dei dati relativi al sollievo dal dolore e alla prevenzione durante alcune attività di assistenza infermieristica ha rivelato un aumento significativo dell'uso di fentanil citrato e paracetamolo.</seg>
-          <seg id="7">La gestione del dolore era in linea con il protocollo, che prevedeva la somministrazione di antidolorifici a pazienti con punteggi CCPOT infermieri a 3 nel 76.8% dei casi.</seg>
-          <seg id="8">I risultati supportano fortemente il valore della scala CCPOT nella gestione del dolore dei pazienti in terapia intensiva unitamente alla formazione del personale medico einfermieristico.</seg>
-          <seg id="9">Tuttavia, devono essere eseguiti ulteriori studi su campioni di pazienti didimensioni maggiori.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc13">
-      <src lang="it">
-        <p>
-          <seg id="1">Il trapianto di fegato   considerato l’ultima speranza di trattamento per l’insufficienza epatica irreversibile causata da diverse lesioni diffuse e/o occupanti spazio di questo organo.</seg>
-          <seg id="2">La rigorosa limitazione degli organi donatori prevede lo sviluppo di approcci alternativi per la risoluzione di questo problema.</seg>
-          <seg id="3">La revisione della letteratura presentata e la nostra esperienza hanno lo scopo di discutere gli aspetti moderni della gestione di diverse patologie epatiche che causano insufficienza epatica al fine di creare tessuti e / o organi funzionali ausiliari, basati sul bioingegnere e innovativi interventi chirurgici che consentano di condurre le operazioni in casi che erano stati considerati inoperabili.</seg>
-          <seg id="4">Nella rassegna vengono in particolare evidenziati i risultati degli studi sperimentali e traslazionali condotti in quattro centri di ricerca universitari della Georgia, che, da un lato, suscitano l’interesse professionale specifico e dall’altro richiedono la cooperazione e la collaborazione internazionale per ulteriori progressi e progressi in questo campo della chirurgia.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc39">
-      <src lang="it">
-        <p>
-          <seg id="1">La simulazione ad alta fedeltà può essere definita come una tecnica per affinare specifiche prestazioni umane in un ambiente protetto e, grazie all'innovazione delle tecnologie simulative è stato possibile ottenere prestazioni sempre più realistiche.</seg>
-          <seg id="2">Lo scopo di questo studio è quello di mappare e descrivere gli effetti della simulazione ad alta fedeltà nella formazione universitaria infermieristica sulle abilità tecniche e non tecniche degli studenti in un contesto di emergenza/area critica.</seg>
-          <seg id="3">La metodologia di revisione scelta è stata una scoping review all’interno dei più importanti database di interesse biomedico: MEDLINE, Scopus, CINAHL, PsycINFO, Academic Search Index, Science Citation Index and ERIC.</seg>
-          <seg id="4">Sono stati selezionati 530 articoli.</seg>
-          <seg id="5">Di questi, 21 hanno soddisfatto I criteri di inclusione e sono stati sottoposti al processo di revisione.</seg>
-          <seg id="6">I partecipanti che hanno ricevuto l'intervento hanno dimostrato abilità migliori rispetto al gruppo di controllo quando sottoposti ad una simulazione basata su scenari realistici.</seg>
-          <seg id="7">Gli articoli selezionati, inoltre, possono essere suddivisi in due categorie: quelli che si concentrano essenzialmente sulle non-technical skills e quelli che studiano solo le technical skills.</seg>
-          <seg id="8">I risultati suggeriscono che l’HFS (High-Fidelity Simulation) dovrebbe includere feedback, briefing e debriefing degli scenari; dovrebbe essere applicato in ogni area della formazione infermieristica; l'autoefficacia, la fiducia e le conoscenze dello studente sono principi chiave da considerare quando si vuole misurare l'effetto di un ambiente di simulazione.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc34">
-      <src lang="it">
-        <p>
-          <seg id="1">Introduzione.</seg>
-          <seg id="2">I lavoratori esposti a rischi lavorativi per l’apparato oculo-visivo sono obbligatoriamente sottoposti a sorveglianza sanitaria che include tra gli accertamenti la visita oculistica.</seg>
-          <seg id="3">Obiettivo.</seg>
-          <seg id="4">Valutare la prevalenza delle patologie oculari tra i dipendenti dell’Ateneo e analizzare l’associazione tra fattori socio-demografici e le patologie tramite l’analisi dei dati informatizzati.</seg>
-          <seg id="5">Metodi.</seg>
-          <seg id="6">È stato condotto uno studio cross-sectional sui dati raccolti in una cartella clinica elettronica.</seg>
-          <seg id="7">È stata effettuata un’analisi univariata e successivamente una regressione logistica per verificare l’associazione tra le patologie oculari e le variabili socio-demografiche come genere ed età.</seg>
-          <seg id="8">Questo studio è stato effettuato utilizzando un database di cartelle oculistiche informatizzate di un Ateneo romano, riferite al periodo 2017-2018.</seg>
-          <seg id="9">Risultati.</seg>
-          <seg id="10">Il campione dello studio è di 4503 dipendenti, 44,86% uomini 55.13 % donne.</seg>
-          <seg id="11">L’età media è risultata pari a 44,53 anni.</seg>
-          <seg id="12">Le alterazioni oculo-visive più frequenti nei lavoratori dell’Ateneo risultano essere quelle rifrattive: miopia (53,87%), astigmatismo (37,95%), presbiopia (34,06%), ipermetropia (14,25%).</seg>
-          <seg id="13">L’analisi multivariata mostra che l’incremento dell’età è associato ad un aumento del rischio con tutte le variabili di esito, eccezione fatta per la miopia (OR = 0.98; IC 95%: 0.97 - 0.98).</seg>
-          <seg id="14">Il sesso femminile è associato ad un minore rischio di astigmatismo (OR= 0.83; C 95%: 0.73 - 0.94), cheratocono (OR = 0.22; IC 95%: 0.09 - 0.54) e discromatopsia (OR = 0.08; IC 95%: 0.02 - 0.34).</seg>
-          <seg id="15">Conclusioni.</seg>
-          <seg id="16">Considerando il numero elevato dei lavoratori coinvolti nello studio, la frequenza di esposizione ai rischi lavorativi e il fatto che alcune categorie di lavoratori siano esposte a più fattori di rischio contemporaneamente, si può concludere che la sorveglianza sanitaria possa essere un utile strumento di monitoraggio e controllo delle patologie oculari nei lavoratori a rischio.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc14">
-      <src lang="it">
-        <p>
-          <seg id="1">Un tumore localmente avanzato, o un processo infettivo come l’osteomielite, localizzato sulla parete toracica, spesso richiede un’ampia resezione chirurgica a tutto spessore per ottenere margini liberi e bonifica del sito.</seg>
-          <seg id="2">Un’equipe chirurgica multidisciplinare pu  fornire abilit  superiori e maggiori competenze, superando difficolt  tecniche altrimenti insormontabili per un singolo specialista.</seg>
-          <seg id="3">Solo un approccio multidisciplinare, ottenendo sia la ricostruzione scheletrica che la copertura dei tessuti molli, consente di ripristinare le funzioni della parete toracica e una copertura stabile di polmone e visceri.</seg>
-          <seg id="4">Inoltre, in caso di esposizione di pleura o parenchima polmonare,   richiesta una procedura ricostruttiva immediata al fine di ottenere una copertura stabile.</seg>
-          <seg id="5">Presentiamo 3 casi clinici complessi, in cui un intervento immediato di chirurgia plastica ricostruttiva ha seguito un’ampia resezione della parete toracica, eseguita combinando reti sintetiche o biologiche con grandi lembi miocutanei.</seg>
-          <seg id="6">Una meticolosa pianificazione preoperatoria di ogni fase chirurgica, l’integrazione delle modalit  ricostruttive proprie delle diverse specialit  e la piena collaborazione tra le  quipe chirurgiche rappresentano la spina dorsale di un intervento cos  complesso.</seg>
-          <seg id="7">I target da conseguire consistono nel raggiungere margini liberi da malattia e una guarigione rapida, riducendo i tempi di recupero e favorendo un’immediata riabilitazione respiratoria.</seg>
-          <seg id="8">I risultati clinici di questo report supportano l’importanza dell’approccio multidisciplinare nelle resezioni della parete toracica ampia.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc23">
-      <src lang="it">
-        <p>
-          <seg id="1">Lo scopo di questo studio   di confrontare l’efficacia oncologica della gastrectomia totale laparoscopica (LTG) rispetto alla gastrectomia totale ad addome aperto (OTG) per il cancro gastrico e di fornire le nostre esperienze in merito a questo intervento chirurgico.</seg>
-          <seg id="2">Sono stati inclusi in questo studio un totale di 107 pazienti sottoposti a gastrectomia curativa totale per adenocarcinoma gastrico tra settembre 2015 e settembre 2018, e ne sono state valutate le caratteristiche demografiche, i tempi operatori, i risultati istopatologici, la morbilit  postoperatoria e i risultati di mortalit  dei pazienti.</seg>
-          <seg id="3">RISULTATI: Di 107 pazienti, 70 erano uomini e 37 donne.</seg>
-          <seg id="4">La chirurgia ad addome aperto ha riguardato 89 pazienti e quella laparoscopica 18 pazienti.</seg>
-          <seg id="5">Et  media in OTG 59,4 anni; et  media in LTG 57,3 anni.</seg>
-          <seg id="6">Il numero medio di linfonodi raccolti   stato di 30,5   14,6 in OTG e 33,0   10,1 in LTG.</seg>
-          <seg id="7">Il numero di linfonodi metastatici raccolti   stato 7,4   10,5 in OTG e 10,0   11,8 in LTG (p = 0,366) senza alcuna differenza statistica tra i due gruppi.</seg>
-          <seg id="8">Il tempo di ripresa dell’alimentazione orale, e l’incidenza di deiscenza anastomotica e di mortalit  postoperatoria   risultata simile in entrambi i gruppi.</seg>
-          <seg id="9">La durata dell’intervento e la durata della degenza ospedaliera sono risultate significativamente pi  elevate nella LTG.</seg>
-          <seg id="10">La durata della sopravvivenza postoperatoria   stata simile in entrambe le procedure. CONCLUSIONE: la gastrectomia totale laparoscopica per carcinoma gastrico   una procedura oncologicamente sicura ma ha avuto un tempo di intervento pi  lungo e una degenza ospedaliera pi  lunga.</seg>
-          <seg id="11">Non   risultata alcuna differenza significativa nel numero di linfonodi raccolti, numero di linfonodi metastatici e localizzazione del tumore tra i due gruppi.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc21">
-      <src lang="it">
-        <p>
-          <seg id="1">Nel presente studio sono stati valutati i dati raccolti in dieci aziende durante la castrazione dei suinetti effettuata sotto anestesia per via inalatoria con isoflurano in 202 suinetti maschi di età tra i tre e gli undici giorni e con un peso tra 1 e 4,7 kg.</seg>
-          <seg id="2">Lo scopo di questo studio era di confrontare i dispositivi per anestesia PorcAnest®, Pignap® e Pigsleeper® usati in Svizzera e di analizzare i livelli di isoflurano, anidride carbonica e ossigeno, nonché il loro significato per la qualità dell’anestesia.</seg>
-          <seg id="3">Inoltre, il livello di stress preoperatorio e i movimenti difensivi sono stati valutati durante l’incisione della pelle e la dissezione dei cordoni spermatici.</seg>
-          <seg id="4">I livelli di isoflurano, CO2 e O2 sono stati registrati nei gas inspirati ed espirati a 30, 60, 75 e 90 secondi dopo l’inizio dell’anestesia, con l’aiuto di un tubo di campionamento posto vicino alle narici.</seg>
-          <seg id="5">I movimenti verso le incisioni cutanee e la dissezione dei cordoni spermatici sono stati osservati rispettivamente nel 32% e nel 37% dei casi.</seg>
-          <seg id="6">Più bassi erano i livelli misurati di isoflurano inspiratorio ed espiratorio (FIIso e ETIso) più alti erano i valori dei movimenti.</seg>
-          <seg id="7">Nei dispositivi per anestesia che utilizzano l’aria ambiente come gas di trasporto per l’isoflurano, sono stati misurati livelli di ossigeno inspiratorio significativamente più bassi (FIO2 tra 12 e 21 vol%) rispetto a quelli che utilizzano ossigeno medico (FIO2 tra 21 e</seg>
-          <seg id="8">95 vol%) e sono stati osservati movimenti difensivi significativamente più forti nei suinetti.</seg>
-          <seg id="9">I risultati indicano che vi è un potenziale di miglioramento per quanto riguarda la profondità dell’anestesia durante la castrazione dei suinetti sotto anestesia per inalazione con isoflurano e che i valori misurati di isoflurano, anidride carbonica e ossigeno variano notevolmente con i diversi dispositivi per anestesia PorcAnest®, Pignap® e Pigsleeper®.</seg>
-          <seg id="10">Queste fluttuazioni potrebbero essere identificate e limitate grazie a una manutenzione professionale annuale e/o con l’installazione di un misuratore di isoflurano.</seg>
-          <seg id="11">Inoltre, il passaggio all’ossigeno medico sembra essere indicato per tutti i tipi di dispositivi.</seg>
-          <seg id="12">I dispositivi di anestesia devono venire ottimizzati al più presto in consultazione con i produttori, e i proprietari degli animali devono ricevere una formazione e devono venire sensibilizzati per garantire una castrazione senza dolore.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc7">
-      <src lang="it">
-        <p>
-          <seg id="1">Il bullismo nel settore sanitario ha una prevalenza, a livello mondiale, che varia dal 1% al 87%, ed è in continuo aumento, descritto dalla WHO come un “grave problema di salute pubblica”.</seg>
-          <seg id="2">Viene definito come ripetuti maltrattamenti dannosi per la salute di uno o più individui da parte di una a più persone.</seg>
-          <seg id="3">Diverse sono le tipologie di comportamenti e variano da abusi verbali, condotte offensive, atteggiamenti umilianti e intimidatori che impediscono di svolgere il proprio lavoro.</seg>
-          <seg id="4">Come diversi sono gli esiti che tali azioni hanno sulle vittime: ansia, disturbi del sonno, dolori generalizzati e ridotta attenzione.</seg>
-          <seg id="5">L’obiettivo dello studio è stato indagare la presenza del fenomeno all’interno dei contesti sanitari ticinesi ed esplicitarne i vissuti.</seg>
-          <seg id="6">È stato condotto uno studio di tipo qualitativo ad un campione di professionisti attivi nel contesto sanitario ticinese (Svizzera) attraverso 18 interviste semi-strutturate e l’analisi tematica delle stesse.</seg>
-          <seg id="7">I risultati emersi evidenziano che la problematica è presente anche nei contesti sanitari ticinesi con modalità ed esiti talvolta differenti, inoltre che sperimentare queste situazioni durante la propria carriera lavorativa porta a riproporre tali comportamenti, in quanto ritenuto un rito di passaggio.</seg>
-          <seg id="8">Ciò che è emerge in maniera preponderante è la mancanza di programmi o strutture volte alla prevenzione e al sostengo sia della vittima che del carnefice. Le esperienze emerse hanno confermato la presenza del bullismo nel settore sanitario ticinese e come le conseguenze abbiano un impatto negativo sia sul personale curante bullizzato sia sulla qualità delle cure erogate ai pazienti.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc33">
-      <src lang="it">
-        <p>
-          <seg id="1">Le cellule immunitarie nel microambiente tumorale rilasciano chemochine e citochine che determinano il fenotipo immunitario del tumore e svolgono un ruolo importante nella prognosi.</seg>
-          <seg id="2">Il presente studio valuta i livelli di espressione genica di IL-21 e IL-32 e le loro relazioni con i parametri cl inicopatologici nel carcinoma del colonretto.</seg>
-          <seg id="3">Sono stati inclusi nello studio 31pazienti (di cui 17 donne) affetti da c arcinoma del colon-retto.</seg>
-          <seg id="4">I campioni sono stati ottenuti da tessuti normali e tumorali.</seg>
-          <seg id="5">Dopo l’isolamento dell’RNA, sono stati misurati i livelli di espressione genica di IL-21 e IL-32.</seg>
-          <seg id="6">L’immunoistochimica è stata eseguita anche per le celle CD4 +, CD8 + e NK per misurare la densità cellulare.</seg>
-          <seg id="7">Sono state studiate le relazioni tra livelli di espressione, densità e differenziazione delle cellule immunitarie, stadio, presenza di invasione vascolare, perineurale e metastasi dei linfonodi (MLN).</seg>
-          <seg id="8">Risultati: i livelli di espressione genica dell’IL-32 sono aumentati nei tessuti tumorali.</seg>
-          <seg id="9">È stato riscontrato che i livelli di IL-21 sono diminuiti nel 50% dei pazienti.</seg>
-          <seg id="10">Anche i livelli di IL-32 sono stati aumentati con lo stadio, ma è stato significativamente ridotto con l’aumento del numero di MLN.</seg>
-          <seg id="11">D’altra parte, i livelli di espressione di IL-21 sono aumentati significativamente con la presenza di invasione vascolare.</seg>
-          <seg id="12">La densità di CD4 + è stata ridotta con un aumento dello stadio T, invasione vascolare mentre la densità di CD8 + è diminuita solo con l’invasione vascolare.</seg>
-          <seg id="13">Conclusioni: IL-32 espresso dal microambiente tumorale rivela che l’espressione è aumentata per controllare la crescita del tumore, ma i livelli sono diminuiti con l’aumento del numero di MLN che potrebbe essere dovuto alla diminuzione della densità cellulare CD4 +.</seg>
-          <seg id="14">I cambiamenti su IL-21 e IL-32 insieme ai cambiamenti sulla densità delle cellule immunitarie, indicano il loro ruolo nella crescita del tumore e nell’invasione nel cancro del colon.</seg>
+          <seg id="1">Nel nostro studio abbiamo esaminato 75 pazienti trattati per carcinoma del retto nel periodo dal 1 gennaio 2011 al 31 dicembre 2014.</seg>
+          <seg id="2">Di questi 75 casi abbiamo considerato 36 casi stadiati con RMN , Abbiamo confrontato la stadiazione ottenuta con lo studi oRMN con quella evidenziatasi dallo studio istologico.</seg>
+          <seg id="3">La correlazione tra le due stadiazioni TNM   stata ulteriormente analizzata in base all’esecuzione o meno di trattamento neoadiuvante.</seg>
+          <seg id="4">Abbiamo, infine, analizzato i valori sierici di marcatori tumorali di CEA, Ca 19.9, AFP correlandoli alla stadiazione.</seg>
+          <seg id="5">I dati hanno dimostrato una correlazione statistiacmente significativa per il T specialmente nella popolazione che non aveva eseguito terapia neoadiuvante.</seg>
+          <seg id="6">Per il parametro N non abbiamo evidenziato correlazioni statisticamente significative; nessuno dei marcatori tumorali presentava un correlazione con lo stadio di malattia.</seg>
+          <seg id="7">Analizzano ulteriormente nei pazienti i marcatori tumorali positivi abbiamo associato il seguente score: 0 ( assenza di marcatori positivi),1 (solo un marcatore positivo), 2(due marcatori positivi),3 /tre marcatori positivi).</seg>
+          <seg id="8">In presenza di tre marcatpori positivi abbiamo trovato una correlazione statisticamente significativa con N+ in base all’esame istologico.</seg>
+          <seg id="9">La conclusione   che la RMN   efficace nella valutazione del T. Per stabilire il coinvolgimento linfonodale necessitiamo di ulteriori parametri.</seg>
+          <seg id="10">Il ruolo dei marcatori tumorali CEA, CA 19.9, AFP durante la valutazione preoperatoria dei tumori del retto rimane non ben definito.</seg>
         </p>
       </src>
     </doc>
@@ -1133,189 +1031,6 @@
           <seg id="12">I pazienti con linfonodi reattivi devono essere esaminati per la metastasi.</seg>
           <seg id="13">La chemioterapia con imatinib pu  essere utilizzata per pazienti inoperabili.</seg>
           <seg id="14">I pazienti devono essere indagati nel follow-up con tomografia computerizzata.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc36">
-      <src lang="it">
-        <p>
-          <seg id="1">Nel nostro studio abbiamo esaminato 75 pazienti trattati per carcinoma del retto nel periodo dal 1 gennaio 2011 al 31 dicembre 2014.</seg>
-          <seg id="2">Di questi 75 casi abbiamo considerato 36 casi stadiati con RMN , Abbiamo confrontato la stadiazione ottenuta con lo studi oRMN con quella evidenziatasi dallo studio istologico.</seg>
-          <seg id="3">La correlazione tra le due stadiazioni TNM   stata ulteriormente analizzata in base all’esecuzione o meno di trattamento neoadiuvante.</seg>
-          <seg id="4">Abbiamo, infine, analizzato i valori sierici di marcatori tumorali di CEA, Ca 19.9, AFP correlandoli alla stadiazione.</seg>
-          <seg id="5">I dati hanno dimostrato una correlazione statistiacmente significativa per il T specialmente nella popolazione che non aveva eseguito terapia neoadiuvante.</seg>
-          <seg id="6">Per il parametro N non abbiamo evidenziato correlazioni statisticamente significative; nessuno dei marcatori tumorali presentava un correlazione con lo stadio di malattia.</seg>
-          <seg id="7">Analizzano ulteriormente nei pazienti i marcatori tumorali positivi abbiamo associato il seguente score: 0 ( assenza di marcatori positivi),1 (solo un marcatore positivo), 2(due marcatori positivi),3 /tre marcatori positivi).</seg>
-          <seg id="8">In presenza di tre marcatpori positivi abbiamo trovato una correlazione statisticamente significativa con N+ in base all’esame istologico.</seg>
-          <seg id="9">La conclusione   che la RMN   efficace nella valutazione del T. Per stabilire il coinvolgimento linfonodale necessitiamo di ulteriori parametri.</seg>
-          <seg id="10">Il ruolo dei marcatori tumorali CEA, CA 19.9, AFP durante la valutazione preoperatoria dei tumori del retto rimane non ben definito.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc32">
-      <src lang="it">
-        <p>
-          <seg id="1">Questo studio mira a valutare gli effetti del volume corrente basso e della pressione positiva di fine espirazione (PEEP) combinati con la ventilazione a volume garantito di ventilazione controllata (PCV-VG) su una ventilazione polmonare (OLV) in pazienti con polmone distrutto tubercolare (TDL).</seg>
-          <seg id="2">METODI: I pazienti di due gruppi sono stati tutti trattati con ventilazione a volume controllato (VCV) con ventilazione a due polmoni e il volume corrente   stato impostato su 8 ml / kg in base al peso corporeo standard, la frequenza respiratoria   stata impostata su 10- 14 volte / min , il rapporto tra inspirazione ed espirazione   stato impostato su 1: 1,5.</seg>
-          <seg id="3">Durante OLV, VCV   stato utilizzato nel gruppo C e il volume corrente   stato impostato a 8 ml/kg; PCV-VG   stato somministrato ai pazienti del gruppo P e il volume corrente   stato impostato a 6 ml/kg, seguito da PEEP a 7 cm H2O.</seg>
-          <seg id="4">La frequenza respiratoria   stata impostata su 12- 16 volte/min e il rapporto tra inspirazione ed espirazione   stato impostato su 1: 1,5 in entrambi i gruppi con OLV.</seg>
-          <seg id="5">RISULTATI: Pplat, Ppeak e shunt intrapolmonare (Qs / Qt) erano inferiori a T2 e T3 nel gruppo P, rispetto al gruppo C (P &lt;0,05).</seg>
-          <seg id="6">A T2, T3 e T4, l'indice di ossigenazione (OI)   aumentato, Qs/Qt   diminuito e la pressione parziale di anidride carbonica arteriosa (paco2)   aumentata nel gruppo P (P &lt;0,05).</seg>
-          <seg id="7">A T5, la concentrazione di IL-6, TNF-α e BNP   diminuita nel gruppo P. CONCLUSIONE: il basso volume corrente e la PEEP combinati con la ventilazione PCV-VG potrebbero essere utili per alleviare il danno polmonare in OLV e ridurre la pressione delle vie aeree e Qs/Qt durante OLV in chirurgia.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc41">
-      <src lang="it">
-        <p>
-          <seg id="1">Lo scopo di questo studio era di testare un metodo per determinare la larghezza della gabbia per l’avanzamento della tuberosità tibiale (TTA) durante un esame radiologico preoperatorio senza dover estendere l’articolazione del ginocchio.</seg>
-          <seg id="2">Le dimensioni della gabbia TTA sono state determinate con quattro metodi diversi utilizzando radiografie in direzione medio-laterale su articolazioni del ginocchio completamente estese in cani (n = 43) con e senza malattia del legamento crociato craniale. I metodi utilizzati sono: metodo Parallel Shift (PS), metodo Common Tangent (CT), metodo «2,1» (dimensione della gabbia = 2,1 × lunghezza del piatto tibiale – larghezza della tuberosità tibiale) e metodo Margo cranialis (MC) (dimensione della gabbia = lunghezza del MC/6*1,75).</seg>
-          <seg id="3">I due nuovi metodi, «2,1» e MC, sono stati confrontati con i metodi già esistenti CT e PS.</seg>
-          <seg id="4">Tutti e 4 i metodi hanno ottenuto delle dimensioni affidabili delle gabbie TTA.</seg>
-          <seg id="5">Il coefficiente di correlazione interclasse ha mostrato un’eccellente concordanza del metodo CT e PS rispetto al metodo «2,1» e una buona concordanza rispetto al metodo MC.</seg>
-          <seg id="6">In conclusione, la dimensione della gabbia TTA dell’anatomia tibiale può essere determinata dalle sole radiografie senza la necessità di estendere completamente l’articolazione del ginocchio.</seg>
-          <seg id="7">Sulla base dei risultati, si raccomandano due diversi metodi di misurazione delle dimensioni della gabbia per aumentare l’accuratezza diagnostica e prevenire l’inserimento di gabbie non ottimali.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc1">
-      <src lang="it">
-        <p>
-          <seg id="1">Descrivere la soddisfazione lavorativa (job satisfaction) ed esplorare le motivazioni della richiesta di turnover da parte degli infermieri clinici.</seg>
-          <seg id="2">Studio mixed-method condotto presso un’Azienda Ospedaliera di Roma Hub di II livello, su un campionamento di convenienza al personale infermieristico in servizio nelle seguenti tre aree cliniche: medica, chirurgica e d’urgenza/emergenza.</seg>
-          <seg id="3">Il campione di 133 infermieri risulta avere una buona job satisfaction (60,9%).</seg>
-          <seg id="4">Il 21% si ritiene insoddisfatto e il 18% è incerto sul grado di soddisfazione.</seg>
-          <seg id="5">Gli infermieri appartenenti all’aerea urgenza-emergenza sono quelli che mostrano una più alta soddisfazione (43,7%), mentre i più insoddisfatti sono gli appartenenti all’area chirurgica (53,3%).</seg>
-          <seg id="6">La fascia di età tra 45-50 anni è disposta al turnover immediato, rispetto agli over 50 che preferisce rimanere nella realtà ove opera.</seg>
-          <seg id="7">L’analisi qualitativa ha fatto emergere 7 macroaree.</seg>
-          <seg id="8">Gli infermieri riferiscono una ottimale soddisfazione lavorativa, ma molti di loro ritengono necessario un turnover.</seg>
-          <seg id="9">I risultati possono avere importanti implicazioni per gli infermieri per contribuire a migliorare gli ambienti di lavoro, al fine di limitare l’intenzione di turnover.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc38">
-      <src lang="it">
-        <p>
-          <seg id="1">La terapia selettiva con radionuclidi intraarteriosi (SIRT) con microsfere di resina di ittrio-90 (Y-90)   stata applicata recentemente per il carcinoma epatocellulare (HCC).</seg>
-          <seg id="2">Lo scopo di questo studio   presentare il nostro studio della terapia con radiomicrosfera nel trattamento dell’HCC non resecabile e determinare i casi appropriati che potrebbero trarre beneficio da questa terapia in base ai risultati di risposta forniti dallo stadio iniziale e dalle modalit  di controllo per immagini.</seg>
-          <seg id="3">METODI: abbiamo somministrato 43 terapie con microsfere Y-90 a 34 pazienti con HCC non resecabile (due volte in 9 pazienti).</seg>
-          <seg id="4">I pazienti con HCC confermato dal punto di vista istopatologico con un’aspettativa di vita di ≥3 mesi; classificazioni Child AB, Classificazione Okuda 1-2 e stadiazione BCLC ABC sono state incluse nello studio.</seg>
-          <seg id="5">I pazienti sono stati divisi in due gruppi: il gruppo A era composto da 29 pazienti che hanno risposto alla terapia con Y-90 (risposta completa, risposta parziale e malattia stabile), il gruppo B 5 non davano nessuna risposta (malattia progressiva).</seg>
-          <seg id="6">I parametri predefiniti sono stati valutati per la risposta alla SIRT e confrontati tra i due gruppi.</seg>
-          <seg id="7">RISULTATI: abbiamo riscontrato una significativa diminuzione del numero di piastrine e dei linfociti un mese dopo la terapia (p = 0,02, p = 0,01, rispettivamente).</seg>
-          <seg id="8">Nei test di controllo per immagini eseguiti 3 mesi dopo, abbiamo osservato una risposta completa nel 19% (n = 6), una risposta parziale nel 44% (n = 15), una malattia stabile nel 25% (n = 8) e una malattia progressiva nel 12% ( n = 5) dei pazienti.</seg>
-          <seg id="9">La sopravvivenza globale media (OS)   stata di 19 (valore mediano: 14) mesi.</seg>
-          <seg id="10">CONCLUSIONI: la terapia con microsfere Y-90   un’opzione di trattamento sicura ed efficace per i pazienti con HCC non resecabile senza alcun effetto collaterale grave.</seg>
-          <seg id="11">Tumore di piccole dimensioni e mancanza di assenza di localizzazione bilobare sembrano le migliori condizioni per il successo del trattamento.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc37">
-      <src lang="it">
-        <p>
-          <seg id="1">La deiscenza anastomotica dopo resezione rettale   una complicanza importante che aumenta i tassi di morbilit  e mortalit .</seg>
-          <seg id="2">Un piccolo numero di pazienti con peritonite generalizzata necessita di trattamenti chirurgici radicali.</seg>
-          <seg id="3">I pazienti stabili con peritonite locale possono essere trattati in modo conservativo.</seg>
-          <seg id="4">Lo scopo di questo studio   valutare gli effetti del trattamento sottovuoto transrettale sulla guarigione delle deiscenze perdite anastomotiche colorettali basse.</seg>
-          <seg id="5">Sono state riviste retrospettivamente le cartelle cliniche di quattordici pazienti gestiti in modo conservativo con trattamento sottovuoto transrettale per deiscenze anastomotiche dopo resezione rettale tra settembre 2015 e settembre 2018.</seg>
-          <seg id="6">La deiscenza anastomotica   stata documentata e valutata con tomografia computerizzata e rettosigmoidoscopia.</seg>
-          <seg id="7">RISULTATI: In 10 dei 14 pazienti si   avuto il successo della chiusura della cavit  ascessuale perianastomotico dopo una media di 19 giorni di trattamento sotto vuoto.</seg>
-          <seg id="8">2 pazienti in questo gruppo presentavano una stenosi nel sito anastomotico come complicanza tardiva, e trattata con successo con dilatazioni ripetute.</seg>
-          <seg id="9">In 4 pazienti su 14 si   provveduto alla fine alla confezione di una colostomia sigmoidea permanente.</seg>
-          <seg id="10">CONCLUSIONE: I nostri risultati suggeriscono che il trattamento sottovuoto transrettale pu  essere tranquillamente utilizzato a tutti i pazienti stabili senza peritonite generalizzata nella gestione delle deiscenze anastomotiche colorettali basse.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc25">
-      <src lang="it">
-        <p>
-          <seg id="1">Il Disability Management (DM) nasce per migliorare la salute dei lavoratori ed ottimizzare il ritorno al lavoro per le persone con disabilità.</seg>
-          <seg id="2">Obiettivi.</seg>
-          <seg id="3">Eseguire una revisione delle revisioni presenti in letteratura sull’uso del Disability Management in contesti internazionali e sulle strategie adottate circa il ritorno al lavoro.</seg>
-          <seg id="4">Metodi.</seg>
-          <seg id="5">La revisione è stata svolta consultando le banche dati Pubmed e Scopus dal 1994 fino a Gennaio 2021, secondo le linee guida PRISMA.</seg>
-          <seg id="6">Gli studi eleggibili sono stati selezionati attraverso un approccio multistep (valutazione del titolo, abstract e full-text).</seg>
-          <seg id="7">Le revisioni sistematiche sono state valutate con la scala AMSTAR, quelle narrative con la scala INSA.</seg>
-          <seg id="8">Risultati.</seg>
-          <seg id="9">In seguito alla rimozione dei duplicati e degli articoli senza full text disponibile oppure non pertinenti, sono state incluse 51 revisioni, 17 sistematiche e 34 narrative.</seg>
-          <seg id="10">Gli studi presi in esame riguardano attività di ricerca in materia di DM condotte prevalentemente negli Stati Uniti, in Canada e in Gran Bretagna.</seg>
-          <seg id="11">Dall’analisi di tali revisioni sono emersi dieci argomenti principali, tra i quali i più frequenti sono stati: le possibili soluzioni da adottare in caso di lavoratori con Patologie Muscolo-Scheletriche (nel 50% degli studi) e gli aspetti legati alle problematiche di Salute Mentale e Stress (nel 41.2%).</seg>
-          <seg id="12">La qualità delle revisioni incluse è prevalentemente di ottimo livello.</seg>
-          <seg id="13">Discussione.</seg>
-          <seg id="14">La revisione svolta ha mostrato che l’attività di ricerca in materia di DM in contesti internazionali è prevalente nel mondo anglosassone.</seg>
-          <seg id="15">Questa revisione può fornire molti spunti di riflessione per una piena applicazione del DM a livello nazionale.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc11">
-      <src lang="it">
-        <p>
-          <seg id="1">Lo sciacallo dorato (Canis aureus) è un canide selvatico nuovo per la Svizzera. È una specie sorvegliata ufficialmente e tutti gli individui morti sono sottoposti a un esame post-mortem per raccogliere dati di base sulla salute dell’animale.</seg>
-          <seg id="2">Questo include un esame parassitologico con particolare attenzione alle infezioni zoonotiche notificabili, come quelle causate da Trichinella spp. o Echinococcus spp.</seg>
-          <seg id="3">Dal 2016 al 2021, cinque sciacalli dorati di quattro cantoni svizzeri sono stati sottoposti a un esame post-mortem completo.</seg>
-          <seg id="4">In un caso, sono stati inviati solo campioni di organi, poiché l’esame parassitologico non era possibile per questo animale.</seg>
-          <seg id="5">Gli stadi dei parassiti trovati durante l’esame patologico e la coprologia di routine sono stati identificati morfologicamente.</seg>
-          <seg id="6">Le specie di tenie (uova e stadi adulti) sono state determinate con tecniche di biologia molecolare.</seg>
-          <seg id="7">Inoltre, la Trichinella spp.</seg>
-          <seg id="8">è stata ricercata sul tessuto muscolare linguale e diaframmatico utilizzando la tecnica di digestione artificiale seguita da PCR multiplex nei casi positivi.</seg>
-          <seg id="9">Tra i quattro sciacalli testati per i parassiti, sono state rilevate uova di anchilostoma in un animale, vermi adulti e uova di Echinococcus multilocularis in un altro, e nessun parassita è stato trovato nell’ultimo.</seg>
-          <seg id="10">Nell’ultimo caso, uova di E. multilocularis, così come uova di Toxocara canis e sporocisti di Sarcocystis sp. sono state rilevati nel contenuto intestinale mentre le larve di Trichinella britovi sono state rilevate nei campioni di muscolo.</seg>
-          <seg id="11">Il programma di sorveglianza sanitaria dei carnivori protetti in Svizzera ha quindi aggiunto lo sciacallo dorato alla lista degli ospiti dei parassiti zoonotici endemici E. multilocularis e T. britovi.</seg>
-          <seg id="12">Cacciatori, agricoltori e altri che possono entrare in contatto con lo sciacallo dorato dovrebbero essere consapevoli del rischio sanitario associato e maneggiare con cura feci e carcasse.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc22">
-      <src lang="it">
-        <p>
-          <seg id="1">Siamo capaci di identificare correttamente la posizione del sonno negli studi su OSAS?</seg>
-          <seg id="2">La sindrome delle apnee ostruttive notturne posizionali (POSAS) è un sottotipo della sindrome delle apnee ostruttive notturne (OSAS) nella quale le apnee si verificano prevalentemente in posizione supina.</seg>
-          <seg id="3">Nella pratica clinica, le informazioni sulla posizione nel sonno sono acquisite grazie a un polisonnigrafo (PSG).</seg>
-          <seg id="4">Attualmente le terapie posizionali utilizzano correttori di posizione che aiutano a evitare la posizione supina.</seg>
-          <seg id="5">L’obiettivo dello studio è quello di individuare la correlazione fra diversi rilevatori di posizione, confrontando i dati con una valutazione oggettiva fornita da una telecamera a infrarossi.</seg>
-          <seg id="6">Abbiamo confrontato i dati ottenuti da 4 volontari sani mediante un PSG di tipo III e un dispositivo di terapia posizionale applicato al collo (Night Shift - NS).</seg>
-          <seg id="7">I dati hanno mostrato che il NS è uno strumento efficace e altamente correlabile al PSG per valutare la posizione del tronco. Tuttavia i dati raccolti hanno evidenziato una bassa correlazione tra il NS e la telecamera a infrarossi per quanto concerne l’individuazione della reale posizione di testa e collo.</seg>
-          <seg id="8">Il nostro studio ha confermato la necessità di elaborare nuove tecnologie per ottenere ulteriori informazioni sulla posizione del corpo durante il sonno.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc40">
-      <src lang="it">
-        <p>
-          <seg id="1">La fistola colecisto-gastrica è una rara complicanza della calcolosi biliare.</seg>
-          <seg id="2">Anche se ben descritta in Letteratura, questa condizione rappresente ancora una fonte di controversi sulla diagnosi ed il trattamento.</seg>
-          <seg id="3">Presentiamo il caso di una donna di 35 anni che inaspettatamente ha presentato in corso di colecistectomia laparoscopica una fistola colecisto-gastrica, trattata con successo con la transezione della fistola e colecistectomia con accesso laparotomico.</seg>
-          <seg id="4">L’accesso open rimane quello raccomandato per questa rara condizione tuttavia una riparazione laparoscopica viene proposta da diversi autori con sempre maggiore frequenza.</seg>
-          <seg id="5">La diagnosi preoperatoria resta comunque difficile a causa della sintomatologia aspecifica.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc2">
-      <src lang="it">
-        <p>
-          <seg id="1">SCOPO: analizzare la prevalenza del Burnout definito dal MBI-GS tra il personale sanitario diTerapia Intensiva (TI) durante l’emergenza COVID-19.</seg>
-          <seg id="2">METODO: è stato condotto uno studio trasversale multicentrico.</seg>
-          <seg id="3">Un campione composto da197 sanitari (135 infermieri e 62 Medici) ha partecipato allo studio.</seg>
-          <seg id="4">Tra il 25 Marzo e il 15Maggio 2020, il questionario Maslach Burnout Inventory-General Survey (MBI-GS), è statoinviato online tramite la piattaforma Google Forms al fine di rilevare e misurare la gravità della Sindrome di Burnout (BOS).</seg>
-          <seg id="5">RISULTATI : i sintomi BOS-correlati (punteggio medio o alto) per i singoli domini della MBI-GS sono stati identificati in almeno il 69% dei sanitari.</seg>
-          <seg id="6">Novantotto sanitari (49.7%) presentavano un rischio medio-alto di esaurimento emotivo, 108 (54.8%) di depersonalizzazione e 102 (51.8%) di ridotta realizzazione personale.</seg>
-          <seg id="7">Un rischio alto di esaurimento emotivo, un rischio moderato di depersonalizzazione (56.3% vs 32.2%) e un rischio moderato per la ridotta realizzazione personale (60.7% vs 24.2%) è stato maggiormente osservato tra il personale infermieristico.</seg>
-          <seg id="8">Dalla relazione tra Burnout ed età anagrafica, è stata osservata una forte associazione tra aumento dell’età e aumento del rischio di Burnout severo in tutto il personale intervistato.</seg>
-          <seg id="9">CONCLUSIONI: i risultati suggeriscono come il personale sanitario durante l’emergenza abbia avuto alti livelli di sofferenza lavorativa e sia stato a rischio di esaurimento fisico ed emotivo.</seg>
-          <seg id="10">Tuttavia ulteriori ricerche dovrebbero essere intraprese per stabilire relazioni causali tra BOS e fattori di rischio personale e ambientale tra gli operatori sanitari in relazione all’esperienza COVID-19.</seg>
-        </p>
-      </src>
-    </doc>
-    <doc origlang="it" id="doc30">
-      <src lang="it">
-        <p>
-          <seg id="1">In questo studio, abbiamo indagato il ruolo dei parametri PET/CT 18F-FDG basati sul volume, i livelli di CA19- 9 e i parametri emocromocitometrici completi nella previsione di sopravvivenza in pazienti con adenocarcinoma duttale pancreatico non operabile e/o metastatico.</seg>
-          <seg id="2">La casistica si riferisce a 57 pazienti affetti da cancro del pancreas che sono stati seguiti presso l’Università di Scienze della Salute Gazi Yasargil Training and Research Hospital tra gennaio 2017 e giugno 2020. Si tratta di pazienti o inoperabili perché non resecabili o con metastasi oppure che hanno rifiutato il trattamento chirurgico e/o la radioterapia, e sono stati trattati con chemioterapia.</seg>
-          <seg id="3">Le immagini PET/TC 18F-FDG dei pazienti sono state valutate e sono stati confrontati i parametri del volume metabolico tumorale (MTV) e della glicolisi totale delle lesioni (TLG) calcolati con i livelli di CA19-9 e con i parametri emocromocitometrici completi.</seg>
-          <seg id="4">I pazienti sono stati valutati in due gruppi come sopravvissuti e non sopravvissuti.</seg>
-          <seg id="5">RISULTATI: MTV totale e TLG totale su PET/TC 18FFDG erano significativamente più alti tra i non sopravvissuti rispetto ai sopravvissuti (p: 0,023 e 0,034, rispettivamente).</seg>
-          <seg id="6">L’analisi di regressione multivariata di Cox ha rivelato che TLG superiore a 46 g / ml.cm3, MTV superiore a 11,02 cm3 (OR 0.987, IC 95% 0.976- 0.999, p: 0.029 e OR 0.246, IC 95% 0.089-0.685, p: 0.007, rispettivamente) e MPV elevato (OR: 0,785, IC 95% 0,574-0,976, p: 0,042) erano fattori prognostici indipendenti per la previsione della mortalità.</seg>
-          <seg id="7">CONCLUSIONE: TLG&gt; 46 g / ml.cm3 e MTV&gt; 11,02 cm3 nella PET/TC 18F-FDG e MPV elevato nell’emocromo completo sono fattori prognostici indipendenti per la previsione della mortalità nei pazienti con carcinoma pancreatico non resecabile o metastatico trattati con chemioterapia.</seg>
         </p>
       </src>
     </doc>
@@ -1347,6 +1062,198 @@
         </p>
       </src>
     </doc>
+    <doc origlang="it" id="doc13">
+      <src lang="it">
+        <p>
+          <seg id="1">Il trapianto di fegato   considerato l’ultima speranza di trattamento per l’insufficienza epatica irreversibile causata da diverse lesioni diffuse e/o occupanti spazio di questo organo.</seg>
+          <seg id="2">La rigorosa limitazione degli organi donatori prevede lo sviluppo di approcci alternativi per la risoluzione di questo problema.</seg>
+          <seg id="3">La revisione della letteratura presentata e la nostra esperienza hanno lo scopo di discutere gli aspetti moderni della gestione di diverse patologie epatiche che causano insufficienza epatica al fine di creare tessuti e / o organi funzionali ausiliari, basati sul bioingegnere e innovativi interventi chirurgici che consentano di condurre le operazioni in casi che erano stati considerati inoperabili.</seg>
+          <seg id="4">Nella rassegna vengono in particolare evidenziati i risultati degli studi sperimentali e traslazionali condotti in quattro centri di ricerca universitari della Georgia, che, da un lato, suscitano l’interesse professionale specifico e dall’altro richiedono la cooperazione e la collaborazione internazionale per ulteriori progressi e progressi in questo campo della chirurgia.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc22">
+      <src lang="it">
+        <p>
+          <seg id="1">Siamo capaci di identificare correttamente la posizione del sonno negli studi su OSAS?</seg>
+          <seg id="2">La sindrome delle apnee ostruttive notturne posizionali (POSAS) è un sottotipo della sindrome delle apnee ostruttive notturne (OSAS) nella quale le apnee si verificano prevalentemente in posizione supina.</seg>
+          <seg id="3">Nella pratica clinica, le informazioni sulla posizione nel sonno sono acquisite grazie a un polisonnigrafo (PSG).</seg>
+          <seg id="4">Attualmente le terapie posizionali utilizzano correttori di posizione che aiutano a evitare la posizione supina.</seg>
+          <seg id="5">L’obiettivo dello studio è quello di individuare la correlazione fra diversi rilevatori di posizione, confrontando i dati con una valutazione oggettiva fornita da una telecamera a infrarossi.</seg>
+          <seg id="6">Abbiamo confrontato i dati ottenuti da 4 volontari sani mediante un PSG di tipo III e un dispositivo di terapia posizionale applicato al collo (Night Shift - NS).</seg>
+          <seg id="7">I dati hanno mostrato che il NS è uno strumento efficace e altamente correlabile al PSG per valutare la posizione del tronco. Tuttavia i dati raccolti hanno evidenziato una bassa correlazione tra il NS e la telecamera a infrarossi per quanto concerne l’individuazione della reale posizione di testa e collo.</seg>
+          <seg id="8">Il nostro studio ha confermato la necessità di elaborare nuove tecnologie per ottenere ulteriori informazioni sulla posizione del corpo durante il sonno.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc33">
+      <src lang="it">
+        <p>
+          <seg id="1">Le cellule immunitarie nel microambiente tumorale rilasciano chemochine e citochine che determinano il fenotipo immunitario del tumore e svolgono un ruolo importante nella prognosi.</seg>
+          <seg id="2">Il presente studio valuta i livelli di espressione genica di IL-21 e IL-32 e le loro relazioni con i parametri cl inicopatologici nel carcinoma del colonretto.</seg>
+          <seg id="3">Sono stati inclusi nello studio 31pazienti (di cui 17 donne) affetti da c arcinoma del colon-retto.</seg>
+          <seg id="4">I campioni sono stati ottenuti da tessuti normali e tumorali.</seg>
+          <seg id="5">Dopo l’isolamento dell’RNA, sono stati misurati i livelli di espressione genica di IL-21 e IL-32.</seg>
+          <seg id="6">L’immunoistochimica è stata eseguita anche per le celle CD4 +, CD8 + e NK per misurare la densità cellulare.</seg>
+          <seg id="7">Sono state studiate le relazioni tra livelli di espressione, densità e differenziazione delle cellule immunitarie, stadio, presenza di invasione vascolare, perineurale e metastasi dei linfonodi (MLN).</seg>
+          <seg id="8">Risultati: i livelli di espressione genica dell’IL-32 sono aumentati nei tessuti tumorali.</seg>
+          <seg id="9">È stato riscontrato che i livelli di IL-21 sono diminuiti nel 50% dei pazienti.</seg>
+          <seg id="10">Anche i livelli di IL-32 sono stati aumentati con lo stadio, ma è stato significativamente ridotto con l’aumento del numero di MLN.</seg>
+          <seg id="11">D’altra parte, i livelli di espressione di IL-21 sono aumentati significativamente con la presenza di invasione vascolare.</seg>
+          <seg id="12">La densità di CD4 + è stata ridotta con un aumento dello stadio T, invasione vascolare mentre la densità di CD8 + è diminuita solo con l’invasione vascolare.</seg>
+          <seg id="13">Conclusioni: IL-32 espresso dal microambiente tumorale rivela che l’espressione è aumentata per controllare la crescita del tumore, ma i livelli sono diminuiti con l’aumento del numero di MLN che potrebbe essere dovuto alla diminuzione della densità cellulare CD4 +.</seg>
+          <seg id="14">I cambiamenti su IL-21 e IL-32 insieme ai cambiamenti sulla densità delle cellule immunitarie, indicano il loro ruolo nella crescita del tumore e nell’invasione nel cancro del colon.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc4">
+      <src lang="it">
+        <p>
+          <seg id="1">Dispositivi digitali per la misurazione dei parametri climatici, di facile utilizzo anche nelle stalle, sono disponibili da qualche tempo.</seg>
+          <seg id="2">I dati raccolti in uno studio prospettico su 43 aziende di vitelli da ingrasso in Svizzera sono stati analizzati per valutare la validità dei valori climatici misurati, le possibili associazioni di queste misurazioni con alcune caratteristiche di stabulazione e le correlazioni delle misurazioni climatiche, con gli indicatori della salute dei vitelli.</seg>
+          <seg id="3">Da un lato, sono stati registrati vari parametri di stabulazione (come il sistema di ventilazione, l’accesso a un recinto esterno, la superficie della stalla). D’altra parte, le misurazioni a campione della temperatura, dell’umidità dell’aria, delle concentrazioni di ammoniaca e di anidride carbonica sono state prese in cinque punti di ogni stalla durante le visite all’azienda (in media sei per azienda su un periodo di un anno).</seg>
+          <seg id="4">Inoltre, le misurazioni continue di temperatura e umidità sono state condotte per 72 ore, una volta in estate e una volta in inverno, per ogni azienda.</seg>
+          <seg id="5">Utilizzando modelli statistici, è stato valutato se le caratteristiche di stabulazione e dei valori climatici misurati sono associati, come fattori di rischio significativi, con gli indicatori di salute degli animali (uso di antibiotici, mortalità e aumento di peso giornaliero).</seg>
+          <seg id="6">Durante le misurazioni puntuali, sono stati osservati valori al di fuori degli intervalli ottimali per tutti i parametri misurati e in ogni stagione.</seg>
+          <seg id="7">Le misurazioni continue sono state in grado di rilevare più sovente valori al di fuori dell’intervallo ottimale per la temperatura e l’umidità rispetto alle misurazioni puntuali.</seg>
+          <seg id="8">Nessuna correlazione significativa è stata osservata tra i valori dei parametri climatici misurati puntualmente o tra i valori dei parametri climatici e il numero di vitelli presenti nella stalla, la superficie totale della stalla, la superficie di paglia o il volume della stalla.</seg>
+          <seg id="9">I gruppi costituiti da gran numero di vitelli e la presenza di ventilazione meccanica erano positivamente associati a un maggior uso di antibiotici. I gruppi costituiti da molti vitelli e la presenza di un gran numero di gruppi erano associati a un tasso di mortalità superiore al 3%.</seg>
+          <seg id="10">Gli allevamenti in zone di pianura e il volume d’aria per vitello erano positivamente associati all’aumento di peso giornaliero.</seg>
+          <seg id="11">Nessuno dei parametri climatici misurati ha mostrato un’associazione con gli indicatori di salute dei vitelli: uso di antibiotici, mortalità e aumento di peso giornaliero.</seg>
+          <seg id="12">Questi sembrano pertanto essere inadeguati per valutare la salute dei vitelli negli allevamenti da ingrasso.</seg>
+          <seg id="13">I nostri risultati mostrano che le misurazioni dei parametri climatici sono difficili da interpretare e devono essere considerate in modo critico.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc27">
+      <src lang="it">
+        <p>
+          <seg id="1">Il mobbing sul lavoro consiste in un insieme di comportamenti violenti perpetrati da parte di superiori e/o colleghi nei confronti di un lavoratore, prolungato nel tempo e lesivo della dignità personale e professionale nonché della salute psicofisica dello stesso.</seg>
+          <seg id="2">In Italia, i dati dimostrano che circa 1 milione e 404 mila (8,9%) donne hanno subito mobbing e/o ricatti sessuali sul posto di lavoro.</seg>
+          <seg id="3">Purtroppo ad oggi, nonostante le numerose sentenze in materia delle Cassazione, manca una legge dedicata, e i vari casi vengono gestiti ricorrendo per analogia alle leggi presenti in materia di stress lavoro-correlato e violenza personale.</seg>
+          <seg id="4">Scopo di questo lavoro è quello di inquadrare il fenomeno del mobbing, mettendo in evidenza le problematiche diagnostico-legislative italiane e offrendo una potenziale soluzione.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc28">
+      <src lang="it">
+        <p>
+          <seg id="1">Una valutazione e gestione accurata del dolore nei pazienti in condizioni critiche con alterazioni cognitive non in grado di comunicare, costituiscono una grande sfida per il personale medico e infermieristico delle Terapie Intensive (TI).</seg>
+          <seg id="2">Questo studio vuole valutare l'impatto della scala CCPOT in TI, valutandone gli effetti sulla valutazione e gestione del dolore nei pazienti adulti con lesioni cerebrali.</seg>
+          <seg id="3">Questo studio before-after è stato condotto in una terapia intensiva italiana, in cui i dati sono stati raccolti prima (T0) e dopo (T1) l'implementazione dello strumento.</seg>
+          <seg id="4">La popolazione di studio era composta da 81 pazienti (35 prima e 46 dopo l'intervento).</seg>
+          <seg id="5">L'uso di propofol è diminuito in modo significativo e allo stesso tempo, l'uso della morfina è aumentata in modo significativo (morfina: t(80) = 1,51, p = .02) dopo il nostro intervento.</seg>
+          <seg id="6">L'analisi dei dati relativi al sollievo dal dolore e alla prevenzione durante alcune attività di assistenza infermieristica ha rivelato un aumento significativo dell'uso di fentanil citrato e paracetamolo.</seg>
+          <seg id="7">La gestione del dolore era in linea con il protocollo, che prevedeva la somministrazione di antidolorifici a pazienti con punteggi CCPOT infermieri a 3 nel 76.8% dei casi.</seg>
+          <seg id="8">I risultati supportano fortemente il valore della scala CCPOT nella gestione del dolore dei pazienti in terapia intensiva unitamente alla formazione del personale medico einfermieristico.</seg>
+          <seg id="9">Tuttavia, devono essere eseguiti ulteriori studi su campioni di pazienti didimensioni maggiori.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc2">
+      <src lang="it">
+        <p>
+          <seg id="1">SCOPO: analizzare la prevalenza del Burnout definito dal MBI-GS tra il personale sanitario diTerapia Intensiva (TI) durante l’emergenza COVID-19.</seg>
+          <seg id="2">METODO: è stato condotto uno studio trasversale multicentrico.</seg>
+          <seg id="3">Un campione composto da197 sanitari (135 infermieri e 62 Medici) ha partecipato allo studio.</seg>
+          <seg id="4">Tra il 25 Marzo e il 15Maggio 2020, il questionario Maslach Burnout Inventory-General Survey (MBI-GS), è statoinviato online tramite la piattaforma Google Forms al fine di rilevare e misurare la gravità della Sindrome di Burnout (BOS).</seg>
+          <seg id="5">RISULTATI : i sintomi BOS-correlati (punteggio medio o alto) per i singoli domini della MBI-GS sono stati identificati in almeno il 69% dei sanitari.</seg>
+          <seg id="6">Novantotto sanitari (49.7%) presentavano un rischio medio-alto di esaurimento emotivo, 108 (54.8%) di depersonalizzazione e 102 (51.8%) di ridotta realizzazione personale.</seg>
+          <seg id="7">Un rischio alto di esaurimento emotivo, un rischio moderato di depersonalizzazione (56.3% vs 32.2%) e un rischio moderato per la ridotta realizzazione personale (60.7% vs 24.2%) è stato maggiormente osservato tra il personale infermieristico.</seg>
+          <seg id="8">Dalla relazione tra Burnout ed età anagrafica, è stata osservata una forte associazione tra aumento dell’età e aumento del rischio di Burnout severo in tutto il personale intervistato.</seg>
+          <seg id="9">CONCLUSIONI: i risultati suggeriscono come il personale sanitario durante l’emergenza abbia avuto alti livelli di sofferenza lavorativa e sia stato a rischio di esaurimento fisico ed emotivo.</seg>
+          <seg id="10">Tuttavia ulteriori ricerche dovrebbero essere intraprese per stabilire relazioni causali tra BOS e fattori di rischio personale e ambientale tra gli operatori sanitari in relazione all’esperienza COVID-19.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc7">
+      <src lang="it">
+        <p>
+          <seg id="1">Il bullismo nel settore sanitario ha una prevalenza, a livello mondiale, che varia dal 1% al 87%, ed è in continuo aumento, descritto dalla WHO come un “grave problema di salute pubblica”.</seg>
+          <seg id="2">Viene definito come ripetuti maltrattamenti dannosi per la salute di uno o più individui da parte di una a più persone.</seg>
+          <seg id="3">Diverse sono le tipologie di comportamenti e variano da abusi verbali, condotte offensive, atteggiamenti umilianti e intimidatori che impediscono di svolgere il proprio lavoro.</seg>
+          <seg id="4">Come diversi sono gli esiti che tali azioni hanno sulle vittime: ansia, disturbi del sonno, dolori generalizzati e ridotta attenzione.</seg>
+          <seg id="5">L’obiettivo dello studio è stato indagare la presenza del fenomeno all’interno dei contesti sanitari ticinesi ed esplicitarne i vissuti.</seg>
+          <seg id="6">È stato condotto uno studio di tipo qualitativo ad un campione di professionisti attivi nel contesto sanitario ticinese (Svizzera) attraverso 18 interviste semi-strutturate e l’analisi tematica delle stesse.</seg>
+          <seg id="7">I risultati emersi evidenziano che la problematica è presente anche nei contesti sanitari ticinesi con modalità ed esiti talvolta differenti, inoltre che sperimentare queste situazioni durante la propria carriera lavorativa porta a riproporre tali comportamenti, in quanto ritenuto un rito di passaggio.</seg>
+          <seg id="8">Ciò che è emerge in maniera preponderante è la mancanza di programmi o strutture volte alla prevenzione e al sostengo sia della vittima che del carnefice. Le esperienze emerse hanno confermato la presenza del bullismo nel settore sanitario ticinese e come le conseguenze abbiano un impatto negativo sia sul personale curante bullizzato sia sulla qualità delle cure erogate ai pazienti.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc32">
+      <src lang="it">
+        <p>
+          <seg id="1">Questo studio mira a valutare gli effetti del volume corrente basso e della pressione positiva di fine espirazione (PEEP) combinati con la ventilazione a volume garantito di ventilazione controllata (PCV-VG) su una ventilazione polmonare (OLV) in pazienti con polmone distrutto tubercolare (TDL).</seg>
+          <seg id="2">METODI: I pazienti di due gruppi sono stati tutti trattati con ventilazione a volume controllato (VCV) con ventilazione a due polmoni e il volume corrente   stato impostato su 8 ml / kg in base al peso corporeo standard, la frequenza respiratoria   stata impostata su 10- 14 volte / min , il rapporto tra inspirazione ed espirazione   stato impostato su 1: 1,5.</seg>
+          <seg id="3">Durante OLV, VCV   stato utilizzato nel gruppo C e il volume corrente   stato impostato a 8 ml/kg; PCV-VG   stato somministrato ai pazienti del gruppo P e il volume corrente   stato impostato a 6 ml/kg, seguito da PEEP a 7 cm H2O.</seg>
+          <seg id="4">La frequenza respiratoria   stata impostata su 12- 16 volte/min e il rapporto tra inspirazione ed espirazione   stato impostato su 1: 1,5 in entrambi i gruppi con OLV.</seg>
+          <seg id="5">RISULTATI: Pplat, Ppeak e shunt intrapolmonare (Qs / Qt) erano inferiori a T2 e T3 nel gruppo P, rispetto al gruppo C (P &lt;0,05).</seg>
+          <seg id="6">A T2, T3 e T4, l'indice di ossigenazione (OI)   aumentato, Qs/Qt   diminuito e la pressione parziale di anidride carbonica arteriosa (paco2)   aumentata nel gruppo P (P &lt;0,05).</seg>
+          <seg id="7">A T5, la concentrazione di IL-6, TNF-α e BNP   diminuita nel gruppo P. CONCLUSIONE: il basso volume corrente e la PEEP combinati con la ventilazione PCV-VG potrebbero essere utili per alleviare il danno polmonare in OLV e ridurre la pressione delle vie aeree e Qs/Qt durante OLV in chirurgia.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc39">
+      <src lang="it">
+        <p>
+          <seg id="1">La simulazione ad alta fedeltà può essere definita come una tecnica per affinare specifiche prestazioni umane in un ambiente protetto e, grazie all'innovazione delle tecnologie simulative è stato possibile ottenere prestazioni sempre più realistiche.</seg>
+          <seg id="2">Lo scopo di questo studio è quello di mappare e descrivere gli effetti della simulazione ad alta fedeltà nella formazione universitaria infermieristica sulle abilità tecniche e non tecniche degli studenti in un contesto di emergenza/area critica.</seg>
+          <seg id="3">La metodologia di revisione scelta è stata una scoping review all’interno dei più importanti database di interesse biomedico: MEDLINE, Scopus, CINAHL, PsycINFO, Academic Search Index, Science Citation Index and ERIC.</seg>
+          <seg id="4">Sono stati selezionati 530 articoli.</seg>
+          <seg id="5">Di questi, 21 hanno soddisfatto I criteri di inclusione e sono stati sottoposti al processo di revisione.</seg>
+          <seg id="6">I partecipanti che hanno ricevuto l'intervento hanno dimostrato abilità migliori rispetto al gruppo di controllo quando sottoposti ad una simulazione basata su scenari realistici.</seg>
+          <seg id="7">Gli articoli selezionati, inoltre, possono essere suddivisi in due categorie: quelli che si concentrano essenzialmente sulle non-technical skills e quelli che studiano solo le technical skills.</seg>
+          <seg id="8">I risultati suggeriscono che l’HFS (High-Fidelity Simulation) dovrebbe includere feedback, briefing e debriefing degli scenari; dovrebbe essere applicato in ogni area della formazione infermieristica; l'autoefficacia, la fiducia e le conoscenze dello studente sono principi chiave da considerare quando si vuole misurare l'effetto di un ambiente di simulazione.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc10">
+      <src lang="it">
+        <p>
+          <seg id="1">L’ileo da calcoli biliari   una malattia rara nella pratica chirurgica di emergenza con diagnosi solitamente difficili e generalmente solo realizzata durante l’intervento chirurgico.</seg>
+          <seg id="2">Gli approcci attuali sono: enterolitotomia, colecistectomia e riparazione di fistole (intervento chirurgico in un’unica fase), enterolitotomia con colecistectomia eseguita successivamente (intervento chirurgico in due fasi) e solo enterolitotomia (procedura chirurgica pi  segnalata).</seg>
+          <seg id="3">I dati clinici, operativi e di follow-up su 14 pazienti consecutivi trattati nella nostra clinica per ileo da calcoli biliari sono stati rivisti retrospettivamente.</seg>
+          <seg id="4">L’ileo da calcoli biliari   stato registrato nello 0,06% di tutte le operazioni per litiasi biliare e nell’1% di tutte le occlusioni enteriche: 11 donne e un uomo, con un’et  media di 77,3 (range 67-100) anni.</seg>
+          <seg id="5">Si   registrato un ritardo medio di 3,16 giorni tra insorgenza dei sintomi e ricovero.</seg>
+          <seg id="6">La laparotomia urgente ha confermato l’ostruzione di calcoli biliari e una fistola colecisto-duodenale in 13 casi, o una fistola colecisto-colonica (1 caso).</seg>
+          <seg id="7">Abbiamo eseguito un intervento chirurgico in una fase in 4 casi, la sola enterolitotomia in 8 casi (un caso operato inizialmente in un altro servizio chirurgico), procedura di Hartman, colecistectomia e riparazione della fistola in un caso e un’evacuazione spontanea del calcoli biliari con colecistectomia e riparazione della fistola successivamente in un altro caso.</seg>
+          <seg id="8">Abbiamo registrato 2 decessi in pazienti con comorbilit  multiple in cui   stata eseguita solo enterolitotomia e con 1 e 2 reinterventi, rispettivamente.</seg>
+          <seg id="9">La degenza postoperatoria   stata di 9,4 giorni per i casi con enterolitotomia semplice e 18,6 giorni per i casi con trattamento radicale.</seg>
+          <seg id="10">Non abbiamo registrato alcuna ricorrenza.</seg>
+          <seg id="11">Sebbene raramente riscontrati nella pratica chirurgica, i calcoli ileali dovrebbero essere individuati nella diagnosi differenziale di ostruzione intestinale in pazienti con una storia pregressa di malattia biliare, sindrome occlusiva, pneumobilia e possibilmente calcoli biliari ectopici.</seg>
+          <seg id="12">La procedura in uno stadio dovrebbe essere offerta ai pazienti stabilizzati, ma nei casi con comorbilit  associate, solo l’enterolitotomia rappresenta l’opzione migliore.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc23">
+      <src lang="it">
+        <p>
+          <seg id="1">Lo scopo di questo studio   di confrontare l’efficacia oncologica della gastrectomia totale laparoscopica (LTG) rispetto alla gastrectomia totale ad addome aperto (OTG) per il cancro gastrico e di fornire le nostre esperienze in merito a questo intervento chirurgico.</seg>
+          <seg id="2">Sono stati inclusi in questo studio un totale di 107 pazienti sottoposti a gastrectomia curativa totale per adenocarcinoma gastrico tra settembre 2015 e settembre 2018, e ne sono state valutate le caratteristiche demografiche, i tempi operatori, i risultati istopatologici, la morbilit  postoperatoria e i risultati di mortalit  dei pazienti.</seg>
+          <seg id="3">RISULTATI: Di 107 pazienti, 70 erano uomini e 37 donne.</seg>
+          <seg id="4">La chirurgia ad addome aperto ha riguardato 89 pazienti e quella laparoscopica 18 pazienti.</seg>
+          <seg id="5">Et  media in OTG 59,4 anni; et  media in LTG 57,3 anni.</seg>
+          <seg id="6">Il numero medio di linfonodi raccolti   stato di 30,5   14,6 in OTG e 33,0   10,1 in LTG.</seg>
+          <seg id="7">Il numero di linfonodi metastatici raccolti   stato 7,4   10,5 in OTG e 10,0   11,8 in LTG (p = 0,366) senza alcuna differenza statistica tra i due gruppi.</seg>
+          <seg id="8">Il tempo di ripresa dell’alimentazione orale, e l’incidenza di deiscenza anastomotica e di mortalit  postoperatoria   risultata simile in entrambi i gruppi.</seg>
+          <seg id="9">La durata dell’intervento e la durata della degenza ospedaliera sono risultate significativamente pi  elevate nella LTG.</seg>
+          <seg id="10">La durata della sopravvivenza postoperatoria   stata simile in entrambe le procedure. CONCLUSIONE: la gastrectomia totale laparoscopica per carcinoma gastrico   una procedura oncologicamente sicura ma ha avuto un tempo di intervento pi  lungo e una degenza ospedaliera pi  lunga.</seg>
+          <seg id="11">Non   risultata alcuna differenza significativa nel numero di linfonodi raccolti, numero di linfonodi metastatici e localizzazione del tumore tra i due gruppi.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc3">
+      <src lang="it">
+        <p>
+          <seg id="1">I sanitari del Servizio 118 sono spesso i primi a giungere in situazioni poi rivelatesi delle scene del crimine.</seg>
+          <seg id="2">Ne derivano dunque molteplici responsabilità, sussistendo l’onere di soccorrere eventuali soggetti coinvolti conservando il più possibile lo stato dei luoghi, salvaguardando al contempo se stessi.</seg>
+          <seg id="3">I predetti sono tuttavia, di sovente, scevri da una qualsivoglia formazione forense con conseguente rischio di alterazione dell’area e/o di perdita di informazioni fondamentali ai fini della prosecuzione delle indagini.</seg>
+          <seg id="4">Lo scopo del presente studio, nato dalla collaborazione interdisciplinare tra le scienze infermieristiche e forensi, è proprio quello di garantire il corretto approccio da parte dei professionisti dell'emergenza alla Scena del Crimine; alla luce dei dati disponibili sulle strategie d'intervento, si fornisce quindi una scheda di rilevazione dati il cui non immediato reporting ne comporterebbe inevitabilmente la perdita.</seg>
+          <seg id="5">Trattasi di uno strumento dunque non destinato ai medici legali, già ampiamente formati in tale ambito e già dotati di raffinate schede di rilevazione, bensì di uno strumento di facile utilizzo e di appannaggio dei “non addetti ai lavori” che possa consentire ai sanitari dell’emergenza di non disperdere elementi cruciali che saranno poi forniti agli organi investigativi e di conseguenza ai professionisti nominati consulenti o periti.</seg>
+          <seg id="6">Il metodo di lavoro ha previsto la ricerca in Letteratura di strumenti operativi già esistenti ed una revisione bibliografica di testi, articoli e protocolli inerenti l'argomento, oltre ad una ricerca a livello nazionale con interrogazione delle Centrali Operative 118 sull’utilizzo della Scheda Report Scena del Crimine.</seg>
+        </p>
+      </src>
+    </doc>
     <doc origlang="it" id="doc15">
       <src lang="it">
         <p>
@@ -1366,15 +1273,108 @@
         </p>
       </src>
     </doc>
-    <doc origlang="it" id="doc26">
+    <doc origlang="it" id="doc6">
       <src lang="it">
         <p>
-          <seg id="1">Come parte della strategia nazionale di resistenza agli antibiotici (StAR), è stata sviluppata una guida terapeutica per la prescrizione prudente di agenti antimicrobici negli animali.</seg>
-          <seg id="2">Per facilitarne l'attuazione nella pratica veterinaria, le raccomandazioni terapeutiche ivi contenute sono state trasferite nell'aiuto decisionale di facile utilizzo AntibioticScout.ch.</seg>
-          <seg id="3">In questo contesto, abbiamo condotto un sondaggio non rappresentativo per valutare il livello di conoscenza e l’utilizzo di questa guida e del supporto decisionale AntibioticScout.ch.</seg>
-          <seg id="4">Sulla base di studi di casi con malattie tipiche di cani, gatti e bovini, è stato dimostrato che i veterinari che hanno partecipato all'indagine si sforzano di gestire gli antibiotici in modo responsabile e di prescriverli con moderazione.</seg>
-          <seg id="5">Tuttavia, il sondaggio indica possibili miglioramenti nella terapia antibiotica.</seg>
-          <seg id="6">La guida alla terapia StAR o AntibioticScout.ch può essere particolarmente utile ai professionisti veterinari per tenere conto di tutti i criteri decisionali rilevanti nella scelta ottimale di un agente antimicrobico adatto.</seg>
+          <seg id="1">Il ruolo dell’aumento del tono dello sfintere anale interno nella patogenesi delle ragadi anali croniche (CAF) è a tutt’oggi dibattuto.</seg>
+          <seg id="2">La sfinterotomia laterale è la procedura chirurgica più frequentemente impiegata sebbene sia associata ad un incidenza di incontinenza anale postoperatoria del 14%.</seg>
+          <seg id="3">L’obbiettivo del nostro studio è quello di valutare, oltre alla guarigione delle CAF, se le alterazioni manometriche pre-operatorie nei pazienti affetti da CAF con ipertono sfinterico, si normalizzassero dopo asportazione della ragade e anoplastica con lembo mucocutaneo di scorrimento a V-Y nei pazienti con CAF.</seg>
+          <seg id="4">Sono stati studiati 108 pazienti affetti da CAF con ipertono.</seg>
+          <seg id="5">I risultati dello studio mostrano una guarigione di tutte le ferite entro 40 giorni dall’intervento chirurgico; sono stati osservati 7 casi di recidiva trattati efficacemente con terapia medica e 3 casi di incontinenza anale post-operatoria “de novo”, tutti temporanei e di lieve entità.</seg>
+          <seg id="6">La maximum resting pressure e la presenza di ultraslow wave activity pre-operatorie , a 24 mesi dall’intervento chirurgico, sono simili a quelle dei soggetti sani.</seg>
+          <seg id="7">L’alto tasso di guarigione in assenza di incontinenza anale post-operatoria permanente, e la normalizzazione dei valori manometrici, suggeriscono che quest’approccio “sphincter preserving” risulta valido per il trattamento delle ragadi anali croniche con ipertono sfinterico.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc11">
+      <src lang="it">
+        <p>
+          <seg id="1">Lo sciacallo dorato (Canis aureus) è un canide selvatico nuovo per la Svizzera. È una specie sorvegliata ufficialmente e tutti gli individui morti sono sottoposti a un esame post-mortem per raccogliere dati di base sulla salute dell’animale.</seg>
+          <seg id="2">Questo include un esame parassitologico con particolare attenzione alle infezioni zoonotiche notificabili, come quelle causate da Trichinella spp. o Echinococcus spp.</seg>
+          <seg id="3">Dal 2016 al 2021, cinque sciacalli dorati di quattro cantoni svizzeri sono stati sottoposti a un esame post-mortem completo.</seg>
+          <seg id="4">In un caso, sono stati inviati solo campioni di organi, poiché l’esame parassitologico non era possibile per questo animale.</seg>
+          <seg id="5">Gli stadi dei parassiti trovati durante l’esame patologico e la coprologia di routine sono stati identificati morfologicamente.</seg>
+          <seg id="6">Le specie di tenie (uova e stadi adulti) sono state determinate con tecniche di biologia molecolare.</seg>
+          <seg id="7">Inoltre, la Trichinella spp.</seg>
+          <seg id="8">è stata ricercata sul tessuto muscolare linguale e diaframmatico utilizzando la tecnica di digestione artificiale seguita da PCR multiplex nei casi positivi.</seg>
+          <seg id="9">Tra i quattro sciacalli testati per i parassiti, sono state rilevate uova di anchilostoma in un animale, vermi adulti e uova di Echinococcus multilocularis in un altro, e nessun parassita è stato trovato nell’ultimo.</seg>
+          <seg id="10">Nell’ultimo caso, uova di E. multilocularis, così come uova di Toxocara canis e sporocisti di Sarcocystis sp. sono state rilevati nel contenuto intestinale mentre le larve di Trichinella britovi sono state rilevate nei campioni di muscolo.</seg>
+          <seg id="11">Il programma di sorveglianza sanitaria dei carnivori protetti in Svizzera ha quindi aggiunto lo sciacallo dorato alla lista degli ospiti dei parassiti zoonotici endemici E. multilocularis e T. britovi.</seg>
+          <seg id="12">Cacciatori, agricoltori e altri che possono entrare in contatto con lo sciacallo dorato dovrebbero essere consapevoli del rischio sanitario associato e maneggiare con cura feci e carcasse.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc43">
+      <src lang="it">
+        <p>
+          <seg id="1">Introduzione.</seg>
+          <seg id="2">La lombalgia è un problema molto sentito tra la popolazione mondiale, ed è causa di disagio nei lavoratori sanitari, specialmentre tra gli infermieri.</seg>
+          <seg id="3">È importante perciò indagare sull’incidenza della lombalgia negli infermieri italiani.</seg>
+          <seg id="4">Metodi.</seg>
+          <seg id="5">È stata condotta una ricerca sui principali database internazionali considerando gli studi condotti in Italia.</seg>
+          <seg id="6">Risultati.</seg>
+          <seg id="7">I risultati sono vari: un’incidenza annuale dal 13.7% al 20% e 17% - 63.7% di prevalenza; turni di notte, formazione insufficiente, movimentazione frequente dei pazienti, mancanza di ausili, tipologia di reparto, obesità, sesso femminile, stress lavoro-correlato e la mancanza di attivitià fisica rappresentano un rischio maggiore di incorrere in lombalgia.</seg>
+          <seg id="8">Conclusioni.</seg>
+          <seg id="9">Bisogna migliorare gli ausili, la formazione sul lavoro e lo stile di vita in modo da ridurre situazioni di cronicità.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc14">
+      <src lang="it">
+        <p>
+          <seg id="1">Un tumore localmente avanzato, o un processo infettivo come l’osteomielite, localizzato sulla parete toracica, spesso richiede un’ampia resezione chirurgica a tutto spessore per ottenere margini liberi e bonifica del sito.</seg>
+          <seg id="2">Un’equipe chirurgica multidisciplinare pu  fornire abilit  superiori e maggiori competenze, superando difficolt  tecniche altrimenti insormontabili per un singolo specialista.</seg>
+          <seg id="3">Solo un approccio multidisciplinare, ottenendo sia la ricostruzione scheletrica che la copertura dei tessuti molli, consente di ripristinare le funzioni della parete toracica e una copertura stabile di polmone e visceri.</seg>
+          <seg id="4">Inoltre, in caso di esposizione di pleura o parenchima polmonare,   richiesta una procedura ricostruttiva immediata al fine di ottenere una copertura stabile.</seg>
+          <seg id="5">Presentiamo 3 casi clinici complessi, in cui un intervento immediato di chirurgia plastica ricostruttiva ha seguito un’ampia resezione della parete toracica, eseguita combinando reti sintetiche o biologiche con grandi lembi miocutanei.</seg>
+          <seg id="6">Una meticolosa pianificazione preoperatoria di ogni fase chirurgica, l’integrazione delle modalit  ricostruttive proprie delle diverse specialit  e la piena collaborazione tra le  quipe chirurgiche rappresentano la spina dorsale di un intervento cos  complesso.</seg>
+          <seg id="7">I target da conseguire consistono nel raggiungere margini liberi da malattia e una guarigione rapida, riducendo i tempi di recupero e favorendo un’immediata riabilitazione respiratoria.</seg>
+          <seg id="8">I risultati clinici di questo report supportano l’importanza dell’approccio multidisciplinare nelle resezioni della parete toracica ampia.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc1">
+      <src lang="it">
+        <p>
+          <seg id="1">Descrivere la soddisfazione lavorativa (job satisfaction) ed esplorare le motivazioni della richiesta di turnover da parte degli infermieri clinici.</seg>
+          <seg id="2">Studio mixed-method condotto presso un’Azienda Ospedaliera di Roma Hub di II livello, su un campionamento di convenienza al personale infermieristico in servizio nelle seguenti tre aree cliniche: medica, chirurgica e d’urgenza/emergenza.</seg>
+          <seg id="3">Il campione di 133 infermieri risulta avere una buona job satisfaction (60,9%).</seg>
+          <seg id="4">Il 21% si ritiene insoddisfatto e il 18% è incerto sul grado di soddisfazione.</seg>
+          <seg id="5">Gli infermieri appartenenti all’aerea urgenza-emergenza sono quelli che mostrano una più alta soddisfazione (43,7%), mentre i più insoddisfatti sono gli appartenenti all’area chirurgica (53,3%).</seg>
+          <seg id="6">La fascia di età tra 45-50 anni è disposta al turnover immediato, rispetto agli over 50 che preferisce rimanere nella realtà ove opera.</seg>
+          <seg id="7">L’analisi qualitativa ha fatto emergere 7 macroaree.</seg>
+          <seg id="8">Gli infermieri riferiscono una ottimale soddisfazione lavorativa, ma molti di loro ritengono necessario un turnover.</seg>
+          <seg id="9">I risultati possono avere importanti implicazioni per gli infermieri per contribuire a migliorare gli ambienti di lavoro, al fine di limitare l’intenzione di turnover.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc16">
+      <src lang="it">
+        <p>
+          <seg id="1">Obiettivo dello studio   descrivere l’incidenza, le caratteristiche radiologiche e anatomo-patologiche degli incidentalomi pancreatici.</seg>
+          <seg id="2">Nell’articolo, Inoltre, sono discusse le indicazioni chirurgiche di queste lesioni in base alla loro natura e localizzazione.</seg>
+          <seg id="3">Le lesioni pancreatiche incidentali sono sempre pi  frequentemente diagnosticate grazie alla larga diffusione di tecniche radiologiche di elevate qualit .</seg>
+          <seg id="4">Gli incidentalomi pancreatici possono essere cistici o solidi, benigni o maligni, coprendo un ampio spettro di variet  istologiche.</seg>
+          <seg id="5">Le lesioni cistiche sono pi  frequentemente di natura benigna o pre-maligna.</seg>
+          <seg id="6">L’asportazione chirurgica deve essere riservata solo in caso di variazioni sospette in senso degenerativo al follow-up oppure per le masse cistiche di larghe dimensioni (&gt;3 cm).</seg>
+          <seg id="7">Tra gli incidentalomi pancreatici solidi l’adenocarcinoma duttale   la neoplasia pi  frequentemente diagnosticata, seguita per frequenza dei tumori neuroendocrini.</seg>
+          <seg id="8">Il trattamento chirurgico dipende dalla localizzazione dell’incidentaloma: la duodenocefalopancreasectomia dovrebbe essere eseguita per le lesioni a carico della testa, mentre la pancreasectomia distale   indicata per quelle del corpo e della coda.</seg>
+          <seg id="9">La chirurgia del pancreas   delicata e tuttora gravata da serie complicazioni.</seg>
+          <seg id="10">Entrambi gli interventi chirurgici possono eseguiti con tecnica mini-invasiva, che   caratterizzata da un minor tasso di complicazioni, ma al momento attuale, non   stata dimostrata una miglior sopravvivenza nei pazienti oncologici CONCLUSIONI: Gli incidentalomi pancreatici sono di riscontro sempre pi  frequente nella pratica clinica, ma quando e come intervenire chirurgicamente   ancora materia di dibattito.</seg>
+          <seg id="11">Attualmente mancano precisi criteri circa la strategia di trattamento e sono quindi necessarie linee-guida per definire il miglior approccio di queste lesioni del pancreas.</seg>
+        </p>
+      </src>
+    </doc>
+    <doc origlang="it" id="doc35">
+      <src lang="it">
+        <p>
+          <seg id="1">Nonostante la possibilità di ricorrere alla palliazione, le richieste globali dei pazienti di essere inclusi in percorsi di suicidio assistito ed eutanasia sono notevolmente aumentate negli ultimi 15 anni.</seg>
+          <seg id="2">A livello legislativo, la discussione sulla normazione di queste procedure è ancora aperta in molti Paesi, fra cui l’Italia.</seg>
+          <seg id="3">Assume dunque certa importanza strategica conoscere l’opinione del mondo sanitario e vagliarne l’eventuale propensione lavorativa.</seg>
+          <seg id="4">È stato ideato e somministrato un questionario al personale infermieristico afferente a due presidi ospedalieri milanesi, con l’intento di indagarne l’opinione e la propensione lavorativa in contesti di morte assistita.</seg>
+          <seg id="5">Lo strumento creato è stato sottoposto a processo di validazione preliminare per testarne le proprietà psicometriche.</seg>
+          <seg id="6">Le opinioni del campione (n=430) si sono schierate in maggioranza a favore della possibilità di accesso a percorsi di suicidio assistito ed eutanasia; per quanto concernente invece la “propensione” lavorativa, una maggioranza solo relativa si è dichiarata favorevole o molto favorevole a lavorare in contesti dove si praticavano le procedure descritte precedentemente, riscontrando un incremento degli indecisi e dei contrari. DISCUSSIONE: secondo l’attuale assetto legislativo italiano, chiunque partecipasse a procedure di suicidio assistito o eutanasia sarebbe perseguibile per legge; questo implica che il personale sanitario non abbia una conoscenza diretta dei percorsi di morte assistita e potrebbe costituire una spiegazione per gli ampi numeri di indecisi subentrati nelle ultime domande del questionario.</seg>
+          <seg id="7">Nonostante i limiti dell’indagine svolta, consistenti principalmente nel campione limitato e nel disegno monocentrico, l’opinione del personale sembra schierarsi ampiamente a favore della libertà di scelta del paziente; è probabile che percentuali simili siano giustificate da una radicata esperienza diretta in una situazione generale dove l’assistenza erogabile, per il paziente, non sia sufficiente.</seg>
         </p>
       </src>
     </doc>
