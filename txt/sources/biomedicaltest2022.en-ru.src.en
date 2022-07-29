@@ -1,0 +1,79 @@
+Wheat spike morphology was described on the basis of nine quantitative traits including shape, size and awns area of the spike.
+The traits were obtained as a result of image analysis using the WERecognizer program.
+A cluster analysis of plants according to the characteristics of the spike shape and comparison of their distributions in tetraploid and hexaploid species showed a higher variability of traits in hexaploid species compared to tetraploid ones.
+At the same time, the species themselves form two clusters in the visual characteristics of the spike.
+One type is predominantly hexaploid species (with the exception of one tetraploid, T. dicoccoides). The other group includes tetraploid ones (with the exception of three hexaploid ones, T. compactum, T. antiquorum, T. sphaerococcum, and i:ANK-23).
+Thus, it has been shown that the morphological characteristics of spikes for hexaploid and tetraploid wheat species, obtained on the basis of computer analysis of images, include differences, which are further used to develop methods for plant classifications by ploidy level and their species in an automatic mode.
+This article provides an overview of some problems of the breeding and reproduction of laboratory minipigs.
+The most obvious of these are the lack of centralized accounting of breeding groups, uniform selection standards for reproduction and evaluation of breeding animals, as well as minimizing the accumulation of fitness-reducing mutations and maintaining genetic diversity.
+According to the latest estimates, there are at least 30 breeding groups of mini-pigs systematically used as laboratory animals in the world.
+Among them, there are both breed formations represented by several colonies, and breeding groups consisting of a single herd.
+Despite the fact that when breeding a number of mini-pigs, the goal was to complete the herds with exclusively white animals, in most breeding groups there is a polymorphism in the phenotype of the coat color.
+Primary congenital glaucoma (PСG) is a visual organ pathology that leads to progressive blindness and poor vision in children.
+Its main cause is an anomaly of the anterior chamber angle.
+Most cases of PСG are sporadic, but familial cases with an autosomal recessive (predominantly) and autosomal dominant (rare) type of inheritance have been described.
+Congenital glaucoma is a rare condition (1 case per 10,000-20,000 newborns), but its prevalence is substantially higher (up to 1 case per 250 newborns) in countries where consanguineous marriages are common.
+Mutations in the CYP1B1 gene, which encodes cytochrome P450 1B1, are the most common cause of autosomal recessive primary congenital glaucoma.
+This enzyme is known to be involved in retinoic acid metabolism and is necessary for normal eye development.
+The aim of this work was to assess the polymorphism of the CYP1B1 gene among West Siberian patients with primary congenital glaucoma.
+Direct automatic Sanger sequencing of exons and adjacent splicing sites of the CYP1B1 gene was carried out in 28 people with the PCG phenotype from a West Siberian region.
+As a result, in the sample of the white population we examined, pathogenic variants previously described in other ethnic groups were revealed: E387K (rs55989760), R444* (rs377049098), R444Q (rs72549376), and P437L (rs56175199), as well as novel single-nucleotide deletion p.F114Lfs*38 in the CYP1B1 gene.
+None of the detected mutations were found in the control sample of ophthalmologically examined individuals without PCG (100 people).
+Variants R444* (rs377049098) and R444Q (rs72549376) were not found in the general population sample either (576 randomly selected West Siberia residents).
+All the detected mutations caused the development of the autosomal recessive form of primary congenital glaucoma.
+The most severe clinical phenotype was observed in carriers of mutations in codon 444 of the gene.
+Consequently, in children with signs of increased intraocular pressure, molecular genetic analysis of the CYP1B1 gene is advisable for early diagnosis and timely initiation of PCG therapy.
+This paper describes an attempt to analyze, with the aid of bioinformatics resources (programs and databases), the probable cause of the cross-interaction of antibodies against HPV16 L1 with antigenic protein HPV6 L1, which has been revealed in the investigation of the candidate vaccine obtained on the base of a plant expression system (tomato plants).
+In our opinion, the most likely reason for the cross-interaction of antibodies with antigens of different pathogenic HPV types is the similarity of their antigenic determinants.
+In this work, the amino acid sequences of HPV16 L1 and HPV6 L1 used for the development of a binary vaccine against cervical cancer and anogenital papillomatosis have been analyzed.
+For the analysis of antigenic determinants, the programs BepiPred-2.0: Sequential B-Cell Epitope Predictor, DiscoTope 2.0 Server and SYFPEITHI have been used.
+As a result of the analysis of probable B-cell linear determinants (epitopes), it has been found that in both types of HPV the proteins have approximately the same location and size of linear antigenic determinants; the difference is observed only in the form of small shifts in the size of several amino acid residues.
+However, there are some differences in the amino acid composition of epitopes; therefore, the possibility for cross-interaction of the antibodies with the antigens due to the similarity of linear antigenic determinants for B-cells is very small.
+The analysis of potential threedimensional epitopes for B-cells has shown that due to little difference between them the HPV16 L1 and HPV6 L1 proteins have no prerequisites for cross-interaction of the antibodies with the antigens belonging to the two different pathogenic HPV types.
+The analysis of probable linear epitopes for T-cells has revealed a common antigenic determinant in the two protein sequences.
+According to the rank made with the SYFPEITHI program, the amino acid sequence AQL(I)FNKPYWL is the second most likely antigenic determinant for T-cells.
+Meanwhile, the amino acid sequences of this determinant in HPV16 L1 and HPV6 L1 are virtually identical.
+There is a difference in only one position, but it is not critical due to the similarity of the physicochemical properties of amino acids, for which there is a replacement in the amino acid sequence of antigenic determinants.
+Consequently, some moderate cross-interaction of the antibodies to HPV16 L1 with the antigens of HPV6 L1 may be expected.
+The in vitro production of doubled haploids is a biotechnological path of an accelerated development of parental lines in F1-hybrid breeding programs.
+Unlike the traditional inbreeding method requiring 5 to 6 generations to reach a suf-f icient homozygosity of lines, the number of generations to produce pure lines of beet by haploid technologies is reduced to 2.
+The production of doubled haploids by gynogenesis is the most common biotechnological approach in sugar and red beets.
+Animal genotyping was performed using Ovine Infinium HD BeadChip 600K DNA, association search was performed using PLINK v. 1.07 software.
+Highly reliable associations were found between animals belonging to different evaluation classes and the frequency of occurrence of individual SNPs on chromosomes 2, 6, 10, 13, and 20.
+Most of the substitutions with high association reliability are concentrated on chromosome 10 in the region 10: 30859297-31873769.
+To search for candidate genes, 15 polymorphisms with the highest association reliability were selected (-log10(р) > 9).
+Determining the location of the analyzed SNPs relative to the latest annotation Oar_rambouillet_v1.0 allowed to identify 11 candidate genes presumably associated with the formation of a complex of phenotypic traits of animals in the exhibition group: RXFP2, ALOX5AP, MEDAG, OPN5, PRDM5, PTPRT, TRNAS-GGA, EEF1A1, FRY, ZBTB21-like, and B3GLCT-like.
+The listed genes encode proteins involved in the control of the cell cycle and DNA replication, regulation of cell proliferation and apoptosis, lipid and carbohydrate metabolism, the development of the inflammatory process and the work of circadian rhythms.
+Thus, the candidate genes under consideration can influence the formation of exterior features and productive qualities of sheep.
+However, further research is needed to confirm the influence of genes and determine the exact mechanisms for implementing this influence on the phenotype.
+The regulatory functions of the state and agricultural science in plant breeding, plant industry and seed production are considered.
+In this review, the authors considered the promising species of vegetable crops for introduction and breeding in the Russian Federation.
+Such varieties should be included in the State Register of Breeding Achievements Approved for Use as a separate list.
+The purpose of their separation in the State Register is to ensure the potential interest of investors and business structures in the sale of functional food on the market.
+The paper discusses in detail the most promising species of introduced vegetable crops from five families (Brassicaceae, Amaranthaceae, Solanaceae, Leguminosae, Cucurbitaceae).
+The following species are proposed as potential sources of high FPI content: Brassica oleracea ssp.
+oleracea, B. oleraceae var.
+alboglabra, B. rapa ssp.
+chinensis, B. rapa ssp.
+narinosa, B. rapa ssp.
+nipposinica, B. rapa ssp.
+rapa, B. juncea, Cochlearia officinalis, Lepidium sativum, Amaranthus caudatus, A. cruentus, A. hypochondriacus, A. dubius, A. tricolor, A. lividus, species in the genus Physalis L., Momordica charantia, Benincasa hispida, Cucumis metuliferus, Vigna unguiculata.
+Vitis rotundifolia Michx. is one of the species of the family Vitaceae, with resistance to both biotic and abiotic stresses.
+The present study reports new scientif ic knowledge about the inheritance of resistance to downy mildew, powdery mildew and frost by V. vinifera varieties from V. rotundifolia.
+As a result of laboratory screening, more than 40 % of recombinants of the ♀M. 31-77-10 × × [DRX-M5-734 + DRX-M5-753 + DRX-M5-790] population showed a high degree of frost resistance (-24 °C), while 6 % of transgressive recombinants were characterized by a very high degree of resistance (-27 °С).
+The maternal genotype ♀M. 31-77-10 does not carry alleles of resistance to powdery mildew at the Run1 locus and in the f ield suffers from powdery mildew much more than the paternal genotypes.
+The prevalence of powdery mildew on vegetative organs in the three recombinant populations over the years varies on average between 3.2-17.1, 0.3-17.7 and 0.6-5.2 %, respectively.
+As a result, almost all recombinant genotypes that received a resistant allele from the paternal genome are highly resistant to powdery mildew.
+Currently, it has more than 4,500 accessions of plant pathogenic strains of fungi, oomycetes, bacteria, viruses, phytoplasmas, and the collection is updated annually.
+For this purpose, the study of the inter- and intraspecific genetic diversity of genus Fusarium was carried out in agricultural systems of the Krasnodar Territory.
+In 2020, the State Collection of Phytopathogenic Microorganisms was supplemented with 13 strains of Fusarium fungi isolated from tissues of winter wheat plants collected in several locations of the Krasnodar region.
+The complex of Fusarium fungi revealed on winter wheat usually included Fusarium oxysporum, F. culmorum, F. lolii, F. graminearum, F. fujikuroi, F. sporotrichioides, etc.
+The phytotoxic activity towards wheat seedlings varied from medium to high.
+Species possessing a high intensity of phytotoxic activities are the most dangerous for wheat, since they promote accumulation of dangerous phytotoxins in plant tissues.
+In the contemporary high-tech society, spatial abilities predict individual life and professional success, especially in the STEM (Science, Technology, Engineering, and Mathematics) disciplines.
+According to neurobiological hypotheses, individual differences in cognitive abilities may be attributed to the functioning of genes involved in the regulation of neurogenesis and synaptic plasticity.
+In addition, genome-wide association studies identified rs17070145 located in the KIBRA gene, which was associated with individual differences in episodic memory.
+The analysis of gene-environment interactions revealed that nicotine smoking (β = 3.74; p = 0.010) and urban/rural residency in childhood (β = -6.94; p = 0.0002) modulated the association of KIBRA rs17070145 and АРОЕ (rs7412, rs429358) gene variants with individual differences in mental rotation, respectively.
+The data obtained confirm the effect of the KIBRA rs17070145 Т-allele on improved cognitive functioning and for the first time evidence the association of the mentioned genetic variant with spatial abilities in humans.
+A 'protective' effect of the APOE ε2 allele on enhanced cognitive functioning is observed only under certain conditions related to childhood rearing.
+Present-day wheat breeding for immunity exploits extensively closely related species from the family Triticeae as gene donors.
