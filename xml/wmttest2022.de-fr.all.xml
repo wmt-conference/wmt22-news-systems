@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <dataset id="wmttest2022">
   <collection id="general">
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich habe gestern schon mit einem Kollegen von Ihnen geschrieben und bisher keine Rückmeldung.</seg>
@@ -75,7 +75,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_30">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_30">
       <src lang="de">
         <p>
           <seg id="1">Die Motorsteuerung des LokSound 5 wurde erneut grundlegend verbessert.</seg>
@@ -181,7 +181,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="braunschweiger-zeitung.de.35042">
+    <doc origlang="de" domain="news" id="braunschweiger-zeitung.de.35042">
       <src lang="de">
         <p>
           <seg id="1">New York holt erstmals MLS-Meisterschaft</seg>
@@ -247,7 +247,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="schwarzwaelder-bote.de.119078">
+    <doc origlang="de" domain="news" id="schwarzwaelder-bote.de.119078">
       <src lang="de">
         <p>
           <seg id="1">Gratis-Eintritt für Mitglieder: Europa-Park veranstaltet SC-Freiburg-Fantag</seg>
@@ -353,7 +353,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-10-6_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-10-6_doc09">
       <src lang="de">
         <p>
           <seg id="1">Habe insgesamt 5 Bücher drauf.</seg>
@@ -411,7 +411,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-45_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-45_doc09">
       <src lang="de">
         <p>
           <seg id="1">Aber wir möchten das Regalmodul trotzdem, eben ein neues unbeschädigtes</seg>
@@ -461,7 +461,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Nein, mir ist es nicht möglich eine andere Art der Verpackung zu beschaffen.</seg>
@@ -511,7 +511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc00">
       <src lang="de">
         <p>
           <seg id="1">Ich kann aber das untergestell nicht auf der Tischplatte montieren.</seg>
@@ -585,7 +585,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qez1vd">
+    <doc origlang="de" domain="social" id="t3_qez1vd">
       <src lang="de">
         <p>
           <seg id="1">Kind, 4 j., Splitter unter dem Daumennagel</seg>
@@ -683,7 +683,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-10-6_doc093">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-10-6_doc093">
       <src lang="de">
         <p>
           <seg id="1">Es funktioniert.</seg>
@@ -741,7 +741,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-29_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-29_doc08">
       <src lang="de">
         <p>
           <seg id="1">ich muss das ausdrucken und auf den Paket kleben und bei der Post abgeben, das wars oder?</seg>
@@ -791,7 +791,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-49_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-49_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo, leider komme ich nicht ins Kundenkonto rein.</seg>
@@ -841,7 +841,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-38_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-38_doc0">
       <src lang="de">
         <p>
           <seg id="1">Retoure der Auftragsnummer #NUMBER#</seg>
@@ -891,7 +891,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Bekomme ich dafür eine Bestätigung per Mail?</seg>
@@ -949,7 +949,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-31-3_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc0">
       <src lang="de">
         <p>
           <seg id="1">Es funktioniert immer noch nicht ich kann nur das Deckblatt sehnen aber nicht blättern.</seg>
@@ -991,7 +991,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-39_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-39_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Ich bin an dem zugewiesenen Datum, an dem #PRS_ORG# meine Retoure abholt nicht vor Ort.</seg>
@@ -1057,7 +1057,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_p19ph0">
+    <doc origlang="de" domain="social" id="t3_p19ph0">
       <src lang="de">
         <p>
           <seg id="1">"Warum Kinder keine Tyrannen sind" Doku, ARD Mediathek</seg>
@@ -1179,7 +1179,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-50_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-50_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich bitte um Rueckruf, da mein geliefert Holztisch defekt zustellt wurde.</seg>
@@ -1229,7 +1229,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_47">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_47">
       <src lang="de">
         <p>
           <seg id="1">Ebenfalls kompatibel zu allen Druckern, die laut Hersteller oder Bedienungsanleitung die oben angegebenen Produkte verwenden.</seg>
@@ -1303,7 +1303,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-29_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-29_doc0">
       <src lang="de">
         <p>
           <seg id="1">ich habe kürzlich den #PRS_ORG# bestellt und geliefert bekommen.</seg>
@@ -1377,7 +1377,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-10_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-10_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Gibts es eine Anleitung für die Montage?</seg>
@@ -1427,7 +1427,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-35_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-35_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich war im Chat mit #PRS_ORG#, der hat mich gefragt, ob ich eine Lieferbestätigung für meinen Schrank bekommen habe.</seg>
@@ -1469,7 +1469,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-7_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-7_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich kann seit 2 Wochen keine Bücher mehr kaufen.</seg>
@@ -1535,7 +1535,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Grade bekomme ich die Mail das mein Paket aufgrund eines Fehlers meinerseits zu euch zurück kommt.</seg>
@@ -1601,7 +1601,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_39">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_39">
       <src lang="de">
         <p>
           <seg id="1">Ob als Tröster bei Bauchweh oder einfach nur zum Kuscheln – Mein kleiner Wärmefreund ist vielfältig einsetzbar.</seg>
@@ -1803,7 +1803,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="rhein-zeitung.de.29170">
+    <doc origlang="de" domain="news" id="rhein-zeitung.de.29170">
       <src lang="de">
         <p>
           <seg id="1">Lahnsteiner Wehr für Wasserrettung gerüstet: 45.000 Euro Zuschuss vom Land</seg>
@@ -1901,7 +1901,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-45_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-45_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hier war der untere Teil, also quasi der Teil mit Stauraum beschädigt.</seg>
@@ -1951,7 +1951,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-65_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-65_doc07">
       <src lang="de">
         <p>
           <seg id="1">Welche Gutscheine???</seg>
@@ -2001,7 +2001,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-1_doc05">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-1_doc05">
       <src lang="de">
         <p>
           <seg id="1">Das habe ich schon mehrfach gemacht es funktioniert nicht.</seg>
@@ -2043,7 +2043,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qw2g2b">
+    <doc origlang="de" domain="social" id="t3_qw2g2b">
       <src lang="de">
         <p>
           <seg id="1">Thema der Woche: Die besten Low Budget Filme</seg>
@@ -2141,7 +2141,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-56_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-56_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich warte auf ein Termin für Abholung</seg>
@@ -2191,7 +2191,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_rpvsqx">
+    <doc origlang="de" domain="social" id="t3_rpvsqx">
       <src lang="de">
         <p>
           <seg id="1">Rouladen Tipps &amp; Tricks</seg>
@@ -2291,7 +2291,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc01">
       <src lang="de">
         <p>
           <seg id="1">Und das mit dem Gutschein??</seg>
@@ -2357,7 +2357,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-38_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-38_doc09">
       <src lang="de">
         <p>
           <seg id="1">ich interessiere mich für den #PRS_ORG# Stuhl.</seg>
@@ -2407,7 +2407,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc0">
       <src lang="de">
         <p>
           <seg id="1">Nein, es ist bei allen Büchern, deswegen ja die Anfrage bei #PRS_ORG#, da es sich wohl um ein generelles Problem handelt</seg>
@@ -2449,7 +2449,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_55">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_55">
       <src lang="de">
         <p>
           <seg id="1">Die Lampe ist für Dual- Balance konstruiert, basierend auf neuen, flachen SMD -LEDs mit hoher Leistung und hoher Farbwiedergabe.</seg>
@@ -2715,7 +2715,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_9">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_9">
       <src lang="de">
         <p>
           <seg id="1">Lüfterpumpen eignen sich hervorragend um ein Aquarium zusätzlich mit Sauerstoff zu versorgen.</seg>
@@ -2957,7 +2957,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-14_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-14_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Können Sie mir die drei Varianten bitte per Email zukommen lassen und mir sagen wie ich sie wieder am besten erreiche</seg>
@@ -2999,7 +2999,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_oibk7u">
+    <doc origlang="de" domain="social" id="t3_oibk7u">
       <src lang="de">
         <p>
           <seg id="1">Pillenproblem</seg>
@@ -3169,7 +3169,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-60_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-60_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich sandte Ihnen bereits eine Mail, die Sie nicht beantwortet haben.</seg>
@@ -3283,7 +3283,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc09">
       <src lang="de">
         <p>
           <seg id="1">Wenn ich ein Buch auf den #PRS_ORG# runtergeladen habe, kommt die Meldung Ihr #PRS_ORG# authorisiert dieses Buch nicht</seg>
@@ -3333,7 +3333,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-32_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-32_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Gutschein klingt super</seg>
@@ -3391,7 +3391,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qowdmr">
+    <doc origlang="de" domain="social" id="t3_qowdmr">
       <src lang="de">
         <p>
           <seg id="1">Ordentlicher durch Kind?</seg>
@@ -3521,7 +3521,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-50_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-50_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">ich würde gerne einen gutscheincode herschenken</seg>
@@ -3579,7 +3579,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="morgenpost.de.51208">
+    <doc origlang="de" domain="news" id="morgenpost.de.51208">
       <src lang="de">
         <p>
           <seg id="1">Vulkanausbruch auf La Palma: wohl längster der Geschichte</seg>
@@ -3749,7 +3749,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich habe dazu einen Lampenschirm bei Ihnen bestellt, dass noch geliefert wird.</seg>
@@ -3807,7 +3807,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-31_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-31_doc09">
       <src lang="de">
         <p>
           <seg id="1">Wenn die Lampe im März versandt wird, wie lange dauert dann der Versand an sich?</seg>
@@ -3849,7 +3849,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_ofcta5">
+    <doc origlang="de" domain="social" id="t3_ofcta5">
       <src lang="de">
         <p>
           <seg id="1">Wir brauchen hier keine Diskussionen führen über das bessere Gericht, aber eine gewisse Ähnlichkeit zwischen den beiden besteht.</seg>
@@ -3915,7 +3915,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_46">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_46">
       <src lang="de">
         <p>
           <seg id="1">Versandkosten und Zeit sparen - und dabei die Umwelt entlasten!</seg>
@@ -4069,7 +4069,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="soester-anzeiger.de.21728">
+    <doc origlang="de" domain="news" id="soester-anzeiger.de.21728">
       <src lang="de">
         <p>
           <seg id="1">Unwürdiges Ende einer Karriere: Räikkönen muss aufgeben</seg>
@@ -4175,7 +4175,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc06">
       <src lang="de">
         <p>
           <seg id="1">Falls es nicht geht, wäre ich mit eine Nachlass oder Gutschein auch zufrieden.</seg>
@@ -4233,7 +4233,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_52">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_52">
       <src lang="de">
         <p>
           <seg id="1">Das große Hauptfach ist außerdem anpassungsfähig: mit drei individuell plazier- und faltbaren Klettverschluss-Teilern richtet es sich ganz nach dem Bedarf deiner Fotoausrüstung und ist damit für jede Art von Kameras geeignet - von spiegellosen Systemkameras aller Größenordnungen bis hin zu Vollformat-Spiegelreflexkameras.</seg>
@@ -4323,7 +4323,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc02">
       <src lang="de">
         <p>
           <seg id="1">Sind sie schon mal auf den #PRS_ORG# Stühlen gesessen?</seg>
@@ -4365,7 +4365,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-8_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-8_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ja die F-Teile sind es</seg>
@@ -4535,7 +4535,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-45_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-45_doc04">
       <src lang="de">
         <p>
           <seg id="1">Ich habe mich bereits am Finger geschnitten</seg>
@@ -4585,7 +4585,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_10">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_10">
       <src lang="de">
         <p>
           <seg id="1">Rotinger Bremsscheiben sind ausgelegt für die Ansprüche des dynamischen Fahrers, der Zuverlässigkeit und Sicherheit beim Bremsen auch unter schwierigen Bedingungen zu schätzen weiß.</seg>
@@ -4675,7 +4675,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_h04bvl7">
+    <doc origlang="de" domain="social" id="t1_h04bvl7">
       <src lang="de">
         <p>
           <seg id="1">Ich finde grundsätzlich auch, dass man Kindern nicht zumuten sollte, eine Elternrolle für ihre kleinen Geschwister zu übernehmen.</seg>
@@ -4805,7 +4805,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc01">
       <src lang="de">
         <p>
           <seg id="1">Ja, ich habe mich bereits vor einigen Monaten gemeldet.</seg>
@@ -4871,7 +4871,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-29_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-29_doc03">
       <src lang="de">
         <p>
           <seg id="1">aber oben am Rand von dem Holzteil sind zwei tiefe Kerben, die mit irgendwas gelben gefüllt wurden</seg>
@@ -4921,7 +4921,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-3_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-3_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">ich habe noch eine Frage: die Tagesdecke #PRS_ORG#, gibt es die auch in Übergröße, also in 240/240 zum Beispiel?</seg>
@@ -4963,7 +4963,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-32_second_batch_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-32_second_batch_doc00">
       <src lang="de">
         <p>
           <seg id="1">Hallo liebes #PRS_ORG# Team,</seg>
@@ -5013,7 +5013,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc094">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc094">
       <src lang="de">
         <p>
           <seg id="1">Danke für die Nachricht</seg>
@@ -5071,7 +5071,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc02">
       <src lang="de">
         <p>
           <seg id="1">Ist es auch möglich den Preisunterschied zurücküberwiesen zu bekommen ?</seg>
@@ -5113,7 +5113,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_8">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_8">
       <src lang="de">
         <p>
           <seg id="1">Das mit dem Futter aufgenommene Eiweiß (Protein) zerlegt der Vogel in seinem Magen-Darm-Trakt in die einzelnen Eiweißbaustoffe (Aminosäuren) und baut aus diesen wiederum seine körpereigenen Eiweißstoffe auf, welche er auch zur Gefiederbildung benötigt.</seg>
@@ -5259,7 +5259,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="salzburg.com.47418">
+    <doc origlang="de" domain="news" id="salzburg.com.47418">
       <src lang="de">
         <p>
           <seg id="1">Iran sieht Fortschritte bei Verhandlungen über Atomabkommen</seg>
@@ -5357,7 +5357,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-28_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-28_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Ich habe schon geschrieben,haben Sie nicht mein sms bekommen?</seg>
@@ -5399,7 +5399,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Die Email zur Stornierung wurde am 26.12.#NUMBER# versendet.</seg>
@@ -5457,7 +5457,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-61_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc0">
       <src lang="de">
         <p>
           <seg id="1">Es hat nicht jeder die Zeit für Ihren bekloppten Chat und falsch gelieferte Billigware aus China.</seg>
@@ -5523,7 +5523,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-1_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-1_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich kann ein Buch nur kurz öffnen, sobald ich nach etwas anderem schaue dann ich das Buch nicht mehr lesen und muss mich abmelden und anmelden und das Buch erneut laden und mir die Stelle suchen bis wohin ich gelesen habe.</seg>
@@ -5573,7 +5573,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-54_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-54_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich wollte etwas bestellen und mir ist nach paar Tagen aufgefallen, dass ich den letzten Schritt bei der Zahlung vergessen habe.</seg>
@@ -5647,7 +5647,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-39_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-39_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">ja das ist wirklich einfacher!</seg>
@@ -5705,7 +5705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="sn-online.de.15246">
+    <doc origlang="de" domain="news" id="sn-online.de.15246">
       <src lang="de">
         <p>
           <seg id="1">Amazon-Gründer Bezo schickt Astronauten-Tochter und Moderator ins Weltall</seg>
@@ -5915,7 +5915,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_26">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_26">
       <src lang="de">
         <p>
           <seg id="1">DDR-Handarbeitsmodell Altbau E-Lok E 95 03 DRG/ DR, die Lok war in Schlesien und Mitteldeutschland im Einsatz, die sehr seltene Lok stammt wahrscheinlich aus dem Umbauvorschlag des Modelleisenbahner ME Heft 11/1968, gebraucht mit Spielspuren und Fehlteilen siehe Fotos, Funktion gut, Die Baureihe E 95 ist eine schwere Güterzug-Elektrolokomotive der Deutschen Reichsbahn-Gesellschaft (DRG), die für die Traktion schwerer Kohleganzzüge im schlesischen Netz konzipiert worden ist, womöglich stammt der Bausatz auch von der Kleinserienfirma ZSCHUTSCHKE und BACHMANN.</seg>
@@ -6253,7 +6253,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc04">
       <src lang="de">
         <p>
           <seg id="1">Wenn Sie mir den Gutschein verlängern, dann werde ich gleich eine größere Bestellung aufgeben, aber immerhin habe ich das beschädigte Möbelstück behalten und nicht zurückgeschickt.</seg>
@@ -6311,7 +6311,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc04">
       <src lang="de">
         <p>
           <seg id="1">Es ist denn abzusehen, wann der Schrank wieder geliefert werden könnte?</seg>
@@ -6361,7 +6361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_nf8of5">
+    <doc origlang="de" domain="social" id="t3_nf8of5">
       <src lang="de">
         <p>
           <seg id="1">Extra Stress vor Ferien &amp; Feiertag-Wochenenden</seg>
@@ -6571,7 +6571,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Perfekt das stimmt überein :) brauche ich sonst nichts anderes beizulegen?</seg>
@@ -6621,7 +6621,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="derstandart.at.36743">
+    <doc origlang="de" domain="news" id="derstandart.at.36743">
       <src lang="de">
         <p>
           <seg id="1">Firmen zahlen Impfprämien und ändern Werbesprüche</seg>
@@ -6687,7 +6687,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-61_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc01">
       <src lang="de">
         <p>
           <seg id="1">Ich hatte damals #NUMBER# schon einen riesen Ärger mit Ihnen, als ich die #PRS_ORG# Kommode bestellt habe.</seg>
@@ -6729,7 +6729,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qiixg6">
+    <doc origlang="de" domain="social" id="t3_qiixg6">
       <src lang="de">
         <p>
           <seg id="1">Ich bin dafür, dass alle sich mit Pronomen vorstellt</seg>
@@ -6843,7 +6843,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-21-7_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-21-7_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich habe 6 #PRS_ORG# gekauft und wollte aber 8 Kaufen.</seg>
@@ -6901,7 +6901,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Wann lief die Frist ab?</seg>
@@ -6951,7 +6951,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="an-online.de.46492">
+    <doc origlang="de" domain="news" id="an-online.de.46492">
       <src lang="de">
         <p>
           <seg id="1">Weihnachten und die Geschenke</seg>
@@ -7201,7 +7201,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-20_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-20_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich stellte es zusammen und bemerkte dies dann, als ich den weichen Schaum nahm.</seg>
@@ -7267,7 +7267,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">ja, das glaube ich, nur die Frage ist ja, ob ich in Euro bezahlen und mir die Decke nach Deutschland liefern lassen kann</seg>
@@ -7317,7 +7317,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qsx961">
+    <doc origlang="de" domain="social" id="t3_qsx961">
       <src lang="de">
         <p>
           <seg id="1">Ref: Unterricht planen (EK)</seg>
@@ -7455,7 +7455,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_po3fvm">
+    <doc origlang="de" domain="social" id="t3_po3fvm">
       <src lang="de">
         <p>
           <seg id="1">Karriere in der sozialen Arbeit - als jemand mit einer selbstunsicheren Persönlichkeitsstörung?</seg>
@@ -7577,7 +7577,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-57_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-57_doc0">
       <src lang="de">
         <p>
           <seg id="1">ich habe letzte Woche und heute Morgen um ein Rücksendeettikett für meine Bestellung #NUMBER# angesucht.</seg>
@@ -7643,7 +7643,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="noz.de.67941">
+    <doc origlang="de" domain="news" id="noz.de.67941">
       <src lang="de">
         <p>
           <seg id="1">Judith Hermann las aus ihrem Roman "Daheim"</seg>
@@ -7701,7 +7701,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-28_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-28_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich habe Heute meine Bestellung bekommen leider ist der ganze andere Farbe plus Oberfläche ist gekratzt und Tischbein hat Abdruck.</seg>
@@ -7775,7 +7775,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Die Ware hat unter 20 Euro gekostet.</seg>
@@ -7841,7 +7841,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_o1j22z">
+    <doc origlang="de" domain="social" id="t3_o1j22z">
       <src lang="de">
         <p>
           <seg id="1">Helft mir bitte den Titel eines Buches wieder zu finden!</seg>
@@ -7979,7 +7979,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_hi1g41m">
+    <doc origlang="de" domain="social" id="t1_hi1g41m">
       <src lang="de">
         <p>
           <seg id="1">Mal was komplett anderes: Ich habe damals in der Schule festgestellt, dass viele Religionslehrer nicht an Gott glauben und es für sie nur ein weiteres Fach ist wie Mathe oder Erdkunde.</seg>
@@ -8093,7 +8093,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Hallo, sind sie schon mal auf den #PRS_ORG# Stühlen gesessen</seg>
@@ -8135,7 +8135,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_43">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_43">
       <src lang="de">
         <p>
           <seg id="1">Umweltgerecht: Die Produkte von MOTIP DUPLI sind frei von gesundheitsschädlichen Metallen.</seg>
@@ -8257,7 +8257,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-10_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-10_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich habe soeben meine Lieferung erhalten und hätte gerne gewusst ob Schrauben als Teil der Lieferung vorgesehen waren.</seg>
@@ -8307,7 +8307,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-31-3_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc08">
       <src lang="de">
         <p>
           <seg id="1">Jetzt geht gar nichts mehr.</seg>
@@ -8357,7 +8357,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Das verstehe ich, nur kann ich die Decke jetzt bestellen und nach Deutschland liefern lassen, die im Warenkorb ist?</seg>
@@ -8399,7 +8399,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-60_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-60_doc07">
       <src lang="de">
         <p>
           <seg id="1">es wurde mir aber so in Ihrer Bestätigung der Bestellung bestätigt</seg>
@@ -8441,7 +8441,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Ich Prüfe das.</seg>
@@ -8499,7 +8499,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="dzonline.de.23305">
+    <doc origlang="de" domain="news" id="dzonline.de.23305">
       <src lang="de">
         <p>
           <seg id="1">Auto schleudert gegen Baum: Fahrer tödlich verletzt</seg>
@@ -8573,7 +8573,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="stuttgarter-nachrichten.de.20280">
+    <doc origlang="de" domain="news" id="stuttgarter-nachrichten.de.20280">
       <src lang="de">
         <p>
           <seg id="1">Basketball-Bundesliga: Derby-Debakel der MHP Riesen Ludwigsburg bei den Merlins Crailsheim</seg>
@@ -8759,7 +8759,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc02">
       <src lang="de">
         <p>
           <seg id="1">Ich hatte bereits alles ihrer Kollegin semina o. ä.</seg>
@@ -8817,7 +8817,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-20-12_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-20-12_doc08">
       <src lang="de">
         <p>
           <seg id="1">Es hilft nicht viel, da ich seit September darauf gewartet habe.</seg>
@@ -8859,7 +8859,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-14_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-14_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">wird der volle Betrag zurückerstattet vom Kaufpreis bei Abholung?</seg>
@@ -8901,7 +8901,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_33">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_33">
       <src lang="de">
         <p>
           <seg id="1">Damit der Farbauftrag gleichmäßig und sauber wird, solltest Du die Bauteile mit etwas Seifenwasser von Staub, Fett und Fingerabdrücken reinigen, mit klarem Wasser abspülen und abtrocknen.</seg>
@@ -9143,7 +9143,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-38_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-38_doc07">
       <src lang="de">
         <p>
           <seg id="1">Das Sofa haben Sie aber schon zurückerhalten?</seg>
@@ -9193,7 +9193,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc086">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc086">
       <src lang="de">
         <p>
           <seg id="1">ich hatte die Decke schon im Warenkorb und könnte sie jetzt kaufen!!!</seg>
@@ -9243,7 +9243,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_h5rb9kt">
+    <doc origlang="de" domain="social" id="t1_h5rb9kt">
       <src lang="de">
         <p>
           <seg id="1">Um es mal ganz klar zu sagen.</seg>
@@ -9405,7 +9405,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_q5bsxh">
+    <doc origlang="de" domain="social" id="t3_q5bsxh">
       <src lang="de">
         <p>
           <seg id="1">Reifenwahl beim Rennrad- wirklich so pannensicher?</seg>
@@ -9615,7 +9615,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Leider warte ich vergeblich auf die email von  ihrem Support.</seg>
@@ -9705,7 +9705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-38_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Es wurde die Tischplatte für 8 Personen statt jene für 6 Personen geliefert.</seg>
@@ -9755,7 +9755,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-31_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-31_doc03">
       <src lang="de">
         <p>
           <seg id="1">hallo, meine bestellnr ist #NUMBER#. wann wird der Artikel geliefert?</seg>
@@ -9805,7 +9805,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_50">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_50">
       <src lang="de">
         <p>
           <seg id="1">Der "Drive" einer Röhrenendstufe trägt maßgeblich zur Wärme und zum Fettgehalt des Gitarrenverstärker-Sounds bei.</seg>
@@ -9943,7 +9943,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_40">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_40">
       <src lang="de">
         <p>
           <seg id="1">Alle Bosch-Elektrowerkzeuge, -Druckluftwerkzeuge und – Messwerkzeuge werden sorgfältig geprüft, getestet und unterliegen den strengen Kontrollen der Bosch-Qualitätssicherung.</seg>
@@ -10129,7 +10129,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-36_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-36_doc08">
       <src lang="de">
         <p>
           <seg id="1">Kann ich eine Bestellung auch jetzt schon aufgeben und Anfang Juni erst liefern lassen?</seg>
@@ -10171,7 +10171,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Sie können ihrem Manager ausrichten, dass sie nun zwei Stammkunden verloren haben.</seg>
@@ -10261,7 +10261,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-11_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-11_doc0">
       <src lang="de">
         <p>
           <seg id="1">Vielen Dank, ich habe es gefunden</seg>
@@ -10311,7 +10311,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="oberpfalznetz.de.40632">
+    <doc origlang="de" domain="news" id="oberpfalznetz.de.40632">
       <src lang="de">
         <p>
           <seg id="1">Schwere "Huidlerer"-Frage: Amberger weiß die Lösung</seg>
@@ -10441,7 +10441,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_r9ue6y">
+    <doc origlang="de" domain="social" id="t3_r9ue6y">
       <src lang="de">
         <p>
           <seg id="1">Ich bin genervt von Sky Sport F1</seg>
@@ -10675,7 +10675,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">ich habe gestern das Kontaktformular zur Rückgabe eines Artikels aufgegeben, aber keine Emailbestätigung oder ähnliches erhalten.</seg>
@@ -10725,7 +10725,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="otz.de.5393">
+    <doc origlang="de" domain="news" id="otz.de.5393">
       <src lang="de">
         <p>
           <seg id="1">Thüringen überholt Sachsen - Freistaat jetzt Bundesland mit höchster Corona-Inzidenz</seg>
@@ -10847,7 +10847,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc068">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc068">
       <src lang="de">
         <p>
           <seg id="1">schicken Sie mir bitte irgendeine Transaktionsnummer.. oder sonst was, was dabei helfen könnte</seg>
@@ -10897,7 +10897,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_laqmaq">
+    <doc origlang="de" domain="social" id="t3_laqmaq">
       <src lang="de">
         <p>
           <seg id="1">Es ist Zeit für Veränderungen</seg>
@@ -11123,7 +11123,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_god1nsb">
+    <doc origlang="de" domain="social" id="t1_god1nsb">
       <src lang="de">
         <p>
           <seg id="1">Was du beschreibst wird als *Awareness* bezeichnet, also Sinneswahrnehmungen unter Vollnarkose.</seg>
@@ -11221,7 +11221,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-31_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-31_doc0">
       <src lang="de">
         <p>
           <seg id="1">Wieso wird der Versand erst am 16.3. gestartet?</seg>
@@ -11271,7 +11271,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc029">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc029">
       <src lang="de">
         <p>
           <seg id="1">Chat Verbindung ist weg und jetzt?</seg>
@@ -11321,7 +11321,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-1_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Guten Tag!</seg>
@@ -11387,7 +11387,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-7_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-7_doc01">
       <src lang="de">
         <p>
           <seg id="1">die Reparatur ist jetzt abgeschlossen.</seg>
@@ -11453,7 +11453,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Wir haben nichts mit dem Stuhl gemacht.</seg>
@@ -11511,7 +11511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-38_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-38_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich finde den #PRS_ORG#-Stuhl sehr schön, allerdings kann ich nicht sehen, wie hoch die Sitzfläche ist.</seg>
@@ -11561,7 +11561,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">#PRS_ORG# muss mir doch garantieren können, dass der fehlerhafte Schrank zeitnah abgeholt wird.</seg>
@@ -11627,7 +11627,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_h068594">
+    <doc origlang="de" domain="social" id="t1_h068594">
       <src lang="de">
         <p>
           <seg id="1">Unsere Kleine hat von Woche 1 an nur auf dem Bauch geschlafen.</seg>
@@ -11789,7 +11789,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-28_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc00">
       <src lang="de">
         <p>
           <seg id="1">Also ich will die Lampe zurück schicken</seg>
@@ -11839,7 +11839,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_38">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_38">
       <src lang="de">
         <p>
           <seg id="1">Die Zappiti 4K HDR Serie – Das beste Filmerlebnis aller Zeiten!</seg>
@@ -11969,7 +11969,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="frankenpost.de.2510">
+    <doc origlang="de" domain="news" id="frankenpost.de.2510">
       <src lang="de">
         <p>
           <seg id="1">Eilmeldung: Schwerer Verkehrsunfall bei Selb</seg>
@@ -12035,7 +12035,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-20-12_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-20-12_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich habe einen Artikel, der letzte Woche geliefert werden sollte und der immer noch nicht geliefert wird.</seg>
@@ -12093,7 +12093,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ln-online.de.18505">
+    <doc origlang="de" domain="news" id="ln-online.de.18505">
       <src lang="de">
         <p>
           <seg id="1">Wo es im Raum Lübeck noch Weihnachtsbraten gibt</seg>
@@ -12167,7 +12167,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_36">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_36">
       <src lang="de">
         <p>
           <seg id="1">Um ein optimales Sehfeld zu erhalten sollte die Lupe so nahe wie möglich dem Auge genähert werden.</seg>
@@ -12361,7 +12361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Ich habe keine Nachricht erhalten</seg>
@@ -12427,7 +12427,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="noz.de.67937">
+    <doc origlang="de" domain="news" id="noz.de.67937">
       <src lang="de">
         <p>
           <seg id="1">Darmstadt nach Hinserie Zweiter - Pauli siegt in Düsseldorf</seg>
@@ -12501,7 +12501,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-17-4_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-17-4_doc0">
       <src lang="de">
         <p>
           <seg id="1">Wie geht es jetzt weiter?</seg>
@@ -12559,7 +12559,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc00">
       <src lang="de">
         <p>
           <seg id="1">In Ordnung.</seg>
@@ -12633,7 +12633,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc00">
       <src lang="de">
         <p>
           <seg id="1">Muss der Schrank für die Abholung und Rückerstattung komplett abgebaut sein?</seg>
@@ -12683,7 +12683,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-45_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-45_doc07">
       <src lang="de">
         <p>
           <seg id="1">Gestern hat der Kollege zu mir gesagt, dass die Rückzahlung veranlasst wurde und nun sagen Sie mir dass ich erst das Ding zurückschicken muss.</seg>
@@ -12749,7 +12749,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-31-3_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc09">
       <src lang="de">
         <p>
           <seg id="1">Ich habe mir ein Buch gekauft was ich nur zu 10% lesen konnte und dann fingen die Probleme an.</seg>
@@ -12815,7 +12815,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="welt.40941">
+    <doc origlang="de" domain="news" id="welt.40941">
       <src lang="de">
         <p>
           <seg id="1">Um Fake-News zu entkräften - Biontech-CEO veröffentlicht Impf-Foto</seg>
@@ -13017,7 +13017,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="pnp.de.52779">
+    <doc origlang="de" domain="news" id="pnp.de.52779">
       <src lang="de">
         <p>
           <seg id="1">110-kV-Erdkabel wird 2022 neu gebaut</seg>
@@ -13099,7 +13099,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc05">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc05">
       <src lang="de">
         <p>
           <seg id="1">Genau das möchte ich vermeiden, deswegen schreibe ich Ihnen.</seg>
@@ -13157,7 +13157,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_27">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_27">
       <src lang="de">
         <p>
           <seg id="1">Der LokSound 5 ist das wichtigste Mitglied der LokSound Familie.</seg>
@@ -13335,7 +13335,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_51">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_51">
       <src lang="de">
         <p>
           <seg id="1">Oft auf Tour und trotzdem viel Ausrüstung dabei?</seg>
@@ -13521,7 +13521,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-9_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-9_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich habe gerade gesehen das sie Vitrine #NAME# ausverkauft ist.</seg>
@@ -13595,7 +13595,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_ql2vyg">
+    <doc origlang="de" domain="social" id="t3_ql2vyg">
       <src lang="de">
         <p>
           <seg id="1">Aussage eines Gemeindemitarbeiters im Wiederspruch zur Satzung</seg>
@@ -13717,7 +13717,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="pnp.de.52722">
+    <doc origlang="de" domain="news" id="pnp.de.52722">
       <src lang="de">
         <p>
           <seg id="1">Holetschek: Länder beraten über Wegfall der Testpflicht für dreifach Geimpfte</seg>
@@ -13791,7 +13791,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-3_second_batch_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-3_second_batch_doc01">
       <src lang="de">
         <p>
           <seg id="1">Schade, die habe ich geschenkt bekommen und sie ist zu klein :(</seg>
@@ -13833,7 +13833,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="rga-online.de.11840">
+    <doc origlang="de" domain="news" id="rga-online.de.11840">
       <src lang="de">
         <p>
           <seg id="1">Etappen in der Karriere des neuen Weltmeisters Verstappen</seg>
@@ -14035,7 +14035,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc05">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc05">
       <src lang="de">
         <p>
           <seg id="1">Ich habe ihn eben nicht erhalten und daher auch nicht einlösen können weshalb ich endlich mal nachgefragt habe.</seg>
@@ -14101,7 +14101,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-36_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-36_doc0">
       <src lang="de">
         <p>
           <seg id="1">Hallo #NAME#, ist es auch möglich vorab ein kleines Musterstück des Möbelholzes zu bekommen?</seg>
@@ -14151,7 +14151,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_24">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_24">
       <src lang="de">
         <p>
           <seg id="1">Coloma ist die Stadt, in der ein unerwartetes Ereignis die Geschichte der Westküste prägte.</seg>
@@ -14457,7 +14457,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="rhein-zeitung.de.29155">
+    <doc origlang="de" domain="news" id="rhein-zeitung.de.29155">
       <src lang="de">
         <p>
           <seg id="1">Im Namen des Volkes: Laien fällen Urteile mit</seg>
@@ -14523,7 +14523,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-18_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-18_doc0">
       <src lang="de">
         <p>
           <seg id="1">gerne,hatte bereits im nov.den selben sessel in blau bestellt und auch bekommen.hätte daher weil die so schön sind jetzt einen in grau</seg>
@@ -14565,7 +14565,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">ja, was ich nicht verstehe, den anderen Korb habe ich auch auf der Deutsche Seite bestellt.</seg>
@@ -14631,7 +14631,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-19_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-19_doc0">
       <src lang="de">
         <p>
           <seg id="1">Auf die hier: #PRS_ORG#-Pendelleuchte, Messing und mehrfarbiges Glas x 1</seg>
@@ -14673,7 +14673,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-28_doc074">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc074">
       <src lang="de">
         <p>
           <seg id="1">Hatte das aber bei anderen so gesehen.</seg>
@@ -14747,7 +14747,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc07">
       <src lang="de">
         <p>
           <seg id="1">Schade, ich hätte gerne weiter bei Ihnen bestellt, aber wenn mir der Gutschein nicht angerechnet wird, dann werde ich aus Prinzip nicht mehr bestellen.</seg>
@@ -14821,7 +14821,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="yahoo-de.9290">
+    <doc origlang="de" domain="news" id="yahoo-de.9290">
       <src lang="de">
         <p>
           <seg id="1">Yvonne Catterfeld freut sich auf Weihnachten in Thüringen</seg>
@@ -14903,7 +14903,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc06">
       <src lang="de">
         <p>
           <seg id="1">ok trotzdem vielen Dank!</seg>
@@ -14961,7 +14961,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Der Stuhl ist aber defekt.</seg>
@@ -15059,7 +15059,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_hq051k4">
+    <doc origlang="de" domain="social" id="t1_hq051k4">
       <src lang="de">
         <p>
           <seg id="1">Sorry aber nur weil er sagt er ist kein Antisemit heißt das nichts.</seg>
@@ -15173,7 +15173,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-21-7_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-21-7_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Die kommt dann aber viel später an</seg>
@@ -15223,7 +15223,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_hme4l3f">
+    <doc origlang="de" domain="social" id="t1_hme4l3f">
       <src lang="de">
         <p>
           <seg id="1">Danke erstmal für dafür dass du dich der ganzen Sache hier stellst, ich habe ebenfalls fast ein Jahrzehnt im Staatsdienst in einer ähnlichen Tätigkeit verbracht, sprich wir waren ebenfalls Waffenträger in der Exekutive, weiter möchte ich darauf nicht eingehen!</seg>
@@ -15337,7 +15337,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-61_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc06">
       <src lang="de">
         <p>
           <seg id="1">Wir hatten gestern gechattet und vereinbart, dass ich bzw. Frau #NAME# eine Email bekommt mit einem 60 Euro Gutschein, einer erneuten Bestellung des #PRS_ORG# Nachttisch und einem Rücksendetikett.</seg>
@@ -15411,7 +15411,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-102_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-102_doc0">
       <src lang="de">
         <p>
           <seg id="1">Guten Tag - ich habe Interesse an dem Boone Esstisch, Weiß.</seg>
@@ -15461,7 +15461,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-0_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-0_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Und die Kommode?</seg>
@@ -15511,7 +15511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-17_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-17_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich möchte die Lieferung des #PRS_ORG# bis ins Zimmer.</seg>
@@ -15561,7 +15561,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc04">
       <src lang="de">
         <p>
           <seg id="1">Nehmen sie die Stornierung bitte auf.</seg>
@@ -15619,7 +15619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-60_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-60_doc06">
       <src lang="de">
         <p>
           <seg id="1">bis wann melden Sie sich?</seg>
@@ -15669,7 +15669,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc06">
       <src lang="de">
         <p>
           <seg id="1">IEs geht um eine Rückerstattung von €#NUMBER#</seg>
@@ -15735,7 +15735,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc04">
       <src lang="de">
         <p>
           <seg id="1">Außerdem sind wir bereits "Stammkunde" bei Ihnen und haben schon sehr viele Artikel gekauft</seg>
@@ -15785,7 +15785,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-10-6_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-10-6_doc0">
       <src lang="de">
         <p>
           <seg id="1">Nein erst wenn ich drauf tippe kommt ein extra Feld mit der Meldung</seg>
@@ -15827,7 +15827,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_qh8ofo">
+    <doc origlang="de" domain="social" id="t3_qh8ofo">
       <src lang="de">
         <p>
           <seg id="1">Nur noch dieser Tag, nur noch diese Woche, nur noch bis XY...</seg>
@@ -16109,7 +16109,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="wa.de.26867">
+    <doc origlang="de" domain="news" id="wa.de.26867">
       <src lang="de">
         <p>
           <seg id="1">Wegen Omikron: Johnson will Auffrischimpfung vorantreiben</seg>
@@ -16239,7 +16239,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-21-7_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-21-7_doc01">
       <src lang="de">
         <p>
           <seg id="1">Ich kann über meinen #PRS_ORG# keinen Einkauf mehr abwickeln.</seg>
@@ -16313,7 +16313,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_12">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_12">
       <src lang="de">
         <p>
           <seg id="1">Die dekorative Leuchte fügt sich harmonisch in jedes Beet, Gartenbereich oder Steingarten ein.</seg>
@@ -16499,7 +16499,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-36_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-36_doc04">
       <src lang="de">
         <p>
           <seg id="1">Okay, ist dann so.</seg>
@@ -16557,7 +16557,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc03">
       <src lang="de">
         <p>
           <seg id="1">Eine so niedrige Gutschrift finde ich fast unverschämt.</seg>
@@ -16607,7 +16607,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_7">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_7">
       <src lang="de">
         <p>
           <seg id="1">NEKTON-Bio unterstützt einen reibungslosen Ablauf der Mauser und der Gefiederneubildung.</seg>
@@ -16721,7 +16721,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-45_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-45_doc0">
       <src lang="de">
         <p>
           <seg id="1">Nachdem meine Gutschein wegen einer Reklamation, der bei mir nicht angekommen ist, nicht mehr kulant verlängert wird, werde ich meine Bestellung im Wert von ca.</seg>
@@ -16779,7 +16779,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="hna.de.33738">
+    <doc origlang="de" domain="news" id="hna.de.33738">
       <src lang="de">
         <p>
           <seg id="1">Der Handel fürchtet wegen der 2G-Regelung ums Weihnachtsgeschäft.</seg>
@@ -16997,7 +16997,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc06">
       <src lang="de">
         <p>
           <seg id="1">ja haben wir wir haben alle bücher gelöscht  alles bneu authorisiert und neue Bücher geladen</seg>
@@ -17039,7 +17039,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">welche denn?</seg>
@@ -17089,7 +17089,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-22_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-22_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ah okay verstehe.</seg>
@@ -17139,7 +17139,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-07-7_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Ich hoffe Sie haben auch einen schönen Tag und bleiben Sie bitte gesund ♡</seg>
@@ -17181,7 +17181,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc04">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc04">
       <src lang="de">
         <p>
           <seg id="1">#PRS_ORG# werde ich tun sehr netter und guter Service, hat zwar gedauert bis man an einen Menschen kam, Sie waren super</seg>
@@ -17223,7 +17223,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="pnp.de.52783">
+    <doc origlang="de" domain="news" id="pnp.de.52783">
       <src lang="de">
         <p>
           <seg id="1">Wohnhausbrand mit zwei Leichtverletzten und hohem Schaden</seg>
@@ -17313,7 +17313,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-102_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-102_doc09">
       <src lang="de">
         <p>
           <seg id="1">aber gibt es ihn generell in groß</seg>
@@ -17363,7 +17363,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="derstandart.at.36811">
+    <doc origlang="de" domain="news" id="derstandart.at.36811">
       <src lang="de">
         <p>
           <seg id="1">"Arcane" auf Netflix: Was taugt die Serie zu "League of Legends"?</seg>
@@ -17421,7 +17421,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-21-7_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-21-7_doc0">
       <src lang="de">
         <p>
           <seg id="1">Erst auf dem #PRS_ORG# versucht.</seg>
@@ -17487,7 +17487,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_37">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_37">
       <src lang="de">
         <p>
           <seg id="1">Nach der Veröffentlichung unseres neuen High End Breitbänders B 100- 6 OHM war es nur eine Frage der Zeit, bis auch unsere SOLO Serie wieder Nachwuchs bekommen würde.</seg>
@@ -17897,7 +17897,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-7_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-7_doc06">
       <src lang="de">
         <p>
           <seg id="1">wir hatten früher eine andere mailadresse, aber die habe ich geändert.</seg>
@@ -17939,7 +17939,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-6_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">wie lange dauert es die gelben zu bestellen mit und ohne armlehne?</seg>
@@ -17989,7 +17989,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="welt.40954">
+    <doc origlang="de" domain="news" id="welt.40954">
       <src lang="de">
         <p>
           <seg id="1">Polizei erschießt mutmaßlichen Bankräuber nahe dem Königspalast</seg>
@@ -18103,7 +18103,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-25_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-25_doc0">
       <src lang="de">
         <p>
           <seg id="1">Guten Tag, ich habe eine Frage zu Ihrer Serie von #PRS_ORG#</seg>
@@ -18161,7 +18161,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-63_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-63_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich habe vor ein paar Tagen die #PRS_ORG# bestellt... für 249€.</seg>
@@ -18227,7 +18227,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="nnn.de.153311">
+    <doc origlang="de" domain="news" id="nnn.de.153311">
       <src lang="de">
         <p>
           <seg id="1">Tannenverkauf in Schönwolde: In der Gemeinde Krembz suchen Frauen die Weihnachtsbäume aus</seg>
@@ -18309,7 +18309,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="merkur-online.de.69194">
+    <doc origlang="de" domain="news" id="merkur-online.de.69194">
       <src lang="de">
         <p>
           <seg id="1">Stets wie aus dem Ei gepellt: Max Raabe wird 59</seg>
@@ -18471,7 +18471,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_rkwgh7">
+    <doc origlang="de" domain="social" id="t3_rkwgh7">
       <src lang="de">
         <p>
           <seg id="1">Wie antwortet ihr auf die Frage, weshalb ihr vegan seid?</seg>
@@ -18601,7 +18601,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-34_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Es handelt sich eindeutige nicht um eine Ausnahme nach § 312d BGB.</seg>
@@ -18651,7 +18651,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Das Material der Verpackung können wir entsorgen?</seg>
@@ -18709,7 +18709,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_r45rgb">
+    <doc origlang="de" domain="social" id="t3_r45rgb">
       <src lang="de">
         <p>
           <seg id="1">[CW] Das Gefühl wenn ich nicht helfen kann.</seg>
@@ -18863,7 +18863,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_r4ejsh">
+    <doc origlang="de" domain="social" id="t3_r4ejsh">
       <src lang="de">
         <p>
           <seg id="1">Kinderwunschbehandlung bei PKV / Was ist ein "Versicherungsfall"?</seg>
@@ -19057,7 +19057,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="sn-online.de.15291">
+    <doc origlang="de" domain="news" id="sn-online.de.15291">
       <src lang="de">
         <p>
           <seg id="1">"Halber Sieg" gegen Belarus mit hohen Kosten für die EU verbunden</seg>
@@ -19307,7 +19307,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-61_second_batch_doc06">
       <src lang="de">
         <p>
           <seg id="1">Ist gut, danke.</seg>
@@ -19365,7 +19365,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="azonline.de.38223">
+    <doc origlang="de" domain="news" id="azonline.de.38223">
       <src lang="de">
         <p>
           <seg id="1">Feuer in Umspannanlage: Zehntausende Menschen ohne Strom</seg>
@@ -19607,7 +19607,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="nnn.de.153268">
+    <doc origlang="de" domain="news" id="nnn.de.153268">
       <src lang="de">
         <p>
           <seg id="1">Nordische Kombination: Kombinierer Riiber gewinnt</seg>
@@ -19665,7 +19665,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-28_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc07">
       <src lang="de">
         <p>
           <seg id="1">Ich hab die Lampe nochmal auseinander gebaut.</seg>
@@ -19739,7 +19739,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="bz-berlin.de.13125">
+    <doc origlang="de" domain="news" id="bz-berlin.de.13125">
       <src lang="de">
         <p>
           <seg id="1">Jennifer Aniston beschäftigt eine ganze Beauty-Armee</seg>
@@ -19893,7 +19893,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_lb7450">
+    <doc origlang="de" domain="social" id="t3_lb7450">
       <src lang="de">
         <p>
           <seg id="1">Jemand der in der Biochemie arbeitet oder Biochemie studiert hat</seg>
@@ -20031,7 +20031,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Ich hatte über das Kontaktformular ein Artike zurückgegeben bzw eine Rückgabe aufgegeben und wollte nachfragen ob das ankam oder bearbeitet wird, da ich noch keine BEstätigung bekommen habe.</seg>
@@ -20073,7 +20073,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc02">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich habe am 12.12.19 zwei #PRS_ORG# bestellt.</seg>
@@ -20131,7 +20131,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_3">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_3">
       <src lang="de">
         <p>
           <seg id="1">Wir führen in unserem Onlineshop kitchenpoint.de alle Smeg Küchengeräte und das entsprechende Zubehör.</seg>
@@ -20213,7 +20213,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-20_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-20_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Hallo, ich habe am Montag eine E-Mail gesendet, um mitzuteilen, dass meine Bestellung beschädigt angekommen ist und Bilder angehängt wurden.</seg>
@@ -20263,7 +20263,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_mw8c1o">
+    <doc origlang="de" domain="social" id="t3_mw8c1o">
       <src lang="de">
         <p>
           <seg id="1">&gt; Hallo an alle,</seg>
@@ -20361,7 +20361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_56">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_56">
       <src lang="de">
         <p>
           <seg id="1">Gemäß dem ANSI/PLATO FL1 Standard sind die zuvor genanten Werte im Fenix Labor bei bei 21°C±3°C, 50%-80% Luftfeuchtigkeit und dem eingebauten 275mAh LiPo Akku ermittelt.</seg>
@@ -20563,7 +20563,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-17_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-17_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Das verstehe ich.</seg>
@@ -20613,7 +20613,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc02">
       <src lang="de">
         <p>
           <seg id="1">ok sagen alle uthorisiert, wie kann ich genauer prüfen?</seg>
@@ -20663,7 +20663,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-65_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-65_doc0">
       <src lang="de">
         <p>
           <seg id="1">Das ist keine zufriedenstellende Antwort und die Wartezeit hat sich nicht gelohnt</seg>
@@ -20713,7 +20713,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Es geht noch immer um meine Bestellung, die nicht mehr lieferbar ist.</seg>
@@ -20779,7 +20779,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-19_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-19_doc08">
       <src lang="de">
         <p>
           <seg id="1">Mir wurde eine komplett andere Lampe geliefert als ich bestellt habe</seg>
@@ -20829,7 +20829,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_lmjtmi">
+    <doc origlang="de" domain="social" id="t3_lmjtmi">
       <src lang="de">
         <p>
           <seg id="1">Der Titel gibt es vor, ich bin als Impfarzt in mobilen Impfteams tätig, in denen (bislang nur) der BioNTech/Pfizer-Impfstoff v.a. in Pflegeheimen verimpft wird.</seg>
@@ -20911,7 +20911,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-58_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-58_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">Guten Morgen,</seg>
@@ -20993,7 +20993,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-10-6_doc00">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-10-6_doc00">
       <src lang="de">
         <p>
           <seg id="1">Habe direkt mit meinem #PRS_ORG#, ein buch gekauft es scheint auch drauf zu sein.</seg>
@@ -21075,7 +21075,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_59">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_59">
       <src lang="de">
         <p>
           <seg id="1">Exklusiver, neuer, und qualitativ hochwertiger sowie anatomisch vorgeformter Schnitt, bietet ein Maximum an Komfort, eine perfekte Passform und ermöglicht so eine nahezu uneingeschränkte Bewegungsfreiheit.</seg>
@@ -21277,7 +21277,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="kurier.at.37346">
+    <doc origlang="de" domain="news" id="kurier.at.37346">
       <src lang="de">
         <p>
           <seg id="1">Es gibt verschiedene Arten von Paletten.</seg>
@@ -21359,7 +21359,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-61_doc03">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc03">
       <src lang="de">
         <p>
           <seg id="1">Wurde gestern von Ihrer Kollegin abgenommen.</seg>
@@ -21417,7 +21417,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-28_doc072">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc072">
       <src lang="de">
         <p>
           <seg id="1">Bekomme ich diesen per Email?</seg>
@@ -21475,7 +21475,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="nzz.ch.18035">
+    <doc origlang="de" domain="news" id="nzz.ch.18035">
       <src lang="de">
         <p>
           <seg id="1">Mindestens 100 Tote durch Tornados in Kentucky</seg>
@@ -21597,7 +21597,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-22_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-22_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">ich würde gerne das #PRS_ORG# aus der Bestellung #NUMBER# zurückgeben.</seg>
@@ -21647,7 +21647,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-2_second_batch_doc08">
       <src lang="de">
         <p>
           <seg id="1">Kann es nicht geändert werden oder nicht?Schreibe gerne englisch das verstehe ich auch gut</seg>
@@ -21697,7 +21697,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_rmemk6">
+    <doc origlang="de" domain="social" id="t3_rmemk6">
       <src lang="de">
         <p>
           <seg id="1">Filmsuche Hilfe bitte</seg>
@@ -21843,7 +21843,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Offensichtlich hatte der Stuhl einen nicht ersichtlichen Mangel bei Verkauf.</seg>
@@ -21893,7 +21893,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-21-7_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-21-7_doc07">
       <src lang="de">
         <p>
           <seg id="1">Oh je, ich habe das Passwort fürs Wlan nicht verfügbar.</seg>
@@ -21959,7 +21959,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-4_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Ich möchte es zurückgeben und dann nochmal bestellen, da es gerade reduziert ist :)</seg>
@@ -22001,7 +22001,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc07">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-21_second_batch_doc07">
       <src lang="de">
         <p>
           <seg id="1">Das verstehen wir.</seg>
@@ -22051,7 +22051,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="neuepresse.de.16543">
+    <doc origlang="de" domain="news" id="neuepresse.de.16543">
       <src lang="de">
         <p>
           <seg id="1">"Party, die wir schmeißen wollten": Frankfurt feiert nach torreichem Comeback gegen Leverkusen</seg>
@@ -22221,7 +22221,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_48">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_48">
       <src lang="de">
         <p>
           <seg id="1">Seit ihrer Einführung im Jahr 2001 hat sich die Valvetronix-Serie von VOX stetig weiterentwickelt, was u.a. zur Kombination der fortschrittlichen Modeling-Technologie mit der "Valve Reactor"-Schaltung geführt hat, mit der das Verhalten eines Röhrenverstärkers perfekt nachgebildet wird.</seg>
@@ -22359,7 +22359,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_rs5pfp">
+    <doc origlang="de" domain="social" id="t3_rs5pfp">
       <src lang="de">
         <p>
           <seg id="1">Probleme mit Glasfaser + Devolo DLan/Magic</seg>
@@ -22505,7 +22505,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-65_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-65_doc01">
       <src lang="de">
         <p>
           <seg id="1">Bin ein sehr guter Kunde von Euch, habe bereits 2 Wohnungen komplett mit Euren Möbeln eingerichtet.</seg>
@@ -22603,7 +22603,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-10-28_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc0">
       <src lang="de">
         <p>
           <seg id="1">Heute kam meine #PRS_ORG# an, jedoch kann ich diese nicht ineinanderschieben und somit verkürzen.</seg>
@@ -22669,7 +22669,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_rpsxyu">
+    <doc origlang="de" domain="social" id="t3_rpsxyu">
       <src lang="de">
         <p>
           <seg id="1">Ist der Akku kaputt?</seg>
@@ -22783,7 +22783,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-01-24-10_doc01">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-01-24-10_doc01">
       <src lang="de">
         <p>
           <seg id="1">Ja haben wir beide s neu gemacht und benutzen die Version 4.5...</seg>
@@ -22833,7 +22833,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="presseportal.de.33251">
+    <doc origlang="de" domain="news" id="presseportal.de.33251">
       <src lang="de">
         <p>
           <seg id="1">Bundesbauministerin Klara Geywitz: Durch Enteignung entsteht keine neue Wohnung</seg>
@@ -22947,7 +22947,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc02">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc02">
       <src lang="de">
         <p>
           <seg id="1">warum ist das €#NUMBER# und nicht wie Ursprünglich 1699€ ?</seg>
@@ -22989,7 +22989,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_ro6o08">
+    <doc origlang="de" domain="social" id="t3_ro6o08">
       <src lang="de">
         <p>
           <seg id="1">Rat und Ideen zu weiterem Berufsleben</seg>
@@ -23247,7 +23247,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="nzz.ch.18057">
+    <doc origlang="de" domain="news" id="nzz.ch.18057">
       <src lang="de">
         <p>
           <seg id="1">Theaterhistoriker Günther Rühle 97-jährig gestorben</seg>
@@ -23345,7 +23345,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc06">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2020-12-27-10_second_batch_doc06">
       <src lang="de">
         <p>
           <seg id="1">ja, aber es hieß vorher.</seg>
@@ -23395,7 +23395,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t1_h4wo8cz">
+    <doc origlang="de" domain="social" id="t1_h4wo8cz">
       <src lang="de">
         <p>
           <seg id="1">Er ist in eine Firma gewechselt über die er gelästert hat.</seg>
@@ -23501,7 +23501,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_nzx4ed">
+    <doc origlang="de" domain="social" id="t3_nzx4ed">
       <src lang="de">
         <p>
           <seg id="1">Hilfe bei erster eigener Kampagne</seg>
@@ -23703,7 +23703,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-24-45_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-45_doc0">
       <src lang="de">
         <p>
           <seg id="1">Das können Sie vergessen, das habe ich doch gestern schon mehrmals erklärt!!</seg>
@@ -23769,7 +23769,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="t3_r0k6ip">
+    <doc origlang="de" domain="social" id="t3_r0k6ip">
       <src lang="de">
         <p>
           <seg id="1">DACH-Adventskalender Tag 6: Familientraditionen in der Weihnachtszeit</seg>
@@ -23907,7 +23907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="morgenweb.de.10308">
+    <doc origlang="de" domain="news" id="morgenweb.de.10308">
       <src lang="de">
         <p>
           <seg id="1">Friedrich holt 60. Weltcupsieg - Nolte siegt im Zweierbob - Sport</seg>
@@ -24109,7 +24109,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="faz.41703">
+    <doc origlang="de" domain="news" id="faz.41703">
       <src lang="de">
         <p>
           <seg id="1">Wann es Zeit ist, das Girokonto zu wechseln</seg>
@@ -24247,7 +24247,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc09">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-46_second_batch_doc09">
       <src lang="de">
         <p>
           <seg id="1">Bitte entschuldigen sie, aber der Stuhl wird als Bürostuhl verkauft.</seg>
@@ -24313,7 +24313,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc0">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-10_second_batch_doc0">
       <src lang="de">
         <p>
           <seg id="1">was ist da zu Prüfen, wenn das Geld da wäre, hätte ich es gesehen</seg>
@@ -24363,7 +24363,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_28">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_28">
       <src lang="de">
         <p>
           <seg id="1">Der LokSound 5 Decoder kann bis zu 10 Kanäle gleichzeitig wiedergeben.</seg>
@@ -24461,7 +24461,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="wiesbadener-kurier.de.12967">
+    <doc origlang="de" domain="news" id="wiesbadener-kurier.de.12967">
       <src lang="de">
         <p>
           <seg id="1">Mercedes protestiert nach umstrittenem Formel-1-Finale</seg>
@@ -24567,7 +24567,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="nnn.de.153101">
+    <doc origlang="de" domain="news" id="nnn.de.153101">
       <src lang="de">
         <p>
           <seg id="1">NBA: Trotz 20 Punkte von Wagner: Magic verlieren bei Clippers</seg>
@@ -24633,7 +24633,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_13">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_13">
       <src lang="de">
         <p>
           <seg id="1">Per Knopfdruck wählen Sie unkompliziert vor, ob Ihr »Smart Stone« dauerhaft in einer Farbe leuchten oder sein gesamtes Farbrepertoire durchspielen soll.</seg>
@@ -24723,7 +24723,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="braunschweiger-zeitung.de.35094">
+    <doc origlang="de" domain="news" id="braunschweiger-zeitung.de.35094">
       <src lang="de">
         <p>
           <seg id="1">Dämpfer für Handball-Frauen vor Viertelfinale gegen Spanien</seg>
@@ -24949,7 +24949,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="ecommerce_de_42">
+    <doc origlang="de" domain="ecommerce" id="ecommerce_de_42">
       <src lang="de">
         <p>
           <seg id="1">Hochglänzendes Effektspray, das glatte Oberflächen ähnlich wie Chrom aussehen läßt.</seg>
@@ -25031,7 +25031,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="de" id="en_de_CLIENT-02_default_2021-02-07-11_doc08">
+    <doc origlang="de" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-11_doc08">
       <src lang="de">
         <p>
           <seg id="1">Erhalte seit 3 Wochen, beim Versuch, ein neues Buch herunterzuladen diese Fehlermeldung, meine Kontodaten und Kontaktdaten sind aber aktuell:</seg>

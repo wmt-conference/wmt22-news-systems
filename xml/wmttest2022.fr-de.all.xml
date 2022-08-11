@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <dataset id="wmttest2022">
   <collection id="general">
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-18_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-18_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Oui bien sur</seg>
@@ -103,7 +103,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc08">
       <src lang="fr">
         <p>
           <seg id="1">Il doit s'agir d'un défaut  de réalisation de l'e-book car sur le précédent , ça fonctionne normalement</seg>
@@ -155,7 +155,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t1_h63z5t6">
+    <doc origlang="fr" domain="social" id="t1_h63z5t6">
       <src lang="fr">
         <p>
           <seg id="1">Tu n'es définitivement pas un connard.</seg>
@@ -297,7 +297,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="nouvelobs.com.18689">
+    <doc origlang="fr" domain="news" id="nouvelobs.com.18689">
       <src lang="fr">
         <p>
           <seg id="1">Face au "raz-de-marée Omicron", le Royaume-Uni mise sur la troisième dose de vaccin</seg>
@@ -599,7 +599,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-27_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-27_doc0">
       <src lang="fr">
         <p>
           <seg id="1">"this page contains the following errors: error on line 1 at column 0: encoding error"</seg>
@@ -651,7 +651,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-26_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-26_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Oui, mais là je suis inquiète car le message suivant vient de s'afficher : votre bibliothèque est vide....</seg>
@@ -713,7 +713,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-23_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-23_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J’ai acheté une carte cadeau à Noël pour ma belle mère elle devait recevoir un mail le 25 mais elle ne l’a pas reçu alors que moi j’ai reçu un mail m’indiquant qu’il lui a été envoyé</seg>
@@ -795,7 +795,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-70_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-70_doc07">
       <src lang="fr">
         <p>
           <seg id="1">merci !bon, ça n'a pas marché, le transfer de livres n'a pas été fait depuis #PRS_ORG# vers ma liseuse.</seg>
@@ -867,7 +867,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_pymtrw">
+    <doc origlang="fr" domain="social" id="t3_pymtrw">
       <src lang="fr">
         <p>
           <seg id="1">Avis et expériences FFS</seg>
@@ -1039,7 +1039,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Quel sera le fonctionnement par la suite?</seg>
@@ -1101,7 +1101,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_rfhsay">
+    <doc origlang="fr" domain="social" id="t3_rfhsay">
       <src lang="fr">
         <p>
           <seg id="1">Question autour d'un bien en indivision</seg>
@@ -1463,7 +1463,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-7_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-7_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour j’ai acheté un livre hier via la boutique #PRS_ORG# sur ma liseuse je l’ai téléchargé il apparait dans ma bibliothèque mais lorsque je le choisi pour commencer ma lecture un message s’affiche me disant qu’il est impossible d’ouvrir le document</seg>
@@ -1515,7 +1515,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-15_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-15_doc04">
       <src lang="fr">
         <p>
           <seg id="1">Êtes-vous encore là?</seg>
@@ -1597,7 +1597,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-39_second_batch_doc01">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-39_second_batch_doc01">
       <src lang="fr">
         <p>
           <seg id="1">Il ne s'agit pas de l'adresse.</seg>
@@ -1689,7 +1689,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-60_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-60_doc03">
       <src lang="fr">
         <p>
           <seg id="1">C'est lancé.</seg>
@@ -1801,7 +1801,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-21_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-21_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je suis arrivée à me connnectée</seg>
@@ -1873,7 +1873,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc07">
       <src lang="fr">
         <p>
           <seg id="1">j'ai téléchargé l'application il y a deux jours, donc c'est la dernière version</seg>
@@ -1925,7 +1925,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-71_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Je viens de la réinitialiser et je n’arrive pas à la fermer.</seg>
@@ -1997,7 +1997,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Simplement l'annuler de ma blbliothèque puis le retelecharger pour voir si c'est pareil ou corrigé.</seg>
@@ -2059,7 +2059,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_pw03z2">
+    <doc origlang="fr" domain="social" id="t3_pw03z2">
       <src lang="fr">
         <p>
           <seg id="1">Bikepacking pendant la saison de la chasse</seg>
@@ -2211,7 +2211,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-14_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-14_doc0">
       <src lang="fr">
         <p>
           <seg id="1">j aidu tout reconfigurer acces wifi + compte</seg>
@@ -2283,7 +2283,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc082">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc082">
       <src lang="fr">
         <p>
           <seg id="1">la synchronisation est finie, toujours pareil</seg>
@@ -2345,7 +2345,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_layclt">
+    <doc origlang="fr" domain="social" id="t3_layclt">
       <src lang="fr">
         <p>
           <seg id="1">Mammectomie urgente à Bordeaux</seg>
@@ -2567,7 +2567,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc06">
       <src lang="fr">
         <p>
           <seg id="1">OUi mais en zoomant impossible de fixer la page , c'est trop grand ou trop petit et décalé soit à droite soit à gauche .</seg>
@@ -2619,7 +2619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-22_second_batch_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-22_second_batch_doc03">
       <src lang="fr">
         <p>
           <seg id="1">J’ai fais cette opération mais j’ai toujours une connection très faible.</seg>
@@ -2681,7 +2681,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Comment ça fonctionne le remplacement sous garantie ?</seg>
@@ -2753,7 +2753,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dernieresnouvelles.11520">
+    <doc origlang="fr" domain="news" id="dernieresnouvelles.11520">
       <src lang="fr">
         <p>
           <seg id="1">voici le calendrier des envois</seg>
@@ -2875,7 +2875,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc00">
       <src lang="fr">
         <p>
           <seg id="1">ce n'est pas un livre mais des livres, j'ai en cours toute une liste pour un peu plus de #NUMBER# euros, je ne voudrais pas avoir à recommencer</seg>
@@ -2937,7 +2937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc01">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc01">
       <src lang="fr">
         <p>
           <seg id="1">désinstallé, réinstallé, pas de changement</seg>
@@ -2999,7 +2999,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-15_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-15_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Je vais réinitialiser la liseuse dans le menu information technique, c’est peut-être une bonne solution?</seg>
@@ -3051,7 +3051,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-30_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-30_doc04">
       <src lang="fr">
         <p>
           <seg id="1">Ouf, le livre c'est bien télécharger sur ma bibliotheque.</seg>
@@ -3123,7 +3123,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-26_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-26_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je viens de faire un achat groupé de 5 livres sont passés sur ma liseuse et il en manque 1</seg>
@@ -3185,7 +3185,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-35_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-35_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Non que le teaser</seg>
@@ -3257,7 +3257,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_qak71p">
+    <doc origlang="fr" domain="social" id="t3_qak71p">
       <src lang="fr">
         <p>
           <seg id="1">Dans deux mois il y a de grandes chances que je fassent du vélotaf (2*8km/jour).</seg>
@@ -3369,7 +3369,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">je ne comprends pas pourquoi des livres que j'ai lu sur ma liseuse je dois les telecharger de nouveau et quand j'apuie sur telecharger cela m'indique en attente</seg>
@@ -3421,7 +3421,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lindependant.fr.12984">
+    <doc origlang="fr" domain="news" id="lindependant.fr.12984">
       <src lang="fr">
         <p>
           <seg id="1">Pyrénées-Orientales : apprentis viticulteurs en agroécologie recherchent patrons catalans</seg>
@@ -3763,7 +3763,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-66_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-66_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J’ai aussi fermé mon téléphone et réouvert</seg>
@@ -3825,7 +3825,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-18_doc01">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-18_doc01">
       <src lang="fr">
         <p>
           <seg id="1">Non cela ne fonctionne toujours pas</seg>
@@ -3887,7 +3887,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc00">
       <src lang="fr">
         <p>
           <seg id="1">C'est fait mais mes livres sont toujours en attente mais le message de synchronisation a changé : "initialisation de la synchronisation" au lieu de "recherche des mises à jour"</seg>
@@ -3939,7 +3939,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-15_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-15_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">le comble, je peux acheter le livre déjà acheté avec la tablette de lecture?</seg>
@@ -4001,7 +4001,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-34_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-34_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je n'ai pas de mot de passe sur ma liseuse et comment puis-je me déconnecter de mon compte sur ma liseuse?</seg>
@@ -4053,7 +4053,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_pdyirf">
+    <doc origlang="fr" domain="social" id="t3_pdyirf">
       <src lang="fr">
         <p>
           <seg id="1">Conseils pour chiller sur Lyon</seg>
@@ -4195,7 +4195,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_11">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_11">
       <src lang="fr">
         <p>
           <seg id="1">Protégés contre les retours d'eau</seg>
@@ -4467,7 +4467,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc09">
       <src lang="fr">
         <p>
           <seg id="1">Coté appli il a fini de resynchroniser, mais le livre est inchangé</seg>
@@ -4529,7 +4529,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_rjtcnh">
+    <doc origlang="fr" domain="social" id="t3_rjtcnh">
       <src lang="fr">
         <p>
           <seg id="1">Une vraie question de pédale (plate, semi ou auto)</seg>
@@ -4661,7 +4661,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-14_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-14_doc0">
       <src lang="fr">
         <p>
           <seg id="1">D'accord merci je vais essayé</seg>
@@ -4723,7 +4723,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc07">
       <src lang="fr">
         <p>
           <seg id="1">oui je l'ai fait et toutes les couvertures apparaissent</seg>
@@ -4785,7 +4785,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_37">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_37">
       <src lang="fr">
         <p>
           <seg id="1">Portulaca oleracea, le pourpier potager est une plante annuelle appartenant à la famille des Portulacacées.</seg>
@@ -5107,7 +5107,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-26_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-26_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Je viens de l'installer il y a qq heures.</seg>
@@ -5169,7 +5169,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc08">
       <src lang="fr">
         <p>
           <seg id="1">j'ai réussi à ouvrir un des livres, mais je n'arrive plus à revenir sur la page d'accueil pour vérifier les autres</seg>
@@ -5221,7 +5221,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc08">
       <src lang="fr">
         <p>
           <seg id="1">Désolé, j'avais commencé à le faire avant de voir votre message</seg>
@@ -5283,7 +5283,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-9_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-9_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Il a à nouveau disparu.</seg>
@@ -5385,7 +5385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_7">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_7">
       <src lang="fr">
         <p>
           <seg id="1">La satisfaction de nos clients est notre Priorité, à ce titre, merci de prendre en compte les points suivants :</seg>
@@ -5607,7 +5607,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-50_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-50_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Il me demande se connecter à la #PRS_ORG#</seg>
@@ -5679,7 +5679,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-4_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-4_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Ma liseuse m'indique qu'il est impossible d'ouvrir le document quand je veux lire 2 des ouvrages présents dans ma bibliothèque.</seg>
@@ -5741,7 +5741,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-62_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-62_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Ah finalement la synchronisation se fait automatiquement.</seg>
@@ -5803,7 +5803,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-16_second_batch_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-16_second_batch_doc06">
       <src lang="fr">
         <p>
           <seg id="1">C'est fait mais je dois maintenant retrouver mon mot de passe wifi, à moins de pouvoir continuer avec le câble !</seg>
@@ -5855,7 +5855,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">je crois que je vais tout éteindre et re essayer demain , en espérant que ma femme n'ait pas perdu tous ses livres.</seg>
@@ -5927,7 +5927,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lefigaro.51160">
+    <doc origlang="fr" domain="news" id="lefigaro.51160">
       <src lang="fr">
         <p>
           <seg id="1">J'ai l'impression que mon pays va mourir, et je ne veux pas de ça</seg>
@@ -6099,7 +6099,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-21_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-21_doc06">
       <src lang="fr">
         <p>
           <seg id="1">J'ai reconnu toute les images de bateau, mais ça ne va pas plus loin.</seg>
@@ -6161,7 +6161,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc03">
       <src lang="fr">
         <p>
           <seg id="1">Après m'etre reconnecté, je n'ai pas fait de manip sur cet ebook en particulier, mais l'appli a l'air d'avoir retéléchargé au moins certains d'entre eux toute seule</seg>
@@ -6223,7 +6223,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_lusbr8">
+    <doc origlang="fr" domain="social" id="t3_lusbr8">
       <src lang="fr">
         <p>
           <seg id="1">Salut tout le monde, je suis dans la merde.</seg>
@@ -6405,7 +6405,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-26_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-26_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">désolé  ce soir j'arrête et je déconnecte mon compte et j'éteint la liseuse    je crois que c'est l'heure de dormir   on verra demain</seg>
@@ -6457,7 +6457,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-70_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-70_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Vous m'avez bien aidée, je ne vais pas vous ennuyer + longtemps, mais je pensais qu'il était possible d'ajouter des Ebooks sur la liseuse #PRS_ORG# quelque soit leur origine.</seg>
@@ -6539,7 +6539,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-62_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-62_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, Je viens tout juste de créer un compte avec #PRS_ORG# et ai acheté deux livres.</seg>
@@ -6601,7 +6601,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-71_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc08">
       <src lang="fr">
         <p>
           <seg id="1">J’essaie de la fermer et elle ne veut pas.</seg>
@@ -6673,7 +6673,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_pxq95j">
+    <doc origlang="fr" domain="social" id="t3_pxq95j">
       <src lang="fr">
         <p>
           <seg id="1">Can anyone help correct my letter for an assignment?</seg>
@@ -6935,7 +6935,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc057">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc057">
       <src lang="fr">
         <p>
           <seg id="1">je voudrais avoir ma propre bibliothèque, ma femme et moi n'ayant pas les mêmes goûts litteraires</seg>
@@ -6987,7 +6987,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-60_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-60_doc00">
       <src lang="fr">
         <p>
           <seg id="1">je ne vois pas réinitialisation des paramètres d'usine, mais réinitialiser votre liseuse.</seg>
@@ -7049,7 +7049,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-15_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-15_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai emprunté deux livres à la bibliothèque municipale, comme je le fais régulièrement.</seg>
@@ -7161,7 +7161,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">n'est-ce pas ce que je viens de faire ?</seg>
@@ -7233,7 +7233,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lalibre.be.406877">
+    <doc origlang="fr" domain="news" id="lalibre.be.406877">
       <src lang="fr">
         <p>
           <seg id="1">La série de la semaine: "Schitt's Creek", des millionnaires chez les "rednecks"</seg>
@@ -7515,7 +7515,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-24_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Ou mettre de nouveau à jour les informations bancaires ?</seg>
@@ -7577,7 +7577,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc02">
       <src lang="fr">
         <p>
           <seg id="1">C'est pareil , toujours pas d'icône Police ert quand je regarde paramètres , il n'y a que ceux de la lecture</seg>
@@ -7629,7 +7629,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-26_second_batch_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-26_second_batch_doc05">
       <src lang="fr">
         <p>
           <seg id="1">j'ai eu plusieurs fois "oups une erreur s'est produite"</seg>
@@ -7691,7 +7691,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-50_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-50_doc06">
       <src lang="fr">
         <p>
           <seg id="1">C'est bon, J'ai le livre.</seg>
@@ -7763,7 +7763,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">je ne reçoit rien puisque je ne peux pas finaliser</seg>
@@ -7835,7 +7835,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-34_second_batch_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-34_second_batch_doc08">
       <src lang="fr">
         <p>
           <seg id="1">Je viens de mettre à jour les informations indiquées.</seg>
@@ -7907,7 +7907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_o9jkch">
+    <doc origlang="fr" domain="social" id="t3_o9jkch">
       <src lang="fr">
         <p>
           <seg id="1">Vos produits d'entretien / nettoyage, conseils.</seg>
@@ -8099,7 +8099,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonsoir, je n'arrive pas à créer un compte #PRS_ORG# personnel pour gérer la liseuse que l'on vient de m'offrir.</seg>
@@ -8181,7 +8181,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-16_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-16_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Le #NUMBER#, achat de Christophe Leibowitz l'intégrale (3 livres en un seul volume) de Hannelore Cayre sur le site de la #PRS_ORG#.</seg>
@@ -8273,7 +8273,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t1_hf37mkr">
+    <doc origlang="fr" domain="social" id="t1_hf37mkr">
       <src lang="fr">
         <p>
           <seg id="1">• ⁠Les assos genres que choisir peuvent vous accompagner d'une aide juridique.</seg>
@@ -8465,7 +8465,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-70_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-70_doc06">
       <src lang="fr">
         <p>
           <seg id="1">c'est ce que j'ai fait, mais ce n'est pas accepté.</seg>
@@ -8547,7 +8547,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-62_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-62_doc08">
       <src lang="fr">
         <p>
           <seg id="1">Oui, les deux livres.</seg>
@@ -8619,7 +8619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-71_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Je n’arrive pas à fermer ma liseuse</seg>
@@ -8701,7 +8701,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_12">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_12">
       <src lang="fr">
         <p>
           <seg id="1">Tête de squelette Tiv en bronze du Nigéria.</seg>
@@ -9073,7 +9073,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, J'ai enfin réussi à télécharger mes livres acheté à la #PRS_ORG# sur ma liseuse, mais elle n'arrive pas à ouvrir les documents.</seg>
@@ -9125,7 +9125,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-48_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-48_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Hier, j'ai commandé 2 livres dont j'ai la facture.</seg>
@@ -9187,7 +9187,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_mqlrfg">
+    <doc origlang="fr" domain="social" id="t3_mqlrfg">
       <src lang="fr">
         <p>
           <seg id="1">Un petit texte sur Sherlock Holmes.</seg>
@@ -9359,7 +9359,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_3">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_3">
       <src lang="fr">
         <p>
           <seg id="1">Usages : câbles pour guindeau, winch électrique, cabestan, treuil, batterie, voiture, camion, caravane, camping-car, sonorisation, armoires électriques, poste à souder, convertisseur, abaisseur de tension, câble de démarrage, hifi etc.</seg>
@@ -9641,7 +9641,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc05">
       <src lang="fr">
         <p>
           <seg id="1">c'est toujours l'adresse mail de ma femme qui apparait, pourtant la liseuse me dit que mon adresse mail existe déjà</seg>
@@ -9693,7 +9693,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-49_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-49_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Je suis retourné à l’accueil, j’ai fait une synchronisation et le livre n’est pas là.</seg>
@@ -9745,7 +9745,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_qm0gmw">
+    <doc origlang="fr" domain="social" id="t3_qm0gmw">
       <src lang="fr">
         <p>
           <seg id="1">Application météo</seg>
@@ -9877,7 +9877,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_rabb0g">
+    <doc origlang="fr" domain="social" id="t3_rabb0g">
       <src lang="fr">
         <p>
           <seg id="1">Déménagement à Lyon ?</seg>
@@ -10019,7 +10019,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-33_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-33_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">il est bien lisible sur mon smartphone, je vois la couverture sur ma liseuse mais il se s'ouvre pas.</seg>
@@ -10081,7 +10081,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76255">
+    <doc origlang="fr" domain="news" id="dhnet.be.76255">
       <src lang="fr">
         <p>
           <seg id="1">La bagarre générale entre les joueurs du Standard et l'Antwerp</seg>
@@ -10213,7 +10213,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_l4urc1">
+    <doc origlang="fr" domain="social" id="t3_l4urc1">
       <src lang="fr">
         <p>
           <seg id="1">Transgenre binaire.</seg>
@@ -10385,7 +10385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Je me suis déconnecté coté appli et liseuse, attendu 3 minutes et reconnecté juste sur l'appli pour le moment</seg>
@@ -10447,7 +10447,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc09">
       <src lang="fr">
         <p>
           <seg id="1">J'ai des taches grises sur mon écran du côté des boutons de ma #PRS_ORG#.</seg>
@@ -10539,7 +10539,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-6_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-6_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, j'ai acheté un livre sur la #URL#.Le livre s'affiche dans "mes livre" cependant lors du lancement du livre le message suivant apparait "Oups !</seg>
@@ -10631,7 +10631,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-15_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-15_doc07">
       <src lang="fr">
         <p>
           <seg id="1">Malheureusement, ça ne marche pas.</seg>
@@ -10703,7 +10703,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_przswk">
+    <doc origlang="fr" domain="social" id="t3_przswk">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour tout le monde, nous sommes maintenant dans l’archipel de Stockholm - peut-être notre meilleure merveille naturelle.</seg>
@@ -10995,7 +10995,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">J'ai mis à jour ma carte de crédit.</seg>
@@ -11077,7 +11077,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc00">
       <src lang="fr">
         <p>
           <seg id="1">1 dictionnaire en attente de téléchargement synchronisez pour l'installer</seg>
@@ -11139,7 +11139,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="croix.21846">
+    <doc origlang="fr" domain="news" id="croix.21846">
       <src lang="fr">
         <p>
           <seg id="1">La manipulation de l'histoire, un danger pour la paix</seg>
@@ -11451,7 +11451,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour,</seg>
@@ -11563,7 +11563,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_rm1ssz">
+    <doc origlang="fr" domain="social" id="t3_rm1ssz">
       <src lang="fr">
         <p>
           <seg id="1">Je veux m'acheter un vélo mais je ne sais pas quel type ni quel budget envisager</seg>
@@ -11715,7 +11715,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-54_second_batch_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-54_second_batch_doc03">
       <src lang="fr">
         <p>
           <seg id="1">que des livres en anglais.</seg>
@@ -11777,7 +11777,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_qmlnjz">
+    <doc origlang="fr" domain="social" id="t3_qmlnjz">
       <src lang="fr">
         <p>
           <seg id="1">Facture dématérialisée et accès Internet restreint</seg>
@@ -11909,7 +11909,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-26_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-26_doc04">
       <src lang="fr">
         <p>
           <seg id="1">En tout 15 livres récents auxquels je n'ai plus accès sur ma liseuse.</seg>
@@ -11971,7 +11971,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc07">
       <src lang="fr">
         <p>
           <seg id="1">Ah oui, merci, j'avais pas regardé dans informations de l'appareil mais plutot dans la section compte</seg>
@@ -12033,7 +12033,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-51_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-51_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Je n'ai aucune informations sur ce que je dois essayer</seg>
@@ -12095,7 +12095,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lefigaro.51066">
+    <doc origlang="fr" domain="news" id="lefigaro.51066">
       <src lang="fr">
         <p>
           <seg id="1">Djebbari promet de nouveaux trains de nuit d'ici 2030</seg>
@@ -12337,7 +12337,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-45_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-45_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J’ai acheté un livre sur mon nouveau #PRS_ORG# (reçu confirmation par courriel) mais dans la section “mes livres” c’est indiqué que je n’ai encore aucun livre.</seg>
@@ -12409,7 +12409,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-31_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-31_doc03">
       <src lang="fr">
         <p>
           <seg id="1">je n ai toujours rien</seg>
@@ -12471,7 +12471,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-53_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-53_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je ne suis pas sûre de comprendre votre question...</seg>
@@ -12533,7 +12533,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_re26o9">
+    <doc origlang="fr" domain="social" id="t3_re26o9">
       <src lang="fr">
         <p>
           <seg id="1">Paris ou Genève</seg>
@@ -12715,7 +12715,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc008">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc008">
       <src lang="fr">
         <p>
           <seg id="1">Voilà plus d'une demie heure que ma liseuse est en mode synchronisation et mes livres ne sont pas téléchargés.</seg>
@@ -12787,7 +12787,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-49_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-49_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Il y a plusieurs icônes plus, un pour chaque titre similaire</seg>
@@ -12849,7 +12849,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc04">
       <src lang="fr">
         <p>
           <seg id="1">Moi dans la table des matières j'ai juste Cover et Preview, et il ne contient que 25 pages</seg>
@@ -12901,7 +12901,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc06">
       <src lang="fr">
         <p>
           <seg id="1">oui j'ai un probleme de compte</seg>
@@ -12973,7 +12973,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-55_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-55_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Malheureusement non</seg>
@@ -13055,7 +13055,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-8_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-8_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">la je suis avec le call center de ma banque, ils sont entrain de mettre à jour des programmes liés au #PRS_ORG# D secure , cela pourrait etre la cause ;; en revanche je viens d'acheter un livre  via mon pc ca a marché, mais effectivement via le PC , le paiement a du etre fqit qvec mon token</seg>
@@ -13107,7 +13107,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-63_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-63_doc04">
       <src lang="fr">
         <p>
           <seg id="1">J' ai acheté le ebooks "Fire Force tome 12".</seg>
@@ -13199,7 +13199,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-15_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-15_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Ok, merci de votre aide!</seg>
@@ -13281,7 +13281,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-34_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-34_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">j'ai suivi toutes les étapes mais les nouvelles autorisations me donnent le même message et je ne peux pas lire sur ma liseuse</seg>
@@ -13333,7 +13333,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc06">
       <src lang="fr">
         <p>
           <seg id="1">jon me dit que l'on ne peut pas associer nos 2 comptes et que mon adresse mail existe déjà</seg>
@@ -13385,7 +13385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_r08je8">
+    <doc origlang="fr" domain="social" id="t3_r08je8">
       <src lang="fr">
         <p>
           <seg id="1">Louer ou vendre?</seg>
@@ -13527,7 +13527,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t1_hi387f5">
+    <doc origlang="fr" domain="social" id="t1_hi387f5">
       <src lang="fr">
         <p>
           <seg id="1">Faites plein d'entretiens pour justement accumuler l'expérience des entretiens même si les postes ne vous intéressent pas tant que ça pour que vous puissiez faire de votre mieux le jour où un rôle vous intéresse vraiment.</seg>
@@ -13649,7 +13649,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-46_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc06">
       <src lang="fr">
         <p>
           <seg id="1">non les titre apparament sont en francais mais le menu de paramettre est etranger donc je ne comprend pas</seg>
@@ -13701,7 +13701,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_23">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_23">
       <src lang="fr">
         <p>
           <seg id="1">Oeil magique électronique à double sensibilité équipé d'un écran lcd ( voir photos en bas du texte ).</seg>
@@ -13893,7 +13893,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-17_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-17_doc0">
       <src lang="fr">
         <p>
           <seg id="1">il ya écrit :"ouf!</seg>
@@ -13985,7 +13985,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-46_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je vois que vous ne comprenez pas que tous les message qui apparaissent sont en chinois et je viensde faire votre demande et riens se passe toujours en chinois</seg>
@@ -14047,7 +14047,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_36">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_36">
       <src lang="fr">
         <p>
           <seg id="1">30 larves coccinelles Coccilaure®.</seg>
@@ -14629,7 +14629,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-5_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-5_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Désolé je ne saurais comment , mais c'est toujours un cercle qui tourne lorsque ça indique une attente</seg>
@@ -14681,7 +14681,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-13_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-13_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">j'ai achter sur le compte #PRS_ORG# et j'ai sinchronisé les 2 comptes.</seg>
@@ -14763,7 +14763,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc070">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc070">
       <src lang="fr">
         <p>
           <seg id="1">certains de mes derniers achats sont telecharges et d'autres sont en attente qu-est=ce que cela veut dire</seg>
@@ -14815,7 +14815,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-53_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-53_doc09">
       <src lang="fr">
         <p>
           <seg id="1">chaque mot sur lequel je clique, on me dit 'aucune définition trouvée'</seg>
@@ -14887,7 +14887,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_qe2w26">
+    <doc origlang="fr" domain="social" id="t3_qe2w26">
       <src lang="fr">
         <p>
           <seg id="1">Transfert de PEA au point mort</seg>
@@ -15079,7 +15079,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-71_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc02">
       <src lang="fr">
         <p>
           <seg id="1">Ça pris au moins 15 minutes avant qu’on réussisse à la fermer</seg>
@@ -15141,7 +15141,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lemondefr.37213">
+    <doc origlang="fr" domain="news" id="lemondefr.37213">
       <src lang="fr">
         <p>
           <seg id="1">Qui s'occupera des plus fragiles à Noël ?</seg>
@@ -15403,7 +15403,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Le fichier semble bien se transférer.</seg>
@@ -15485,7 +15485,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-21_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-21_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">merci de votre aide mes livres sont téléchargés sur ma liseuse</seg>
@@ -15547,7 +15547,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-71_doc060">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc060">
       <src lang="fr">
         <p>
           <seg id="1">C’est déjà fait et rien n’a changé.</seg>
@@ -15619,7 +15619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-38_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-38_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai acheté le livre "le #PRS_ORG#", et la liseuse ne parvient pas à l'ouvrir.</seg>
@@ -15711,7 +15711,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lameuse.be.24478">
+    <doc origlang="fr" domain="news" id="lameuse.be.24478">
       <src lang="fr">
         <p>
           <seg id="1">Joe Biden déplore "l'une des tornades les pires" de l'histoire des Etats-Unis</seg>
@@ -15793,7 +15793,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-27_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-27_doc04">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, ma liseuse est neuve mais deux des livres que j'ai achetés affichent un message d'erreur quand j'essaie de les lire (livres : "Working Mum" &amp; "La vie rêvée des chaussettes orphelines").</seg>
@@ -15865,7 +15865,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-60_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-60_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je l'ai fait sur un réseau.</seg>
@@ -15947,7 +15947,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc01">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc01">
       <src lang="fr">
         <p>
           <seg id="1">Je vous remercie beaucoup car je viens de passer plusieurs jours très stressants par peur de ne pas réussir à utiliser ma liseuse</seg>
@@ -16009,7 +16009,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lefigaro.51073">
+    <doc origlang="fr" domain="news" id="lefigaro.51073">
       <src lang="fr">
         <p>
           <seg id="1">Hidalgo assure qu'elle participera à la Primaire populaire quoi qu'il arrive</seg>
@@ -16241,7 +16241,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-43_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-43_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Nous avons offert une liseuse #PRS_ORG# à mon garçon pour Noël et malheureusement malgré toutes nos tentatives il nous est impossible de lire les livres transférés.</seg>
@@ -16313,7 +16313,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_6">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_6">
       <src lang="fr">
         <p>
           <seg id="1">La série de blocs mécaniques Master comprend un total de 14 modèles de blocs.</seg>
@@ -16605,7 +16605,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76300">
+    <doc origlang="fr" domain="news" id="dhnet.be.76300">
       <src lang="fr">
         <p>
           <seg id="1">Ici commence la Loire volcanique</seg>
@@ -16707,7 +16707,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-27_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-27_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Ah non dans mon compte #PRS_ORG# j’ai :toujours plus par #NAME#</seg>
@@ -16769,7 +16769,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76630">
+    <doc origlang="fr" domain="news" id="dhnet.be.76630">
       <src lang="fr">
         <p>
           <seg id="1">Mercedes porte réclamation sur le résultat final du Grand Prix d'Abou Dhabi</seg>
@@ -16861,7 +16861,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_4">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_4">
       <src lang="fr">
         <p>
           <seg id="1">I.1 :Les prix des objets proposés à la vente sont indiqués en €uros TTC, les prix mentionnés sur les factures le sont Hors Taxes, conformément au statut d'auto-entrepreneur, non assujetti à la TVA.</seg>
@@ -17323,7 +17323,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc024">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-12_second_batch_doc024">
       <src lang="fr">
         <p>
           <seg id="1">oui, mais maintenant il ne reconnait plus mon adresse mail.</seg>
@@ -17385,7 +17385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lavenir.net.12848">
+    <doc origlang="fr" domain="news" id="lavenir.net.12848">
       <src lang="fr">
         <p>
           <seg id="1">Yorbe Vertessen a aidé le PSV à prendre la tête du classement</seg>
@@ -17547,7 +17547,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, je tente d'utiliser ma nouvelle liseuse #PRS_ORG#.</seg>
@@ -17619,7 +17619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-26_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-26_doc09">
       <src lang="fr">
         <p>
           <seg id="1">Encore un peu de patience...</seg>
@@ -17691,7 +17691,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-46_second_batch_doc06">
       <src lang="fr">
         <p>
           <seg id="1">je suis sur la liste d'option</seg>
@@ -17753,7 +17753,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc08">
       <src lang="fr">
         <p>
           <seg id="1">J'ai maintenant effacé l'autorisation des deux côtés</seg>
@@ -17845,7 +17845,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_p15ver">
+    <doc origlang="fr" domain="social" id="t3_p15ver">
       <src lang="fr">
         <p>
           <seg id="1">Indication heures travaillées Pôle emploi</seg>
@@ -17987,7 +17987,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-66_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-66_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Je suis vraiment contente</seg>
@@ -18049,7 +18049,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_16">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_16">
       <src lang="fr">
         <p>
           <seg id="1">Applications types : raffineries de pétrole et de gaz, usines pétrochimiques, fonderies, installations de forage, usines de pâtes et papiers, infrastructures agroalimentaires, quais de chargement, centrales électriques, usines de traitement d'eau et des eaux usées et autres secteurs dans lesquels la corrosion, l'humidité, la saleté et les conditions extrêmes sont problématiques.</seg>
@@ -18231,7 +18231,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lexpress.to.1018">
+    <doc origlang="fr" domain="news" id="lexpress.to.1018">
       <src lang="fr">
         <p>
           <seg id="1">Les patinoires de Toronto sont ouvertes</seg>
@@ -18363,7 +18363,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-31_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-31_doc0">
       <src lang="fr">
         <p>
           <seg id="1">j'ai eu une confirmation par mail de ma commande avec un telechargement à faire lorsque je fais le telechargement mon ordinateur m ouvre des fichiers.</seg>
@@ -18425,7 +18425,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_30">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_30">
       <src lang="fr">
         <p>
           <seg id="1">C'est un sac à dos robuste et léger en Cordura® rip stop avec un traitement IR très performant.</seg>
@@ -18657,7 +18657,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-16_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-16_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je ne tourve pas réparer j'ai juste déconnexion sur ma liseuse</seg>
@@ -18729,7 +18729,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-22_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-22_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J’ai fais une synchro hier avec #PRS_ORG# app et sa avait réglé le problème mais ce matin j’ai noté que je ne suis pas capable de me connecter au Wifi</seg>
@@ -18781,7 +18781,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc09">
       <src lang="fr">
         <p>
           <seg id="1">Viste guidée, personnaliser votre manière de lire et elle affiche des livres que j'ai</seg>
@@ -18833,7 +18833,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Elle est connecté avec le Wi-Fi mais la connection est faible alors que je suis à côté</seg>
@@ -18885,7 +18885,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">merci beaucoup #NAME# je vais essyer de me debrouiller seule car a chaque fois que j'appuie sur la touche telecharger cela m'indique en attente cela veut-il dire que le telechargement s'effectuera plus tard au bien dois-je synchroniser via l'ordi comme je le faisais avant</seg>
@@ -18937,7 +18937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lexpress.fr.19626">
+    <doc origlang="fr" domain="news" id="lexpress.fr.19626">
       <src lang="fr">
         <p>
           <seg id="1">Les robotaxis en roue libre aux Emirats</seg>
@@ -19119,7 +19119,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-12_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-12_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai fait une déconnexion et une reconnexion et ça n'a pas fonctionné.</seg>
@@ -19231,7 +19231,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="nicematin.com.42817">
+    <doc origlang="fr" domain="news" id="nicematin.com.42817">
       <src lang="fr">
         <p>
           <seg id="1">Le directeur de casting Olivier Carbone est mort</seg>
@@ -19353,7 +19353,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-23_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-23_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Mais c’est quoi le compte mère?!</seg>
@@ -19415,7 +19415,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-41_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-41_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Rien</seg>
@@ -19487,7 +19487,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_29">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_29">
       <src lang="fr">
         <p>
           <seg id="1">Découvrez l'accessoire incontournable du sportif.</seg>
@@ -19749,7 +19749,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="nicematin.com.42828">
+    <doc origlang="fr" domain="news" id="nicematin.com.42828">
       <src lang="fr">
         <p>
           <seg id="1">En attendant Noël, Antibes lance son spectacle de lumière, à voir tous les soirs</seg>
@@ -19861,7 +19861,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-41_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-41_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Hier j'ai discuté avec vos collègues pour ce problème</seg>
@@ -19943,7 +19943,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-34_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-34_doc00">
       <src lang="fr">
         <p>
           <seg id="1">je pourrais lire le livre sur mon ordinateur, le contenu est déverrouillé, mais je ne peux pas le lire sur ma liseuse.</seg>
@@ -20005,7 +20005,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc078">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc078">
       <src lang="fr">
         <p>
           <seg id="1">Non, je ne l'ai pas connecté pendant qu'on faisait les manips</seg>
@@ -20067,7 +20067,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-46_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc04">
       <src lang="fr">
         <p>
           <seg id="1">je n'ai pas d'ecran d'accueil dans menue rien est francais</seg>
@@ -20129,7 +20129,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-26_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-26_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Il dit qu'il ne trouve pas le mot dans le dictionnaire et de chercher un autre.</seg>
@@ -20211,7 +20211,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_22">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_22">
       <src lang="fr">
         <p>
           <seg id="1">Le Pluglia Sonic utilise une nouvelle technologie de diffusion par ultrasons sans perturbation pour les animaux.</seg>
@@ -20573,7 +20573,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-70_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-70_doc05">
       <src lang="fr">
         <p>
           <seg id="1">#PRS_ORG# s'est ouvert, il me semble donc que ça marche.</seg>
@@ -20655,7 +20655,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-29_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc08">
       <src lang="fr">
         <p>
           <seg id="1">non je ne vois pas comment faire</seg>
@@ -20717,7 +20717,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76570">
+    <doc origlang="fr" domain="news" id="dhnet.be.76570">
       <src lang="fr">
         <p>
           <seg id="1">Brncic après la victoire de Liège face au Patro : "Mon rêve est de parvenir à jouer avec la même intensité pendant 70 minutes"</seg>
@@ -20849,7 +20849,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-39_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-39_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, il y a longtemps, j'ai utilisé le compte #PRS_ORG# pour acheter et télécharger des livres sur mon ipad.</seg>
@@ -20931,7 +20931,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-29_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc04">
       <src lang="fr">
         <p>
           <seg id="1">c est fait.</seg>
@@ -21023,7 +21023,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-6_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-6_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Ça ne marche toujours pas</seg>
@@ -21085,7 +21085,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Je suis en train de le faire.</seg>
@@ -21147,7 +21147,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc04">
       <src lang="fr">
         <p>
           <seg id="1">merci vraiment beaucoup c'est certain que je ferais appel a votre gentillesse pour soigner mes bobos avec #PRS_ORG# !!!</seg>
@@ -21209,7 +21209,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-4_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-4_doc02">
       <src lang="fr">
         <p>
           <seg id="1">J'ai téléchargé le livre que je viens d'acheter sur la #PRS_ORG# mais je ne peux l'ouvrir sur la liseuse ; il me dit qu'il y a sans doute un problème avec le fichier.</seg>
@@ -21271,7 +21271,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-20_second_batch_doc03">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, ma #PRS_ORG# n'est pas reconnue par mon Mac book pro.</seg>
@@ -21343,7 +21343,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-11_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-11_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Okei ça marche, je tente la manipulation dans la journée et vous recontacte si cela ne fonctionne pas</seg>
@@ -21405,7 +21405,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-52_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-52_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Merci  pour votre aide.</seg>
@@ -21477,7 +21477,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-36_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-36_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour j'ai acheter un livre sur la #PRS_ORG# et ces votre application qui me permet de le lire.</seg>
@@ -21549,7 +21549,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-29_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je ne sais plus mon mot de passe du coup je ne peux pas le mlodifier dan #NAME# compte</seg>
@@ -21611,7 +21611,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-25_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai par la suite autoriser mon ordinateur et ensuite cliqué sur #PRS_ORG# et autoriser la liseuse</seg>
@@ -21673,7 +21673,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-26_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-26_doc02">
       <src lang="fr">
         <p>
           <seg id="1">J'ai fait la manip et résultat : "Connexion..."</seg>
@@ -21735,7 +21735,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_qa0bcc">
+    <doc origlang="fr" domain="social" id="t3_qa0bcc">
       <src lang="fr">
         <p>
           <seg id="1">Est-ce qu'il est possible pour une personne d'attaquer sa propre mère en justice afin d'obtenir compensation pour des malformations causées par le comportement de sa mère durant sa vie intra-utérine ?</seg>
@@ -21947,7 +21947,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_14">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_14">
       <src lang="fr">
         <p>
           <seg id="1">Network Service Gateaway Nokia Alcatel Lucent Nuage Networks 7850 NSG-X</seg>
@@ -22179,7 +22179,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-24_doc009">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc009">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour lorsque j’ai ouvert un compte #PRS_ORG#, j’ai enregistré mon adresse de facturation et ma carte bleue.</seg>
@@ -22271,7 +22271,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_mgbdmr">
+    <doc origlang="fr" domain="social" id="t3_mgbdmr">
       <src lang="fr">
         <p>
           <seg id="1">Crédit Municipal de Paris</seg>
@@ -22463,7 +22463,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-41_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-41_doc02">
       <src lang="fr">
         <p>
           <seg id="1">J'ai déjà eu l'occasion de le faire hier et pas de changement</seg>
@@ -22525,7 +22525,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-35_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-35_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Bonjour, j’ai acheté un livre aujourd’hui sur ma liseuse.</seg>
@@ -22617,7 +22617,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-45_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-45_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Oui j'ai un adresse mail différente #EMAIL#, mais j'achète pas avec cette adresse à moins qe j'aie fait une erreur.</seg>
@@ -22699,7 +22699,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-24_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc02">
       <src lang="fr">
         <p>
           <seg id="1">Oui ça y est j’ai commandé mon premier livre merci beaucoup</seg>
@@ -22761,7 +22761,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-14_doc06">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-14_doc06">
       <src lang="fr">
         <p>
           <seg id="1">Les cicatrices de la nuit (#NAME#)</seg>
@@ -22843,7 +22843,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76302">
+    <doc origlang="fr" domain="news" id="dhnet.be.76302">
       <src lang="fr">
         <p>
           <seg id="1">Un livre de recettes gratuit pour contribuer au jour le jour à combattre le gaspillage alimentaire!</seg>
@@ -23105,7 +23105,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-63_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-63_doc05">
       <src lang="fr">
         <p>
           <seg id="1">merci, non pas de probleme.Merci de votre aide vous etes 100% ... eficace.Bonsoir</seg>
@@ -23157,7 +23157,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-43_second_batch_doc08">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-43_second_batch_doc08">
       <src lang="fr">
         <p>
           <seg id="1">Non je n'ai aucun message terreur et quand je vais dans mes livres il me répond que vous n'avez encore aucun livre</seg>
@@ -23209,7 +23209,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-47_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-47_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Le livre que j'ai acheté hier soir n'a pas téléchargé.</seg>
@@ -23271,7 +23271,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-31_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-31_doc05">
       <src lang="fr">
         <p>
           <seg id="1">pas de message derreur</seg>
@@ -23333,7 +23333,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-63_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-63_doc0">
       <src lang="fr">
         <p>
           <seg id="1">je suis heureux que vous puissiez regler mon probleme, pas de probleme pour signet ou autres</seg>
@@ -23385,7 +23385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="liberte-ar.5357">
+    <doc origlang="fr" domain="news" id="liberte-ar.5357">
       <src lang="fr">
         <p>
           <seg id="1">Les Palestiniens de Cisjordanie votent aux municipales : Toute l'actualité sur liberte-algerie.com</seg>
@@ -23497,7 +23497,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-10-21_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-21_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Quand je veux finaliser l'achat, il y a des images à reconnaître qui apparaisse.</seg>
@@ -23569,7 +23569,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-4_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-4_doc0">
       <src lang="fr">
         <p>
           <seg id="1">il se peut qu'il y ait un problème avec votre fichier.</seg>
@@ -23631,7 +23631,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76274">
+    <doc origlang="fr" domain="news" id="dhnet.be.76274">
       <src lang="fr">
         <p>
           <seg id="1">Pas de 100.000 euros pour le vainqueur de Koh-Lanta : la production aurait la preuve de "diners clandestins" entre aventuriers</seg>
@@ -23943,7 +23943,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">le dictionnaire espagnol s'est téléchargé, mais pas le dictionnaire français</seg>
@@ -24005,7 +24005,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_5">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_5">
       <src lang="fr">
         <p>
           <seg id="1">Oeil magique électronique à double sensibilité équipé d'un écran lcd ( voir photos en bas du texte ).</seg>
@@ -24187,7 +24187,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-50_doc065">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-50_doc065">
       <src lang="fr">
         <p>
           <seg id="1">J'ai marqué sur ma liseuse "oups !</seg>
@@ -24279,7 +24279,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-38_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai mes nouveaux livres car j'ai branché ma liseuse sur mon ordinateur par contre des livres anciens lus apparaissent en non lus mais c'est un détail que je sais régler.</seg>
@@ -24341,7 +24341,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_17">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_17">
       <src lang="fr">
         <p>
           <seg id="1">La mini polisseur sur batterie FLEX PXE 80 10.8 EC est un kit complet qui convient parfaitement aux travaux de réparation ponctuels.</seg>
@@ -24613,7 +24613,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_onme4v">
+    <doc origlang="fr" domain="social" id="t3_onme4v">
       <src lang="fr">
         <p>
           <seg id="1">Facturation différente de l'état des lieux de sortie</seg>
@@ -24825,7 +24825,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-6_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-6_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Il m'est impossible d'acheter un livre avec mon e-carte cadeau #PRS_ORG# que j'ai reçu en ligne.</seg>
@@ -24917,7 +24917,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lavenir.net.12823">
+    <doc origlang="fr" domain="news" id="lavenir.net.12823">
       <src lang="fr">
         <p>
           <seg id="1">Le nombre moyen de contaminations quotidiennes repasse sous la barre des 15 000</seg>
@@ -25039,7 +25039,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="euronews-fr.18286">
+    <doc origlang="fr" domain="news" id="euronews-fr.18286">
       <src lang="fr">
         <p>
           <seg id="1">85ème jour d'éruption pour le volcan de La Palma dans les Canaries</seg>
@@ -25151,7 +25151,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_rba7k2">
+    <doc origlang="fr" domain="social" id="t3_rba7k2">
       <src lang="fr">
         <p>
           <seg id="1">Transidentité et chirurgie bariatrique</seg>
@@ -25293,7 +25293,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-65_second_batch_doc05">
       <src lang="fr">
         <p>
           <seg id="1">Je n'ai aucun risque de perdre l'appareil ?</seg>
@@ -25365,7 +25365,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-44_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-44_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">bonjour mon courriel est #NAME# j'ai une liseuse #PRS_ORG#</seg>
@@ -25457,7 +25457,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_r2nemf">
+    <doc origlang="fr" domain="social" id="t3_r2nemf">
       <src lang="fr">
         <p>
           <seg id="1">Partenariat commercial micro-entrepreneur</seg>
@@ -25609,7 +25609,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_r7i6a2">
+    <doc origlang="fr" domain="social" id="t3_r7i6a2">
       <src lang="fr">
         <p>
           <seg id="1">Investir dans l'immobilier à plusieurs</seg>
@@ -25791,7 +25791,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_10">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_10">
       <src lang="fr">
         <p>
           <seg id="1">Présentation : Ce Coffret de douilles six pans et accessoires BGS TECHNIC de 192 pièces, prévu pour les carrés 6,3 mm (1/4") - 10 mm (3/8") - 12,5 mm (1/2"), vous assure praticité et outils de qualité pour vos travaux de bricolage et de mécanique.</seg>
@@ -25893,7 +25893,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-48_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Comment me déconnecter de la liseuse?</seg>
@@ -25965,7 +25965,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="croix.21851">
+    <doc origlang="fr" domain="news" id="croix.21851">
       <src lang="fr">
         <p>
           <seg id="1">Saint Jean de la Croix († 1591)</seg>
@@ -26067,7 +26067,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lameuse.be.24502">
+    <doc origlang="fr" domain="news" id="lameuse.be.24502">
       <src lang="fr">
         <p>
           <seg id="1">Une vieille bombe désamorcée à Berlin, 15.000 personnes évacuées</seg>
@@ -26179,7 +26179,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-45_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-45_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">depuis peu impossible d'ouvrir les livres empruntés à la bibli</seg>
@@ -26231,7 +26231,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76171">
+    <doc origlang="fr" domain="news" id="dhnet.be.76171">
       <src lang="fr">
         <p>
           <seg id="1">Les employés de Takeda (Lessines) donnent du plasma pour sortir des milliers de malades de leur "confinement perpétuel"</seg>
@@ -26393,7 +26393,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-45_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-45_doc07">
       <src lang="fr">
         <p>
           <seg id="1">J'ai éteins et je rallume</seg>
@@ -26455,7 +26455,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Si je lis sur l'ordi , il en est de même.</seg>
@@ -26527,7 +26527,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-35_second_batch_doc02">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-35_second_batch_doc02">
       <src lang="fr">
         <p>
           <seg id="1">Comment récupérer le livre ?</seg>
@@ -26589,7 +26589,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-27_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-27_doc03">
       <src lang="fr">
         <p>
           <seg id="1">Je viens d'effectuer ces étapes</seg>
@@ -26651,7 +26651,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_33">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_33">
       <src lang="fr">
         <p>
           <seg id="1">Que ce soit dans le jardin, la ville, le parc ou à la maison, les enfants adoreront prendre le volant de leur propre véhicule électrique Range Rover Sport SVR.</seg>
@@ -26953,7 +26953,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_mwec7d">
+    <doc origlang="fr" domain="social" id="t3_mwec7d">
       <src lang="fr">
         <p>
           <seg id="1">Décès dû au Covid : assurances, sécu et autres trucs pas funs</seg>
@@ -27285,7 +27285,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-39_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-39_doc0">
       <src lang="fr">
         <p>
           <seg id="1">j'ai acheté the witcher, le dernier voeu</seg>
@@ -27347,7 +27347,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-18_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-18_doc00">
       <src lang="fr">
         <p>
           <seg id="1">Nous voulons acheter Etés anglais</seg>
@@ -27409,7 +27409,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-24_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc00">
       <src lang="fr">
         <p>
           <seg id="1">C’est bon j’ai tout entre</seg>
@@ -27471,7 +27471,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-54_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-54_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">vous ne pouvez pas me dire si j'ai besoin d'un autre support pour télécharger mes livres??</seg>
@@ -27523,7 +27523,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-18_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-18_doc0">
       <src lang="fr">
         <p>
           <seg id="1">mais ce n'est pas un problème de synchronisation : je le vois parfaitement dans mes livres.</seg>
@@ -27595,7 +27595,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-32_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-32_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">C'est certain que les livres achetés sur votre plateforme se téléchargent parfaitement.</seg>
@@ -27707,7 +27707,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-43_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-43_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai acheté un livre les semeurs de bonheur à 1,99 € pour être téléchargé sur ma #PRS_ORG# nia j'ai bien reçu en retour un mail sur ma messagerie en me disant que l'achat avait bien été effectué et que le téléchargement suivrai sauf qu'à l'heure d'aujourd'hui je n'ai toujours pas ce livre sur ma #PRS_ORG#</seg>
@@ -27759,7 +27759,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-34_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-34_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">Merci, cela fonctionne bien maintenant.</seg>
@@ -27821,7 +27821,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="nicematin.com.42871">
+    <doc origlang="fr" domain="news" id="nicematin.com.42871">
       <src lang="fr">
         <p>
           <seg id="1">Les jeunes hommes qui ont tiré du plomb sur des passants à Cannes ont été déférés</seg>
@@ -27983,7 +27983,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-47_doc060">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc060">
       <src lang="fr">
         <p>
           <seg id="1">sur dernier livre #NAME# n'apparaît pas l'icône Police.</seg>
@@ -28065,7 +28065,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lefigaro.51144">
+    <doc origlang="fr" domain="news" id="lefigaro.51144">
       <src lang="fr">
         <p>
           <seg id="1">Castres tombe les armes à la main contre les Harlequins</seg>
@@ -28247,7 +28247,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_26">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_26">
       <src lang="fr">
         <p>
           <seg id="1">Obtenez tout cela avec Windows 7 Ultimate.</seg>
@@ -28459,7 +28459,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="radio-canada.ca.6233">
+    <doc origlang="fr" domain="news" id="radio-canada.ca.6233">
       <src lang="fr">
         <p>
           <seg id="1">COVID-19: Une députée siègera virtuellement à l'Assemblée législative</seg>
@@ -28731,7 +28731,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-54_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-54_doc0">
       <src lang="fr">
         <p>
           <seg id="1">faut-il déconnecter ma liseuse et la reconnecter ?</seg>
@@ -28793,7 +28793,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="nouvelobs.com.18642">
+    <doc origlang="fr" domain="news" id="nouvelobs.com.18642">
       <src lang="fr">
         <p>
           <seg id="1">En terre RN, Anne Hidalgo veut défendre les valeurs de la République et la primaire</seg>
@@ -29105,7 +29105,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc07">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-33_second_batch_doc07">
       <src lang="fr">
         <p>
           <seg id="1">non je ne crois pas et je suis desolee mais je ne suis vraiment pas douee en informatique ma liseuse me dit sur son #PRS_ORG# que je suis connectee et en chargement mais rien ne se passe</seg>
@@ -29157,7 +29157,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-8_second_batch_doc01">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-8_second_batch_doc01">
       <src lang="fr">
         <p>
           <seg id="1">ok merci, j'essaierai demain, j'ai pu acheter un livre aujourd'hui et comme la banque va fqire des mises a jour cette nuit, je préfère attendre merci pour votre aide</seg>
@@ -29209,7 +29209,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_lxmc64">
+    <doc origlang="fr" domain="social" id="t3_lxmc64">
       <src lang="fr">
         <p>
           <seg id="1">Emménagement prochain !</seg>
@@ -29361,7 +29361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76291">
+    <doc origlang="fr" domain="news" id="dhnet.be.76291">
       <src lang="fr">
         <p>
           <seg id="1">Bundesliga : Joshua Kimmich (Bayern Munich) va finalement se faire vacciner</seg>
@@ -29463,7 +29463,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_8">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_8">
       <src lang="fr">
         <p>
           <seg id="1">Jewelry-Bijoux est une marque de bijoux.</seg>
@@ -29645,7 +29645,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-5_second_batch_doc09">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-5_second_batch_doc09">
       <src lang="fr">
         <p>
           <seg id="1">Je le ferai plus tard car je dois m'occuper de mon épouse qui a subit une opération</seg>
@@ -29707,7 +29707,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_reothg">
+    <doc origlang="fr" domain="social" id="t3_reothg">
       <src lang="fr">
         <p>
           <seg id="1">Test Paternité (à l'étranger)</seg>
@@ -29889,7 +29889,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-37_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-37_doc0">
       <src lang="fr">
         <p>
           <seg id="1">On a supprimé l'autorisation sur la liseuse et débranché.</seg>
@@ -29951,7 +29951,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc03">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-42_second_batch_doc03">
       <src lang="fr">
         <p>
           <seg id="1">il faut que remette le wifi en place</seg>
@@ -30013,7 +30013,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc04">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-64_second_batch_doc04">
       <src lang="fr">
         <p>
           <seg id="1">C'est le seul avec lequel je tente le processus depuis la réception de l'appareil tout à l'heure</seg>
@@ -30065,7 +30065,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc00">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc00">
       <src lang="fr">
         <p>
           <seg id="1">C'est dans le menu de la liseuse ?</seg>
@@ -30147,7 +30147,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="t3_r0fq4u">
+    <doc origlang="fr" domain="social" id="t3_r0fq4u">
       <src lang="fr">
         <p>
           <seg id="1">Could someone check this text for any mistakes?</seg>
@@ -30349,7 +30349,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lalibre.be.410019">
+    <doc origlang="fr" domain="news" id="lalibre.be.410019">
       <src lang="fr">
         <p>
           <seg id="1">Arrêt du gazoduc germano-russe en cas "d'escalade" en Ukraine</seg>
@@ -30491,7 +30491,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dhnet.be.76294">
+    <doc origlang="fr" domain="news" id="dhnet.be.76294">
       <src lang="fr">
         <p>
           <seg id="1">Julian Assange a subi un "micro-AVC" en prison, selon sa fiancée</seg>
@@ -30643,7 +30643,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-27-30_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-30_doc0">
       <src lang="fr">
         <p>
           <seg id="1">effectivement j'ai tente 2X acheté ce livre.</seg>
@@ -30735,7 +30735,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-03-60_doc05">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-60_doc05">
       <src lang="fr">
         <p>
           <seg id="1">l'ebook s'ouvre (et il s'est toujours ouvert), mais le contenu n'est pas le livre complet</seg>
@@ -30807,7 +30807,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_32">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_32">
       <src lang="fr">
         <p>
           <seg id="1">Afin de conserver la clientèle du Royaume-Uni dans les destinations des ventes , les frais de port seront ajustés Pour le Royaume-Uni uniquement, (depuis le 1er Janvier ) , prévoir des frais de port supplémentaire suite au Brexit pour un envoi en colissimo recommandé international obligatoire via les bornes automates pour toute autre destination que l’Union européenne</seg>
@@ -31099,7 +31099,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_18">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_18">
       <src lang="fr">
         <p>
           <seg id="1">L'aire de jeux gonflable la plus vendue depuis 2013 !</seg>
@@ -31371,7 +31371,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="lameuse.be.24499">
+    <doc origlang="fr" domain="news" id="lameuse.be.24499">
       <src lang="fr">
         <p>
           <seg id="1">le président sud-africain Cyril Ramaphosa positif au Covid-19</seg>
@@ -31583,7 +31583,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="ecommerce_fr_28">
+    <doc origlang="fr" domain="ecommerce" id="ecommerce_fr_28">
       <src lang="fr">
         <p>
           <seg id="1">Tous les produits sont expédiés de France et arrivent rapidement.</seg>
@@ -31705,7 +31705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="dernieresnouvelles.11533">
+    <doc origlang="fr" domain="news" id="dernieresnouvelles.11533">
       <src lang="fr">
         <p>
           <seg id="1">Qu'est-ce que la Tornado Alley, le couloir des tornades aux Etats-Unis ?</seg>
@@ -31907,7 +31907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2020-12-20-10_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-10_doc0">
       <src lang="fr">
         <p>
           <seg id="1">J'ai reussi a accéder à mes livres.</seg>
@@ -31969,7 +31969,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="fr" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc0">
+    <doc origlang="fr" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-37_second_batch_doc0">
       <src lang="fr">
         <p>
           <seg id="1">avez-vous retrouvé ma liste, vous faites des propositions intéressantes mais dommage on ne peut pas acheter</seg>

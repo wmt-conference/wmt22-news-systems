@@ -345,7 +345,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_41">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_41">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Promtex Micropacket Prestige 105х195.</seg>
@@ -951,7 +951,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="mk.43058">
+    <doc origlang="ru" domain="news" id="mk.43058">
       <src lang="ru">
         <p>
           <seg id="1">Германия: Четвертая прививка от коронавируса неизбежна</seg>
@@ -1291,7 +1291,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_93">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_93">
       <src lang="ru">
         <p>
           <seg id="1">Воблер Pontoon21, Bet-A Vib, 54 Silent, 54 мм, 8,5 г.</seg>
@@ -1856,7 +1856,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="gazeta.ru.24491">
+    <doc origlang="ru" domain="news" id="gazeta.ru.24491">
       <src lang="ru">
         <p>
           <seg id="1">В Ливии заявили о 7 тысячах российских наемников</seg>
@@ -2300,7 +2300,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="argumenti.ru.30852">
+    <doc origlang="ru" domain="news" id="argumenti.ru.30852">
       <src lang="ru">
         <p>
           <seg id="1">Правительство Дубая полностью отказалось от бумажного делопроизводства - все госуслуги тоже стали только цифровыми</seg>
@@ -2670,7 +2670,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51718">
+    <doc origlang="ru" domain="news" id="kommersant.51718">
       <src lang="ru">
         <p>
           <seg id="1">Производство и экспорт автомобилей Турции упали ниже уровня 2020 года</seg>
@@ -2828,7 +2828,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kazinform-ru.31286">
+    <doc origlang="ru" domain="news" id="kazinform-ru.31286">
       <src lang="ru">
         <p>
           <seg id="1">Более 500 субъектов МСБ получили отсрочку по кредитным платежам в 2021 году</seg>
@@ -2999,7 +2999,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.95997">
+    <doc origlang="ru" domain="news" id="kp.95997">
       <src lang="ru">
         <p>
           <seg id="1">Пульмонолог Пурясев предположил, что люди со слабым иммунитетом способны легко переносить штамм "окмирон"</seg>
@@ -3484,7 +3484,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="newizv.55935715">
+    <doc origlang="ru" domain="news" id="newizv.55935715">
       <src lang="ru">
         <p>
           <seg id="1">Иммунологи выдвинули гипотезу, почему люди с ожирением становятся жертвами ковида</seg>
@@ -3616,7 +3616,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rt-russian.47266">
+    <doc origlang="ru" domain="news" id="rt-russian.47266">
       <src lang="ru">
         <p>
           <seg id="1">Биолог рассказал о причинах появления деменции</seg>
@@ -3852,7 +3852,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97105">
+    <doc origlang="ru" domain="news" id="izvestiya.97105">
       <src lang="ru">
         <p>
           <seg id="1">Египет вернул около 30 тыс. незаконно вывезенных из страны артефактов</seg>
@@ -4246,7 +4246,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51723">
+    <doc origlang="ru" domain="news" id="kommersant.51723">
       <src lang="ru">
         <p>
           <seg id="1">FT: Credit Suisse хочет получить доступ к личным мобильным устройствам сотрудников</seg>
@@ -4404,7 +4404,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_87">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_87">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Sontelle Vivre Dual royal 70x200.</seg>
@@ -4549,7 +4549,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="sobesednik.ru.10973">
+    <doc origlang="ru" domain="news" id="sobesednik.ru.10973">
       <src lang="ru">
         <p>
           <seg id="1">Часть 4</seg>
@@ -5071,7 +5071,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_12">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_12">
       <src lang="ru">
         <p>
           <seg id="1">Шина Pirelli (Пирелли) Scorpion Winter 265/45 R20 108V</seg>
@@ -5216,7 +5216,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_73">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_73">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Промтекс-Ориент Duet Latex Econom 100x195</seg>
@@ -5716,7 +5716,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.96064">
+    <doc origlang="ru" domain="news" id="kp.96064">
       <src lang="ru">
         <p>
           <seg id="1">МИД Польши считает, что Белоруссия использует мигрантов как "оружие" против ЕС</seg>
@@ -5900,7 +5900,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_1">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_1">
       <src lang="ru">
         <p>
           <seg id="1">Чехол для одежды 60×100 см, спанбонд, цвет синий.</seg>
@@ -6266,7 +6266,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="gazeta.ru.24448">
+    <doc origlang="ru" domain="news" id="gazeta.ru.24448">
       <src lang="ru">
         <p>
           <seg id="1">"Не по Сеньке шапка": когда бархатный пиджак делает из мужчины посмешище</seg>
@@ -7238,7 +7238,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.96010">
+    <doc origlang="ru" domain="news" id="kp.96010">
       <src lang="ru">
         <p>
           <seg id="1">Иммунолог заявил, что ревакцинация через 4-5 месяцев поможет защититься от штамма коронавируса "омикрон "</seg>
@@ -7370,7 +7370,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rfi-russian.2537">
+    <doc origlang="ru" domain="news" id="rfi-russian.2537">
       <src lang="ru">
         <p>
           <seg id="1">"Большая семерка" предупредила Россию о "масштабных последствиях" в случае вторжения в Украину</seg>
@@ -7593,7 +7593,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89670">
+    <doc origlang="ru" domain="news" id="lenta.ru.89670">
       <src lang="ru">
         <p>
           <seg id="1">Вакцину Pfizer сочли в 32 раза менее эффективной от омикрон-штамма</seg>
@@ -7751,7 +7751,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97277">
+    <doc origlang="ru" domain="news" id="izvestiya.97277">
       <src lang="ru">
         <p>
           <seg id="1">Глава минобороны Украины обвинил ФРГ в блокировке поставок оружия НАТО в Киев</seg>
@@ -8106,7 +8106,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_7">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_7">
       <src lang="ru">
         <p>
           <seg id="1">Игровой набор "Рыбалка": э/ф свет, звук, в компл. игровое поле, 2 удочки, 5 фигурок, бат. 3АА не вх., кор.</seg>
@@ -8290,7 +8290,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rg.ru.15618">
+    <doc origlang="ru" domain="news" id="rg.ru.15618">
       <src lang="ru">
         <p>
           <seg id="1">В Москве назвали победителей премии имени Арсеньева - Российская газета</seg>
@@ -8604,7 +8604,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_70">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_70">
       <src lang="ru">
         <p>
           <seg id="1">Сковорода, d=22 см, с ручкой, цвет тёмный мрамор, 4278884.</seg>
@@ -9775,7 +9775,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="sovsport.ru.20260">
+    <doc origlang="ru" domain="news" id="sovsport.ru.20260">
       <src lang="ru">
         <p>
           <seg id="1">"Мерседес" подал протест на результат Гран-при Абу-Даби</seg>
@@ -9907,7 +9907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51685">
+    <doc origlang="ru" domain="news" id="kommersant.51685">
       <src lang="ru">
         <p>
           <seg id="1">G7 предупредила Россию об ответственности за вторжение на Украину</seg>
@@ -10117,7 +10117,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_62">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_62">
       <src lang="ru">
         <p>
           <seg id="1">Поясная сумка Homsu Diamond.</seg>
@@ -10275,7 +10275,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89756">
+    <doc origlang="ru" domain="news" id="lenta.ru.89756">
       <src lang="ru">
         <p>
           <seg id="1">Раскрыты способы возврата украденных через интернет-магазины денег</seg>
@@ -10498,7 +10498,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="voa-golos-ameriki-ru.12402">
+    <doc origlang="ru" domain="news" id="voa-golos-ameriki-ru.12402">
       <src lang="ru">
         <p>
           <seg id="1">Шольц прибыл в Польшу для обсуждения "Северного потока-2" и законодательства ЕС</seg>
@@ -10946,7 +10946,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="pnp.ru.22612">
+    <doc origlang="ru" domain="news" id="pnp.ru.22612">
       <src lang="ru">
         <p>
           <seg id="1">Минцифры хочет одарить писателей резиденциями</seg>
@@ -11223,7 +11223,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="argumenti.ru.30893">
+    <doc origlang="ru" domain="news" id="argumenti.ru.30893">
       <src lang="ru">
         <p>
           <seg id="1">Врачи предупредили об опасности длительного применения кроворазжижающих препаратов после COVID-19 и перед вакцинацией</seg>
@@ -11420,7 +11420,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="mk.43178">
+    <doc origlang="ru" domain="news" id="mk.43178">
       <src lang="ru">
         <p>
           <seg id="1">Картофель назвали суперпродуктом для защиты от гипертонии</seg>
@@ -11775,7 +11775,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kazinform-ru.31260">
+    <doc origlang="ru" domain="news" id="kazinform-ru.31260">
       <src lang="ru">
         <p>
           <seg id="1">Около 145 тысяч подростков привились первым компонентом от COVID-19 в Казахстане</seg>
@@ -11907,7 +11907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89760">
+    <doc origlang="ru" domain="news" id="lenta.ru.89760">
       <src lang="ru">
         <p>
           <seg id="1">Нашедшему деньги в стене церкви сантехнику выплатят 20 тысяч долларов</seg>
@@ -12275,7 +12275,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_39">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_39">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Промтекс-Ориент Soft Cocos 1, размер 190х190.</seg>
@@ -12617,7 +12617,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="belta.by.15655">
+    <doc origlang="ru" domain="news" id="belta.by.15655">
       <src lang="ru">
         <p>
           <seg id="1">В Китае зафиксирован новый случай заражения человека вирусом птичьего гриппа</seg>
@@ -12762,7 +12762,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rt-russian.47264">
+    <doc origlang="ru" domain="news" id="rt-russian.47264">
       <src lang="ru">
         <p>
           <seg id="1">В Бразилии обязали граждан предъявлять паспорта вакцинации при въезде в страну</seg>
@@ -12907,7 +12907,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89787">
+    <doc origlang="ru" domain="news" id="lenta.ru.89787">
       <src lang="ru">
         <p>
           <seg id="1">Раскрыта схема полной защиты от COVID-19</seg>
@@ -13262,7 +13262,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="euronews-ru.20985">
+    <doc origlang="ru" domain="news" id="euronews-ru.20985">
       <src lang="ru">
         <p>
           <seg id="1">В Европе не прекращаются массовые протесты противников вакцинации</seg>
@@ -13591,7 +13591,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_82">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_82">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Lonax Cocos TFK 130x185.</seg>
@@ -13842,7 +13842,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="infox.ru.13249">
+    <doc origlang="ru" domain="news" id="infox.ru.13249">
       <src lang="ru">
         <p>
           <seg id="1">ВОЗ обнаружил "омикрон" уже в шести десятках государств</seg>
@@ -14619,7 +14619,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_66">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_66">
       <src lang="ru">
         <p>
           <seg id="1">Матрас SkySleep Wave Space BS 150x185 см.</seg>
@@ -14829,7 +14829,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="argumenti.ru.30884">
+    <doc origlang="ru" domain="news" id="argumenti.ru.30884">
       <src lang="ru">
         <p>
           <seg id="1">Премьер Израиля Беннет сообщил о начале вакцинации в школах</seg>
@@ -15106,7 +15106,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_26">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_26">
       <src lang="ru">
         <p>
           <seg id="1">Детский матрас Dimax Гений 70x190</seg>
@@ -15290,7 +15290,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="belta.by.15686">
+    <doc origlang="ru" domain="news" id="belta.by.15686">
       <src lang="ru">
         <p>
           <seg id="1">В Бразилии в результате ливней погибли семь человек</seg>
@@ -15673,7 +15673,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_74">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_74">
       <src lang="ru">
         <p>
           <seg id="1">Восковые мелки MAPED (Франция) Color'peps Twist, 12 цв., выкручивающиеся, в пластик. корпусе.</seg>
@@ -15805,7 +15805,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51630">
+    <doc origlang="ru" domain="news" id="kommersant.51630">
       <src lang="ru">
         <p>
           <seg id="1">$135 млрд ушли в приложения - Hi-Tech</seg>
@@ -16236,7 +16236,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_53">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_53">
       <src lang="ru">
         <p>
           <seg id="1">Лакомство Clan De File для собак с говядиной, 30 шт. по 40 г.</seg>
@@ -16433,7 +16433,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89703">
+    <doc origlang="ru" domain="news" id="lenta.ru.89703">
       <src lang="ru">
         <p>
           <seg id="1">Россиян предупредили о новой схеме мошенников</seg>
@@ -16749,7 +16749,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="mk.43031">
+    <doc origlang="ru" domain="news" id="mk.43031">
       <src lang="ru">
         <p>
           <seg id="1">Перечислены пять действий, которые помогут избежать сахарного диабета</seg>
@@ -16985,7 +16985,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_88">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_88">
       <src lang="ru">
         <p>
           <seg id="1">Семена томатов ГАВРИШ Пинк Буш F1 0,10 г, артикул № 4241014.</seg>
@@ -17182,7 +17182,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_59">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_59">
       <src lang="ru">
         <p>
           <seg id="1">МК СЛАВДА FC-160.</seg>
@@ -17327,7 +17327,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.96002">
+    <doc origlang="ru" domain="news" id="kp.96002">
       <src lang="ru">
         <p>
           <seg id="1">Доктор Павлова рассказала о "мигрени выходного дня" у трудоголиков</seg>
@@ -17537,7 +17537,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_72">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_72">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Benartti Optimal Hard S1000 130х185.</seg>
@@ -17760,7 +17760,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.96048">
+    <doc origlang="ru" domain="news" id="kp.96048">
       <src lang="ru">
         <p>
           <seg id="1">Ученые ЮАР заявили о низкой эффективности вакцины Pfizer против "омикрона"</seg>
@@ -17892,7 +17892,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="aif.49918">
+    <doc origlang="ru" domain="news" id="aif.49918">
       <src lang="ru">
         <p>
           <seg id="1">Сколько скрытого сахара в привычных продуктах?</seg>
@@ -18102,7 +18102,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="gazeta.ru.24496">
+    <doc origlang="ru" domain="news" id="gazeta.ru.24496">
       <src lang="ru">
         <p>
           <seg id="1">Канцлер Германии Шольц: газ потеряет важность для ФРГ через 25 лет</seg>
@@ -18366,7 +18366,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97162">
+    <doc origlang="ru" domain="news" id="izvestiya.97162">
       <src lang="ru">
         <p>
           <seg id="1">Хакеры взломали Twitter премьер-министра Индии</seg>
@@ -18511,7 +18511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rfi-russian.2540">
+    <doc origlang="ru" domain="news" id="rfi-russian.2540">
       <src lang="ru">
         <p>
           <seg id="1">На референдуме в Новой Каледонии большинство проголосовало против независимости</seg>
@@ -19037,7 +19037,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="belta.by.15641">
+    <doc origlang="ru" domain="news" id="belta.by.15641">
       <src lang="ru">
         <p>
           <seg id="1">В Турции испытали первый в мире беспилотник с лазерным оружием</seg>
@@ -19340,7 +19340,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rt-russian.47278">
+    <doc origlang="ru" domain="news" id="rt-russian.47278">
       <src lang="ru">
         <p>
           <seg id="1">Читатели WSJ раскритиковали статью об отношениях России и США</seg>
@@ -19511,7 +19511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_43">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_43">
       <src lang="ru">
         <p>
           <seg id="1">Патчи можно также применять в области губ.</seg>
@@ -19604,7 +19604,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_77">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_77">
       <src lang="ru">
         <p>
           <seg id="1">SONEX 2085/EL Люстра с ПДУ Nores</seg>
@@ -19749,7 +19749,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_79">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_79">
       <src lang="ru">
         <p>
           <seg id="1">Урьяж Маска для лица увлажняющая термальная ночной 50 мл.</seg>
@@ -19894,7 +19894,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rt-russian.47388">
+    <doc origlang="ru" domain="news" id="rt-russian.47388">
       <src lang="ru">
         <p>
           <seg id="1">Землетрясение магнитудой 5,2 произошло в районе Курильских островов</seg>
@@ -20119,7 +20119,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97156">
+    <doc origlang="ru" domain="news" id="izvestiya.97156">
       <src lang="ru">
         <p>
           <seg id="1">Украина начнет производить реактивные беспилотники нового поколения</seg>
@@ -20381,7 +20381,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89832">
+    <doc origlang="ru" domain="news" id="lenta.ru.89832">
       <src lang="ru">
         <p>
           <seg id="1">В аэропорту из контейнера сбежали два льва</seg>
@@ -20578,7 +20578,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89716">
+    <doc origlang="ru" domain="news" id="lenta.ru.89716">
       <src lang="ru">
         <p>
           <seg id="1">Специалисты предупредили об угрозе рака из-за витамина B9</seg>
@@ -20775,7 +20775,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="belta.by.15680">
+    <doc origlang="ru" domain="news" id="belta.by.15680">
       <src lang="ru">
         <p>
           <seg id="1">В Великобритании к апрелю из-за омикрон-штамма могут умереть около 75 тыс. человек</seg>
@@ -21251,7 +21251,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="newizv.55935710">
+    <doc origlang="ru" domain="news" id="newizv.55935710">
       <src lang="ru">
         <p>
           <seg id="1">Cпрос на суперяхты вырос в мире на четверть</seg>
@@ -21708,7 +21708,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rosbalt.ru.26632">
+    <doc origlang="ru" domain="news" id="rosbalt.ru.26632">
       <src lang="ru">
         <p>
           <seg id="1">Определена опасная недельная доза алкоголя, ведущая к развитию рака кишечника</seg>
@@ -22078,7 +22078,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="mk.43030">
+    <doc origlang="ru" domain="news" id="mk.43030">
       <src lang="ru">
         <p>
           <seg id="1">Собаки могут понимать слова и фразы на уровне двухлетнего ребенка</seg>
@@ -22262,7 +22262,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_18">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_18">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Dreamline Dream Massage TFK 80x200.</seg>
@@ -22671,7 +22671,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89646">
+    <doc origlang="ru" domain="news" id="lenta.ru.89646">
       <src lang="ru">
         <p>
           <seg id="1">На Украине приготовились к торгу США и России</seg>
@@ -22816,7 +22816,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="xinhua-zh.15512">
+    <doc origlang="ru" domain="news" id="xinhua-zh.15512">
       <src lang="ru">
         <p>
           <seg id="1">Китай стимулирует развитие отрасли железнодорожного транспорта</seg>
@@ -23065,7 +23065,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89654">
+    <doc origlang="ru" domain="news" id="lenta.ru.89654">
       <src lang="ru">
         <p>
           <seg id="1">Биолог перечислил ранние признаки деменции</seg>
@@ -23327,7 +23327,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89818">
+    <doc origlang="ru" domain="news" id="lenta.ru.89818">
       <src lang="ru">
         <p>
           <seg id="1">Невролог потребовал отправить Саакашвили на лечение за рубеж</seg>
@@ -23816,7 +23816,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51696">
+    <doc origlang="ru" domain="news" id="kommersant.51696">
       <src lang="ru">
         <p>
           <seg id="1">В Испании прошли протесты против COVID-паспортов</seg>
@@ -24039,7 +24039,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_80">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_80">
       <src lang="ru">
         <p>
           <seg id="1">Жаровня Традиция Антрацит 26 см литая со стеклянной крышкой.</seg>
@@ -24420,7 +24420,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_9">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_9">
       <src lang="ru">
         <p>
           <seg id="1">Фильтр противоаэрозольный 3M 5925.</seg>
@@ -24788,7 +24788,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97255">
+    <doc origlang="ru" domain="news" id="izvestiya.97255">
       <src lang="ru">
         <p>
           <seg id="1">Крутой подъем: как китайцы становятся горнолыжниками</seg>
@@ -25128,7 +25128,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="pnp.ru.22602">
+    <doc origlang="ru" domain="news" id="pnp.ru.22602">
       <src lang="ru">
         <p>
           <seg id="1">Более 500 млн человек в мире могут столкнуться с крайней бедностью из-за пандемии, заявили в ВОЗ</seg>
@@ -25286,7 +25286,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_3">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_3">
       <src lang="ru">
         <p>
           <seg id="1">Рубанок Makita KP0810</seg>
@@ -25563,7 +25563,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51711">
+    <doc origlang="ru" domain="news" id="kommersant.51711">
       <src lang="ru">
         <p>
           <seg id="1">Reuters: тайваньского министра отключили от трансляции на "Саммите за демократию" по запросу Белого дома</seg>
@@ -26024,7 +26024,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_67">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_67">
       <src lang="ru">
         <p>
           <seg id="1">Шорты футбольные Jogel Camp Jfs-1120-016, белый/черный (XL).</seg>
@@ -26340,7 +26340,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_19">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_19">
       <src lang="ru">
         <p>
           <seg id="1">Набор столовый "Эгоист-единство" с позолотой (4 предмета).</seg>
@@ -26656,7 +26656,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="belta.by.15673">
+    <doc origlang="ru" domain="news" id="belta.by.15673">
       <src lang="ru">
         <p>
           <seg id="1">Космический корабль New Shepard с шестью туристами на борту совершил суборбитальный полет</seg>
@@ -27065,7 +27065,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_83">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_83">
       <src lang="ru">
         <p>
           <seg id="1">Набор для вышивания "Пернатые звезды" DESIGN WORKS 2719.</seg>
@@ -27197,7 +27197,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="xinhua-zh.15521">
+    <doc origlang="ru" domain="news" id="xinhua-zh.15521">
       <src lang="ru">
         <p>
           <seg id="1">Китай усиливает профилактику и контроль эпидемии COVID-19 в городах, где расположены сухопутные пункты пропуска</seg>
@@ -27422,7 +27422,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_52">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_52">
       <src lang="ru">
         <p>
           <seg id="1">Sontelle Пружинный матрас Vivre Castom family, 140х195, артикул: 5110704.</seg>
@@ -27567,7 +27567,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_40">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_40">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Димакс ОК Базис, размер 130х185.</seg>
@@ -27855,7 +27855,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_86">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_86">
       <src lang="ru">
         <p>
           <seg id="1">Бра Arte Lamp A9566AP-1WG от производителя Arte Lamp.</seg>
@@ -28000,7 +28000,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89783">
+    <doc origlang="ru" domain="news" id="lenta.ru.89783">
       <src lang="ru">
         <p>
           <seg id="1">В МИД рассказали о "печальном выводе" в отношениях между Россией и США</seg>
@@ -28197,7 +28197,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="sobesednik.ru.10977">
+    <doc origlang="ru" domain="news" id="sobesednik.ru.10977">
       <src lang="ru">
         <p>
           <seg id="1">Вирусолог предупредил об опасности вакцинации назальным препаратом от COVID вне больниц</seg>
@@ -28368,7 +28368,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_78">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_78">
       <src lang="ru">
         <p>
           <seg id="1">Картина по номерам на холсте, аниме "клинок, рассекающий демонов" 5426 40x60.</seg>
@@ -28604,7 +28604,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kp.96053">
+    <doc origlang="ru" domain="news" id="kp.96053">
       <src lang="ru">
         <p>
           <seg id="1">Сербия произвела 2 млн доз вакцины "Спутник V"</seg>
@@ -28881,7 +28881,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_50">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_50">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Benartti Prime Orto S1000 145х190.</seg>
@@ -29604,7 +29604,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rt-russian.47343">
+    <doc origlang="ru" domain="news" id="rt-russian.47343">
       <src lang="ru">
         <p>
           <seg id="1">В Великобритании за сутки зафиксировали 1239 случаев омикрон-штамма коронавируса - РТ на русском</seg>
@@ -29736,7 +29736,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="argumenti.ru.30890">
+    <doc origlang="ru" domain="news" id="argumenti.ru.30890">
       <src lang="ru">
         <p>
           <seg id="1">Песков предупредил о страданиях западные страны, которые вводят антироссийские санкции</seg>
@@ -30093,7 +30093,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97208">
+    <doc origlang="ru" domain="news" id="izvestiya.97208">
       <src lang="ru">
         <p>
           <seg id="1">Жители Новой Каледонии отклонили идею независимости от Франции</seg>
@@ -30567,7 +30567,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="kommersant.51708">
+    <doc origlang="ru" domain="news" id="kommersant.51708">
       <src lang="ru">
         <p>
           <seg id="1">ВОЗ предварительно считает "омикрон" менее опасным, чем "дельта"</seg>
@@ -31095,7 +31095,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="izvestiya.97235">
+    <doc origlang="ru" domain="news" id="izvestiya.97235">
       <src lang="ru">
         <p>
           <seg id="1">На Украине назвали четыре сценария для Зеленского</seg>
@@ -31448,7 +31448,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_30">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_30">
       <src lang="ru">
         <p>
           <seg id="1">Душевая система KAISER Sena (74182)</seg>
@@ -31818,7 +31818,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_57">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_57">
       <src lang="ru">
         <p>
           <seg id="1">Бюстгальтер-балконет с мягкими кружевными чашками (размер: 90E, цвет бежевый, состав: 90 % полиамид, 10 % эластан, артикул: 12008).</seg>
@@ -32201,7 +32201,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_5">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_5">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Beautyson Sense Hard S600 mini Sint обладает компактной фактурой, комфортной упругостью и жесткостью, свойствами износостойкости и долговечности.</seg>
@@ -32385,7 +32385,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="sobesednik.ru.10971">
+    <doc origlang="ru" domain="news" id="sobesednik.ru.10971">
       <src lang="ru">
         <p>
           <seg id="1">Арестованный за акцию на Красной площади поэт: "За цитату Евтушенко 10 суток дают, вот она, сила поэзии!"</seg>
@@ -32937,7 +32937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_47">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_47">
       <src lang="ru">
         <p>
           <seg id="1">Механизм Hansgrohe Quattro на три выхода (15930180).</seg>
@@ -33030,7 +33030,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="gazeta.ru.24505">
+    <doc origlang="ru" domain="news" id="gazeta.ru.24505">
       <src lang="ru">
         <p>
           <seg id="1">Исследователи рассказали, как картофель помогает в борьбе с возрастными нарушениями</seg>
@@ -33227,7 +33227,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="vedomosti.19098">
+    <doc origlang="ru" domain="news" id="vedomosti.19098">
       <src lang="ru">
         <p>
           <seg id="1">Lostfilm, lordfilm и других пиратов удалят из выдачи "Яндекса"</seg>
@@ -33465,7 +33465,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_13">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_13">
       <src lang="ru">
         <p>
           <seg id="1">Бюстгальтер с мягкими чашками без каркасов и фронтальной застежкой кофейный 135I GI1265.</seg>
@@ -33809,7 +33809,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_91">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_91">
       <src lang="ru">
         <p>
           <seg id="1">Светильник настенный Maytoni MOD081WL-L13G3K Tessara.</seg>
@@ -34060,7 +34060,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_8">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_8">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Димакс Микро Ультимэйт, размер 160х190</seg>
@@ -34361,7 +34361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rus.err.ee.17425">
+    <doc origlang="ru" domain="news" id="rus.err.ee.17425">
       <src lang="ru">
         <p>
           <seg id="1">Эстонские ученые будут искать жизнь на Венере</seg>
@@ -34651,7 +34651,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="vedomosti.19084">
+    <doc origlang="ru" domain="news" id="vedomosti.19084">
       <src lang="ru">
         <p>
           <seg id="1">Метавселенные изменят российский бизнес</seg>
@@ -35034,7 +35034,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89649">
+    <doc origlang="ru" domain="news" id="lenta.ru.89649">
       <src lang="ru">
         <p>
           <seg id="1">Британский экономист не смог дать прогноз на 2022 год</seg>
@@ -35534,7 +35534,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_22">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_22">
       <src lang="ru">
         <p>
           <seg id="1">Автомобильные коврики EVA (ромб) для Hyundai Tucson I (2004-2010).</seg>
@@ -35744,7 +35744,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_16">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_16">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Dimax Практик Базис Плюс В13 180x220 см</seg>
@@ -35980,7 +35980,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="gazeta.ru.24450">
+    <doc origlang="ru" domain="news" id="gazeta.ru.24450">
       <src lang="ru">
         <p>
           <seg id="1">Россияне отдали автодилерам около 4,5% ВВП страны</seg>
@@ -36424,7 +36424,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="lenta.ru.89666">
+    <doc origlang="ru" domain="news" id="lenta.ru.89666">
       <src lang="ru">
         <p>
           <seg id="1">Байден высказался о переброске военных США на Украину в случае вторжения России</seg>
@@ -36714,7 +36714,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_6">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_6">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Promtex-Orient Monolit Combi 16 100x185 см</seg>
@@ -37015,7 +37015,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_56">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_56">
       <src lang="ru">
         <p>
           <seg id="1">Мольберт настольный "Студия" 20*24*54(65) см для холста 40 см.</seg>
@@ -37437,7 +37437,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_24">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_24">
       <src lang="ru">
         <p>
           <seg id="1">Набор шерсти для валяния "Ассорти № 2" 100 % меринос, шерсть 4х10 г.</seg>
@@ -37807,7 +37807,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_58">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_58">
       <src lang="ru">
         <p>
           <seg id="1">Матрас Comfort Line Hard Classic TFK 180х190.</seg>
@@ -37952,7 +37952,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_10">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_10">
       <src lang="ru">
         <p>
           <seg id="1">Моя лошадка.</seg>
@@ -38084,7 +38084,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="ecommerce_ru_68">
+    <doc origlang="ru" domain="ecommerce" id="ecommerce_ru_68">
       <src lang="ru">
         <p>
           <seg id="1">Матрас MIELLA Duet Cocos-Latex DS 90х190х27, вес 27,9 кг.</seg>
@@ -38242,7 +38242,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="ru" id="rosbalt.ru.26693">
+    <doc origlang="ru" domain="news" id="rosbalt.ru.26693">
       <src lang="ru">
         <p>
           <seg id="1">Фильм ученицы Александра Сокурова получил европейского "Оскара" за лучший монтаж</seg>

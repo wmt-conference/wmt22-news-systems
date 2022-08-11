@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <dataset id="wmttest2022">
   <collection id="general">
-    <doc origlang="en" id="review_toys-and-games_21_5">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_21_5">
       <src lang="en">
         <p>
           <seg id="1">Takes a delicate touch!</seg>
@@ -93,7 +93,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_87_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_87_1">
       <src lang="en">
         <p>
           <seg id="1">Fake, seller writes own reviews!</seg>
@@ -195,7 +195,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381765">
+    <doc origlang="en" domain="news" id="bbc.381765">
       <src lang="en">
         <p>
           <seg id="1">Midsomer Norton attack: Four attempted murder arrests</seg>
@@ -297,7 +297,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_12_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_12_5">
       <src lang="en">
         <p>
           <seg id="1">Keith Green - Relevant for the Ages</seg>
@@ -379,7 +379,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_8_5">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_8_5">
       <src lang="en">
         <p>
           <seg id="1">Excellent Design and Functionaality</seg>
@@ -471,7 +471,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en.ndtv.com.13004">
+    <doc origlang="en" domain="news" id="en.ndtv.com.13004">
       <src lang="en">
         <p>
           <seg id="1">PM Modi Tweets Tribute To Jacques Chirac, Calls Him True Global Statesman, Friend Of India</seg>
@@ -573,7 +573,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_247_1">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_247_1">
       <src lang="en">
         <p>
           <seg id="1">Kinked hose with vinyl separating - Returned!</seg>
@@ -675,7 +675,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_15_5">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_15_5">
       <src lang="en">
         <p>
           <seg id="1">Gilmour makes great products</seg>
@@ -787,7 +787,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_16_1">
+    <doc origlang="en" domain="ecommerce" id="review_books_16_1">
       <src lang="en">
         <p>
           <seg id="1">Not worth the $$</seg>
@@ -869,7 +869,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_48_5">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_48_5">
       <src lang="en">
         <p>
           <seg id="1">Groomer in Training</seg>
@@ -981,7 +981,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_98_2">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_98_2">
       <src lang="en">
         <p>
           <seg id="1">Book is not about sewing circles, but about putting circles on a quilt by applique</seg>
@@ -1073,7 +1073,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="euronews-en.153799">
+    <doc origlang="en" domain="news" id="euronews-en.153799">
       <src lang="en">
         <p>
           <seg id="1">Syria 'ready' for refugees to return, says Foreign Minister</seg>
@@ -1215,7 +1215,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="telegraph.405401">
+    <doc origlang="en" domain="news" id="telegraph.405401">
       <src lang="en">
         <p>
           <seg id="1">Parliament's statue of Cromwell becomes latest memorial hit by 'rewriting history' row</seg>
@@ -1367,7 +1367,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_38_5">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_38_5">
       <src lang="en">
         <p>
           <seg id="1">Extremely Informative</seg>
@@ -1459,7 +1459,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_254_2">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_254_2">
       <src lang="en">
         <p>
           <seg id="1">This game is boring.</seg>
@@ -1531,7 +1531,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_6_5">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_6_5">
       <src lang="en">
         <p>
           <seg id="1">GGGGGGGGREAT</seg>
@@ -1593,7 +1593,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_25_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_25_5">
       <src lang="en">
         <p>
           <seg id="1">Only foundation I use!</seg>
@@ -1675,7 +1675,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_77_2">
+    <doc origlang="en" domain="ecommerce" id="review_books_77_2">
       <src lang="en">
         <p>
           <seg id="1">If you're looking for a tiny printed novelty you'll love this</seg>
@@ -1777,7 +1777,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_19_5">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_19_5">
       <src lang="en">
         <p>
           <seg id="1">very handy--wish it came in a sleeve</seg>
@@ -1859,7 +1859,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_355_1">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_355_1">
       <src lang="en">
         <p>
           <seg id="1">taste is awful</seg>
@@ -1951,7 +1951,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.218911">
+    <doc origlang="en" domain="news" id="reuters.218911">
       <src lang="en">
         <p>
           <seg id="1">LeBron to make Lakers debut Sunday in San Diego</seg>
@@ -2073,7 +2073,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="nytimes.184804">
+    <doc origlang="en" domain="news" id="nytimes.184804">
       <src lang="en">
         <p>
           <seg id="1">U.S. Weighed Penalizing El Salvador Over Support for China, Then Backed Off</seg>
@@ -2235,7 +2235,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_24_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_24_5">
       <src lang="en">
         <p>
           <seg id="1">Beautiful...</seg>
@@ -2307,7 +2307,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.306764">
+    <doc origlang="en" domain="news" id="abcnews.306764">
       <src lang="en">
         <p>
           <seg id="1">Volcano spews ash on Mexico City</seg>
@@ -2419,7 +2419,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_21_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_21_5">
       <src lang="en">
         <p>
           <seg id="1">This is the product I had been seeking.</seg>
@@ -2511,7 +2511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_119_2">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_119_2">
       <src lang="en">
         <p>
           <seg id="1">longevity is very bad</seg>
@@ -2623,7 +2623,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_17_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_17_5">
       <src lang="en">
         <p>
           <seg id="1">Anointed!</seg>
@@ -2705,7 +2705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_137_1">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_137_1">
       <src lang="en">
         <p>
           <seg id="1">Missing parts, Cheaply made</seg>
@@ -2817,7 +2817,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381780">
+    <doc origlang="en" domain="news" id="bbc.381780">
       <src lang="en">
         <p>
           <seg id="1">Londonderry: Men arrested after house rammed by car</seg>
@@ -2909,7 +2909,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_414_1">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_414_1">
       <src lang="en">
         <p>
           <seg id="1">Beginners Beware</seg>
@@ -2991,7 +2991,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_132_1">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_132_1">
       <src lang="en">
         <p>
           <seg id="1">Not Very Good!</seg>
@@ -3073,7 +3073,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_57_5">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_57_5">
       <src lang="en">
         <p>
           <seg id="1">Perfect!</seg>
@@ -3155,7 +3155,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_5_5">
+    <doc origlang="en" domain="ecommerce" id="review_books_5_5">
       <src lang="en">
         <p>
           <seg id="1">I was disappointed that you would only allow me to purchase 4 when your inventory showed that you had 14 available.</seg>
@@ -3257,7 +3257,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_166_1">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_166_1">
       <src lang="en">
         <p>
           <seg id="1">Lots of FUN!! Very CHEAP made!!!</seg>
@@ -3349,7 +3349,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_143_1">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_143_1">
       <src lang="en">
         <p>
           <seg id="1">Not worth it.</seg>
@@ -3491,7 +3491,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_25_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_25_5">
       <src lang="en">
         <p>
           <seg id="1">Memories</seg>
@@ -3603,7 +3603,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_11_4">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_11_4">
       <src lang="en">
         <p>
           <seg id="1">have you changed the rubber formula ????</seg>
@@ -3685,7 +3685,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_152_2">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_152_2">
       <src lang="en">
         <p>
           <seg id="1">NOT CLAPTION MUSIC VIDEO!  A Learn How To Play Guitar LIKE Clapton</seg>
@@ -3787,7 +3787,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_66_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_66_1">
       <src lang="en">
         <p>
           <seg id="1">ANNO 2070</seg>
@@ -3889,7 +3889,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_18_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_18_5">
       <src lang="en">
         <p>
           <seg id="1">I have found my holy grail of skin cosmetics</seg>
@@ -3961,7 +3961,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="dailymail.co.uk.298630">
+    <doc origlang="en" domain="news" id="dailymail.co.uk.298630">
       <src lang="en">
         <p>
           <seg id="1">New cancer vaccine can teach the immune system to 'see' rogue cells</seg>
@@ -4113,7 +4113,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_7_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_7_5">
       <src lang="en">
         <p>
           <seg id="1">His last album is focused on Praise</seg>
@@ -4195,7 +4195,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_13_5">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_13_5">
       <src lang="en">
         <p>
           <seg id="1">Just what I was looking for</seg>
@@ -4307,7 +4307,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_531_2">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_531_2">
       <src lang="en">
         <p>
           <seg id="1">Battery died right away.</seg>
@@ -4399,7 +4399,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_1_4">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_1_4">
       <src lang="en">
         <p>
           <seg id="1">Great Hoses</seg>
@@ -4511,7 +4511,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="scotsman.133804">
+    <doc origlang="en" domain="news" id="scotsman.133804">
       <src lang="en">
         <p>
           <seg id="1">Still Game star looks set for new career in restaurant industry</seg>
@@ -4613,7 +4613,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_88_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_88_1">
       <src lang="en">
         <p>
           <seg id="1">This is not real MAC. Its fake. Seller selling all fake MACs!</seg>
@@ -4705,7 +4705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="upi.176275">
+    <doc origlang="en" domain="news" id="upi.176275">
       <src lang="en">
         <p/>
       </src>
@@ -4737,7 +4737,7 @@
         <p/>
       </hyp>
     </doc>
-    <doc origlang="en" id="scotsman.133801">
+    <doc origlang="en" domain="news" id="scotsman.133801">
       <src lang="en">
         <p>
           <seg id="1">Rangers' Graham Dorrans optimistic ahead of Rapid Vienna clash</seg>
@@ -4899,7 +4899,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_102_1">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_102_1">
       <src lang="en">
         <p>
           <seg id="1">FAIL</seg>
@@ -5021,7 +5021,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_13_5">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_13_5">
       <src lang="en">
         <p>
           <seg id="1">Thank goodness they are expensive</seg>
@@ -5123,7 +5123,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_14_4">
+    <doc origlang="en" domain="ecommerce" id="review_books_14_4">
       <src lang="en">
         <p>
           <seg id="1">Great hymn selection</seg>
@@ -5195,7 +5195,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_387_1">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_387_1">
       <src lang="en">
         <p>
           <seg id="1">Two different ones broke</seg>
@@ -5287,7 +5287,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_29_2">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_29_2">
       <src lang="en">
         <p>
           <seg id="1">martha stewart's wedding cakes</seg>
@@ -5369,7 +5369,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_18_4">
+    <doc origlang="en" domain="ecommerce" id="review_books_18_4">
       <src lang="en">
         <p>
           <seg id="1">Dated but Valuable Reading</seg>
@@ -5451,7 +5451,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_500_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_500_1">
       <src lang="en">
         <p>
           <seg id="1">Not the original stories</seg>
@@ -5543,7 +5543,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="dailymail.co.uk.298644">
+    <doc origlang="en" domain="news" id="dailymail.co.uk.298644">
       <src lang="en">
         <p>
           <seg id="1">Perfect time for a pint is 5.30pm on a Saturday, survey finds</seg>
@@ -5735,7 +5735,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_93_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_93_1">
       <src lang="en">
         <p>
           <seg id="1">Fake mac!</seg>
@@ -5867,7 +5867,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="upi.176266">
+    <doc origlang="en" domain="news" id="upi.176266">
       <src lang="en">
         <p>
           <seg id="1">Shark injures 13-year-old on lobster dive in California</seg>
@@ -6049,7 +6049,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_164_1">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_164_1">
       <src lang="en">
         <p>
           <seg id="1">Clapton Classics</seg>
@@ -6141,7 +6141,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_145_1">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_145_1">
       <src lang="en">
         <p>
           <seg id="1">Different book. Not the expected original. Parts missing.</seg>
@@ -6213,7 +6213,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rt.com.91337">
+    <doc origlang="en" domain="news" id="rt.com.91337">
       <src lang="en">
         <p>
           <seg id="1">Macedonians go to polls in referendum on changing country's name</seg>
@@ -6315,7 +6315,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="telegraph.405408">
+    <doc origlang="en" domain="news" id="telegraph.405408">
       <src lang="en">
         <p>
           <seg id="1">How the US-China trade war may be good for Beijing</seg>
@@ -6447,7 +6447,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_302_2">
+    <doc origlang="en" domain="ecommerce" id="review_books_302_2">
       <src lang="en">
         <p>
           <seg id="1">In the land of the blind...</seg>
@@ -6539,7 +6539,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_311_1">
+    <doc origlang="en" domain="ecommerce" id="review_books_311_1">
       <src lang="en">
         <p>
           <seg id="1">Book in Shambles When Received</seg>
@@ -6671,7 +6671,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_16_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_16_5">
       <src lang="en">
         <p>
           <seg id="1">Fave!</seg>
@@ -6783,7 +6783,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_409_1">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_409_1">
       <src lang="en">
         <p>
           <seg id="1">It distorts</seg>
@@ -6875,7 +6875,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381669">
+    <doc origlang="en" domain="news" id="bbc.381669">
       <src lang="en">
         <p>
           <seg id="1">HIV/Aids: China reports 14% surge in new cases</seg>
@@ -7047,7 +7047,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_9_5">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_9_5">
       <src lang="en">
         <p>
           <seg id="1">These are my favorite candies ever!</seg>
@@ -7149,7 +7149,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_187_1">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_187_1">
       <src lang="en">
         <p>
           <seg id="1">Booooorrrring</seg>
@@ -7251,7 +7251,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_21_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_21_5">
       <src lang="en">
         <p>
           <seg id="1">Chocolate Butter Cake</seg>
@@ -7343,7 +7343,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_8_4">
+    <doc origlang="en" domain="ecommerce" id="review_books_8_4">
       <src lang="en">
         <p>
           <seg id="1">Heavenly Highway Hymns</seg>
@@ -7455,7 +7455,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.306755">
+    <doc origlang="en" domain="news" id="abcnews.306755">
       <src lang="en">
         <p>
           <seg id="1">Warren plans to take a 'hard look' at running for president</seg>
@@ -7577,7 +7577,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_12_4">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_12_4">
       <src lang="en">
         <p>
           <seg id="1">It works great but I hardly use it.</seg>
@@ -7669,7 +7669,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_51_2">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_51_2">
       <src lang="en">
         <p>
           <seg id="1">Cannot recommend</seg>
@@ -7791,7 +7791,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_127_1">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_127_1">
       <src lang="en">
         <p>
           <seg id="1">Unfortunate item.</seg>
@@ -7863,7 +7863,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_209_1">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_209_1">
       <src lang="en">
         <p>
           <seg id="1">Cheap product</seg>
@@ -7955,7 +7955,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_146_2">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_146_2">
       <src lang="en">
         <p>
           <seg id="1">spend the extra money on a better kit</seg>
@@ -8067,7 +8067,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="chicago_defender.80">
+    <doc origlang="en" domain="news" id="chicago_defender.80">
       <src lang="en">
         <p>
           <seg id="1">Midway Broadcasting announced today that its Chairwoman, Melody Spann Cooper is set to release her highly anticipated book to help female entrepreneurs and executives thrive in business. "The Girlfriend's Guide To Closing the Deal" shares insights on how women can use their voice to achieve equity at the negotiating table and advance their careers by using the female edition of the old-boy's network.</seg>
@@ -8169,7 +8169,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_287_2">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_287_2">
       <src lang="en">
         <p>
           <seg id="1">It's OK but I wish I'd bought something else.</seg>
@@ -8251,7 +8251,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_64_5">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_64_5">
       <src lang="en">
         <p>
           <seg id="1">Grooming Notes</seg>
@@ -8333,7 +8333,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_29_4">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_29_4">
       <src lang="en">
         <p>
           <seg id="1">Great set.</seg>
@@ -8425,7 +8425,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_147_2">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_147_2">
       <src lang="en">
         <p>
           <seg id="1">Had to return...</seg>
@@ -8517,7 +8517,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="sky.com.20669">
+    <doc origlang="en" domain="news" id="sky.com.20669">
       <src lang="en">
         <p>
           <seg id="1">Man set alight on doorstep 'in targeted attack'</seg>
@@ -8669,7 +8669,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_547_2">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_547_2">
       <src lang="en">
         <p>
           <seg id="1">Too Big.</seg>
@@ -8791,7 +8791,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_23_4">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_23_4">
       <src lang="en">
         <p>
           <seg id="1">Feathered Phonics volume 1</seg>
@@ -8863,7 +8863,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_483_2">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_483_2">
       <src lang="en">
         <p>
           <seg id="1">Dunlop The Original CryBaby Pedal</seg>
@@ -8935,7 +8935,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_11_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_11_5">
       <src lang="en">
         <p>
           <seg id="1">Outstanding Concept, and Performances</seg>
@@ -9027,7 +9027,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_252_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_252_1">
       <src lang="en">
         <p>
           <seg id="1">1960's Classic Comes To This?</seg>
@@ -9139,7 +9139,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_18_2">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_18_2">
       <src lang="en">
         <p>
           <seg id="1">UGHHHH!!!</seg>
@@ -9221,7 +9221,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_331_1">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_331_1">
       <src lang="en">
         <p>
           <seg id="1">became a mess</seg>
@@ -9303,7 +9303,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_110_1">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_110_1">
       <src lang="en">
         <p>
           <seg id="1">Get the 13-disc box set from AmazonUK!</seg>
@@ -9405,7 +9405,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_185_1">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_185_1">
       <src lang="en">
         <p>
           <seg id="1">Good night sweet butterflies</seg>
@@ -9497,7 +9497,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_5_4">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_5_4">
       <src lang="en">
         <p>
           <seg id="1">Ok,tool does what a regular punch does.</seg>
@@ -9579,7 +9579,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="scotsman.133753">
+    <doc origlang="en" domain="news" id="scotsman.133753">
       <src lang="en">
         <p>
           <seg id="1">Eilidh Doyle will be "voice for athletes" on Scottish Athletics board</seg>
@@ -9731,7 +9731,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_25_4">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_25_4">
       <src lang="en">
         <p>
           <seg id="1">Works great</seg>
@@ -9833,7 +9833,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_127_1">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_127_1">
       <src lang="en">
         <p>
           <seg id="1">Worked great for about 5 charges</seg>
@@ -9905,7 +9905,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_16_4">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_16_4">
       <src lang="en">
         <p>
           <seg id="1">Very handy, works well</seg>
@@ -9997,7 +9997,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_24_5">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_24_5">
       <src lang="en">
         <p>
           <seg id="1">Now I don't have to grow up</seg>
@@ -10079,7 +10079,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_199_2">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_199_2">
       <src lang="en">
         <p>
           <seg id="1">Older batteries came out in a plastic case.</seg>
@@ -10171,7 +10171,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_5_4">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_5_4">
       <src lang="en">
         <p>
           <seg id="1">Great to have so he can play with his alphabet ...</seg>
@@ -10263,7 +10263,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_41_2">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_41_2">
       <src lang="en">
         <p>
           <seg id="1">A few good tips, but that's about it</seg>
@@ -10355,7 +10355,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_36_5">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_36_5">
       <src lang="en">
         <p>
           <seg id="1">Essential text for the dog groomer</seg>
@@ -10457,7 +10457,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnbc.com.6784">
+    <doc origlang="en" domain="news" id="cnbc.com.6784">
       <src lang="en">
         <p>
           <seg id="1">Outside money floods into tightest midterm election House races</seg>
@@ -10589,7 +10589,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_33_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_33_5">
       <src lang="en">
         <p>
           <seg id="1">Great game still!</seg>
@@ -10691,7 +10691,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_53_1">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_53_1">
       <src lang="en">
         <p>
           <seg id="1">I have bought many cables and this one is the only one that gives me problems</seg>
@@ -10783,7 +10783,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.304400">
+    <doc origlang="en" domain="news" id="cnn.304400">
       <src lang="en">
         <p>
           <seg id="1">Red Tide Update: Concentrations decrease in Pinellas, Manatee and Sarasota</seg>
@@ -10925,7 +10925,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_15_5">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_15_5">
       <src lang="en">
         <p>
           <seg id="1">Every child should have this!</seg>
@@ -11057,7 +11057,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_36_5">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_36_5">
       <src lang="en">
         <p>
           <seg id="1">Quick and easy and economical</seg>
@@ -11199,7 +11199,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381701">
+    <doc origlang="en" domain="news" id="bbc.381701">
       <src lang="en">
         <p>
           <seg id="1">Attempted murder charge over Belfast restaurant stabbing</seg>
@@ -11291,7 +11291,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_8_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_8_5">
       <src lang="en">
         <p>
           <seg id="1">This is album is absolutely Blessed!</seg>
@@ -11363,7 +11363,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="dailymail.co.uk.298602">
+    <doc origlang="en" domain="news" id="dailymail.co.uk.298602">
       <src lang="en">
         <p>
           <seg id="1">One in five children have secret social media accounts that they hide from their parents</seg>
@@ -11525,7 +11525,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_53_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_53_1">
       <src lang="en">
         <p>
           <seg id="1">Another Fake MAC on here, dont buy!</seg>
@@ -11627,7 +11627,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381694">
+    <doc origlang="en" domain="news" id="bbc.381694">
       <src lang="en">
         <p>
           <seg id="1">The High Breed: What is conscious hip hop?</seg>
@@ -11719,7 +11719,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="seattle_times.7019">
+    <doc origlang="en" domain="news" id="seattle_times.7019">
       <src lang="en">
         <p>
           <seg id="1">Nancy Pelosi is subject of book by daughter Christine Pelosi</seg>
@@ -11801,7 +11801,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_356_1">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_356_1">
       <src lang="en">
         <p>
           <seg id="1">taste is awful</seg>
@@ -11893,7 +11893,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_8_5">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_8_5">
       <src lang="en">
         <p>
           <seg id="1">So Delicious!!</seg>
@@ -12005,7 +12005,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_6_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_6_5">
       <src lang="en">
         <p>
           <seg id="1">One in a million</seg>
@@ -12097,7 +12097,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_175_2">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_175_2">
       <src lang="en">
         <p>
           <seg id="1">Flavorless and not that strong</seg>
@@ -12179,7 +12179,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_20_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_20_5">
       <src lang="en">
         <p>
           <seg id="1">Absolute Treasure</seg>
@@ -12271,7 +12271,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_4_4">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_4_4">
       <src lang="en">
         <p>
           <seg id="1">great addition to your purse</seg>
@@ -12363,7 +12363,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="telegraph.405422">
+    <doc origlang="en" domain="news" id="telegraph.405422">
       <src lang="en">
         <p>
           <seg id="1">Desperate rescue efforts in Palu as death toll doubles in race to find survivors</seg>
@@ -12545,7 +12545,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_24_5">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_24_5">
       <src lang="en">
         <p>
           <seg id="1">Quality cable!</seg>
@@ -12647,7 +12647,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_392_1">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_392_1">
       <src lang="en">
         <p>
           <seg id="1">Not for bushes</seg>
@@ -12739,7 +12739,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_159_2">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_159_2">
       <src lang="en">
         <p>
           <seg id="1">Don't waste your money.</seg>
@@ -12831,7 +12831,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_23_5">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_23_5">
       <src lang="en">
         <p>
           <seg id="1">Inricate and time consuming. A great chance to get or give (if gift) a break from television!</seg>
@@ -12913,7 +12913,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_22_5">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_22_5">
       <src lang="en">
         <p>
           <seg id="1">I'm not opposed to this resistance!</seg>
@@ -13015,7 +13015,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381736">
+    <doc origlang="en" domain="news" id="bbc.381736">
       <src lang="en">
         <p>
           <seg id="1">North Korea defector numbers 'drop' under Kim</seg>
@@ -13197,7 +13197,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="scotsman.133765">
+    <doc origlang="en" domain="news" id="scotsman.133765">
       <src lang="en">
         <p>
           <seg id="1">Ayr 38 - 17 Melrose: Unbeaten Ayr go top</seg>
@@ -13369,7 +13369,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_156_2">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_156_2">
       <src lang="en">
         <p>
           <seg id="1">NOT CLAPTION MUSIC VIDEO!  A Learn How To Play Guitar LIKE Clapton</seg>
@@ -13471,7 +13471,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cbsnews.302129">
+    <doc origlang="en" domain="news" id="cbsnews.302129">
       <src lang="en">
         <p>
           <seg id="1">Immanuel Christian School: Sixth-grade boys accused of pinning down black girl and cutting off her dreadlocks in Virginia</seg>
@@ -13643,7 +13643,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_334_1">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_334_1">
       <src lang="en">
         <p>
           <seg id="1">Useless trap, horrible design</seg>
@@ -13745,7 +13745,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_12_5">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_12_5">
       <src lang="en">
         <p>
           <seg id="1">A Winner</seg>
@@ -13857,7 +13857,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_11_5">
+    <doc origlang="en" domain="ecommerce" id="review_books_11_5">
       <src lang="en">
         <p>
           <seg id="1">Hand Clapping Toe Tapping Oldies</seg>
@@ -13959,7 +13959,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_26_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_26_5">
       <src lang="en">
         <p>
           <seg id="1">Fonzie as Scrooge</seg>
@@ -14061,7 +14061,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_27_1">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_27_1">
       <src lang="en">
         <p>
           <seg id="1">Waste of Money</seg>
@@ -14133,7 +14133,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="foxnews.100074">
+    <doc origlang="en" domain="news" id="foxnews.100074">
       <src lang="en">
         <p>
           <seg id="1">Pompeo accuses Syria of using chemical weapons in May attack</seg>
@@ -14275,7 +14275,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.304447">
+    <doc origlang="en" domain="news" id="cnn.304447">
       <src lang="en">
         <p>
           <seg id="1">Trump rallies in West Virginia</seg>
@@ -14467,7 +14467,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_25_5">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_25_5">
       <src lang="en">
         <p>
           <seg id="1">I Got Great Pricing, But Still a Really Good Product</seg>
@@ -14559,7 +14559,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.218921">
+    <doc origlang="en" domain="news" id="reuters.218921">
       <src lang="en">
         <p>
           <seg id="1">Scherzer wants to play spoiler vs. Rockies</seg>
@@ -14691,7 +14691,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="telegraph.405430">
+    <doc origlang="en" domain="news" id="telegraph.405430">
       <src lang="en">
         <p>
           <seg id="1">Paddington publishers feared readers wouldn't relate to a talking bear, new letter reveals</seg>
@@ -14823,7 +14823,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_14_5">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_14_5">
       <src lang="en">
         <p>
           <seg id="1">Just as hoped</seg>
@@ -14915,7 +14915,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_6_5">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_6_5">
       <src lang="en">
         <p>
           <seg id="1">Glock punch tool - needed for your Glock and other applications too</seg>
@@ -15007,7 +15007,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.304404">
+    <doc origlang="en" domain="news" id="cnn.304404">
       <src lang="en">
         <p>
           <seg id="1">Thieves take $26,750 during ATM refill at Newport on the Levee</seg>
@@ -15109,7 +15109,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_1_5">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_1_5">
       <src lang="en">
         <p>
           <seg id="1">good</seg>
@@ -15201,7 +15201,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.385761">
+    <doc origlang="en" domain="news" id="cnn.385761">
       <src lang="en">
         <p>
           <seg id="1">Nestle tightens controls on coffee beans after weedkiller scare</seg>
@@ -15383,7 +15383,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_105_2">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_105_2">
       <src lang="en">
         <p>
           <seg id="1">LIGHT DUTY FAILURE</seg>
@@ -15455,7 +15455,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_304_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_304_1">
       <src lang="en">
         <p>
           <seg id="1">Disturbing</seg>
@@ -15537,7 +15537,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.218909">
+    <doc origlang="en" domain="news" id="reuters.218909">
       <src lang="en">
         <p>
           <seg id="1">Arrest made in shooting death of LSU's Sims</seg>
@@ -15679,7 +15679,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.385803">
+    <doc origlang="en" domain="news" id="cnn.385803">
       <src lang="en">
         <p>
           <seg id="1">Pet owners who fail to walk their dogs face $2,700 fine</seg>
@@ -15761,7 +15761,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_274_2">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_274_2">
       <src lang="en">
         <p>
           <seg id="1">NOT REMASTERED!  How can they even claim this?</seg>
@@ -15873,7 +15873,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_58_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_58_1">
       <src lang="en">
         <p>
           <seg id="1">this is a knockoff, buyer beware</seg>
@@ -15955,7 +15955,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_12_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_12_5">
       <src lang="en">
         <p>
           <seg id="1">Bride to be help!</seg>
@@ -16047,7 +16047,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_340_1">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_340_1">
       <src lang="en">
         <p>
           <seg id="1">So this is what French coffee tastes like???  Don't believe it!!!</seg>
@@ -16129,7 +16129,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_117_1">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_117_1">
       <src lang="en">
         <p>
           <seg id="1">Stopped Working after 1 1/2 month..</seg>
@@ -16191,7 +16191,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="kcal.279">
+    <doc origlang="en" domain="news" id="kcal.279">
       <src lang="en">
         <p>
           <seg id="1">Father Remains Hopeful That Suspect Who Fatally Shot Son One Year Ago Will Be Caught</seg>
@@ -16373,7 +16373,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_10_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_10_5">
       <src lang="en">
         <p>
           <seg id="1">beautiful wedding cakes</seg>
@@ -16485,7 +16485,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_47_1">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_47_1">
       <src lang="en">
         <p>
           <seg id="1">Be careful</seg>
@@ -16577,7 +16577,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_133_1">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_133_1">
       <src lang="en">
         <p>
           <seg id="1">The worst kit out there</seg>
@@ -16669,7 +16669,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_161_2">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_161_2">
       <src lang="en">
         <p>
           <seg id="1">Not For Hills</seg>
@@ -16781,7 +16781,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_2_5">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_2_5">
       <src lang="en">
         <p>
           <seg id="1">Works as well as the factory tool</seg>
@@ -16873,7 +16873,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_6_5">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_6_5">
       <src lang="en">
         <p>
           <seg id="1">$9.99, pretty and cute</seg>
@@ -16955,7 +16955,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_19_4">
+    <doc origlang="en" domain="ecommerce" id="review_books_19_4">
       <src lang="en">
         <p>
           <seg id="1">Logical follow-up to Tailchaser's Song</seg>
@@ -17027,7 +17027,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_147_2">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_147_2">
       <src lang="en">
         <p>
           <seg id="1">Cinnamon Licorice powder</seg>
@@ -17119,7 +17119,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_233_1">
+    <doc origlang="en" domain="ecommerce" id="review_books_233_1">
       <src lang="en">
         <p>
           <seg id="1">Excellent</seg>
@@ -17201,7 +17201,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_113_2">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_113_2">
       <src lang="en">
         <p>
           <seg id="1">Original Audio CD Verison Still Available</seg>
@@ -17283,7 +17283,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_185_2">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_185_2">
       <src lang="en">
         <p>
           <seg id="1">Only 3 years, instead of 5 as promised</seg>
@@ -17375,7 +17375,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_25_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_25_5">
       <src lang="en">
         <p>
           <seg id="1">It's about time...</seg>
@@ -17467,7 +17467,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_3_5">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_3_5">
       <src lang="en">
         <p>
           <seg id="1">love this!</seg>
@@ -17579,7 +17579,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_181_2">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_181_2">
       <src lang="en">
         <p>
           <seg id="1">Don't buy if your lawn is larger than 10 sq yards</seg>
@@ -17671,7 +17671,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_62_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_62_1">
       <src lang="en">
         <p>
           <seg id="1">Fake MAC, not worth buying fake makeup!</seg>
@@ -17773,7 +17773,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="euronews-en.153835">
+    <doc origlang="en" domain="news" id="euronews-en.153835">
       <src lang="en">
         <p>
           <seg id="1">Death toll from Indonesia tsunami rises to 832</seg>
@@ -17855,7 +17855,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_9_5">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_9_5">
       <src lang="en">
         <p>
           <seg id="1">Every Cat owner's must have manual</seg>
@@ -17947,7 +17947,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="nytimes.184862">
+    <doc origlang="en" domain="news" id="nytimes.184862">
       <src lang="en">
         <p>
           <seg id="1">Hundreds of Migrant Children Quietly Moved to a Tent Camp on the Texas Border</seg>
@@ -18129,7 +18129,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_439_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_439_1">
       <src lang="en">
         <p>
           <seg id="1">Still NOT completely remastered</seg>
@@ -18241,7 +18241,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_20_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_20_5">
       <src lang="en">
         <p>
           <seg id="1">One of my favorite Christmas movies!</seg>
@@ -18323,7 +18323,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_17_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_17_5">
       <src lang="en">
         <p>
           <seg id="1">I recommend you to try guys. I love all Macely line.</seg>
@@ -18415,7 +18415,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_23_5">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_23_5">
       <src lang="en">
         <p>
           <seg id="1">Wonderful!!!</seg>
@@ -18527,7 +18527,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381705">
+    <doc origlang="en" domain="news" id="bbc.381705">
       <src lang="en">
         <p>
           <seg id="1">Elite League: Dundee Stars 5-3 Belfast Giants</seg>
@@ -18709,7 +18709,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_132_2">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_132_2">
       <src lang="en">
         <p>
           <seg id="1">Waste of money.</seg>
@@ -18801,7 +18801,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_82_1">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_82_1">
       <src lang="en">
         <p>
           <seg id="1">most embarrassing gift</seg>
@@ -18883,7 +18883,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_249_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_249_1">
       <src lang="en">
         <p>
           <seg id="1">Worst Christmas special ever!</seg>
@@ -18985,7 +18985,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_3_5">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_3_5">
       <src lang="en">
         <p>
           <seg id="1">It Does The Job Well</seg>
@@ -19077,7 +19077,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_131_2">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_131_2">
       <src lang="en">
         <p>
           <seg id="1">DVD for Cats</seg>
@@ -19199,7 +19199,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.304478">
+    <doc origlang="en" domain="news" id="cnn.304478">
       <src lang="en">
         <p>
           <seg id="1">Sarah Palin cites Track Palin's PTSD at Donald Trump rally</seg>
@@ -19301,7 +19301,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_9_4">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_9_4">
       <src lang="en">
         <p>
           <seg id="1">A must have for any homeschooling classroom !</seg>
@@ -19403,7 +19403,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381679">
+    <doc origlang="en" domain="news" id="bbc.381679">
       <src lang="en">
         <p>
           <seg id="1">Deptford road crash: Cyclist dies in collision with car</seg>
@@ -19515,7 +19515,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_16_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_16_5">
       <src lang="en">
         <p>
           <seg id="1">Great math game for your little Star Wars fan</seg>
@@ -19587,7 +19587,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="scotsman.133783">
+    <doc origlang="en" domain="news" id="scotsman.133783">
       <src lang="en">
         <p>
           <seg id="1">Health secretary writes to EU workers at NHS Scotland over Brexit fears</seg>
@@ -19729,7 +19729,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_91_1">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_91_1">
       <src lang="en">
         <p>
           <seg id="1">Disappointing</seg>
@@ -19831,7 +19831,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_10_4">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_10_4">
       <src lang="en">
         <p>
           <seg id="1">Flexible hose as marketed....hope it lives up to the hipe!</seg>
@@ -19923,7 +19923,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="gateway-zh.135">
+    <doc origlang="en" domain="news" id="gateway-zh.135">
       <src lang="en">
         <p>
           <seg id="1">Matt de Grood shouldn't be punished because of schizophrenia stigma</seg>
@@ -20035,7 +20035,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_167_2">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_167_2">
       <src lang="en">
         <p>
           <seg id="1">Painful cramps with this......</seg>
@@ -20137,7 +20137,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_84_1">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_84_1">
       <src lang="en">
         <p>
           <seg id="1">Expensive junk</seg>
@@ -20219,7 +20219,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cbsnews.248484">
+    <doc origlang="en" domain="news" id="cbsnews.248484">
       <src lang="en">
         <p>
           <seg id="1">Almanac: The inventor of the Geiger Counter</seg>
@@ -20361,7 +20361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381760">
+    <doc origlang="en" domain="news" id="bbc.381760">
       <src lang="en">
         <p>
           <seg id="1">Man shot multiple times with air rifle in Ilfracombe</seg>
@@ -20463,7 +20463,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_40_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_40_1">
       <src lang="en">
         <p>
           <seg id="1">disappointed momma</seg>
@@ -20545,7 +20545,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cd+vinyl_107_2">
+    <doc origlang="en" domain="ecommerce" id="review_cd+vinyl_107_2">
       <src lang="en">
         <p>
           <seg id="1">Not worth the money</seg>
@@ -20647,7 +20647,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_1_4">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_1_4">
       <src lang="en">
         <p>
           <seg id="1">good version of a classic</seg>
@@ -20739,7 +20739,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_21_4">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_21_4">
       <src lang="en">
         <p>
           <seg id="1">Great pack!!</seg>
@@ -20801,7 +20801,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_2_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_2_5">
       <src lang="en">
         <p>
           <seg id="1">Love the game</seg>
@@ -20933,7 +20933,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="euronews-en.153797">
+    <doc origlang="en" domain="news" id="euronews-en.153797">
       <src lang="en">
         <p>
           <seg id="1">Indonesia earthquake tsunami: hundreds killed</seg>
@@ -21045,7 +21045,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_172_1">
+    <doc origlang="en" domain="ecommerce" id="review_books_172_1">
       <src lang="en">
         <p>
           <seg id="1">Kindle Sample</seg>
@@ -21147,7 +21147,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.306758">
+    <doc origlang="en" domain="news" id="abcnews.306758">
       <src lang="en">
         <p>
           <seg id="1">Mexico's AMLO vows not to use military against civilians</seg>
@@ -21249,7 +21249,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cbsnews.248471">
+    <doc origlang="en" domain="news" id="cbsnews.248471">
       <src lang="en">
         <p>
           <seg id="1">Lindsey Graham, John Kennedy tell "60 Minutes" whether the FBI's investigation of Kavanaugh could change their minds</seg>
@@ -21431,7 +21431,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_18_5">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_18_5">
       <src lang="en">
         <p>
           <seg id="1">Great flavor</seg>
@@ -21513,7 +21513,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_13_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_13_5">
       <src lang="en">
         <p>
           <seg id="1">AMAZING COMPANY</seg>
@@ -21575,7 +21575,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_3_4">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_3_4">
       <src lang="en">
         <p>
           <seg id="1">It's a punch, that's all.</seg>
@@ -21657,7 +21657,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_399_2">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_399_2">
       <src lang="en">
         <p>
           <seg id="1">Great sauce....if you have nothing else.</seg>
@@ -21729,7 +21729,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_13_5">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_13_5">
       <src lang="en">
         <p>
           <seg id="1">Absolutely love the case !!</seg>
@@ -21831,7 +21831,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.276702">
+    <doc origlang="en" domain="news" id="reuters.276702">
       <src lang="en">
         <p>
           <seg id="1">'How dare you?' Thunberg's U.N. speech inspires Dutch climate protesters</seg>
@@ -22003,7 +22003,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_187_1">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_187_1">
       <src lang="en">
         <p>
           <seg id="1">Nakedness not necessary!</seg>
@@ -22105,7 +22105,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_43_2">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_43_2">
       <src lang="en">
         <p>
           <seg id="1">Band Discoloration</seg>
@@ -22187,7 +22187,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_12_4">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_12_4">
       <src lang="en">
         <p>
           <seg id="1">the smell and color are different</seg>
@@ -22269,7 +22269,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_268_2">
+    <doc origlang="en" domain="ecommerce" id="review_books_268_2">
       <src lang="en">
         <p>
           <seg id="1">We all know the text, but</seg>
@@ -22371,7 +22371,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_587_1">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_587_1">
       <src lang="en">
         <p>
           <seg id="1">creepy elf - extras is like investing in skylanders or disney xfinity</seg>
@@ -22483,7 +22483,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_6_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_6_5">
       <src lang="en">
         <p>
           <seg id="1">Cute girly compact mirror</seg>
@@ -22605,7 +22605,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_toys-and-games_615_2">
+    <doc origlang="en" domain="ecommerce" id="review_toys-and-games_615_2">
       <src lang="en">
         <p>
           <seg id="1">I hate that these are so expensive</seg>
@@ -22677,7 +22677,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_40_1">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_40_1">
       <src lang="en">
         <p>
           <seg id="1">Broke extrememly fast, inconvenient.</seg>
@@ -22769,7 +22769,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_14_5">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_14_5">
       <src lang="en">
         <p>
           <seg id="1">COLORFUL, lighted, pocket magnifier-easy to find in a black purse!</seg>
@@ -22871,7 +22871,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_15_1">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_15_1">
       <src lang="en">
         <p>
           <seg id="1">Waste of $</seg>
@@ -22983,7 +22983,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_beauty_14_5">
+    <doc origlang="en" domain="ecommerce" id="review_beauty_14_5">
       <src lang="en">
         <p>
           <seg id="1">An excellent product</seg>
@@ -23055,7 +23055,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381735">
+    <doc origlang="en" domain="news" id="bbc.381735">
       <src lang="en">
         <p>
           <seg id="1">Long Lartin prison: Six officers hurt in disorder</seg>
@@ -23207,7 +23207,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_53_1">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_53_1">
       <src lang="en">
         <p>
           <seg id="1">If your package is orange &amp; black, then send it back.</seg>
@@ -23289,7 +23289,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_20_4">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_20_4">
       <src lang="en">
         <p>
           <seg id="1">Tastes great!</seg>
@@ -23391,7 +23391,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnbc.com.33999">
+    <doc origlang="en" domain="news" id="cnbc.com.33999">
       <src lang="en">
         <p>
           <seg id="1">The House voted Friday to block the national emergency declaration President Donald Trump is using to fund his proposed border wall.</seg>
@@ -23503,7 +23503,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_24_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_24_5">
       <src lang="en">
         <p>
           <seg id="1">A Worthy Version of A Christmas Carol</seg>
@@ -23595,7 +23595,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_112_1">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_112_1">
       <src lang="en">
         <p>
           <seg id="1">Not for use with silverware</seg>
@@ -23697,7 +23697,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_41_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_41_1">
       <src lang="en">
         <p>
           <seg id="1">Complete waste of time and money.......</seg>
@@ -23849,7 +23849,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_40_4">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_40_4">
       <src lang="en">
         <p>
           <seg id="1">Dual USB Port Car Charger</seg>
@@ -23941,7 +23941,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_health+care_110_1">
+    <doc origlang="en" domain="ecommerce" id="review_health+care_110_1">
       <src lang="en">
         <p>
           <seg id="1">Boo! Dead batteries!</seg>
@@ -24063,7 +24063,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_movies+TV_22_5">
+    <doc origlang="en" domain="ecommerce" id="review_movies+TV_22_5">
       <src lang="en">
         <p>
           <seg id="1">The best "Christmas Carol" story</seg>
@@ -24155,7 +24155,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cbsnews.248387">
+    <doc origlang="en" domain="news" id="cbsnews.248387">
       <src lang="en">
         <p>
           <seg id="1">Wayde Sims shooting: Police arrest suspect Dyteon Simpson in LSU player's death</seg>
@@ -24347,7 +24347,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="telegraph.405413">
+    <doc origlang="en" domain="news" id="telegraph.405413">
       <src lang="en">
         <p>
           <seg id="1">Brett Kavanaugh's future hangs in the balance as FBI begins investigation</seg>
@@ -24479,7 +24479,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_7_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_7_5">
       <src lang="en">
         <p>
           <seg id="1">Best racing game</seg>
@@ -24541,7 +24541,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_11_5">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_11_5">
       <src lang="en">
         <p>
           <seg id="1">Amazing!</seg>
@@ -24623,7 +24623,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_grocery+gourmet-food_16_4">
+    <doc origlang="en" domain="ecommerce" id="review_grocery+gourmet-food_16_4">
       <src lang="en">
         <p>
           <seg id="1">Not enough Matcha tea flavor for me ... (=_=)</seg>
@@ -24705,7 +24705,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_58_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_58_1">
       <src lang="en">
         <p>
           <seg id="1">Misleading</seg>
@@ -24787,7 +24787,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_pet_supplies_46_4">
+    <doc origlang="en" domain="ecommerce" id="review_pet_supplies_46_4">
       <src lang="en">
         <p>
           <seg id="1">An AWESOME reference guide for any groomer</seg>
@@ -24889,7 +24889,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.304489">
+    <doc origlang="en" domain="news" id="cnn.304489">
       <src lang="en">
         <p>
           <seg id="1">Trump says Kavanaugh 'suffered, the meanness, the anger' of the Democratic Party</seg>
@@ -25061,7 +25061,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_18_5">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_18_5">
       <src lang="en">
         <p>
           <seg id="1">fender 18 ft. Cali clear...</seg>
@@ -25143,7 +25143,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_54_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_54_1">
       <src lang="en">
         <p>
           <seg id="1">Civil war Game</seg>
@@ -25245,7 +25245,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnbc.com.6769">
+    <doc origlang="en" domain="news" id="cnbc.com.6769">
       <src lang="en">
         <p>
           <seg id="1">North Korea says nuclear disarmament won't come unless it can trust US</seg>
@@ -25387,7 +25387,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="euronews-en.153800">
+    <doc origlang="en" domain="news" id="euronews-en.153800">
       <src lang="en">
         <p>
           <seg id="1">Erdogan get mixed reception in Cologne</seg>
@@ -25519,7 +25519,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_28_4">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_28_4">
       <src lang="en">
         <p>
           <seg id="1">Solid Charger but RF noisy</seg>
@@ -25601,7 +25601,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_19_5">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_19_5">
       <src lang="en">
         <p>
           <seg id="1">Spectacular Book!</seg>
@@ -25713,7 +25713,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_64_2">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_64_2">
       <src lang="en">
         <p>
           <seg id="1">Loved it at first</seg>
@@ -25785,7 +25785,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_214_2">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_214_2">
       <src lang="en">
         <p>
           <seg id="1">Great art -- framing problem</seg>
@@ -25897,7 +25897,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_home+kitchen_96_2">
+    <doc origlang="en" domain="ecommerce" id="review_home+kitchen_96_2">
       <src lang="en">
         <p>
           <seg id="1">Okay but you can figure it out yourself without the book</seg>
@@ -25989,7 +25989,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_books_1_4">
+    <doc origlang="en" domain="ecommerce" id="review_books_1_4">
       <src lang="en">
         <p>
           <seg id="1">Show me the money!</seg>
@@ -26071,7 +26071,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_20_1">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_20_1">
       <src lang="en">
         <p>
           <seg id="1">Hurts my ears.</seg>
@@ -26163,7 +26163,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_patio+lawn+garden_19_5">
+    <doc origlang="en" domain="ecommerce" id="review_patio+lawn+garden_19_5">
       <src lang="en">
         <p>
           <seg id="1">Gilmour 8-ply Flexogen Hose 25 Foot</seg>
@@ -26245,7 +26245,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_video-games_17_5">
+    <doc origlang="en" domain="ecommerce" id="review_video-games_17_5">
       <src lang="en">
         <p>
           <seg id="1">Great game!</seg>
@@ -26327,7 +26327,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381692">
+    <doc origlang="en" domain="news" id="bbc.381692">
       <src lang="en">
         <p>
           <seg id="1">Bernard Vann: WW1 Victoria Cross cleric celebrated</seg>
@@ -26489,7 +26489,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="bbc.381647">
+    <doc origlang="en" domain="news" id="bbc.381647">
       <src lang="en">
         <p>
           <seg id="1">Kanye West: Rapper changes his name to Ye</seg>
@@ -26671,7 +26671,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_cell-phones+accessories_4_4">
+    <doc origlang="en" domain="ecommerce" id="review_cell-phones+accessories_4_4">
       <src lang="en">
         <p>
           <seg id="1">Cute!</seg>
@@ -26763,7 +26763,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_musical-instruments_17_4">
+    <doc origlang="en" domain="ecommerce" id="review_musical-instruments_17_4">
       <src lang="en">
         <p>
           <seg id="1">Durable Instrument Cable</seg>
@@ -26855,7 +26855,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.218933">
+    <doc origlang="en" domain="news" id="reuters.218933">
       <src lang="en">
         <p>
           <seg id="1">U.S. ambassador accuses China of 'bullying' with 'propaganda ads'</seg>
@@ -27007,7 +27007,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="independent.226349">
+    <doc origlang="en" domain="news" id="independent.226349">
       <src lang="en">
         <p>
           <seg id="1">Russian Grand Prix: Lewis Hamilton closes in on world title after team orders hand him win over Sebastian Vettel</seg>
@@ -27149,7 +27149,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cbsnews.248394">
+    <doc origlang="en" domain="news" id="cbsnews.248394">
       <src lang="en">
         <p>
           <seg id="1">Nancy Pelosi calls Brett Kavanaugh "hysterical," says he is unfit to serve on the Supreme Court</seg>
@@ -27341,7 +27341,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="reuters.218882">
+    <doc origlang="en" domain="news" id="reuters.218882">
       <src lang="en">
         <p>
           <seg id="1">British PM May accuses critics of 'playing politics' over Brexit</seg>
@@ -27423,7 +27423,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.306776">
+    <doc origlang="en" domain="news" id="abcnews.306776">
       <src lang="en">
         <p>
           <seg id="1">Analyst lays out timeline of night woman was burned alive</seg>
@@ -27605,7 +27605,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="seattle_times.7452">
+    <doc origlang="en" domain="news" id="seattle_times.7452">
       <src lang="en">
         <p>
           <seg id="1">French chemical fire extinguished as questions mount</seg>
@@ -27717,7 +27717,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="review_sports+outdoors_181_1">
+    <doc origlang="en" domain="ecommerce" id="review_sports+outdoors_181_1">
       <src lang="en">
         <p>
           <seg id="1">Very Cheaply made product.</seg>

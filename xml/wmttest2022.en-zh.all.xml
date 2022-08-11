@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <dataset id="wmttest2022">
   <collection id="general">
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-44_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-44_doc0">
       <src lang="en">
         <p>
           <seg id="1">I'm sorry that your order is running late.</seg>
@@ -108,7 +108,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_33">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_33">
       <src lang="en">
         <p>
           <seg id="1">Please note that if you pay for expedited shipping, the handling time for the order is still 3 business days.</seg>
@@ -575,7 +575,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="guardian.44758">
+    <doc origlang="en" domain="news" id="guardian.44758">
       <src lang="en">
         <p>
           <seg id="1">Libya: plan for presidential election on 24 December close to collapse</seg>
@@ -937,7 +937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rlke55">
+    <doc origlang="en" domain="social" id="t3_rlke55">
       <src lang="en">
         <p>
           <seg id="1">Android hardware Cleaning tip</seg>
@@ -1194,7 +1194,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="voa-en.714470">
+    <doc origlang="en" domain="news" id="voa-en.714470">
       <src lang="en">
         <p>
           <seg id="1">South Africa Pays Tribute to Last Apartheid Leader De Klerk</seg>
@@ -1541,7 +1541,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-162_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-162_doc0">
       <src lang="en">
         <p>
           <seg id="1">I'm unable to make any changes once the order has been placed however, when the rider leaves the restaurant you will be able to contact them through the app.</seg>
@@ -1648,7 +1648,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.53861">
+    <doc origlang="en" domain="news" id="abcnews.53861">
       <src lang="en">
         <p>
           <seg id="1">Avalanche at Washington state ski resort kills 1, traps 5</seg>
@@ -1980,7 +1980,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-01-31-3_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc0">
       <src lang="en">
         <p>
           <seg id="1">your account is anjahoehn.</seg>
@@ -2237,7 +2237,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-18_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-18_doc0">
       <src lang="en">
         <p>
           <seg id="1">Could you please try to make a purchase on the computer on the website.</seg>
@@ -2374,7 +2374,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_36">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_36">
       <src lang="en">
         <p>
           <seg id="1">Description Please scroll to the bottom of the listing for more pictures.</seg>
@@ -3066,7 +3066,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_10">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_10">
       <src lang="en">
         <p>
           <seg id="1">Dive into an immersive story encased in Black Desert's expansive world that's just waiting to be explored.</seg>
@@ -3503,7 +3503,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-02-07-7_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-7_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for the information.</seg>
@@ -3640,7 +3640,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-16_doc06">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-16_doc06">
       <src lang="en">
         <p>
           <seg id="1">The other thing you can try is to perform a factory reset to your device and then check if it gets detected by your computer</seg>
@@ -3882,7 +3882,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hqorx78">
+    <doc origlang="en" domain="social" id="t1_hqorx78">
       <src lang="en">
         <p>
           <seg id="1">Oh, so glad you asked, I have a lot to say about this.</seg>
@@ -4439,7 +4439,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rhxge7">
+    <doc origlang="en" domain="social" id="t3_rhxge7">
       <src lang="en">
         <p>
           <seg id="1">Hey r/Military!</seg>
@@ -4756,7 +4756,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-29_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc0">
       <src lang="en">
         <p>
           <seg id="1">You can also reset it from there.</seg>
@@ -4878,7 +4878,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_gw0jefs">
+    <doc origlang="en" domain="social" id="t1_gw0jefs">
       <src lang="en">
         <p>
           <seg id="1">I enjoy articles like this help untangle the convoluted web of sociopathic megalomaniac men that my dad glorified ad nauseam and the plurality of leaders he decried.</seg>
@@ -5105,7 +5105,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-57_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-57_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for taking the time to chat to me today.</seg>
@@ -5212,7 +5212,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-53_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-53_doc0">
       <src lang="en">
         <p>
           <seg id="1">Repairing your #PRS_ORG# account on eReader</seg>
@@ -5604,7 +5604,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_46">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_46">
       <src lang="en">
         <p>
           <seg id="1">Our concentrated combination of dedication and expertise benefits our customers.</seg>
@@ -5966,7 +5966,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-313_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-313_doc0">
       <src lang="en">
         <p>
           <seg id="1">I have checked here and it appears that the rider went there.</seg>
@@ -6088,7 +6088,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-27_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-27_doc0">
       <src lang="en">
         <p>
           <seg id="1">One moment, let me fix the files for you</seg>
@@ -6270,7 +6270,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="seattle_times.236488">
+    <doc origlang="en" domain="news" id="seattle_times.236488">
       <src lang="en">
         <p>
           <seg id="1">Sunday Best: Enter 1880s New York in HBO's "The Gilded Age"</seg>
@@ -6452,7 +6452,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_17">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_17">
       <src lang="en">
         <p>
           <seg id="1">All ordered items shipped within 3-5 working days after receiving payment confirmation through PayPal.</seg>
@@ -6739,7 +6739,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-44_doc00">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-44_doc00">
       <src lang="en">
         <p>
           <seg id="1">I tried calling the restaurand and also the rider but they were not able to response, I apologise.</seg>
@@ -6831,7 +6831,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_qdm51k">
+    <doc origlang="en" domain="social" id="t3_qdm51k">
       <src lang="en">
         <p>
           <seg id="1">Move the trailer!</seg>
@@ -7178,7 +7178,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-26_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-26_doc0">
       <src lang="en">
         <p>
           <seg id="1">You are reading the ebooks on the #PRS_ORG# ereader, right?</seg>
@@ -7360,7 +7360,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_43">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_43">
       <src lang="en">
         <p>
           <seg id="1">How long does it take for malware to infect your brand-new computer?</seg>
@@ -7677,7 +7677,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_30">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_30">
       <src lang="en">
         <p>
           <seg id="1">All our comics are sent bagged as standard.</seg>
@@ -8069,7 +8069,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-03-29_doc01">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-29_doc01">
       <src lang="en">
         <p>
           <seg id="1">We can try a manual reset</seg>
@@ -8296,7 +8296,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-47_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc0">
       <src lang="en">
         <p>
           <seg id="1">Change your font settings with the menu at the bottom:</seg>
@@ -8478,7 +8478,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-14_doc04">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-14_doc04">
       <src lang="en">
         <p>
           <seg id="1">If this is not working, please now, sign out and sign in back from your ereader</seg>
@@ -8660,7 +8660,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-11_doc09">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-11_doc09">
       <src lang="en">
         <p>
           <seg id="1">Thank you for the information.</seg>
@@ -8812,7 +8812,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-13-353_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-13-353_doc0">
       <src lang="en">
         <p>
           <seg id="1">Changing the address on the order is not possible, however this can be deliver to the new address.</seg>
@@ -8904,7 +8904,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="independent.80403">
+    <doc origlang="en" domain="news" id="independent.80403">
       <src lang="en">
         <p>
           <seg id="1">Family pays tribute to "energetic" 18-year-old stabbed to death in Birmingham</seg>
@@ -9251,7 +9251,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hoh4p6r">
+    <doc origlang="en" domain="social" id="t1_hoh4p6r">
       <src lang="en">
         <p>
           <seg id="1">An Alamo location in California pulled a similar scam on me.</seg>
@@ -9478,7 +9478,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-03-29_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-29_doc0">
       <src lang="en">
         <p>
           <seg id="1">I see, may I have your eReader software version</seg>
@@ -9645,7 +9645,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-370_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-370_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for sending the photo.</seg>
@@ -9752,7 +9752,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-02-21-7_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-02-21-7_doc0">
       <src lang="en">
         <p>
           <seg id="1">Just sign in to your account and wait till the sync is completed,  the books will be load on the #PRS_ORG# automatically.</seg>
@@ -9919,7 +9919,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_8">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_8">
       <src lang="en">
         <p>
           <seg id="1">Your Bought Item will be sent via Royal Mail or a national couriers company.</seg>
@@ -10521,7 +10521,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hpps2dz">
+    <doc origlang="en" domain="social" id="t1_hpps2dz">
       <src lang="en">
         <p>
           <seg id="1">&gt; Decoupling will need them to make sure their apps work on all different iOS versions.</seg>
@@ -10778,7 +10778,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-30_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-30_doc0">
       <src lang="en">
         <p>
           <seg id="1">please try to perfprm thsi procedures"</seg>
@@ -10945,7 +10945,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-25_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-25_doc0">
       <src lang="en">
         <p>
           <seg id="1">Allow me a moment to look for you</seg>
@@ -11067,7 +11067,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-256_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-256_doc0">
       <src lang="en">
         <p>
           <seg id="1">The rider assigned never showed up.</seg>
@@ -11174,7 +11174,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-296_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-296_doc0">
       <src lang="en">
         <p>
           <seg id="1">The order is extremely late and it shows here that our rider is already at the restaurant.</seg>
@@ -11296,7 +11296,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-21_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-21_doc0">
       <src lang="en">
         <p>
           <seg id="1">I am really sorry for the inconveniences, you can reply my email and I will gladly continue assisting you personally, or you can open a new interaction with us as you prefer, we are happy to help you.</seg>
@@ -11418,7 +11418,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="brisbanetimes.com.au.47160">
+    <doc origlang="en" domain="news" id="brisbanetimes.com.au.47160">
       <src lang="en">
         <p>
           <seg id="1">Gabba's double power failure explained and why it could happen again</seg>
@@ -11645,7 +11645,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-03-39_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-39_doc0">
       <src lang="en">
         <p>
           <seg id="1">For your information, I will be sending you a transcript of our conversation.</seg>
@@ -11737,7 +11737,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-24_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-24_doc0">
       <src lang="en">
         <p>
           <seg id="1">It was spilled by our rider accidentally.</seg>
@@ -11874,7 +11874,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-17-31_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-31_doc0">
       <src lang="en">
         <p>
           <seg id="1">There was nothing Von so long delivery time on your website</seg>
@@ -11996,7 +11996,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_r56ntu">
+    <doc origlang="en" domain="social" id="t3_r56ntu">
       <src lang="en">
         <p>
           <seg id="1">The dog that would not stop barking and how I got him to stop.</seg>
@@ -12553,7 +12553,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-34_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-34_doc0">
       <src lang="en">
         <p>
           <seg id="1">Go to your Home screen.</seg>
@@ -12735,7 +12735,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-221_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-221_doc0">
       <src lang="en">
         <p>
           <seg id="1">Checking here again,  I can see here that the rider accidentally marked the order as delivered.</seg>
@@ -12857,7 +12857,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-71_doc08">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc08">
       <src lang="en">
         <p>
           <seg id="1">Is the screen grayed out and you see a book cover?</seg>
@@ -12949,7 +12949,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="standard.co.uk.46814">
+    <doc origlang="en" domain="news" id="standard.co.uk.46814">
       <src lang="en">
         <p>
           <seg id="1">Liz Truss pledges another £75m in aid to Afghanistan at G7 meeting</seg>
@@ -13401,7 +13401,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-16_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-16_doc0">
       <src lang="en">
         <p>
           <seg id="1">The other thing we need you to try is to reset the USB ports in your computer.</seg>
@@ -13523,7 +13523,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_52">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_52">
       <src lang="en">
         <p>
           <seg id="1">When it comes to buying quality gear, a sleeping bag needs to be first on the list.</seg>
@@ -13960,7 +13960,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-61_doc05">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc05">
       <src lang="en">
         <p>
           <seg id="1">I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.</seg>
@@ -14037,7 +14037,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_ho5gymy">
+    <doc origlang="en" domain="social" id="t1_ho5gymy">
       <src lang="en">
         <p>
           <seg id="1">I was buying new tires.</seg>
@@ -14249,7 +14249,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-323_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-323_doc0">
       <src lang="en">
         <p>
           <seg id="1">The order was processed as a pick up order that means you chose it to be picked up by you.</seg>
@@ -14356,7 +14356,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2020-12-20-12_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2020-12-20-12_doc0">
       <src lang="en">
         <p>
           <seg id="1">I understand, but my colleague explained yesterday that we have to be in touch with the warehouse, this has been done for you - so we are awaiting the reply.</seg>
@@ -14463,7 +14463,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-17-12_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-12_doc0">
       <src lang="en">
         <p>
           <seg id="1">After that, please delete your authorization</seg>
@@ -14765,7 +14765,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-31-36_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-36_doc0">
       <src lang="en">
         <p>
           <seg id="1">No you wouldn't be able to enter an appointment date, you would need to place the order and we would then we can place the items on hold for you, we can place these on hold initially for three months</seg>
@@ -14887,7 +14887,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-46_doc08">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc08">
       <src lang="en">
         <p>
           <seg id="1">Ok, please do me the favour to follow the next steps&gt;</seg>
@@ -15099,7 +15099,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hmpp3wk">
+    <doc origlang="en" domain="social" id="t1_hmpp3wk">
       <src lang="en">
         <p>
           <seg id="1">I haven’t seen any comments from Australians yet, so I might as well say a few words.</seg>
@@ -15311,7 +15311,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hgehbqk">
+    <doc origlang="en" domain="social" id="t1_hgehbqk">
       <src lang="en">
         <p>
           <seg id="1">This is the thing people don't get.</seg>
@@ -15523,7 +15523,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-23_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-23_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for the information provided, I hope you are doing fine.</seg>
@@ -15660,7 +15660,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rte.en.ie.26277">
+    <doc origlang="en" domain="news" id="rte.en.ie.26277">
       <src lang="en">
         <p>
           <seg id="1">Russia warned of 'consequences' if Ukraine attacked</seg>
@@ -16082,7 +16082,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_13">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_13">
       <src lang="en">
         <p>
           <seg id="1">Plus Muscle Maintenance to support muscular structure and activity</seg>
@@ -16459,7 +16459,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_47">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_47">
       <src lang="en">
         <p>
           <seg id="1">Please use the “add to basket” function to combine your order, then checkout and pay as normal.</seg>
@@ -17286,7 +17286,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-60_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-60_doc0">
       <src lang="en">
         <p>
           <seg id="1">I am just checking this information for you, I won't be long</seg>
@@ -17378,7 +17378,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="independent.80454">
+    <doc origlang="en" domain="news" id="independent.80454">
       <src lang="en">
         <p>
           <seg id="1">Scholz, Polish prime minister discuss migration, energy, EU</seg>
@@ -17710,7 +17710,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rrv7a9">
+    <doc origlang="en" domain="social" id="t3_rrv7a9">
       <src lang="en">
         <p>
           <seg id="1">The Shuttlebays of the Enterprise-D</seg>
@@ -18012,7 +18012,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-40_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-40_doc0">
       <src lang="en">
         <p>
           <seg id="1">My apologies again for the inconvenience this has caused you.</seg>
@@ -18104,7 +18104,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2020-12-20-12_doc08">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2020-12-20-12_doc08">
       <src lang="en">
         <p>
           <seg id="1">Thank you - so this query is with warehouse as stated in yesterdays chat, we have to await the reply to the investigation.</seg>
@@ -18196,7 +18196,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-71_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc0">
       <src lang="en">
         <p>
           <seg id="1">I case the screen frozen one more time, please process this steps:</seg>
@@ -18438,7 +18438,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hqh0ref">
+    <doc origlang="en" domain="social" id="t1_hqh0ref">
       <src lang="en">
         <p>
           <seg id="1">I see it all the time in my line of work.</seg>
@@ -18815,7 +18815,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="news.com.au.33709">
+    <doc origlang="en" domain="news" id="news.com.au.33709">
       <src lang="en">
         <p>
           <seg id="1">Iowa Santa retires after 50 years</seg>
@@ -18937,7 +18937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-66_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-66_doc0">
       <src lang="en">
         <p>
           <seg id="1">To repair your account on the #PRS_ORG# app, please follow the steps indicated below:</seg>
@@ -19074,7 +19074,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_28">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_28">
       <src lang="en">
         <p>
           <seg id="1">Oriflame Optimals Hydra Radiance Hydrating Day Cream + Hydra Radiance Moisturising Night Cream- Normal/Combination Skin</seg>
@@ -19586,7 +19586,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-16_doc08">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-16_doc08">
       <src lang="en">
         <p>
           <seg id="1">I will be more than happy to assist you.</seg>
@@ -19723,7 +19723,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-17-31_doc00">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-31_doc00">
       <src lang="en">
         <p>
           <seg id="1">From which country do you deliver?</seg>
@@ -19845,7 +19845,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-03-65_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-03-65_doc0">
       <src lang="en">
         <p>
           <seg id="1">Regrettably the prices of the items are as they show online, we cannot change or reduce this for you</seg>
@@ -19982,7 +19982,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-13-353_doc03">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-13-353_doc03">
       <src lang="en">
         <p>
           <seg id="1">I try to call the rider but he does not understand me.</seg>
@@ -20074,7 +20074,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-01-31-6_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-6_doc0">
       <src lang="en">
         <p>
           <seg id="1">Which titles a re you missing?</seg>
@@ -20361,7 +20361,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-11_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-11_doc0">
       <src lang="en">
         <p>
           <seg id="1">For your information, I will be sending you a transcript of our conversation.</seg>
@@ -20483,7 +20483,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-29_doc01">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc01">
       <src lang="en">
         <p>
           <seg id="1">Even if you don't know your password you can create a new password by following the steps I sent.</seg>
@@ -20575,7 +20575,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_qxpw5l">
+    <doc origlang="en" domain="social" id="t3_qxpw5l">
       <src lang="en">
         <p>
           <seg id="1">How was the farewell to Etho was like?</seg>
@@ -21042,7 +21042,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-101_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-101_doc0">
       <src lang="en">
         <p>
           <seg id="1">I apologize but we are unable to change the address once it has been placed already.</seg>
@@ -21149,7 +21149,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-01-31-3_doc01">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc01">
       <src lang="en">
         <p>
           <seg id="1">did you sign out and sign in on your app?</seg>
@@ -21346,7 +21346,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_38">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_38">
       <src lang="en">
         <p>
           <seg id="1">The VP−730 is a 9−input scaler/switcher for analog video, digital video, balance stereo and S/PDIF audio signals.</seg>
@@ -21663,7 +21663,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-17-18_doc01">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-18_doc01">
       <src lang="en">
         <p>
           <seg id="1">Please follow the steps indicated below to perform a sync repair on your #PRS_ORG# (you will need a Wi-Fi connection before you start):</seg>
@@ -21830,7 +21830,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-55_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-55_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for your waiting time, I have checked the information into your account.</seg>
@@ -21937,7 +21937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_49">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_49">
       <src lang="en">
         <p>
           <seg id="1">This macro extension tube set can be transform your lens into a macro lens.</seg>
@@ -22509,7 +22509,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-01-10-6_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-01-10-6_doc0">
       <src lang="en">
         <p>
           <seg id="1">The next step  is to sign out on your device.</seg>
@@ -22616,7 +22616,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-47_doc02">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-47_doc02">
       <src lang="en">
         <p>
           <seg id="1">are you on a page of a book?</seg>
@@ -22738,7 +22738,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-37_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-37_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for taking the time to talk with me today and I hope I have managed to resolve your query, if you wouldn't mind rating our chat today based on my customer service skills I would really appreciate it, the rating button can be found on this chat.</seg>
@@ -22830,7 +22830,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-46_doc03">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc03">
       <src lang="en">
         <p>
           <seg id="1">Please keep tapping where the images are showing, are you able to see the images and follow where to tap?</seg>
@@ -22937,7 +22937,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hogip6m">
+    <doc origlang="en" domain="social" id="t1_hogip6m">
       <src lang="en">
         <p>
           <seg id="1">It was prior to 2018.</seg>
@@ -23209,7 +23209,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="parstoday-en.7787">
+    <doc origlang="en" domain="news" id="parstoday-en.7787">
       <src lang="en">
         <p>
           <seg id="1">French fishermen threaten to disrupt British imports in post-Brexit fishing row</seg>
@@ -23436,7 +23436,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_24">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_24">
       <src lang="en">
         <p>
           <seg id="1">Therefore, we are prepared to assist you with any questions or concerns you may have before placing an order or after you have received your order.</seg>
@@ -23708,7 +23708,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_h0856ek">
+    <doc origlang="en" domain="social" id="t1_h0856ek">
       <src lang="en">
         <p>
           <seg id="1">This stuff withers when exposed to any critical thought.</seg>
@@ -24085,7 +24085,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-71_doc07">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-71_doc07">
       <src lang="en">
         <p>
           <seg id="1">Is a regular feature that the device has, if you want to save more energy you can process this steps:</seg>
@@ -24282,7 +24282,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-50_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-50_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you for the information.</seg>
@@ -24434,7 +24434,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-24_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc0">
       <src lang="en">
         <p>
           <seg id="1">and ydo your first purchase from the #PRS_ORG# website</seg>
@@ -24601,7 +24601,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_26">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_26">
       <src lang="en">
         <p>
           <seg id="1">While we work to ensure that product information on our website is correct, on occasion manufacturers may alter their ingredient lists.</seg>
@@ -24828,7 +24828,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_9">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_9">
       <src lang="en">
         <p>
           <seg id="1">Samco Sport vacuum tubing is a pure silicone rubber hose, which is available in internal diameters (I.D) from 3mm to 9mm.</seg>
@@ -25115,7 +25115,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="egyptindependent.com.4763">
+    <doc origlang="en" domain="news" id="egyptindependent.com.4763">
       <src lang="en">
         <p>
           <seg id="1">Time is running out for Iran nuclear deal, Germany says</seg>
@@ -25432,7 +25432,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-28_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-28_doc0">
       <src lang="en">
         <p>
           <seg id="1">Good Afternoon, thank you for getting in contact with us today, you're through to #NAME#.</seg>
@@ -25524,7 +25524,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_3">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_3">
       <src lang="en">
         <p>
           <seg id="1">Please see the Payments and Postage tab for our current rates.</seg>
@@ -25856,7 +25856,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-21_doc01">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-21_doc01">
       <src lang="en">
         <p>
           <seg id="1">If they cannot find you they will surely call.</seg>
@@ -25948,7 +25948,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-5_doc05">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-5_doc05">
       <src lang="en">
         <p>
           <seg id="1">1.-Go to your Home screen.</seg>
@@ -26115,7 +26115,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-17-45_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-17-45_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thanks for contacting #PRS_ORG#, you are through to #NAME#</seg>
@@ -26207,7 +26207,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="metro.co.uk.11282">
+    <doc origlang="en" domain="news" id="metro.co.uk.11282">
       <src lang="en">
         <p>
           <seg id="1">Aston Villa latest Premier League club to suffer Covid outbreak</seg>
@@ -26419,7 +26419,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-46_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-46_doc0">
       <src lang="en">
         <p>
           <seg id="1">I know it is in chinese, you don't need to use your device's internal function nor the correct language to perform these last steps sent.</seg>
@@ -26556,7 +26556,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_41">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_41">
       <src lang="en">
         <p>
           <seg id="1">We offer nine types of posters:</seg>
@@ -26933,7 +26933,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hnc2lkg">
+    <doc origlang="en" domain="social" id="t1_hnc2lkg">
       <src lang="en">
         <p>
           <seg id="1">This is a different issue.</seg>
@@ -27205,7 +27205,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-21_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-21_doc0">
       <src lang="en">
         <p>
           <seg id="1">I can see here that there is no rider assigned yet to your order.</seg>
@@ -27312,7 +27312,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="smh.com.au.12471">
+    <doc origlang="en" domain="news" id="smh.com.au.12471">
       <src lang="en">
         <p>
           <seg id="1">Organisations on high alert as techs race to fix software flaw</seg>
@@ -27644,7 +27644,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-02-14-9_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-02-14-9_doc0">
       <src lang="en">
         <p>
           <seg id="1">Have a great day</seg>
@@ -27766,7 +27766,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hmmguds">
+    <doc origlang="en" domain="social" id="t1_hmmguds">
       <src lang="en">
         <p>
           <seg id="1">Yep…we guys all have guns.</seg>
@@ -27978,7 +27978,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="pr-newswire.16452">
+    <doc origlang="en" domain="news" id="pr-newswire.16452">
       <src lang="en">
         <p>
           <seg id="1">Missed Out on Shiba Inu?</seg>
@@ -28415,7 +28415,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hiyjod1">
+    <doc origlang="en" domain="social" id="t1_hiyjod1">
       <src lang="en">
         <p>
           <seg id="1">There's a circularity to it...</seg>
@@ -28627,7 +28627,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-01-31-3_doc05">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-01-31-3_doc05">
       <src lang="en">
         <p>
           <seg id="1">I am going to delete and add the book again and after you are going to troubleshoot your #PRS_ORG# app with 2 procedures to see if that solves the issue .</seg>
@@ -28959,7 +28959,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="express.co.uk.29378">
+    <doc origlang="en" domain="news" id="express.co.uk.29378">
       <src lang="en">
         <p>
           <seg id="1">A dream to keep all children safe this Christmas</seg>
@@ -29231,7 +29231,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en.ndtv.com.58686">
+    <doc origlang="en" domain="news" id="en.ndtv.com.58686">
       <src lang="en">
         <p>
           <seg id="1">Molecular Diagnosis Test Can Detect Omicron Variant In 20 Minutes: Report</seg>
@@ -29623,7 +29623,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rdc3rj">
+    <doc origlang="en" domain="social" id="t3_rdc3rj">
       <src lang="en">
         <p>
           <seg id="1">I told ya so....</seg>
@@ -29940,7 +29940,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-29_doc012">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-29_doc012">
       <src lang="en">
         <p>
           <seg id="1">Please visit the following link and follow the steps to create a new password</seg>
@@ -30032,7 +30032,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-17-18_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-18_doc0">
       <src lang="en">
         <p>
           <seg id="1">Great!!</seg>
@@ -30169,7 +30169,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_27">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_27">
       <src lang="en">
         <p>
           <seg id="1">Stainless Steel Made Straight, Razor Maintenance Made Easy With Replaceable Blades!</seg>
@@ -30591,7 +30591,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-20-24_doc04">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-20-24_doc04">
       <src lang="en">
         <p>
           <seg id="1">To update your payment information please follow these steps:</seg>
@@ -30758,7 +30758,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rpx2w7">
+    <doc origlang="en" domain="social" id="t3_rpx2w7">
       <src lang="en">
         <p>
           <seg id="1">Water heater temp and bath issue.</seg>
@@ -30970,7 +30970,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="parstoday-en.7759">
+    <doc origlang="en" domain="news" id="parstoday-en.7759">
       <src lang="en">
         <p>
           <seg id="1">Iran reports lowest number of daily COVID-19 cases in more than one year</seg>
@@ -31227,7 +31227,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-19_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-19_doc0">
       <src lang="en">
         <p>
           <seg id="1">You know what I understand you.</seg>
@@ -31334,7 +31334,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_q8vmve">
+    <doc origlang="en" domain="social" id="t3_q8vmve">
       <src lang="en">
         <p>
           <seg id="1">Free Training on CompTIA A+ | Will Cover Full Course</seg>
@@ -31546,7 +31546,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-241_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-241_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thanks for waiting.</seg>
@@ -31683,7 +31683,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-5_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-5_doc0">
       <src lang="en">
         <p>
           <seg id="1">I'm sorry but I don't see that you have sign in to your account, unless you have another account.</seg>
@@ -31775,7 +31775,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_7">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_7">
       <src lang="en">
         <p>
           <seg id="1">Front: 1 large pocket and 1 zipper pocket</seg>
@@ -32152,7 +32152,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hmhtjds">
+    <doc origlang="en" domain="social" id="t1_hmhtjds">
       <src lang="en">
         <p>
           <seg id="1">You know something.</seg>
@@ -32394,7 +32394,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-24-19_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-24-19_doc0">
       <src lang="en">
         <p>
           <seg id="1">You're welcome, one moment please.</seg>
@@ -32501,7 +32501,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rf6ys6">
+    <doc origlang="en" domain="social" id="t3_rf6ys6">
       <src lang="en">
         <p>
           <seg id="1">A Thief’s Pants Falls Down As He Attempts To Flee.</seg>
@@ -32758,7 +32758,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hq5yzno">
+    <doc origlang="en" domain="social" id="t1_hq5yzno">
       <src lang="en">
         <p>
           <seg id="1">I'm in HR and have worked payroll in the past.</seg>
@@ -33030,7 +33030,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-02_default_2021-02-07-1_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-02_default_2021-02-07-1_doc0">
       <src lang="en">
         <p>
           <seg id="1">I've done that several times, it doesn't work.</seg>
@@ -33182,7 +33182,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hkc5no1">
+    <doc origlang="en" domain="social" id="t1_hkc5no1">
       <src lang="en">
         <p>
           <seg id="1">Amazing.</seg>
@@ -33439,7 +33439,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-355_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-355_doc0">
       <src lang="en">
         <p>
           <seg id="1">I can see that you've ordered from a restaurant that does their own delivery.</seg>
@@ -33546,7 +33546,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-31-18_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-31-18_doc0">
       <src lang="en">
         <p>
           <seg id="1">Regrettably this is currently out of stock, I will just see if this is returning.</seg>
@@ -33653,7 +33653,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="guardian.44781">
+    <doc origlang="en" domain="news" id="guardian.44781">
       <src lang="en">
         <p>
           <seg id="1">Boris Johnson teeters on edge of favour with Tory MPs</seg>
@@ -33970,7 +33970,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-205_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-205_doc0">
       <src lang="en">
         <p>
           <seg id="1">As I can see here this rider came to your location at 12:39. he try to deliver this order until 12:52.</seg>
@@ -34077,7 +34077,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rt.com.18622">
+    <doc origlang="en" domain="news" id="rt.com.18622">
       <src lang="en">
         <p>
           <seg id="1">Long queues for Banksy's shirts supporting statue-toppling protesters</seg>
@@ -34349,7 +34349,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="pa.10292">
+    <doc origlang="en" domain="news" id="pa.10292">
       <src lang="en">
         <p>
           <seg id="1">Joe Biden Laments Failure to Stop Global Warming After Deadly Tornados</seg>
@@ -34801,7 +34801,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-60_doc01">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-60_doc01">
       <src lang="en">
         <p>
           <seg id="1">You can come back any time as our chat service window is open 24/7</seg>
@@ -34923,7 +34923,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-268_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-268_doc0">
       <src lang="en">
         <p>
           <seg id="1">I can see the details match.</seg>
@@ -35045,7 +35045,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="newsweek.17333">
+    <doc origlang="en" domain="news" id="newsweek.17333">
       <src lang="en">
         <p>
           <seg id="1">Wendy Rogers Calls New Zealand PM 'Lenin With Hair,' Claims 'Satanic Communists' in U.S.</seg>
@@ -35452,7 +35452,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-61_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-61_doc0">
       <src lang="en">
         <p>
           <seg id="1">Thank you, please bear with me a moment whilst I look into this for you</seg>
@@ -35544,7 +35544,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-17-9_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-9_doc0">
       <src lang="en">
         <p>
           <seg id="1">I understand would you please check if the ebook can open it?</seg>
@@ -35666,7 +35666,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_zh-TW_CLIENT-05_2020-12-20-109_doc0">
+    <doc origlang="en" domain="conversation" id="en_zh-TW_CLIENT-05_2020-12-20-109_doc0">
       <src lang="en">
         <p>
           <seg id="1">Please wait for the order, and you can report to us if ever food is not hot so we can help you.</seg>
@@ -35758,7 +35758,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="cnn.81799">
+    <doc origlang="en" domain="news" id="cnn.81799">
       <src lang="en">
         <p>
           <seg id="1">'Interview with the Vampire' author Anne Rice dies at age 80</seg>
@@ -35940,7 +35940,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rrrve5">
+    <doc origlang="en" domain="social" id="t3_rrrve5">
       <src lang="en">
         <p>
           <seg id="1">Apple Music Documents &amp; Data Storage Size</seg>
@@ -36152,7 +36152,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_44">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_44">
       <src lang="en">
         <p>
           <seg id="1">Norton Security Deluxe includes online access to expert help from certified Norton technicians.</seg>
@@ -36364,7 +36364,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_rmw6am">
+    <doc origlang="en" domain="social" id="t3_rmw6am">
       <src lang="en">
         <p>
           <seg id="1">Why were Skyler and Walt Jr. so annoyed with Walt working on the house in season 2?</seg>
@@ -36636,7 +36636,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="ecommerce_en_29">
+    <doc origlang="en" domain="ecommerce" id="ecommerce_en_29">
       <src lang="en">
         <p>
           <seg id="1">Deluxe Manual/ Battery Powered Vacuum Erection Penis Pump, manufactured by VVI Ltd England, allows you to get a handle on your erectile dysfunction, commonly known as ED.</seg>
@@ -36908,7 +36908,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-10-60_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-10-60_doc0">
       <src lang="en">
         <p>
           <seg id="1">OK, you can try performing a factory reset on your device to see if this fixes the problem.</seg>
@@ -37000,7 +37000,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hnwfutv">
+    <doc origlang="en" domain="social" id="t1_hnwfutv">
       <src lang="en">
         <p>
           <seg id="1">In some communities, the church provides a safe place for some persecuted social groups.</seg>
@@ -37212,7 +37212,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-17-31_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-17-31_doc0">
       <src lang="en">
         <p>
           <seg id="1">I am not familiar with Teleloading.</seg>
@@ -37334,7 +37334,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hofpuyp">
+    <doc origlang="en" domain="social" id="t1_hofpuyp">
       <src lang="en">
         <p>
           <seg id="1">I think it's possible (but I don't know) they were telling them it wasn't safe to drive.</seg>
@@ -37546,7 +37546,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_hqmpdbr">
+    <doc origlang="en" domain="social" id="t1_hqmpdbr">
       <src lang="en">
         <p>
           <seg id="1">Yes that means when I work out I really don’t care how many calories it burns, and I don’t change my numbers or macros because of how much I burned.</seg>
@@ -37758,7 +37758,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-11_doc03">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-11_doc03">
       <src lang="en">
         <p>
           <seg id="1">Can you please disconnect your eReader from the computer and try a factory reset?</seg>
@@ -37970,7 +37970,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_qle58z">
+    <doc origlang="en" domain="social" id="t3_qle58z">
       <src lang="en">
         <p>
           <seg id="1">PlanetJupiter finally left my office’s solar system</seg>
@@ -38332,7 +38332,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en.ndtv.com.58695">
+    <doc origlang="en" domain="news" id="en.ndtv.com.58695">
       <src lang="en">
         <p>
           <seg id="1">Assam Anti-CAA Outfits Pay Tributes To People Who Died During Protests</seg>
@@ -38664,7 +38664,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="dailymail.co.uk.54769">
+    <doc origlang="en" domain="news" id="dailymail.co.uk.54769">
       <src lang="en">
         <p>
           <seg id="1">This year's trend for a second Christmas tree in the bedroom sends sales of smaller spruces soaring</seg>
@@ -39026,7 +39026,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_de_CLIENT-01_default_2021-01-10-54_doc0">
+    <doc origlang="en" domain="conversation" id="en_de_CLIENT-01_default_2021-01-10-54_doc0">
       <src lang="en">
         <p>
           <seg id="1">I am afraid I would not be able to confirm the price of the bed until it is available on the website again as it was reduced in our winter sale it is likely this will not be the price of the article when it is added back to the website</seg>
@@ -39103,7 +39103,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2020-12-27-14_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2020-12-27-14_doc0">
       <src lang="en">
         <p>
           <seg id="1">Sorry for the inconveniences</seg>
@@ -39225,7 +39225,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rte.en.ie.26304">
+    <doc origlang="en" domain="news" id="rte.en.ie.26304">
       <src lang="en">
         <p>
           <seg id="1">Makeshift Munster crush Wasps in Champions Cup cracker</seg>
@@ -39572,7 +39572,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rt.com.18606">
+    <doc origlang="en" domain="news" id="rt.com.18606">
       <src lang="en">
         <p>
           <seg id="1">France reacts to rival offer of US frigates to Greece</seg>
@@ -39799,7 +39799,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t3_r43jsw">
+    <doc origlang="en" domain="social" id="t3_r43jsw">
       <src lang="en">
         <p>
           <seg id="1">Customer gets mad at me because I didn't know he needed help</seg>
@@ -40071,7 +40071,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="euronews-en.19225">
+    <doc origlang="en" domain="news" id="euronews-en.19225">
       <src lang="en">
         <p>
           <seg id="1">Heavy snowfall wreaks havoc in Serbia and much of Balkans</seg>
@@ -40403,7 +40403,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="t1_h6c5bhv">
+    <doc origlang="en" domain="social" id="t1_h6c5bhv">
       <src lang="en">
         <p>
           <seg id="1">We had power go out a couple of times.</seg>
@@ -40795,7 +40795,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="rt.com.18637">
+    <doc origlang="en" domain="news" id="rt.com.18637">
       <src lang="en">
         <p>
           <seg id="1">This Arab state plans to boost trade with Russia</seg>
@@ -41007,7 +41007,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="abcnews.53992">
+    <doc origlang="en" domain="news" id="abcnews.53992">
       <src lang="en">
         <p>
           <seg id="1">Dallas Cowboys bring benches to Washington, rivalry heats up</seg>
@@ -41279,7 +41279,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="stv.tv.1681">
+    <doc origlang="en" domain="news" id="stv.tv.1681">
       <src lang="en">
         <p>
           <seg id="1">Warning of stormy weather as strong winds present 'danger to life'</seg>
@@ -41581,7 +41581,7 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="en_fr_CLIENT-02_default_2021-01-03-49_doc0">
+    <doc origlang="en" domain="conversation" id="en_fr_CLIENT-02_default_2021-01-03-49_doc0">
       <src lang="en">
         <p>
           <seg id="1">Yes, I amopening the account</seg>
