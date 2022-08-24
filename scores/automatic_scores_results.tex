@@ -1,0 +1,468 @@
+\section{Automatic scores for General MT shared task}
+
+This document contains automatic scores calculated for the General MT submissions. While human judgement is going to be used as the official ranking of systems and their performance, you may want to use automatic scores in the discussion of your system description paper. Please, find the latex code for tables in \url{https://github.com/wmt-conference/wmt22-news-systems/tree/main/scores}.
+
+We use COMET \cite{rei-etal-2020-comet} as the primary metric while ChrF \cite{popovic-2015-chrf} as the secondary metric, following recommendation by \citep{kocmi-etal-2021-ship}.
+The COMET scores are calculated with the default model \texttt{wmt20-comet-da} different suffix represents the name of reference used for calculation.
+The ChrF scores are calculated using all available references and SacreBLEU signature is \texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}.
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-cs. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+               en-cs & Constrained &  COMET-B $\downarrow$ &  COMET-C &  ChrF-all \\
+\midrule
+            Online-W &             &                  97.8 &     79.3 &      70.4 \\
+            Online-B &             &                  97.5 &     76.6 &      71.3 \\
+       CUNI-Bergamot &  \checkmark &                  96.0 &     79.0 &      65.1 \\
+    JDExploreAcademy &  \checkmark &                  95.3 &     77.8 &      67.2 \\
+          Lan-Bridge &             &                  94.7 &     73.8 &      70.4 \\
+            Online-A &             &                  92.2 &     71.1 &      67.5 \\
+ CUNI-DocTransformer &  \checkmark &                  91.7 &     72.2 &      66.0 \\
+    CUNI-Transformer &  \checkmark &                  86.6 &     68.6 &      64.2 \\
+            Online-Y &             &                  83.7 &     62.3 &      64.5 \\
+            Online-G &             &                  82.3 &     61.5 &      64.6 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-de. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+            en-de & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+\midrule
+         Online-W &             &                  65.5 &     64.4 &      68.7 \\
+ JDExploreAcademy &  \checkmark &                  63.2 &     62.5 &      69.2 \\
+         Online-B &             &                  62.3 &     61.9 &      69.7 \\
+         Online-Y &             &                  61.1 &     60.9 &      68.7 \\
+         Online-A &             &                  60.6 &     60.0 &      68.8 \\
+         Online-G &             &                  60.2 &     59.3 &      68.4 \\
+       Lan-Bridge &             &                  58.8 &     58.3 &      69.1 \\
+          OpenNMT &             &                  57.2 &     57.0 &      66.7 \\
+            PROMT &             &                  55.8 &     55.3 &      67.5 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-hr. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+      en-hr & Constrained &  COMET-A $\downarrow$ &  COMET-stud &  ChrF-all \\
+\midrule
+   Online-B &             &                  80.4 &        77.6 &      63.8 \\
+ Lan-Bridge &             &                  79.6 &        76.7 &      63.7 \\
+   Online-A &             &                  69.5 &        67.1 &      61.7 \\
+      SRPOL &  \checkmark &                  69.4 &        67.6 &      61.4 \\
+  HuaweiTSC &  \checkmark &                  67.6 &        66.3 &      61.8 \\
+   NiuTrans &  \checkmark &                  65.5 &        63.4 &      61.5 \\
+   Online-G &             &                  64.2 &        63.0 &      57.8 \\
+   Online-Y &             &                  56.7 &        55.1 &      59.2 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-ja. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+            en-ja & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+ JDExploreAcademy &  \checkmark &                  65.1 &      36.1 \\
+              NT5 &             &                  64.1 &      36.8 \\
+        LanguageX &             &                  62.1 &      36.1 \\
+         Online-B &             &                  60.8 &      35.5 \\
+             DLUT &  \checkmark &                  60.5 &      36.1 \\
+         Online-W &             &                  59.8 &      35.2 \\
+         Online-Y &             &                  56.8 &      34.4 \\
+       Lan-Bridge &             &                  56.5 &      34.1 \\
+         Online-A &             &                  53.6 &      34.1 \\
+   NAIST-NICT-TIT &  \checkmark &                  53.3 &      33.8 \\
+        AISP-SJTU &  \checkmark &                  52.4 &      33.9 \\
+              KYB &  \checkmark &                  31.8 &      28.6 \\
+         Online-G &             &                  24.9 &      28.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-liv. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+    en-liv & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+  TartuNLP &             &                 -36.8 &      39.2 \\
+ HuaweiTSC &             &                 -38.9 &      37.7 \\
+  NiuTrans &  \checkmark &                 -81.9 &      30.5 \\
+  TAL-SJTU &             &                 -85.2 &      20.6 \\
+  Liv4ever &             &                 -91.2 &      19.2 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-ru. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+            en-ru & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+         Online-W &             &                  75.1 &      58.3 \\
+         Online-G &             &                  73.1 &      59.5 \\
+         Online-B &             &                  72.9 &      59.7 \\
+         Online-Y &             &                  69.8 &      58.3 \\
+ JDExploreAcademy &  \checkmark &                  69.6 &      58.4 \\
+       Lan-Bridge &             &                  67.3 &      59.0 \\
+         Online-A &             &                  67.3 &      58.1 \\
+            PROMT &             &                  60.3 &      56.1 \\
+            SRPOL &  \checkmark &                  59.7 &      56.4 \\
+        HuaweiTSC &  \checkmark &                  59.2 &      56.1 \\
+     eTranslation &  \checkmark &                  57.9 &      55.8 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-uk. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+        en-uk & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+     Online-B &             &                  73.2 &      59.3 \\
+     Online-G &             &                  69.9 &      57.2 \\
+   Lan-Bridge &             &                  65.7 &      58.8 \\
+     Online-A &             &                  60.9 &      56.0 \\
+ eTranslation &  \checkmark &                  54.5 &      54.8 \\
+    HuaweiTSC &  \checkmark &                  54.4 &      54.8 \\
+     Online-Y &             &                  51.9 &      54.9 \\
+     ARC-NKUA &             &                  49.2 &      54.0 \\
+        PROMT &             &                  48.5 &      53.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for en-zh. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+            en-zh & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+\midrule
+        LanguageX &             &                  63.8 &     71.5 &      59.5 \\
+         Online-B &             &                  61.8 &     80.4 &      70.3 \\
+ JDExploreAcademy &  \checkmark &                  61.7 &     70.6 &      55.8 \\
+       Lan-Bridge &             &                  61.4 &     69.4 &      53.7 \\
+         Online-W &             &                  61.0 &     69.5 &      51.4 \\
+         Manifold &  \checkmark &                  60.1 &     71.2 &      57.7 \\
+         Online-Y &             &                  59.7 &     71.7 &      57.0 \\
+        HuaweiTSC &             &                  59.5 &     73.1 &      61.0 \\
+         Online-A &             &                  57.3 &     70.1 &      58.1 \\
+        AISP-SJTU &  \checkmark &                  56.5 &     66.6 &      55.4 \\
+             DLUT &  \checkmark &                  52.1 &     63.0 &      53.1 \\
+         Online-G &             &                  51.2 &     62.5 &      52.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for cs-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+               cs-en & Constrained &  COMET-B $\downarrow$ &  COMET-C &  ChrF-all \\
+\midrule
+            Online-W &             &                  77.5 &     45.6 &      79.7 \\
+    JDExploreAcademy &  \checkmark &                  74.7 &     49.0 &      75.0 \\
+          Lan-Bridge &             &                  71.8 &     47.2 &      74.6 \\
+            Online-B &             &                  71.8 &     47.4 &      74.5 \\
+ CUNI-DocTransformer &  \checkmark &                  70.6 &     45.3 &      73.0 \\
+            Online-A &             &                  69.8 &     44.3 &      74.1 \\
+    CUNI-Transformer &  \checkmark &                  69.2 &     43.2 &      72.4 \\
+            Online-G &             &                  63.0 &     38.8 &      71.1 \\
+         SHOPLINE-PL &  \checkmark &                  61.1 &     39.6 &      70.1 \\
+            Online-Y &             &                  58.6 &     35.2 &      68.8 \\
+      ALMAnaCH-Inria &  \checkmark &                  19.3 &      4.9 &      58.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for de-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+            de-en & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+\midrule
+ JDExploreAcademy &  \checkmark &                  58.0 &     63.5 &      65.8 \\
+         Online-B &             &                  56.9 &     63.6 &      65.7 \\
+       Lan-Bridge &             &                  56.5 &     63.6 &      66.2 \\
+         Online-G &             &                  55.2 &     61.7 &      66.3 \\
+         Online-Y &             &                  54.6 &     61.4 &      65.7 \\
+         Online-A &             &                  54.5 &     62.2 &      66.4 \\
+         Online-W &             &                  54.3 &     61.7 &      65.4 \\
+            PROMT &             &                  51.8 &     59.4 &      65.6 \\
+             LT22 &  \checkmark &                  25.6 &     33.3 &      58.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for ja-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+            ja-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+              NT5 &             &                  42.0 &      51.3 \\
+         Online-W &             &                  41.2 &      51.7 \\
+ JDExploreAcademy &  \checkmark &                  40.6 &      50.1 \\
+         Online-B &             &                  39.6 &      49.9 \\
+             DLUT &  \checkmark &                  37.2 &      49.8 \\
+   NAIST-NICT-TIT &  \checkmark &                  33.4 &      48.3 \\
+         Online-A &             &                  32.9 &      48.4 \\
+        LanguageX &             &                  32.9 &      49.1 \\
+         Online-Y &             &                  32.3 &      48.2 \\
+       Lan-Bridge &             &                  31.9 &      48.7 \\
+        AISP-SJTU &  \checkmark &                  30.1 &      48.0 \\
+         Online-G &             &                  22.3 &      45.7 \\
+              KYB &  \checkmark &                  17.3 &      43.4 \\
+             AIST &             &                -152.7 &      11.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for liv-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+    liv-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+  TartuNLP &             &                  -5.8 &      53.5 \\
+ HuaweiTSC &             &                 -27.3 &      48.4 \\
+  NiuTrans &  \checkmark &                 -88.3 &      35.6 \\
+  TAL-SJTU &             &                -131.7 &      15.8 \\
+  Liv4ever &             &                -134.8 &      16.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for ru-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+            ru-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+         Online-G &             &                  65.1 &      70.0 \\
+ JDExploreAcademy &  \checkmark &                  64.9 &      68.9 \\
+         Online-Y &             &                  64.1 &      68.2 \\
+       Lan-Bridge &             &                  63.1 &      68.5 \\
+         Online-B &             &                  63.1 &      68.3 \\
+         Online-A &             &                  62.2 &      68.3 \\
+         Online-W &             &                  61.6 &      66.3 \\
+        HuaweiTSC &  \checkmark &                  60.9 &      68.5 \\
+            SRPOL &  \checkmark &                  59.5 &      67.2 \\
+            PROMT &             &                  59.3 &      67.3 \\
+   ALMAnaCH-Inria &  \checkmark &                  26.8 &      57.9 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for uk-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+          uk-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+       Online-B &             &                  62.5 &      67.2 \\
+     Lan-Bridge &             &                  62.4 &      67.3 \\
+       Online-G &             &                  57.4 &      66.0 \\
+       Online-A &             &                  52.1 &      65.2 \\
+      HuaweiTSC &  \checkmark &                  50.1 &      63.9 \\
+       Online-Y &             &                  49.8 &      64.6 \\
+          PROMT &             &                  49.6 &      64.7 \\
+       ARC-NKUA &             &                  49.6 &      64.6 \\
+ ALMAnaCH-Inria &  \checkmark &                  21.8 &      55.6 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for zh-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrrr}
+\toprule
+            zh-en & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+\midrule
+         Online-G &             &                  45.6 &     36.2 &      60.9 \\
+ JDExploreAcademy &  \checkmark &                  45.1 &     35.2 &      62.4 \\
+        LanguageX &             &                  44.9 &     35.3 &      61.7 \\
+       Lan-Bridge &             &                  43.0 &     34.0 &      59.1 \\
+        HuaweiTSC &             &                  42.8 &     33.5 &      59.6 \\
+         Online-B &             &                  42.1 &     32.8 &      59.4 \\
+        AISP-SJTU &  \checkmark &                  41.6 &     32.8 &      60.5 \\
+         Online-Y &             &                  40.8 &     31.0 &      58.6 \\
+         Online-A &             &                  35.2 &     26.0 &      58.4 \\
+         Online-W &             &                  31.6 &     23.1 &      55.6 \\
+         NiuTrans &  \checkmark &                  31.3 &     22.3 &      57.2 \\
+             DLUT &  \checkmark &                  30.6 &     22.0 &      56.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for cs-uk. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+             cs-uk & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+               AMU &  \checkmark &                  99.4 &      61.5 \\
+          Online-B &             &                  94.3 &      64.0 \\
+        Lan-Bridge &             &                  91.8 &      64.0 \\
+ CharlesTranslator &             &                  90.8 &      61.5 \\
+         HuaweiTSC &  \checkmark &                  90.7 &      62.6 \\
+          Online-G &             &                  88.3 &      60.8 \\
+          Online-A &             &                  87.8 &      62.2 \\
+  CUNI-Transformer &  \checkmark &                  87.3 &      61.6 \\
+          Online-Y &             &                  78.4 &      59.6 \\
+    ALMAnaCH-Inria &  \checkmark &                  61.3 &      54.5 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for de-fr. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+    de-fr & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+ Online-B &             &                  70.5 &      74.6 \\
+ Online-W &             &                  63.6 &      65.5 \\
+ Online-Y &             &                  57.8 &      66.8 \\
+ Online-A &             &                  52.2 &      64.5 \\
+ Online-G &             &                  44.8 &      62.7 \\
+     LT22 &  \checkmark &                  10.4 &      54.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for fr-de. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+        fr-de & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+     Online-W &             &                  77.9 &      81.2 \\
+     Online-B &             &                  63.7 &      68.7 \\
+     Online-Y &             &                  61.6 &      67.5 \\
+     Online-A &             &                  59.2 &      67.2 \\
+ eTranslation &  \checkmark &                  55.4 &      68.4 \\
+   Lan-Bridge &             &                  51.1 &      65.0 \\
+     Online-G &             &                  48.2 &      66.0 \\
+        PROMT &             &                  47.8 &      66.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for ru-sah. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+     ru-sah & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+   Online-G &             &                 -17.1 &      47.0 \\
+ Lan-Bridge &  \checkmark &                -124.3 &      11.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for sah-ru. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+     sah-ru & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+   Online-G &             &                  31.1 &      55.5 \\
+ Lan-Bridge &  \checkmark &                 -75.9 &      28.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\begin{table}
+\centering
+\caption{Automatic scores for uk-cs. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{lcrr}
+\toprule
+             uk-cs & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+\midrule
+               AMU &  \checkmark &                 104.8 &      60.7 \\
+          Online-B &             &                  96.5 &      60.3 \\
+        Lan-Bridge &             &                  94.5 &      60.4 \\
+         HuaweiTSC &  \checkmark &                  91.4 &      59.6 \\
+ CharlesTranslator &             &                  90.2 &      59.0 \\
+  CUNI-Transformer &  \checkmark &                  88.5 &      59.0 \\
+          Online-A &             &                  85.4 &      57.5 \\
+          Online-G &             &                  84.2 &      56.3 \\
+          Online-Y &             &                  78.6 &      55.3 \\
+    ALMAnaCH-Inria &  \checkmark &                  62.4 &      50.7 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
