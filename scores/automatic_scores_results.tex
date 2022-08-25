@@ -3,8 +3,10 @@
 This document contains automatic scores calculated for the General MT submissions. While human judgement is going to be used as the official ranking of systems and their performance, you may want to use automatic scores in the discussion of your system description paper. Please, find the TEX source for tables in \url{https://github.com/wmt-conference/wmt22-news-systems/tree/main/scores}.
 
 We use COMET \cite{rei-etal-2020-comet} as the primary metric while ChrF \cite{popovic-2015-chrf} as the secondary metric, following recommendation by \citep{kocmi-etal-2021-ship}.
-The COMET scores are calculated with the default model \texttt{wmt20-comet-da} different suffix represents the name of reference used for calculation.
+The COMET scores are calculated with the default model \texttt{wmt20-comet-da}.
 The ChrF scores are calculated using all available references and SacreBLEU signature \cite{post-2018-call} is \texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}.
+
+The different suffix represents the name of reference used for calculation (A, B, C, stud), references has been translated by different translators but with the same sponsor. A notable difference is Czech-English, where we are missing reference "A" for it's low quality, which was partly corrected and placed under "C". The second exception is Croatian reference "stud" which was created by students in contrast to "A" prepared by professionals. Lastly, testsets liv-en and ru-sah are reverse testsets to their oposite counterparts (i. e. "en" and "sah" are orifinal sources)
 
 
 \begin{table}
@@ -106,11 +108,11 @@ The ChrF scores are calculated using all available references and SacreBLEU sign
 \toprule
     en-liv & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
 \midrule
+  TAL-SJTU &             &                 -29.5 &      43.8 \\
   TartuNLP &             &                 -36.8 &      39.2 \\
  HuaweiTSC &             &                 -38.9 &      37.7 \\
+  Liv4ever &             &                 -39.4 &      39.6 \\
   NiuTrans &  \checkmark &                 -81.9 &      30.5 \\
-  TAL-SJTU &             &                 -85.2 &      20.6 \\
-  Liv4ever &             &                 -91.2 &      19.2 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -156,7 +158,6 @@ The ChrF scores are calculated using all available references and SacreBLEU sign
     HuaweiTSC &  \checkmark &                  54.4 &      54.8 \\
      Online-Y &             &                  51.9 &      54.9 \\
      ARC-NKUA &             &                  49.2 &      54.0 \\
-        PROMT &             &                  48.5 &      53.4 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -295,7 +296,6 @@ The ChrF scores are calculated using all available references and SacreBLEU sign
          Online-W &             &                  61.6 &      66.3 \\
         HuaweiTSC &  \checkmark &                  60.9 &      68.5 \\
             SRPOL &  \checkmark &                  59.5 &      67.2 \\
-            PROMT &             &                  59.3 &      67.3 \\
    ALMAnaCH-Inria &  \checkmark &                  26.8 &      57.9 \\
 \bottomrule
 \end{tabular}
@@ -407,7 +407,6 @@ The ChrF scores are calculated using all available references and SacreBLEU sign
  eTranslation &  \checkmark &                  55.4 &      68.4 \\
    Lan-Bridge &             &                  51.1 &      65.0 \\
      Online-G &             &                  48.2 &      66.0 \\
-        PROMT &             &                  47.8 &      66.0 \\
 \bottomrule
 \end{tabular}
 \end{table}

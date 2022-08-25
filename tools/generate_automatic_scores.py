@@ -16,8 +16,10 @@ pairs = sorted(pairs, key=lambda x: (0 if "-en" in x else (-1 if "en-" in x else
 results_file.write('\\section{Automatic scores for General MT shared task}\n\n'
 'This document contains automatic scores calculated for the General MT submissions. While human judgement is going to be used as the official ranking of systems and their performance, you may want to use automatic scores in the discussion of your system description paper. Please, find the TEX source for tables in \\url{https://github.com/wmt-conference/wmt22-news-systems/tree/main/scores}.\n\n'
 'We use COMET \\cite{rei-etal-2020-comet} as the primary metric while ChrF \\cite{popovic-2015-chrf} as the secondary metric, following recommendation by \\citep{kocmi-etal-2021-ship}.\n'
-'The COMET scores are calculated with the default model \\texttt{wmt20-comet-da} different suffix represents the name of reference used for calculation.\n'
-'The ChrF scores are calculated using all available references and SacreBLEU signature \\cite{post-2018-call} is \\texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}.\n\n\n')
+'The COMET scores are calculated with the default model \\texttt{wmt20-comet-da}.\n'
+'The ChrF scores are calculated using all available references and SacreBLEU signature \\cite{post-2018-call} is \\texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}.\n\n'
+'The different suffix represents the name of reference used for calculation (A, B, C, stud), references has been translated by different translators but with the same sponsor. A notable difference is Czech-English, where we are missing reference "A" for it\'s low quality, which was partly corrected and placed under "C". The second exception is Croatian reference "stud" which was created by students in contrast to "A" prepared by professionals. Lastly, testsets liv-en and ru-sah are reverse testsets to their oposite counterparts (i. e. "en" and "sah" are orifinal sources)'
+'\n\n\n')
 
 for pair in pairs:
     df = all_scores[all_scores['pair'] == pair]
