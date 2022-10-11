@@ -2620,20 +2620,6 @@
         </p>
       </hyp>
     </doc>
-    <doc origlang="en" id="420">
-      <src lang="liv" translator="A">
-        <p/>
-      </src>
-    <hyp system="Liv4ever" lang="en"><p/></hyp><hyp system="TAL-SJTU" lang="en"><p/></hyp><hyp system="TartuNLP" lang="en">
-        <p/>
-      </hyp>
-    <hyp system="NiuTrans" lang="en">
-        <p/>
-      </hyp>
-    <hyp system="HuaweiTSC" lang="en">
-        <p/>
-      </hyp>
-    </doc>
     <doc origlang="en" id="298">
       <src lang="liv" translator="A">
         <p>
