@@ -52,7 +52,7 @@ for pair in pairs:
     table = table.rename({"system": pair, "is_constrained": "Constrained"}, axis=1)
     # sort by first metric
     table.sort_values(first_metric, ascending=False, inplace=True)
-    table.rename({first_metric: first_metric + " $\downarrow$", 'chrf-all': 'ChrF-all'}, axis=1, inplace=True)
+    table.rename({first_metric: first_metric + " $\uparrow$", 'chrf-all': 'ChrF-all'}, axis=1, inplace=True)
 
     
     table.to_latex(results_file, 
