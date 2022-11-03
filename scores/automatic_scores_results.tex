@@ -1,31 +1,37 @@
+\usepackage{colortbl}
+\usepackage{booktabs}
+\def\Const{\rowcolor{white}}
+\def\UnCon{\rowcolor{lightgray}}
+
 \section{Automatic scores for General MT shared task}
 
 This document contains automatic scores calculated for the General MT submissions. While human judgement is going to be used as the official ranking of systems and their performance, you may want to use automatic scores in the discussion of your system description paper. Please, find the TEX source for tables in \url{https://github.com/wmt-conference/wmt22-news-systems/tree/main/scores}.
 
 We use COMET \cite{rei-etal-2020-comet} as the primary metric while ChrF \cite{popovic-2015-chrf} as the secondary metric, following recommendation by \citep{kocmi-etal-2021-ship}.
 The COMET scores are calculated with the default model \texttt{wmt20-comet-da}.
-The ChrF scores are calculated using all available references and SacreBLEU signature \cite{post-2018-call} is \texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}.
+The ChrF scores are calculated using all available references and SacreBLEU signature \cite{post-2018-call} is \texttt{chrF2|nrefs:all|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.0.0}. 
+Scores are multiplied by 100.
 
-The different suffix represents the name of reference used for calculation (A, B, C, stud), references has been translated by different translators but with the same sponsor. A notable difference is Czech-English, where we are missing reference "A" for it's low quality, which was partly corrected and placed under "C". The second exception is Croatian reference "stud" which was created by students in contrast to "A" prepared by professionals. Lastly, testsets liv-en and ru-sah are reverse testsets to their oposite counterparts (i. e. "en" and "sah" are orifinal sources)
+The different suffix represents the name of reference used for calculation (A, B, C, stud), references has been translated by different translators but with the same sponsor. A notable difference is Czech-English, where we are missing reference "A" for it's low quality, which was partly corrected and placed under "C". The second exception is Croatian reference "stud" which was created by students in contrast to "A" prepared by professionals. Lastly, testsets liv-en and ru-sah are reverse testsets to their opposite counterparts (i. e. "en" and "sah" are original sources)
 
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-cs. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for en-cs. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-               en-cs & Constrained &  COMET-B $\downarrow$ &  COMET-C &  ChrF-all \\
+          &               System &  COMET$_{B}$ $\uparrow$ &  COMET$_{C}$ &  ChrF$_{all}$ \\
 \midrule
-            Online-W &             &                  97.8 &     79.3 &      70.4 \\
-            Online-B &             &                  97.5 &     76.6 &      71.3 \\
-       CUNI-Bergamot &  \checkmark &                  96.0 &     79.0 &      65.1 \\
-    JDExploreAcademy &  \checkmark &                  95.3 &     77.8 &      67.2 \\
-          Lan-Bridge &             &                  94.7 &     73.8 &      70.4 \\
-            Online-A &             &                  92.2 &     71.1 &      67.5 \\
- CUNI-DocTransformer &  \checkmark &                  91.7 &     72.2 &      66.0 \\
-    CUNI-Transformer &  \checkmark &                  86.6 &     68.6 &      64.2 \\
-            Online-Y &             &                  83.7 &     62.3 &      64.5 \\
-            Online-G &             &                  82.3 &     61.5 &      64.6 \\
+ \Uncon{} &             Online-W &                    97.8 &         79.3 &          70.4 \\
+ \Uncon{} &             Online-B &                    97.5 &         76.6 &          71.3 \\
+ \Const{} &        CUNI-Bergamot &                    96.0 &         79.0 &          65.1 \\
+ \Const{} &     JDExploreAcademy &                    95.3 &         77.8 &          67.2 \\
+ \Uncon{} &           Lan-Bridge &                    94.7 &         73.8 &          70.4 \\
+ \Uncon{} &             Online-A &                    92.2 &         71.1 &          67.5 \\
+ \Const{} &  CUNI-DocTransformer &                    91.7 &         72.2 &          66.0 \\
+ \Const{} &     CUNI-Transformer &                    86.6 &         68.6 &          64.2 \\
+ \Uncon{} &             Online-Y &                    83.7 &         62.3 &          64.5 \\
+ \Uncon{} &             Online-G &                    82.3 &         61.5 &          64.6 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -34,20 +40,20 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-de. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for en-de. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-            en-de & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  COMET$_{B}$ &  ChrF$_{all}$ \\
 \midrule
-         Online-W &             &                  65.5 &     64.4 &      68.7 \\
- JDExploreAcademy &  \checkmark &                  63.2 &     62.5 &      69.2 \\
-         Online-B &             &                  62.3 &     61.9 &      69.7 \\
-         Online-Y &             &                  61.1 &     60.9 &      68.7 \\
-         Online-A &             &                  60.6 &     60.0 &      68.8 \\
-         Online-G &             &                  60.2 &     59.3 &      68.4 \\
-       Lan-Bridge &             &                  58.8 &     58.3 &      69.1 \\
-          OpenNMT &             &                  57.2 &     57.0 &      66.7 \\
-            PROMT &             &                  55.8 &     55.3 &      67.5 \\
+ \Uncon{} &          Online-W &                    65.5 &         64.4 &          68.7 \\
+ \Const{} &  JDExploreAcademy &                    63.2 &         62.5 &          69.2 \\
+ \Uncon{} &          Online-B &                    62.3 &         61.9 &          69.7 \\
+ \Uncon{} &          Online-Y &                    61.1 &         60.9 &          68.7 \\
+ \Uncon{} &          Online-A &                    60.6 &         60.0 &          68.8 \\
+ \Uncon{} &          Online-G &                    60.2 &         59.3 &          68.4 \\
+ \Uncon{} &        Lan-Bridge &                    58.8 &         58.3 &          69.1 \\
+ \Uncon{} &           OpenNMT &                    57.2 &         57.0 &          66.7 \\
+ \Uncon{} &             PROMT &                    55.8 &         55.3 &          67.5 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -56,20 +62,20 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-hr. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for en-hr. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-      en-hr & Constrained &  COMET-A $\downarrow$ &  COMET-stud &  ChrF-all \\
+          &      System &  COMET$_{A}$ $\uparrow$ &  COMET$_{stud}$ &  ChrF$_{all}$ \\
 \midrule
-   Online-B &             &                  80.4 &        77.6 &      63.8 \\
- Lan-Bridge &             &                  79.6 &        76.7 &      63.7 \\
-      GTCOM &             &                  77.4 &        74.7 &      63.3 \\
-   Online-A &             &                  69.5 &        67.1 &      61.7 \\
-      SRPOL &  \checkmark &                  69.4 &        67.6 &      61.4 \\
-  HuaweiTSC &  \checkmark &                  67.6 &        66.3 &      61.8 \\
-   NiuTrans &  \checkmark &                  65.5 &        63.4 &      61.5 \\
-   Online-G &             &                  64.2 &        63.0 &      57.8 \\
-   Online-Y &             &                  56.7 &        55.1 &      59.2 \\
+ \Uncon{} &    Online-B &                    80.4 &            77.6 &          63.8 \\
+ \Uncon{} &  Lan-Bridge &                    79.6 &            76.7 &          63.7 \\
+ \Uncon{} &       GTCOM &                    77.4 &            74.7 &          63.3 \\
+ \Uncon{} &    Online-A &                    69.5 &            67.1 &          61.7 \\
+ \Const{} &       SRPOL &                    69.4 &            67.6 &          61.4 \\
+ \Const{} &   HuaweiTSC &                    67.6 &            66.3 &          61.8 \\
+ \Const{} &    NiuTrans &                    65.5 &            63.4 &          61.5 \\
+ \Uncon{} &    Online-G &                    64.2 &            63.0 &          57.8 \\
+ \Uncon{} &    Online-Y &                    56.7 &            55.1 &          59.2 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -78,24 +84,24 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-ja. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for en-ja. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-            en-ja & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
- JDExploreAcademy &  \checkmark &                  65.1 &      36.1 \\
-              NT5 &  \checkmark &                  64.1 &      36.8 \\
-        LanguageX &             &                  62.1 &      36.1 \\
-         Online-B &             &                  60.8 &      35.5 \\
-             DLUT &  \checkmark &                  60.5 &      36.1 \\
-         Online-W &             &                  59.8 &      35.2 \\
-         Online-Y &             &                  56.8 &      34.4 \\
-       Lan-Bridge &             &                  56.5 &      34.1 \\
-         Online-A &             &                  53.6 &      34.1 \\
-   NAIST-NICT-TIT &  \checkmark &                  53.3 &      33.8 \\
-        AISP-SJTU &  \checkmark &                  52.4 &      33.9 \\
-              KYB &  \checkmark &                  31.8 &      28.6 \\
-         Online-G &             &                  24.9 &      28.0 \\
+ \Const{} &  JDExploreAcademy &                    65.1 &          36.1 \\
+ \Const{} &               NT5 &                    64.1 &          36.8 \\
+ \Uncon{} &         LanguageX &                    62.1 &          36.1 \\
+ \Uncon{} &          Online-B &                    60.8 &          35.5 \\
+ \Const{} &              DLUT &                    60.5 &          36.1 \\
+ \Uncon{} &          Online-W &                    59.8 &          35.2 \\
+ \Uncon{} &          Online-Y &                    56.8 &          34.4 \\
+ \Uncon{} &        Lan-Bridge &                    56.5 &          34.1 \\
+ \Uncon{} &          Online-A &                    53.6 &          34.1 \\
+ \Const{} &    NAIST-NICT-TIT &                    53.3 &          33.8 \\
+ \Const{} &         AISP-SJTU &                    52.4 &          33.9 \\
+ \Const{} &               KYB &                    31.8 &          28.6 \\
+ \Uncon{} &          Online-G &                    24.9 &          28.0 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -104,16 +110,16 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-liv. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for en-liv. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-    en-liv & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &     System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-  TAL-SJTU &             &                 -29.5 &      43.8 \\
-  TartuNLP &             &                 -36.8 &      39.2 \\
- HuaweiTSC &             &                 -38.9 &      37.7 \\
-  Liv4ever &             &                 -39.4 &      39.6 \\
-  NiuTrans &  \checkmark &                 -81.9 &      30.5 \\
+ \Uncon{} &   TAL-SJTU &                   -29.5 &          43.8 \\
+ \Uncon{} &   TartuNLP &                   -36.8 &          39.2 \\
+ \Uncon{} &  HuaweiTSC &                   -38.9 &          37.7 \\
+ \Uncon{} &   Liv4ever &                   -39.4 &          39.6 \\
+ \Const{} &   NiuTrans &                   -81.9 &          30.5 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -122,22 +128,22 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-ru. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for en-ru. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-            en-ru & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-         Online-W &             &                  75.1 &      58.3 \\
-         Online-G &             &                  73.1 &      59.5 \\
-         Online-B &             &                  72.9 &      59.7 \\
-         Online-Y &             &                  69.8 &      58.3 \\
- JDExploreAcademy &  \checkmark &                  69.6 &      58.4 \\
-       Lan-Bridge &             &                  67.3 &      59.0 \\
-         Online-A &             &                  67.3 &      58.1 \\
-            PROMT &             &                  60.3 &      56.1 \\
-            SRPOL &  \checkmark &                  59.7 &      56.4 \\
-        HuaweiTSC &  \checkmark &                  59.2 &      56.1 \\
-     eTranslation &  \checkmark &                  57.9 &      55.8 \\
+ \Uncon{} &          Online-W &                    75.1 &          58.3 \\
+ \Uncon{} &          Online-G &                    73.1 &          59.5 \\
+ \Uncon{} &          Online-B &                    72.9 &          59.7 \\
+ \Uncon{} &          Online-Y &                    69.8 &          58.3 \\
+ \Const{} &  JDExploreAcademy &                    69.6 &          58.4 \\
+ \Uncon{} &        Lan-Bridge &                    67.3 &          59.0 \\
+ \Uncon{} &          Online-A &                    67.3 &          58.1 \\
+ \Uncon{} &             PROMT &                    60.3 &          56.1 \\
+ \Const{} &             SRPOL &                    59.7 &          56.4 \\
+ \Const{} &         HuaweiTSC &                    59.2 &          56.1 \\
+ \Const{} &      eTranslation &                    57.9 &          55.8 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -146,20 +152,20 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-uk. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for en-uk. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-        en-uk & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &        System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-     Online-B &             &                  73.2 &      59.3 \\
-        GTCOM &             &                  72.0 &      59.0 \\
-     Online-G &             &                  69.9 &      57.2 \\
-   Lan-Bridge &             &                  65.7 &      58.8 \\
-     Online-A &             &                  60.9 &      56.0 \\
- eTranslation &  \checkmark &                  54.5 &      54.8 \\
-    HuaweiTSC &  \checkmark &                  54.4 &      54.8 \\
-     Online-Y &             &                  51.9 &      54.9 \\
-     ARC-NKUA &             &                  49.2 &      54.0 \\
+ \Uncon{} &      Online-B &                    73.2 &          59.3 \\
+ \Uncon{} &         GTCOM &                    72.0 &          59.0 \\
+ \Uncon{} &      Online-G &                    69.9 &          57.2 \\
+ \Uncon{} &    Lan-Bridge &                    65.7 &          58.8 \\
+ \Uncon{} &      Online-A &                    60.9 &          56.0 \\
+ \Const{} &  eTranslation &                    54.5 &          54.8 \\
+ \Const{} &     HuaweiTSC &                    54.4 &          54.8 \\
+ \Uncon{} &      Online-Y &                    51.9 &          54.9 \\
+ \Uncon{} &      ARC-NKUA &                    49.2 &          54.0 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -168,24 +174,24 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for en-zh. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for en-zh. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-            en-zh & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  COMET$_{B}$ &  ChrF$_{all}$ \\
 \midrule
-            GTCOM &             &                  64.7 &     69.4 &      51.9 \\
-        LanguageX &             &                  63.8 &     71.5 &      59.5 \\
-         Online-B &             &                  61.8 &     80.4 &      70.3 \\
- JDExploreAcademy &  \checkmark &                  61.7 &     70.6 &      55.8 \\
-       Lan-Bridge &             &                  61.4 &     69.4 &      53.7 \\
-         Online-W &             &                  61.0 &     69.5 &      51.4 \\
-         Manifold &  \checkmark &                  60.1 &     71.2 &      57.7 \\
-         Online-Y &             &                  59.7 &     71.7 &      57.0 \\
-        HuaweiTSC &             &                  59.5 &     73.1 &      61.0 \\
-         Online-A &             &                  57.3 &     70.1 &      58.1 \\
-        AISP-SJTU &  \checkmark &                  56.5 &     66.6 &      55.4 \\
-             DLUT &  \checkmark &                  52.1 &     63.0 &      53.1 \\
-         Online-G &             &                  51.2 &     62.5 &      52.4 \\
+ \Uncon{} &             GTCOM &                    64.7 &         69.4 &          51.9 \\
+ \Uncon{} &         LanguageX &                    63.8 &         71.5 &          59.5 \\
+ \Uncon{} &          Online-B &                    61.8 &         80.4 &          70.3 \\
+ \Const{} &  JDExploreAcademy &                    61.7 &         70.6 &          55.8 \\
+ \Uncon{} &        Lan-Bridge &                    61.4 &         69.4 &          53.7 \\
+ \Uncon{} &          Online-W &                    61.0 &         69.5 &          51.4 \\
+ \Const{} &          Manifold &                    60.1 &         71.2 &          57.7 \\
+ \Uncon{} &          Online-Y &                    59.7 &         71.7 &          57.0 \\
+ \Uncon{} &         HuaweiTSC &                    59.5 &         73.1 &          61.0 \\
+ \Uncon{} &          Online-A &                    57.3 &         70.1 &          58.1 \\
+ \Const{} &         AISP-SJTU &                    56.5 &         66.6 &          55.4 \\
+ \Const{} &              DLUT &                    52.1 &         63.0 &          53.1 \\
+ \Uncon{} &          Online-G &                    51.2 &         62.5 &          52.4 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -194,22 +200,22 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for cs-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for cs-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-               cs-en & Constrained &  COMET-B $\downarrow$ &  COMET-C &  ChrF-all \\
+          &               System &  COMET$_{B}$ $\uparrow$ &  COMET$_{C}$ &  ChrF$_{all}$ \\
 \midrule
-            Online-W &             &                  77.5 &     45.6 &      79.7 \\
-    JDExploreAcademy &  \checkmark &                  74.7 &     49.0 &      75.0 \\
-          Lan-Bridge &             &                  71.8 &     47.2 &      74.6 \\
-            Online-B &             &                  71.8 &     47.4 &      74.5 \\
- CUNI-DocTransformer &  \checkmark &                  70.6 &     45.3 &      73.0 \\
-            Online-A &             &                  69.8 &     44.3 &      74.1 \\
-    CUNI-Transformer &  \checkmark &                  69.2 &     43.2 &      72.4 \\
-            Online-G &             &                  63.0 &     38.8 &      71.1 \\
-         SHOPLINE-PL &  \checkmark &                  61.1 &     39.6 &      70.1 \\
-            Online-Y &             &                  58.6 &     35.2 &      68.8 \\
-      ALMAnaCH-Inria &  \checkmark &                  19.3 &      4.9 &      58.3 \\
+ \Uncon{} &             Online-W &                    77.5 &         45.6 &          79.7 \\
+ \Const{} &     JDExploreAcademy &                    74.7 &         49.0 &          75.0 \\
+ \Uncon{} &           Lan-Bridge &                    71.8 &         47.2 &          74.6 \\
+ \Uncon{} &             Online-B &                    71.8 &         47.4 &          74.5 \\
+ \Const{} &  CUNI-DocTransformer &                    70.6 &         45.3 &          73.0 \\
+ \Uncon{} &             Online-A &                    69.8 &         44.3 &          74.1 \\
+ \Const{} &     CUNI-Transformer &                    69.2 &         43.2 &          72.4 \\
+ \Uncon{} &             Online-G &                    63.0 &         38.8 &          71.1 \\
+ \Const{} &          SHOPLINE-PL &                    61.1 &         39.6 &          70.1 \\
+ \Uncon{} &             Online-Y &                    58.6 &         35.2 &          68.8 \\
+ \Const{} &       ALMAnaCH-Inria &                    19.3 &          4.9 &          58.3 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -218,20 +224,20 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for de-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for de-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-            de-en & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  COMET$_{B}$ &  ChrF$_{all}$ \\
 \midrule
- JDExploreAcademy &  \checkmark &                  58.0 &     63.5 &      65.8 \\
-         Online-B &             &                  56.9 &     63.6 &      65.7 \\
-       Lan-Bridge &             &                  56.5 &     63.6 &      66.2 \\
-         Online-G &             &                  55.2 &     61.7 &      66.3 \\
-         Online-Y &             &                  54.6 &     61.4 &      65.7 \\
-         Online-A &             &                  54.5 &     62.2 &      66.4 \\
-         Online-W &             &                  54.3 &     61.7 &      65.4 \\
-            PROMT &             &                  51.8 &     59.4 &      65.6 \\
-             LT22 &  \checkmark &                  25.6 &     33.3 &      58.4 \\
+ \Const{} &  JDExploreAcademy &                    58.0 &         63.5 &          65.8 \\
+ \Uncon{} &          Online-B &                    56.9 &         63.6 &          65.7 \\
+ \Uncon{} &        Lan-Bridge &                    56.5 &         63.6 &          66.2 \\
+ \Uncon{} &          Online-G &                    55.2 &         61.7 &          66.3 \\
+ \Uncon{} &          Online-Y &                    54.6 &         61.4 &          65.7 \\
+ \Uncon{} &          Online-A &                    54.5 &         62.2 &          66.4 \\
+ \Uncon{} &          Online-W &                    54.3 &         61.7 &          65.4 \\
+ \Uncon{} &             PROMT &                    51.8 &         59.4 &          65.6 \\
+ \Const{} &              LT22 &                    25.6 &         33.3 &          58.4 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -240,25 +246,25 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for ja-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for ja-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-            ja-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-              NT5 &  \checkmark &                  42.0 &      51.3 \\
-         Online-W &             &                  41.2 &      51.7 \\
- JDExploreAcademy &  \checkmark &                  40.6 &      50.1 \\
-         Online-B &             &                  39.6 &      49.9 \\
-             DLUT &  \checkmark &                  37.2 &      49.8 \\
-   NAIST-NICT-TIT &  \checkmark &                  33.4 &      48.3 \\
-         Online-A &             &                  32.9 &      48.4 \\
-        LanguageX &             &                  32.9 &      49.1 \\
-         Online-Y &             &                  32.3 &      48.2 \\
-       Lan-Bridge &             &                  31.9 &      48.7 \\
-        AISP-SJTU &  \checkmark &                  30.1 &      48.0 \\
-         Online-G &             &                  22.3 &      45.7 \\
-              KYB &  \checkmark &                  17.3 &      43.4 \\
-             AIST &             &                -152.7 &      11.4 \\
+ \Const{} &               NT5 &                    42.0 &          51.3 \\
+ \Uncon{} &          Online-W &                    41.2 &          51.7 \\
+ \Const{} &  JDExploreAcademy &                    40.6 &          50.1 \\
+ \Uncon{} &          Online-B &                    39.6 &          49.9 \\
+ \Const{} &              DLUT &                    37.2 &          49.8 \\
+ \Const{} &    NAIST-NICT-TIT &                    33.4 &          48.3 \\
+ \Uncon{} &          Online-A &                    32.9 &          48.4 \\
+ \Uncon{} &         LanguageX &                    32.9 &          49.1 \\
+ \Uncon{} &          Online-Y &                    32.3 &          48.2 \\
+ \Uncon{} &        Lan-Bridge &                    31.9 &          48.7 \\
+ \Const{} &         AISP-SJTU &                    30.1 &          48.0 \\
+ \Uncon{} &          Online-G &                    22.3 &          45.7 \\
+ \Const{} &               KYB &                    17.3 &          43.4 \\
+ \Uncon{} &              AIST &                  -152.7 &          11.4 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -267,16 +273,16 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for liv-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for liv-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-    liv-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &     System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-  TartuNLP &             &                  -5.8 &      53.5 \\
-  TAL-SJTU &             &                  -8.4 &      53.2 \\
- HuaweiTSC &             &                 -27.3 &      48.4 \\
-  Liv4ever &             &                 -44.0 &      46.7 \\
-  NiuTrans &  \checkmark &                 -88.3 &      35.6 \\
+ \Uncon{} &   TartuNLP &                    -5.8 &          53.5 \\
+ \Uncon{} &   TAL-SJTU &                    -8.4 &          53.2 \\
+ \Uncon{} &  HuaweiTSC &                   -27.3 &          48.4 \\
+ \Uncon{} &   Liv4ever &                   -44.0 &          46.7 \\
+ \Const{} &   NiuTrans &                   -88.3 &          35.6 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -285,21 +291,21 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for ru-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for ru-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-            ru-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-         Online-G &             &                  65.1 &      70.0 \\
- JDExploreAcademy &  \checkmark &                  64.9 &      68.9 \\
-         Online-Y &             &                  64.1 &      68.2 \\
-       Lan-Bridge &             &                  63.1 &      68.5 \\
-         Online-B &             &                  63.1 &      68.3 \\
-         Online-A &             &                  62.2 &      68.3 \\
-         Online-W &             &                  61.6 &      66.3 \\
-        HuaweiTSC &  \checkmark &                  60.9 &      68.5 \\
-            SRPOL &  \checkmark &                  59.5 &      67.2 \\
-   ALMAnaCH-Inria &  \checkmark &                  26.8 &      57.9 \\
+ \Uncon{} &          Online-G &                    65.1 &          70.0 \\
+ \Const{} &  JDExploreAcademy &                    64.9 &          68.9 \\
+ \Uncon{} &          Online-Y &                    64.1 &          68.2 \\
+ \Uncon{} &        Lan-Bridge &                    63.1 &          68.5 \\
+ \Uncon{} &          Online-B &                    63.1 &          68.3 \\
+ \Uncon{} &          Online-A &                    62.2 &          68.3 \\
+ \Uncon{} &          Online-W &                    61.6 &          66.3 \\
+ \Const{} &         HuaweiTSC &                    60.9 &          68.5 \\
+ \Const{} &             SRPOL &                    59.5 &          67.2 \\
+ \Const{} &    ALMAnaCH-Inria &                    26.8 &          57.9 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -308,21 +314,21 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for uk-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for uk-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-          uk-en & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &          System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-       Online-B &             &                  62.5 &      67.2 \\
-     Lan-Bridge &             &                  62.4 &      67.3 \\
-          GTCOM &             &                  61.9 &      67.1 \\
-       Online-G &             &                  57.4 &      66.0 \\
-       Online-A &             &                  52.1 &      65.2 \\
-      HuaweiTSC &  \checkmark &                  50.1 &      63.9 \\
-       Online-Y &             &                  49.8 &      64.6 \\
-          PROMT &             &                  49.6 &      64.7 \\
-       ARC-NKUA &             &                  49.6 &      64.6 \\
- ALMAnaCH-Inria &  \checkmark &                  21.8 &      55.6 \\
+ \Uncon{} &        Online-B &                    62.5 &          67.2 \\
+ \Uncon{} &      Lan-Bridge &                    62.4 &          67.3 \\
+ \Uncon{} &           GTCOM &                    61.9 &          67.1 \\
+ \Uncon{} &        Online-G &                    57.4 &          66.0 \\
+ \Uncon{} &        Online-A &                    52.1 &          65.2 \\
+ \Const{} &       HuaweiTSC &                    50.1 &          63.9 \\
+ \Uncon{} &        Online-Y &                    49.8 &          64.6 \\
+ \Uncon{} &           PROMT &                    49.6 &          64.7 \\
+ \Uncon{} &        ARC-NKUA &                    49.6 &          64.6 \\
+ \Const{} &  ALMAnaCH-Inria &                    21.8 &          55.6 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -331,23 +337,23 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for zh-en. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrrr}
+\caption{Automatic metric scores for zh-en. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrrr}
 \toprule
-            zh-en & Constrained &  COMET-A $\downarrow$ &  COMET-B &  ChrF-all \\
+          &            System &  COMET$_{A}$ $\uparrow$ &  COMET$_{B}$ &  ChrF$_{all}$ \\
 \midrule
-         Online-G &             &                  45.6 &     36.2 &      60.9 \\
- JDExploreAcademy &  \checkmark &                  45.1 &     35.2 &      62.4 \\
-        LanguageX &             &                  44.9 &     35.3 &      61.7 \\
-       Lan-Bridge &             &                  43.0 &     34.0 &      59.1 \\
-        HuaweiTSC &             &                  42.8 &     33.5 &      59.6 \\
-         Online-B &             &                  42.1 &     32.8 &      59.4 \\
-        AISP-SJTU &  \checkmark &                  41.6 &     32.8 &      60.5 \\
-         Online-Y &             &                  40.8 &     31.0 &      58.6 \\
-         Online-A &             &                  35.2 &     26.0 &      58.4 \\
-         Online-W &             &                  31.6 &     23.1 &      55.6 \\
-         NiuTrans &  \checkmark &                  31.3 &     22.3 &      57.2 \\
-             DLUT &  \checkmark &                  30.6 &     22.0 &      56.3 \\
+ \Uncon{} &          Online-G &                    45.6 &         36.2 &          60.9 \\
+ \Const{} &  JDExploreAcademy &                    45.1 &         35.2 &          62.4 \\
+ \Uncon{} &         LanguageX &                    44.9 &         35.3 &          61.7 \\
+ \Uncon{} &        Lan-Bridge &                    43.0 &         34.0 &          59.1 \\
+ \Uncon{} &         HuaweiTSC &                    42.8 &         33.5 &          59.6 \\
+ \Uncon{} &          Online-B &                    42.1 &         32.8 &          59.4 \\
+ \Const{} &         AISP-SJTU &                    41.6 &         32.8 &          60.5 \\
+ \Uncon{} &          Online-Y &                    40.8 &         31.0 &          58.6 \\
+ \Uncon{} &          Online-A &                    35.2 &         26.0 &          58.4 \\
+ \Uncon{} &          Online-W &                    31.6 &         23.1 &          55.6 \\
+ \Const{} &          NiuTrans &                    31.3 &         22.3 &          57.2 \\
+ \Const{} &              DLUT &                    30.6 &         22.0 &          56.3 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -356,23 +362,23 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for cs-uk. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for cs-uk. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-             cs-uk & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &             System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-               AMU &  \checkmark &                  99.4 &      61.5 \\
-          Online-B &             &                  94.3 &      64.0 \\
-             GTCOM &             &                  93.4 &      63.9 \\
-        Lan-Bridge &             &                  91.8 &      64.0 \\
- CharlesTranslator &             &                  90.8 &      61.5 \\
-         HuaweiTSC &  \checkmark &                  90.7 &      62.6 \\
-        CUNI-JL-JH &  \checkmark &                  90.0 &      61.6 \\
-          Online-G &             &                  88.3 &      60.8 \\
-          Online-A &             &                  87.8 &      62.2 \\
-  CUNI-Transformer &  \checkmark &                  87.3 &      61.6 \\
-          Online-Y &             &                  78.4 &      59.6 \\
-    ALMAnaCH-Inria &  \checkmark &                  61.3 &      54.5 \\
+ \Const{} &                AMU &                    99.4 &          61.5 \\
+ \Uncon{} &           Online-B &                    94.3 &          64.0 \\
+ \Uncon{} &              GTCOM &                    93.4 &          63.9 \\
+ \Uncon{} &         Lan-Bridge &                    91.8 &          64.0 \\
+ \Uncon{} &  CharlesTranslator &                    90.8 &          61.5 \\
+ \Const{} &          HuaweiTSC &                    90.7 &          62.6 \\
+ \Const{} &         CUNI-JL-JH &                    90.0 &          61.6 \\
+ \Uncon{} &           Online-G &                    88.3 &          60.8 \\
+ \Uncon{} &           Online-A &                    87.8 &          62.2 \\
+ \Const{} &   CUNI-Transformer &                    87.3 &          61.6 \\
+ \Uncon{} &           Online-Y &                    78.4 &          59.6 \\
+ \Const{} &     ALMAnaCH-Inria &                    61.3 &          54.5 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -381,17 +387,17 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for de-fr. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for de-fr. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-    de-fr & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &    System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
- Online-B &             &                  70.5 &      74.6 \\
- Online-W &             &                  63.6 &      65.5 \\
- Online-Y &             &                  57.8 &      66.8 \\
- Online-A &             &                  52.2 &      64.5 \\
- Online-G &             &                  44.8 &      62.7 \\
-     LT22 &  \checkmark &                  10.4 &      54.4 \\
+ \Uncon{} &  Online-B &                    70.5 &          74.6 \\
+ \Uncon{} &  Online-W &                    63.6 &          65.5 \\
+ \Uncon{} &  Online-Y &                    57.8 &          66.8 \\
+ \Uncon{} &  Online-A &                    52.2 &          64.5 \\
+ \Uncon{} &  Online-G &                    44.8 &          62.7 \\
+ \Const{} &      LT22 &                    10.4 &          54.4 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -400,18 +406,18 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for fr-de. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for fr-de. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-        fr-de & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &        System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-     Online-W &             &                  77.9 &      81.2 \\
-     Online-B &             &                  63.7 &      68.7 \\
-     Online-Y &             &                  61.6 &      67.5 \\
-     Online-A &             &                  59.2 &      67.2 \\
- eTranslation &  \checkmark &                  55.4 &      68.4 \\
-   Lan-Bridge &             &                  51.1 &      65.0 \\
-     Online-G &             &                  48.2 &      66.0 \\
+ \Uncon{} &      Online-W &                    77.9 &          81.2 \\
+ \Uncon{} &      Online-B &                    63.7 &          68.7 \\
+ \Uncon{} &      Online-Y &                    61.6 &          67.5 \\
+ \Uncon{} &      Online-A &                    59.2 &          67.2 \\
+ \Const{} &  eTranslation &                    55.4 &          68.4 \\
+ \Uncon{} &    Lan-Bridge &                    51.1 &          65.0 \\
+ \Uncon{} &      Online-G &                    48.2 &          66.0 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -420,13 +426,13 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for ru-sah. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for ru-sah. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-     ru-sah & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &      System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-   Online-G &             &                 -17.1 &      47.0 \\
- Lan-Bridge &  \checkmark &                -124.3 &      11.3 \\
+ \Uncon{} &    Online-G &                   -17.1 &          47.0 \\
+ \Const{} &  Lan-Bridge &                  -124.3 &          11.3 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -435,13 +441,13 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for sah-ru. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for sah-ru. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-     sah-ru & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &      System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-   Online-G &             &                  31.1 &      55.5 \\
- Lan-Bridge &  \checkmark &                 -75.9 &      28.3 \\
+ \Uncon{} &    Online-G &                    31.1 &          55.5 \\
+ \Const{} &  Lan-Bridge &                   -75.9 &          28.3 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -450,23 +456,23 @@ The different suffix represents the name of reference used for calculation (A, B
 
 \begin{table}
 \centering
-\caption{Automatic scores for uk-cs. \\AUTOMATIC METRICS ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
-\begin{tabular}{lcrr}
+\caption{Automatic metric scores for uk-cs. \\AUTOMATIC SCORES ARE NOT THE OFFICIAL WMT SYSTEM RANKING.}
+\begin{tabular}{llrr}
 \toprule
-             uk-cs & Constrained &  COMET-A $\downarrow$ &  ChrF-all \\
+          &             System &  COMET$_{A}$ $\uparrow$ &  ChrF$_{all}$ \\
 \midrule
-               AMU &  \checkmark &                 104.8 &      60.7 \\
-          Online-B &             &                  96.5 &      60.3 \\
-        Lan-Bridge &             &                  94.5 &      60.4 \\
-         HuaweiTSC &  \checkmark &                  91.4 &      59.6 \\
- CharlesTranslator &             &                  90.2 &      59.0 \\
-        CUNI-JL-JH &  \checkmark &                  89.0 &      58.7 \\
-  CUNI-Transformer &  \checkmark &                  88.5 &      59.0 \\
-          Online-A &             &                  85.4 &      57.5 \\
-          Online-G &             &                  84.2 &      56.3 \\
-             GTCOM &             &                  80.2 &      55.8 \\
-          Online-Y &             &                  78.6 &      55.3 \\
-    ALMAnaCH-Inria &  \checkmark &                  62.4 &      50.7 \\
+ \Const{} &                AMU &                   104.8 &          60.7 \\
+ \Uncon{} &           Online-B &                    96.5 &          60.3 \\
+ \Uncon{} &         Lan-Bridge &                    94.5 &          60.4 \\
+ \Const{} &          HuaweiTSC &                    91.4 &          59.6 \\
+ \Uncon{} &  CharlesTranslator &                    90.2 &          59.0 \\
+ \Const{} &         CUNI-JL-JH &                    89.0 &          58.7 \\
+ \Const{} &   CUNI-Transformer &                    88.5 &          59.0 \\
+ \Uncon{} &           Online-A &                    85.4 &          57.5 \\
+ \Uncon{} &           Online-G &                    84.2 &          56.3 \\
+ \Uncon{} &              GTCOM &                    80.2 &          55.8 \\
+ \Uncon{} &           Online-Y &                    78.6 &          55.3 \\
+ \Const{} &     ALMAnaCH-Inria &                    62.4 &          50.7 \\
 \bottomrule
 \end{tabular}
 \end{table}
