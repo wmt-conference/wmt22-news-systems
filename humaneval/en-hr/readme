@@ -1,0 +1,37 @@
+# Annotated English->Croatian translations
+
+
+This folder contains first 100 documents (80 reviews and 20 news articles) of English->Croatian translations (two human references and eight MT outputs) annotated for error types.
+
+the file "annotated.ids" contains document and segment ids 
+
+
+
+The format of the annotations is:
+
+word|error_type
+
+if error_type == None, the word is correct
+
+
+examples: 
+
+Okus|None je|None grozan.|None    (no errors) 
+
+Evo|None dogovora|AMBIGUITY s|None ovom|None pedalom.|None   (one ambiguity error)
+
+
+
+omissions are marked by adding "XX" as a word with the error_type == OMISSION
+
+example: 
+
+vrlo|None zgodan|GENDER -|None volio|None bih|None da|None je|None XX|OMISSION u|None rukavu|AMBIGUITY
+
+
+if more error types were identified for one word, they are connected by "+"
+
+
+example:
+
+Ovo|None crijevo|None je|None tipično|None za|None Gilmour|NE+NOUN_PHRASE predmet|AMBIGUITY+NOUN_PHRASE .|None
