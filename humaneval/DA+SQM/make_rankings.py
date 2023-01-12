@@ -26,8 +26,8 @@ def main():
   parser.add_argument("-t", "--totals", default=False, action="store_true",
     help = "Output total numbers of systems and judgements, rather than scores")
   args = parser.parse_args()
-  
-  csv_file = "WMT22.Appraise.20221021.filtered.csv"
+
+  csv_file = "scores/WMT22.Appraise.DocLvl.20221107.filtered.csv"
   scores = pandas.read_csv(csv_file, header = None,
     names = ["annotator", "system", "segment", "class", "source", "target", "score", "doc", "doc_score", 9, 10])
   # Filter bad refs and document scores
@@ -48,7 +48,7 @@ def main():
   system_scores = segment_scores.groupby(["system", "source", "target"])[['score', 'z']].mean()
 
 
-  # outputs 
+  # outputs
   if args.segment:
     segment_scores.sort_values(by = ["source", "target", "system",  "doc"], ascending = False, inplace=True)
     segment_scores.to_csv(sys.stdout, sep="\t")
